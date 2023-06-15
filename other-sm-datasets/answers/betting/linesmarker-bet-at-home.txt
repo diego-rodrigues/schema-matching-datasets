@@ -1,0 +1,10 @@
+signupForm.BIRTHDAY	Registerform.FORM_geburtsdatumTag
+signupForm.EMAIL	Registerform.FORM_email
+signupForm.LASTNAME	Registerform.FORM_nachname
+signupForm.BIRTHMONTH	Registerform.FORM_geburtsdatumTag
+signupForm.STREET	Registerform.FORM_strasse
+signupForm.ZIP	Registerform.FORM_plz
+signupForm.COUNTRY	Registerform.FORM_nation
+signupForm.BIRTHYEAR	Registerform.FORM_geburtsdatumTag
+signupForm.FIRSTNAME	Registerform.FORM_vorname
+signupForm.HOMEPHONENO	Registerform.FORM_telefon

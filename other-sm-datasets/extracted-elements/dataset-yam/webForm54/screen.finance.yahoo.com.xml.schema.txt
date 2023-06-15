@@ -1,0 +1,21 @@
+http://screen.finance.yahoo.com/stocks.html
+http://screen.finance.yahoo.com/stocks.html
+> +-+-+ db +-+-+ string
+> +-+-+ Dividend Yield: +-+-+ string
+> +-+-+ Avg Analyst Rec: (1=Buy, 5=Sell) +-+-+ string
+> +-+-+ Price Sales Ratio: +-+-+ string
+> +-+-+ Find Stocks +-+-+ string
+> +-+-+ Profit Margin +-+-+ string
+> +-+-+ Est. 5 Yr EPS Growth: +-+-+ string
+> +-+-+ Display info for: +-+-+ string
+> +-+-+ PEG Ratio: +-+-+ string
+> +-+-+ Beta (Volatility): +-+-+ string
+> +-+-+ Price Book Ratio: +-+-+ string
+> +-+-+ Industry: +-+-+ string
+> +-+-+ Index Membership +-+-+ string
+> +-+-+ Sales Revenue: +-+-+ string
+> +-+-+ Est. 1 Yr EPS Growth: +-+-+ string
+> +-+-+ Market Cap: +-+-+ string
+> +-+-+ Share Price: +-+-+ string
+> +-+-+ Price Earnings Ratio: +-+-+ string
+> +-+-+ Min +-+-+ string

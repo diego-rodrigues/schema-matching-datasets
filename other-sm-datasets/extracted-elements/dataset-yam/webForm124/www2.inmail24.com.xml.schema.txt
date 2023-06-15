@@ -1,0 +1,19 @@
+http://www2.inmail24.com/Regist1.htm
+http://www2.inmail24.com/Regist1.htm
+> +-+-+ Lang +-+-+ string
+> +-+-+ Last name: +-+-+ string
+> +-+-+ Answer:* +-+-+ string
+> +-+-+ Sex: +-+-+ string
+> +-+-+ Mailbox: +-+-+ string
+> +-+-+ First name +-+-+ string
+> +-+-+ Continue +-+-+ string
+> +-+-+ Password confirmation: +-+-+ string
+> +-+-+ SKEY +-+-+ string
+> +-+-+ Alternative address:* +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Address: +-+-+ string
+> +-+-+ Security Question:* +-+-+ string
+> +-+-+ SID +-+-+ string
+> +-+-+ Time zone: +-+-+ string
+> +-+-+ Field: +-+-+ string
+> +-+-+ Date of birth: +-+-+ string

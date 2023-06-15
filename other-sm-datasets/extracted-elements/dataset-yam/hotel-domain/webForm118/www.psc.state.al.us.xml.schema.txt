@@ -1,0 +1,34 @@
+http://www.psc.state.al.us/Complaints/ComplaintForm.htm
+FrontPage_Form1
+http://www.psc.state.al.us/Complaints/ComplaintForm.htm
+> +-+-+ FrontPage_Form1
+FrontPage_Form1
+> +-+-+ * Last Name +-+-+ string
+> +-+-+ * Home Phone +-+-+ string
+> +-+-+ FAX No +-+-+ string
+> +-+-+ * Zip +-+-+ string
+> +-+-+ Other Phone +-+-+ string
+> +-+-+ Clear +-+-+ string
+> +-+-+ Submit Complaint +-+-+ string
+> +-+-+ * First Name +-+-+ string
+> +-+-+ Utility Account No +-+-+ string
+> +-+-+ * Have you contacted the utility about this issue? Yes No If yes, when? Year +-+-+ string
+> +-+-+ E-mail Address +-+-+ string
+http://www.psc.state.al.us/Complaints/complaintForm.asp
+> +-+-+ http://www.psc.state.al.us/Complaints/complaintForm.asp
+formSend
+http://www.psc.state.al.us/Complaints/complaintForm.asp
+> +-+-+ formSend
+formSend
+> +-+-+ Edit Form +-+-+ string
+> +-+-+ Send Complaint to PSC +-+-+ string
+FrontPage_Form1
+> +-+-+ * Have you contacted the utility about this issue? +-+-+ string
+> +-+-+ * State +-+-+ string
+> +-+-+ * Have you contacted the PSC about this issue? Yes No If yes, when? Year +-+-+ string
+> +-+-+ Middle Initial +-+-+ string
+> +-+-+ * Have you contacted the PSC about this issue? +-+-+ string
+> +-+-+ * City +-+-+ string
+> +-+-+ Yes No If yes, when? +-+-+ string
+> +-+-+ * Address +-+-+ string
+> +-+-+ Please describe what happened (1000 characters maximum) . Do not include privacy-sensitive information such as your Social Security, credit card or bank account numbers. +-+-+ string

@@ -1,0 +1,14 @@
+subscribe.Submit	subForm.Submit
+subscribe.add_city	subForm.City
+subscribe.add_state	subForm.State
+subscribe.add_postal	subForm.zip
+subscribe.add_country	subForm.Country
+subscribe.phone_voice	subForm.phone
+subscribe.phone_fax	subForm.fax
+subscribe.email_add	subForm.Email
+subscribe.work_title	subForm.Title
+subscribe.name_first	subForm.FName
+subscribe.name_last	subForm.LName
+subscribe.company_name	subForm.Company
+subscribe.add_line1	subForm.Address
+subscribe.add_line2	subForm.Address2

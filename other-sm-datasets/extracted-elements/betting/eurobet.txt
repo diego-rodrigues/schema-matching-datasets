@@ -1,0 +1,34 @@
+newclient
+newclient
+> - lang - string
+> - MobileNumber - string
+> - Cldid - string
+> - p_dref - string
+> - stage - string
+> - ms - string
+> - usernamez - string
+> - Bonus_scheme_value - string
+> - channel - string
+> - first_capture_id - string
+> - adverid - string
+> - cur - string
+> - Username - string
+> - Pwd - string
+> - RePwd - string
+> - Name - string
+> - Surname - string
+> - email - string
+> - Postcode - string
+> - Addressno - string
+> - Address1 - string
+> - City - string
+> - PhoneNumber - string
+> - Mobilenumber - string
+> - Reference - string
+> - p_terms - string
+> - Question - string
+> - p_birthday - string
+> - p_birthmonth - string
+> - p_birthyear - string
+> - Country - string
+> - InfoSource - string

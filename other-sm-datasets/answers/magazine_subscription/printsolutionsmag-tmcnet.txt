@@ -1,0 +1,14 @@
+regform.submit	subForm.Submit
+regform.City	subForm.City
+regform.State	subForm.State
+regform.Zip	subForm.zip
+regform.Country	subForm.Country
+regform.Phone	subForm.phone
+regform.Fax	subForm.fax
+regform.Email	subForm.Email
+regform.Title	subForm.Title
+regform.First_Name	subForm.FName
+regform.Last_Name	subForm.LName
+regform.Company_Name	subForm.Company
+regform	subForm
+regform.Address	subForm.Address

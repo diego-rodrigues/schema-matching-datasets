@@ -1,0 +1,29 @@
+http://edit.travel.yahoo.com/flights.html?source=YG
+http://edit.travel.yahoo.com/flights.html?source=YG
+> +-+-+ Search +-+-+ string
+RESERVE
+> +-+-+ RESERVE
+RESERVE
+> +-+-+ module +-+-+ string
+> +-+-+ From: +-+-+ string
+> +-+-+ resform +-+-+ string
+> +-+-+ (18-64) +-+-+ string
+> +-+-+ (2-17) +-+-+ string
+> +-+-+ (maximum 6) Booking for children under 2? +-+-+ string
+> +-+-+ Depart +-+-+ string
+> +-+-+ Fare Type: +-+-+ string
+> +-+-+ Class: +-+-+ string
+> +-+-+ .intl +-+-+ string
+> +-+-+ Airline: +-+-+ string
+> +-+-+ source +-+-+ string
+> +-+-+ To: +-+-+ string
+> +-+-+ Search [button] +-+-+ string
+> +-+-+ (65+) +-+-+ string
+> +-+-+ nba +-+-+ string
+> +-+-+ dep_dt_yr_1 +-+-+ string
+> +-+-+ dep_dt_yr_2 +-+-+ string
+> +-+-+ Return +-+-+ string
+> +-+-+ _finished +-+-+ string
+http://edit.travel.yahoo.com/flights.html?source=YG
+> +-+-+ Yahoo! My Yahoo! Mail Make Yahoo! your home page +-+-+ string
+> +-+-+ fr +-+-+ string

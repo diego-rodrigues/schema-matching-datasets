@@ -1,0 +1,9 @@
+hotelsvalued.com.xsd/searchform;where-to-stay.com.xsd/search;
+hotelsvalued.com.xsd/searchform/Hotel Location/* City:;where-to-stay.com.xsd/search/City;
+hotelsvalued.com.xsd/searchform/Hotel Location/State:;where-to-stay.com.xsd/search/State;
+hotelsvalued.com.xsd/searchform/Hotel Location/Country:;where-to-stay.com.xsd/search/* Country;
+hotelsvalued.com.xsd/searchform/Reservation Details/Check-in date:;where-to-stay.com.xsd/search/Date In:;
+hotelsvalued.com.xsd/searchform/Reservation Details/Check-out date:;where-to-stay.com.xsd/search/Date Out:;
+hotelsvalued.com.xsd/searchform/Reservation Details/Number of Adults:;where-to-stay.com.xsd/search/Number of Adults:;
+hotelsvalued.com.xsd/searchform/Reservation Details/Rooms Needed:;where-to-stay.com.xsd/search/Number of Rooms:;
+hotelsvalued.com.xsd/searchform/Optional/Hotel Brand:;where-to-stay.com.xsd/search/Chain;

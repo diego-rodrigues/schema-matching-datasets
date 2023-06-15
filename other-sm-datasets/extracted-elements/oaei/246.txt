@@ -1,0 +1,28 @@
+Reference
+> +-+-+ Article +-+-+ string
+> +-+-+ Monograph +-+-+ string
+> +-+-+ Collection +-+-+ string
+> +-+-+ Booklet +-+-+ string
+> +-+-+ Chapter +-+-+ string
+> +-+-+ InBook +-+-+ string
+> +-+-+ InCollection +-+-+ string
+> +-+-+ InProceedings +-+-+ string
+> +-+-+ LectureNotes +-+-+ string
+> +-+-+ Manual +-+-+ string
+> +-+-+ MastersThesis +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+> +-+-+ Misc +-+-+ string
+> +-+-+ Proceedings +-+-+ string
+> +-+-+ Report
+> +-+-+ Unpublished +-+-+ string
+> +-+-+ MotionPicture +-+-+ string
+Report
+> +-+-+ TechReport +-+-+ string
+> +-+-+ Deliverable +-+-+ string
+Institution
+> +-+-+ Publisher +-+-+ string
+> +-+-+ School +-+-+ string
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ Institution
+List
+> +-+-+ PersonList +-+-+ string

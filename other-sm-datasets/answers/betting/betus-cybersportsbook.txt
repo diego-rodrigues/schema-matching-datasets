@@ -1,0 +1,17 @@
+SignupForm.faxEntry	JoinForm.txtFax
+SignupForm.homePhoneEntry	JoinForm.txtHomePhone
+SignupForm.address2Entry	JoinForm.txtAddress2
+SignupForm.passwordEntry	sportsbook.PASSWORD
+SignupForm.nameFirstEntry	JoinForm.txtFirstName
+SignupForm.stateEntry	JoinForm.ddlState
+SignupForm.cityEntry	JoinForm.txtCity
+LoginVerify.Password	sportsbook.PASSWORD
+SignupForm.zipEntry	JoinForm.txtZip
+SignupForm.address1Entry	JoinForm.txtAddress1
+SignupForm.nameLastEntry	JoinForm.txtLastName
+LoginVerify.CustomerID	JoinForm.txtUsername
+SignupForm.countryEntry	JoinForm.txtCountry
+SignupForm.sourceEntry	JoinForm.ddlFindUs
+SignupForm.emailEntry	JoinForm.txtEmail
+SignupForm.ConfirmPasswordEntry	JoinForm.txtPassword2
+SignupForm.businessPhoneEntry	JoinForm.txtWorkPhone

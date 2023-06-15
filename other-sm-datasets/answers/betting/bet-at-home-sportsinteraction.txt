@@ -1,0 +1,7 @@
+Registerform.FORM_nachname	apply.iLastName
+Registerform.FORM_strasse	apply.iAddress
+Registerform.FORM_vorname	apply.iFirstName
+Registerform.FORM_plz	apply.iPostalCode
+Registerform.FORM_nation	apply.iCountryID
+Registerform.FORM_email	apply.iEmail
+Registerform.FORM_telefon	apply.iPhoneNumber

@@ -1,0 +1,32 @@
+http://info.hotelsvalued.com/search.cgi?fid=reservation
+searchform
+http://info.hotelsvalued.com/search.cgi?fid=reservation
+> +-+-+ searchform
+searchform
+> +-+-+ fid +-+-+ string
+> +-+-+ Rooms Needed: +-+-+ string
+> +-+-+ Children: +-+-+ string
+> +-+-+ Hotel Brand: +-+-+ string
+Check-out date:
+> +-+-+ Check-out date:
+Check-out date:
+> +-+-+ Rooms Needed: +-+-+ string
+> +-+-+ Hotel Brand: +-+-+ string
+Check-in date:
+searchform
+> +-+-+ Check-in date:
+Check-in date:
+> +-+-+ Children: +-+-+ string
+Check-out date:
+> +-+-+ Check-out date:
+Check-out date:
+> +-+-+ Rooms Needed: +-+-+ string
+> +-+-+ Hotel Brand: +-+-+ string
+Check-in date:
+> +-+-+ Number of Adults: +-+-+ string
+searchform
+> +-+-+ OR * Zip Postal Code: +-+-+ string
+> +-+-+ Number of Adults: +-+-+ string
+> +-+-+ * City: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ State: +-+-+ string

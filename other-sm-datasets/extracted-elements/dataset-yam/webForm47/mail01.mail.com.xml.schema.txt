@@ -1,0 +1,70 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/kaka.html
+signupform
+file:/C:/Documents and Settings/Eyal_ami/Desktop/kaka.html
+> +-+-+ signupform
+signupform
+> +-+-+ refresh_captcha +-+-+ string
+> +-+-+ Income Range: +-+-+ string
+> +-+-+ ZIP Postal: +-+-+ string
+> +-+-+ Confirm Password: +-+-+ string
+> +-+-+ answerstr +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ secid +-+-+ string
+> +-+-+ Alternate Email: +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ domain +-+-+ string
+> +-+-+ Marital Status: +-+-+ string
+> +-+-+ login +-+-+ string
+> +-+-+ State: +-+-+ string
+> +-+-+ Education: +-+-+ string
+> +-+-+ Password Hint Answer: +-+-+ string
+> +-+-+ Number Of Children: +-+-+ string
+> +-+-+ Password Hint Question: +-+-+ string
+> +-+-+ Address: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Birthday: +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Old E-mail Address: +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Please enter the word you see from the picture below : +-+-+ string
+> +-+-+ Occupation: +-+-+ string
+veripost_form
+file:/C:/Documents and Settings/Eyal_ami/Desktop/kaka.html
+> +-+-+ veripost_form
+signupform
+veripost_form
+> +-+-+ signupform
+signupform
+> +-+-+ refresh_captcha +-+-+ string
+> +-+-+ Income Range: +-+-+ string
+> +-+-+ ZIP Postal: +-+-+ string
+> +-+-+ Confirm Password: +-+-+ string
+> +-+-+ answerstr +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ secid +-+-+ string
+> +-+-+ Alternate Email: +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ domain +-+-+ string
+> +-+-+ Marital Status: +-+-+ string
+> +-+-+ login +-+-+ string
+> +-+-+ State: +-+-+ string
+> +-+-+ Education: +-+-+ string
+> +-+-+ Password Hint Answer: +-+-+ string
+> +-+-+ Number Of Children: +-+-+ string
+> +-+-+ Password Hint Question: +-+-+ string
+> +-+-+ Address: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Birthday: +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Old E-mail Address: +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Please enter the word you see from the picture below : +-+-+ string
+> +-+-+ Occupation: +-+-+ string
+veripost_form
+> +-+-+ cpat +-+-+ string
+> +-+-+ old_email +-+-+ string
+> +-+-+ new_email +-+-+ string

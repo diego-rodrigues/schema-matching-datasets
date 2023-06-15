@@ -1,0 +1,26 @@
+http://www.bettingexpress.com/sportsbook/join.html
+JoinForm
+http://www.bettingexpress.com/sportsbook/join.html
+> +-+-+ JoinForm
+JoinForm
+> +-+-+ Birth-Date (MMDDYYYY): +-+-+ string
+> +-+-+ Street: +-+-+ string
+> +-+-+ Postal Code ZIP: +-+-+ string
+> +-+-+ RESELLERNAME +-+-+ string
+> +-+-+ LICENSEEID +-+-+ string
+> +-+-+ Password: (min. 6 characters) +-+-+ string
+> +-+-+ User Name: (min. 4 characters) +-+-+ string
+> +-+-+ DONEURL +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Email: +-+-+ string
+> +-+-+ CASINO_NAME +-+-+ string
+> +-+-+ Home Phone (With Area Code): +-+-+ string
+> +-+-+ Province State: +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ NABLOCKURL +-+-+ string
+> +-+-+ Submit Application +-+-+ string
+> +-+-+ CASINO_URL +-+-+ string
+> +-+-+ Work Phone (With Area Code): +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ Re-Enter Password: +-+-+ string
+> +-+-+ City: +-+-+ string

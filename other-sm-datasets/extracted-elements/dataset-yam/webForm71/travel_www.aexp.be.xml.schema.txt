@@ -1,0 +1,18 @@
+http://www.aexp.be/Topics/aboutus/pages/careers/sendcv.html
+http://www.aexp.be/Topics/aboutus/pages/careers/sendcv.html
+> +-+-+ First name (*) +-+-+ string
+> +-+-+ Clear Form +-+-+ string
+> +-+-+ Subject +-+-+ string
+> +-+-+ Fax +-+-+ string
+> +-+-+ Telephone (*) +-+-+ string
+> +-+-+ Current Position +-+-+ string
+> +-+-+ Submit Form +-+-+ string
+> +-+-+ Enter a short motivation letter here +-+-+ string
+> +-+-+ Title +-+-+ string
+> +-+-+ Paste your cv data here +-+-+ string
+> +-+-+ Address 1 (*) +-+-+ string
+> +-+-+ Current Employer +-+-+ string
+> +-+-+ E-Mail (*) +-+-+ string
+> +-+-+ I'm applying for a job as... +-+-+ string
+> +-+-+ RCPT +-+-+ string
+> +-+-+ Name (*) +-+-+ string

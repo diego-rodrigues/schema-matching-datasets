@@ -1,0 +1,27 @@
+adv_search_form
+main-search
+isbn_search_form
+adv_search_form
+> - kw - string
+> - isbn - string
+> - author - string
+> - publisher - string
+> - title - string
+> - section - string
+> - exact_title - string
+> - match_first - string
+> - StartSearch - string
+> - Clear - string
+> - received_date - string
+> - class - string
+> - binding - string
+> - sort - string
+> - sort2 - string
+> - store - string
+> - perpage - string
+main-search
+> - kw - string
+> - Search - string
+isbn_search_form
+> - isbn - string
+> - submit - anyType

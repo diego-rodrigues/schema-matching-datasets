@@ -1,0 +1,9 @@
+form1.Submit	Preview.QuickOrder1btnSubmit
+form1.City	Preview.QuickOrder1addresstxtCity
+form1.State	Preview.QuickOrder1addresscboState
+form1.Zip	Preview.QuickOrder1addresstxtPostalCode
+form1.COUNTRY	Preview.QuickOrder1addresscboCountry
+form1.EMail	Preview.QuickOrder1addresstxtEmail
+form1.FName	Preview.QuickOrder1addresstxtFirstName
+form1.LName	Preview.QuickOrder1addresstxtLastName
+form1.Address1	Preview.QuickOrder1addresstxtAddress1

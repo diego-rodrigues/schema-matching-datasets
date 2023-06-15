@@ -1,0 +1,79 @@
+http://www.opensystems-publishing.com/subscriptions/new/digital_download/
+form1
+http://www.opensystems-publishing.com/subscriptions/new/digital_download/
+> +-+-+ form1
+form1
+> +-+-+ Software +-+-+ string
+> +-+-+ Production Mfng Engineer +-+-+ string
+> +-+-+ Networking H W _ S W SBCs Software Software Development Tools Test _ Measurement Other +-+-+ string
+> +-+-+ Defense Aerospace Military +-+-+ string
+> +-+-+ Street: +-+-+ string
+> +-+-+ Industrial Control +-+-+ string
+> +-+-+ Operating Systems +-+-+ string
+> +-+-+ Utilities +-+-+ string
+> +-+-+ DSP Applications +-+-+ string
+> +-+-+ I O Boards +-+-+ string
+> +-+-+ SBCs +-+-+ string
+> +-+-+ Transportation +-+-+ string
+> +-+-+ Engineering Support +-+-+ string
+> +-+-+ I would like to see future articles about: +-+-+ string
+> +-+-+ Telephone: +-+-+ string
+> +-+-+ Electronic Components +-+-+ string
+> +-+-+ Sales Marketing Engineering Support Other +-+-+ string
+> +-+-+ Militarized Ruggedized +-+-+ string
+> +-+-+ Bio Medical +-+-+ string
+> +-+-+ Automotive +-+-+ string
+> +-+-+ Engineering Manager +-+-+ string
+> +-+-+ Government Electronics +-+-+ string
+> +-+-+ Company: +-+-+ string
+> +-+-+ Simulation Systems Integration Telephony Test _ Measurement Transportation Utilities Other +-+-+ string
+> +-+-+ E-Mail Address: +-+-+ string
+> +-+-+ Fabrics +-+-+ string
+> +-+-+ Executive (Owner Pres.) +-+-+ string
+> +-+-+ Networking H W _ S W +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ Fax: +-+-+ string
+> +-+-+ -grammar +-+-+ string
+> +-+-+ Last: +-+-+ string
+> +-+-+ Blades +-+-+ string
+> +-+-+ State Province: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Scientist (R_D) +-+-+ string
+> +-+-+ Field Buses +-+-+ string
+> +-+-+ Zip Postal: +-+-+ string
+> +-+-+ DSP Resource Boards +-+-+ string
+> +-+-+ Hardware Engineer +-+-+ string
+> +-+-+ Systems Integration +-+-+ string
+> +-+-+ Consulting Services +-+-+ string
+> +-+-+ http://dbase2.opensystems-publishing.com/fmi/xsl/subs_america/browserecord.xsl +-+-+ string
+> +-+-+ System Engineer +-+-+ string
+> +-+-+ Telephony +-+-+ string
+> +-+-+ -db +-+-+ string
+> +-+-+ Computer Peripherals +-+-+ string
+> +-+-+ Please contact me about marketing opportunities in OpenSystems Publications Please contact a marketing person at my company: +-+-+ string
+> +-+-+ Multimedia +-+-+ string
+> +-+-+ FPGAs +-+-+ string
+> +-+-+ Applications Engineer +-+-+ string
+> +-+-+ Simulation +-+-+ string
+> +-+-+ DSP Chips Cores +-+-+ string
+> +-+-+ -lay +-+-+ string
+> +-+-+ Please contact me about marketing opportunities in OpenSystems Publications +-+-+ string
+> +-+-+ Mass Storage +-+-+ string
+> +-+-+ Software Engineer +-+-+ string
+> +-+-+ Consumer Products +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Mezzanine Boards +-+-+ string
+> +-+-+ Educator Student Librarian +-+-+ string
+> +-+-+ Software Development Tools +-+-+ string
+> +-+-+ Engineering Consultant +-+-+ string
+> +-+-+ First: +-+-+ string
+> +-+-+ Sales Marketing +-+-+ string
+> +-+-+ Education +-+-+ string
+> +-+-+ General Purpose Computers +-+-+ string
+> +-+-+ Communications +-+-+ string
+> +-+-+ Test _ Measurement +-+-+ string
+> +-+-+ Internet H W _ S W +-+-+ string
+> +-+-+ Research _ Development +-+-+ string
+> +-+-+ Development Tools +-+-+ string
+> +-+-+ Process Control +-+-+ string
+> +-+-+ Backplanes Enclosures +-+-+ string

@@ -1,0 +1,14 @@
+fmRegister.tbEmail	SignupForm.emailEntry
+fmRegister.tbLname	SignupForm.nameLastEntry
+fmRegister.tbAddrPc	SignupForm.zipEntry
+fmRegister.tbAddr1	SignupForm.address1Entry
+fmRegister.tbTel	SignupForm.homePhoneEntry
+fmRegister.tbTel	SignupForm.businessPhoneEntry
+fmRegister.tbPassword1	SignupForm.passwordEntry
+fmRegister.tbPassword1	LoginVerify.Password
+fmRegister.tbPassword2	SignupForm.ConfirmPasswordEntry
+fmRegister.tbAddrCty	SignupForm.cityEntry
+fmRegister.country_code	SignupForm.countryEntry
+fmRegister.newspaper	SignupForm.sourceEntry
+fmRegister.tbFname	SignupForm.nameFirstEntry
+fmRegister.tbUserName	LoginVerify.CustomerID

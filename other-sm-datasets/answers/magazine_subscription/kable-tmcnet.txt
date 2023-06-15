@@ -1,0 +1,11 @@
+newsubs.Submit	subForm.Submit
+newsubs.City	subForm.City
+newsubs.StOrProv	subForm.State
+newsubs.PostalCode	subForm.zip
+newsubs.Country	subForm.Country
+newsubs.Email	subForm.Email
+newsubs.FirstName	subForm.FName
+newsubs.LastName	subForm.LName
+newsubs.Company	subForm.Company
+newsubs.Address1	subForm.Address
+newsubs.Address2	subForm.Address2

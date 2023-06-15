@@ -1,0 +1,77 @@
+forumdisplay
+register
+vbform
+registerpage
+login
+registerpage1
+forumdisplay
+> - s - string
+> - daysprune - string
+> - f - string
+> - Go - string
+register
+> - s - string
+> - do - string
+> - url - string
+> - agree - string
+> - password_md5 - string
+> - passwordconfirm_md5 - string
+> - username - string
+> - password - string
+> - passwordconfirm - string
+> - email - string
+> - emailconfirm - string
+> - timezoneoffset - string
+> - dst - string
+> - optionsadminemail - string
+> - optionsshowemail - string
+> - CompleteRegistration - string
+> - Reset - string
+vbform
+> - s - string
+> - do - string
+> - query - string
+> - titleonly - string
+> - searchuser - string
+> - starteronly - string
+> - exactname - string
+> - replyless - string
+> - replylimit - string
+> - searchdate - string
+> - beforeafter - string
+> - sortby - string
+> - order - string
+> - showposts - string
+> - forumchoice - string
+> - childforums - string
+> - dosearch - string
+> - ResetFields - string
+> - saveprefs - string
+> - doprefs - string
+registerpage
+> - do - string
+> - s - string
+> - url - string
+> - month - string
+> - day - string
+> - year - string
+> - Proceed - string
+login
+> - vb_login_username - string
+> - cookieuser - string
+> - vb_login_password - string
+> - Login - string
+> - s - string
+> - do - string
+> - forceredirect - string
+> - vb_login_md5password - string
+registerpage1
+> - s - string
+> - do - string
+> - url - string
+> - month - string
+> - day - string
+> - year - string
+> - who - string
+> - agree - string
+> - Register - string

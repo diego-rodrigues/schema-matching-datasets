@@ -1,0 +1,7 @@
+thisForm.cboCountry	Registerform.FORM_nation
+thisForm.txtLastName	Registerform.FORM_nachname
+thisForm.txtDayPhone	Registerform.FORM_telefon
+thisForm.txtEMail	Registerform.FORM_email
+thisForm.txtZipCode	Registerform.FORM_plz
+thisForm.txtFirstName	Registerform.FORM_vorname
+thisForm.txtAddress1	Registerform.FORM_strasse

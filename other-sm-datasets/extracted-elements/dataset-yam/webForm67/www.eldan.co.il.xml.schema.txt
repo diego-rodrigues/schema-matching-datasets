@@ -1,0 +1,28 @@
+http://www.eldan.co.il/step-two.asp
+form1
+http://www.eldan.co.il/step-two.asp
+> +-+-+ form1
+form1
+> +-+-+ Comments +-+-+ string
+> +-+-+ Car Type Class +-+-+ string
+> +-+-+ Return Location +-+-+ string
+> +-+-+ submit +-+-+ string
+> +-+-+ Register at Eldan. +-+-+ string
+> +-+-+ get price +-+-+ string
+> +-+-+ Insurance +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ E-mail Address +-+-+ string
+> +-+-+ Rental Return Date (dd,mm,yr) +-+-+ string
+> +-+-+ Work Phone +-+-+ string
+> +-+-+ Address +-+-+ string
+> +-+-+ Rental Pick-Up Date (dd,mm,yr) +-+-+ string
+> +-+-+ Home Phone (including area code) +-+-+ string
+> +-+-+ Rental Return Time +-+-+ string
+> +-+-+ Rental Pick-Up Time +-+-+ string
+> +-+-+ If you are replacing an existing order, Please write its number +-+-+ string
+> +-+-+ Country of Residence +-+-+ string
+> +-+-+ Pick-Up Location +-+-+ string
+> +-+-+ find your car +-+-+ string
+> +-+-+ Last Name +-+-+ string
+> +-+-+ car_type_name +-+-+ string
+> +-+-+ First Name +-+-+ string

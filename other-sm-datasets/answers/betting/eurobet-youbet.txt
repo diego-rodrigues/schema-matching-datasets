@@ -1,0 +1,11 @@
+newclient.email	signup.email
+newclient.Addressno	signup.address1
+newclient.City	signup.city
+newclient.Name	signup.first_name
+newclient.Postcode	signup.mzip
+newclient.Postcode	signup.zip
+newclient.Surname	signup.last_name
+newclient.RePwd	signup.password2
+newclient.Pwd	signup.password1
+newclient.Address1	signup.address1
+newclient.InfoSource	signup.prodDiscoverySource

@@ -1,0 +1,12 @@
+registerfrm.confirmpassword	JoinForm.txtPassword2
+registerfrm.city	JoinForm.txtCity
+registerfrm.lastname	JoinForm.txtLastName
+registerfrm.zip	JoinForm.txtZip
+registerfrm.address2	JoinForm.txtAddress2
+registerfrm.state	JoinForm.ddlState
+registerfrm.address1	JoinForm.txtAddress1
+registerfrm.username	JoinForm.txtUsername
+registerfrm.country	JoinForm.txtCountry
+registerfrm.firstname	JoinForm.txtFirstName
+registerfrm.email	JoinForm.txtEmail
+registerfrm.password	sportsbook.PASSWORD

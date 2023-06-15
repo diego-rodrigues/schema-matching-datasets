@@ -1,0 +1,14 @@
+form1.Submit	subForm.Submit
+form1.City	subForm.City
+form1.State	subForm.State
+form1.Zip	subForm.zip
+form1.COUNTRY	subForm.Country
+form1.Phone	subForm.phone
+form1.Fax	subForm.fax
+form1.EMail	subForm.Email
+form1.Title	subForm.Title
+form1.FName	subForm.FName
+form1.LName	subForm.LName
+form1.Company	subForm.Company
+form1	subForm
+form1.Address1	subForm.Address

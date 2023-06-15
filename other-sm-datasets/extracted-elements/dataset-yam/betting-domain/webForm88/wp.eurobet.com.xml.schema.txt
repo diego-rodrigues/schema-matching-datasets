@@ -1,0 +1,34 @@
+https://wp.eurobet.com/oaecu2.go?_lang=20_st=1_channel=sb_p_ref=_stage=100
+newclient
+https://wp.eurobet.com/oaecu2.go?_lang=20_st=1_channel=sb_p_ref=_stage=100
+> +-+-+ newclient
+newclient
+> +-+-+ p_dref +-+-+ string
+> +-+-+ stage +-+-+ string
+> +-+-+ lang +-+-+ string
+> +-+-+ Bonus_scheme_value +-+-+ string
+> +-+-+ House Name Number +-+-+ string
+> +-+-+ MobileNumber +-+-+ string
+> +-+-+ How did you find our website? +-+-+ string
+> +-+-+ I have read and accept your +-+-+ string
+> +-+-+ ms +-+-+ string
+> +-+-+ E-mail +-+-+ string
+> +-+-+ If you would like to receive information from our carefully selected partners, please tick this box. +-+-+ string
+> +-+-+ Daytime phone number +-+-+ string
+> +-+-+ Date of Birth +-+-+ string
+> +-+-+ Cldid +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ first_capture_id +-+-+ string
+> +-+-+ Postcode +-+-+ string
+> +-+-+ Confirm Password +-+-+ string
+> +-+-+ adverid +-+-+ string
+> +-+-+ Username +-+-+ string
+> +-+-+ Address +-+-+ string
+> +-+-+ cur +-+-+ string
+> +-+-+ Surname +-+-+ string
+> +-+-+ Offer Reference From Advert (If applicable) +-+-+ string
+> +-+-+ channel +-+-+ string
+> +-+-+ Town City +-+-+ string
+> +-+-+ Mobile phone number +-+-+ string
+> +-+-+ usernamez +-+-+ string
+> +-+-+ First Name +-+-+ string

@@ -1,0 +1,24 @@
+http://www.experienced-people.co.uk/jobseekers.htm
+Web Site Enquiry
+http://www.experienced-people.co.uk/jobseekers.htm
+> +-+-+ Web Site Enquiry
+Web Site Enquiry
+> +-+-+ VTI-GROUP +-+-+ string
+> +-+-+ Telephone No. +-+-+ string
+> +-+-+ Please indicate your preferences if any - regarding work location, prospective companies to avoid etc. +-+-+ string
+> +-+-+ Date of Birth +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ E-mail Address +-+-+ string
+> +-+-+ Single +-+-+ string
+> +-+-+ Name +-+-+ string
+> +-+-+ Postcode +-+-+ string
+> +-+-+ County +-+-+ string
+> +-+-+ Any special skills you have (languages or further education qualifications) +-+-+ string
+> +-+-+ Address +-+-+ string
+> +-+-+ Fax No. +-+-+ string
+> +-+-+ Leisure activities and interests +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ Previous employment record +-+-+ string
+> +-+-+ Town City +-+-+ string
+> +-+-+ Education and qualifications +-+-+ string
+> +-+-+ Reset +-+-+ string

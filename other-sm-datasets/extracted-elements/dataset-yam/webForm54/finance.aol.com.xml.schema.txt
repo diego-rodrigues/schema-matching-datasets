@@ -1,0 +1,36 @@
+http://finance.aol.com/usw/quotes/stockscreener
+quote
+http://finance.aol.com/usw/quotes/stockscreener
+> +-+-+ quote
+quote
+> +-+-+ Search +-+-+ string
+> +-+-+ Profit Margin +-+-+ string
+> +-+-+ This Fiscal Year Estimate +-+-+ string
+> +-+-+ EPS (TTM) +-+-+ string
+> +-+-+ P E Ratio (TTM) +-+-+ string
+> +-+-+ Last Quarter's Earnings +-+-+ string
+> +-+-+ Yield +-+-+ string
+> +-+-+ Price Change Today +-+-+ string
+> +-+-+ Indicated Dividend Rate +-+-+ string
+> +-+-+ From To +-+-+ string
+> +-+-+ Price Sales (TTM) +-+-+ string
+> +-+-+ Current Quarter Estimate +-+-+ string
+> +-+-+ From +-+-+ string
+> +-+-+ Market Capitalization +-+-+ string
+> +-+-+ Analyst Consensus +-+-+ string
+> +-+-+ Price Book (MRQ) +-+-+ string
+> +-+-+ Prior Year's Sales +-+-+ string
+> +-+-+ Last Dividend +-+-+ string
+> +-+-+ From $ +-+-+ string
+> +-+-+ Display View +-+-+ string
+> +-+-+ From $ To $ +-+-+ string
+> +-+-+ Average Volume +-+-+ string
+> +-+-+ Last Fiscal Year Earnings +-+-+ string
+> +-+-+ Price +-+-+ string
+> +-+-+ From % To +-+-+ string
+> +-+-+ Results per Page +-+-+ string
+> +-+-+ 1 Year Sales Growth +-+-+ string
+> +-+-+ Prior Year's Net Income +-+-+ string
+> +-+-+ Find a Broker +-+-+ string
+> +-+-+ Intraday Volume +-+-+ string
+> +-+-+ Industry +-+-+ string

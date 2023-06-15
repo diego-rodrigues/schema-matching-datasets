@@ -1,0 +1,26 @@
+http://www.amazon.com/exec/obidos/ats-query-page/ref=b_bh_1_a_2
+http://www.amazon.com/exec/obidos/ats-query-page/ref=b_bh_1_a_2
+> +-+-+ store-name +-+-+ string
+> +-+-+ Search +-+-+ string
+> +-+-+ index +-+-+ string
+> +-+-+ Search Now +-+-+ string
+> +-+-+ maw +-+-+ string
+> +-+-+ Title: +-+-+ string
+> +-+-+ for +-+-+ string
+> +-+-+ Publication date: +-+-+ string
+> +-+-+ coliid +-+-+ string
+> +-+-+ Format: +-+-+ string
+> +-+-+ Reader age: +-+-+ string
+> +-+-+ Subject: +-+-+ string
+> +-+-+ Author: +-+-+ string
+> +-+-+ Power Search Now +-+-+ string
+> +-+-+ colid +-+-+ string
+> +-+-+ Language: +-+-+ string
+> +-+-+ field-ignore-date +-+-+ string
+> +-+-+ field-datemod +-+-+ string
+> +-+-+ field-dateyear +-+-+ string
+> +-+-+ Go! +-+-+ string
+> +-+-+ template-name +-+-+ string
+> +-+-+ ISBN: +-+-+ string
+> +-+-+ Sort results by: +-+-+ string
+> +-+-+ Publisher: +-+-+ string

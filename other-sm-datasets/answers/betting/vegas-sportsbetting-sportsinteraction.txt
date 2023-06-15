@@ -1,0 +1,11 @@
+thisForm.cboCountry	apply.iCountryID
+thisForm.txtState	apply.iState
+thisForm.txtLastName	apply.iLastName
+thisForm.txtEMail	apply.iEmail
+thisForm.txtDayPhone	apply.iPhoneNumber
+thisForm.txtInternetPassword	apply.iPassword1
+thisForm.txtZipCode	apply.iPostalCode
+thisForm.txtFirstName	apply.iFirstName
+thisForm.txtAddress1	apply.iAddress
+thisForm.txtCity	apply.iCity
+thisForm.txtInternetPasswordConfirmed	apply.iPassword2

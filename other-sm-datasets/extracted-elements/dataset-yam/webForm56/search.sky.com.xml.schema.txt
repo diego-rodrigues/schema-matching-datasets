@@ -1,0 +1,26 @@
+http://search.sky.com/search/skynews/results/1,,,00.html?QUERY=_CID=30000_x=13_y=7
+form1
+http://search.sky.com/search/skynews/results/1,,,00.html?QUERY=_CID=30000_x=13_y=7
+> +-+-+ form1
+advancedsearch
+form1
+> +-+-+ advancedsearch
+advancedsearch
+> +-+-+ Search +-+-+ string
+> +-+-+ Search For: +-+-+ string
+> +-+-+ OR from +-+-+ string
+search
+> +-+-+ search
+search
+> +-+-+ Go +-+-+ string
+> +-+-+ Headline news from Sky News - Witness the event Search Sky +-+-+ string
+> +-+-+ CID +-+-+ string
+advancedsearch
+> +-+-+ OR from to +-+-+ string
+> +-+-+ Search Site: +-+-+ string
+> +-+-+ Search Date: +-+-+ string
+> +-+-+ Item Type: +-+-+ string
+> +-+-+ Search Section: +-+-+ string
+> +-+-+ CID +-+-+ string
+form1
+> +-+-+ Headline news from Sky News - Witness the event Search Sky +-+-+ string

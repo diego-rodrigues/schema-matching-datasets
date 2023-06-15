@@ -1,0 +1,20 @@
+http://www.bestindianhotels.com/hotels/addYourHotel.asp
+FrontPage_Form1
+http://www.bestindianhotels.com/hotels/addYourHotel.asp
+> +-+-+ FrontPage_Form1
+FrontPage_Form1
+> +-+-+ Address 1 +-+-+ string
+> +-+-+ Address 2 +-+-+ string
+> +-+-+ No. of Rooms +-+-+ string
+> +-+-+ Pin Code +-+-+ string
+> +-+-+ Comment +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ Country     City          Number +-+-+ string
+> +-+-+ Commission +-+-+ string
+> +-+-+ Hotel Name +-+-+ string
+> +-+-+ State +-+-+ string
+> +-+-+ Email +-+-+ string
+> +-+-+ Star +-+-+ string
+> +-+-+ Country      City           Number +-+-+ string
+> +-+-+ Contact Person +-+-+ string

@@ -1,0 +1,47 @@
+SiteSearch
+number
+adv
+bookset
+BookSetSearch
+UnName
+number
+> - searchtype - string
+> - booknumber - string
+SiteSearch
+> - search - string
+adv
+> - searchtype - string
+> - title - string
+> - author - string
+> - subject - string
+> - publisher - string
+> - annotation - string
+> - min_price - string
+> - max_price - string
+> - from_lexile - string
+> - to_lexile - string
+> - from_readinglevel - string
+> - to_readinglevel - string
+> - from_dewey - string
+> - to_dewey - string
+> - from_copyright - string
+> - to_copyright - string
+> - reviews_other - string
+> - fiction - string
+> - spanish - string
+> - subfield_lexile - string
+> - from_interestlevel - string
+> - to_interestlevel - string
+> - reading_program - string
+> - reviews - string
+bookset
+> - searchtype - string
+> - title - string
+> - disknum - string
+BookSetSearch
+> - searchtype - string
+> - title - string
+> - disknum - string
+UnName
+> - searchtype - string
+> - qsterm - string

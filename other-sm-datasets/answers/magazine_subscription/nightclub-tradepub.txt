@@ -1,0 +1,15 @@
+subscribe.Submit	search._submit
+subscribe.add_city	search.city
+subscribe.add_state	search.state
+subscribe.add_postal	search.zip
+subscribe.add_country	search.country
+subscribe.phone_voice	search.phone
+subscribe.phone_fax	search.fax
+subscribe.email_add	search.email
+subscribe.work_title	search.title
+subcribe	search.Subscribe
+subscribe.name_first	search.first
+subscribe.name_last	search.last
+subscribe.Reset	ResetForm
+subscribe.company_name	search.company
+subscribe.add_line1	search.street

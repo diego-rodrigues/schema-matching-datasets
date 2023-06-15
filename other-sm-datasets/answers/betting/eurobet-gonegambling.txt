@@ -1,0 +1,12 @@
+newclient.email	registerfrm.email
+newclient.Question	registerfrm.Newsletter
+newclient.Addressno	registerfrm.address1
+newclient.City	registerfrm.city
+newclient.Username	registerfrm.username
+newclient.Name	registerfrm.firstname
+newclient.Postcode	registerfrm.zip
+newclient.Country	registerfrm.country
+newclient.Surname	registerfrm.lastname
+newclient.Pwd	registerfrm.password
+newclient.RePwd	registerfrm.confirmpassword
+newclient.Address1	registerfrm.address1

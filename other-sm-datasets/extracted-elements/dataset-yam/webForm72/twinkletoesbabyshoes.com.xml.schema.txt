@@ -1,0 +1,25 @@
+http://shopping.spa.net/Stores/TTBabyShoes/Register.asp?HSD=1_ExpressCheckout=True
+Registration
+http://shopping.spa.net/Stores/TTBabyShoes/Register.asp?HSD=1_ExpressCheckout=True
+> +-+-+ Registration
+Registration
+> +-+-+ Country * +-+-+ string
+> +-+-+ Last_name_C +-+-+ string
+> +-+-+ Address1_C +-+-+ string
+> +-+-+ zip_C +-+-+ string
+> +-+-+ City_C +-+-+ string
+> +-+-+ Zip * +-+-+ string
+> +-+-+ ExpressCheckout +-+-+ string
+> +-+-+ City * +-+-+ string
+> +-+-+ Last name * +-+-+ string
+> +-+-+ Phone: +-+-+ string
+> +-+-+ Record_type +-+-+ string
+> +-+-+ Email_C +-+-+ string
+> +-+-+ Email * +-+-+ string
+> +-+-+ Address2 +-+-+ string
+> +-+-+ Address1 * +-+-+ string
+> +-+-+ Region * +-+-+ string
+> +-+-+ Fax: +-+-+ string
+> +-+-+ First_name_C +-+-+ string
+> +-+-+ Company +-+-+ string
+> +-+-+ First name * +-+-+ string

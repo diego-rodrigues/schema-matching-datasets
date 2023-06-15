@@ -1,0 +1,42 @@
+sportsbook
+JoinForm
+sportsbook
+> - ACTION - string
+> - SITEID - string
+> - PAGE - string
+> - USERNAME - string
+> - PASSWORD - string
+> - login - string
+JoinForm
+> - SiteID - string
+> - Description - string
+> - Target - string
+> - MPIdentifier - string
+> - txtUsername - string
+> - txtPassword1 - string
+> - txtPassword2 - string
+> - txtFirstName - string
+> - txtLastName - string
+> - txtAddress1 - string
+> - txtAddress2 - string
+> - txtCity - string
+> - txtZip - string
+> - txtCountry - string
+> - ddlState - string
+> - txtState - string
+> - txtHomePhone - string
+> - txtWorkPhone - string
+> - txtMobile - string
+> - txtFax - string
+> - txtEmail - string
+> - ddlOddsPref - string
+> - txtEmail_Alt - string
+> - cboBirthMonth - string
+> - cboBirthDay - string
+> - txtBirthYear - string
+> - txtReferrerID - string
+> - ddlFindUs - string
+> - txtFindUs - string
+> - cbPromo - string
+> - cbTerms - string
+> - btSubmit - string

@@ -1,0 +1,5 @@
+adv_search_form	adv
+adv_search_form.author	adv.author
+adv_search_form.publisher	adv.publisher
+adv_search_form.title	adv.title
+adv_search_form.class	adv.subject

@@ -1,0 +1,32 @@
+frm
+thisForm
+frm
+> - BackUrl - string
+> - Url - string
+> - DesapprovUrl - string
+> - txtUserName - string
+> - txtUserPwd - string
+thisForm
+> - Licensee - string
+> - BackUrl - string
+> - Sitename - string
+> - mailsitename - string
+> - phonesite - string
+> - cboCurrency - string
+> - txtPin - string
+> - cboTitle - string
+> - txtFirstName - string
+> - txtLastName - string
+> - txtAddress1 - string
+> - txtAddress2 - string
+> - txtCity - string
+> - txtState - string
+> - txtZipCode - string
+> - cboCountry - string
+> - txtDayPhone - string
+> - txtEMail - string
+> - txtChallengeQuestion - string
+> - txtChallengeAnswer - string
+> - txtInternetPassword - string
+> - txtInternetPasswordConfirmed - string
+> - Submit - string

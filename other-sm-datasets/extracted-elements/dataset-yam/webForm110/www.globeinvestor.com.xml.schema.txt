@@ -1,0 +1,37 @@
+http://www.globeinvestor.com/v5/content/filters
+bonk
+http://www.globeinvestor.com/v5/content/filters
+> +-+-+ bonk
+bonk
+> +-+-+ pi_percent1 +-+-+ string
+> +-+-+ pi_VOLUME_AVG_50DAY_max +-+-+ string
+> +-+-+ pi_percent2 +-+-+ string
+> +-+-+ Price Book Value per Share +-+-+ string
+> +-+-+ pi_return_period2 +-+-+ string
+> +-+-+ pi_index_member +-+-+ string
+> +-+-+ Report +-+-+ string
+> +-+-+ Market Capitalization ($Mil) +-+-+ string
+> +-+-+ pi_return_period1 +-+-+ string
+> +-+-+ pi_action +-+-+ string
+> +-+-+ pi_latest_moving_avg_50day_min +-+-+ string
+> +-+-+ pi_latest_moving_avg_50day_max +-+-+ string
+> +-+-+ pi_operator2 +-+-+ string
+> +-+-+ Exchange +-+-+ string
+> +-+-+ 3 Year % Revenue Growth +-+-+ string
+> +-+-+ pi_operator1 +-+-+ string
+> +-+-+ Net Income ($Mil) +-+-+ string
+> +-+-+ pi_VOLUME_AVG_50DAY_min +-+-+ string
+> +-+-+ Revenue ($Mil) +-+-+ string
+> +-+-+ pi_return_1day +-+-+ string
+> +-+-+ Get Results +-+-+ string
+> +-+-+ Price Earnings per Share +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ Security +-+-+ string
+> +-+-+ pi_report_def_id +-+-+ string
+> +-+-+ pi_50day_avg +-+-+ string
+> +-+-+ Latest Closing Price +-+-+ string
+> +-+-+ pi_200day_avg +-+-+ string
+> +-+-+ 3 Year % Profit Growth +-+-+ string
+> +-+-+ Dividend Yield +-+-+ string
+> +-+-+ Intraday Volume +-+-+ string
+> +-+-+ Industry +-+-+ string

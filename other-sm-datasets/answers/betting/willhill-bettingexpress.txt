@@ -1,0 +1,13 @@
+Details.txtPassword	JoinForm.PASSWORD
+Details.txtFirstName	JoinForm.FIRSTNAME
+Details.txtCityTown	JoinForm.CITY
+Details.txtSurname	JoinForm.LASTNAME
+Details.txtTelephone	JoinForm.WORKPHONENO
+Details.txtTelephone	JoinForm.HOMEPHONENO
+Details.txtPostcode	JoinForm.ZIP
+Details.txtEmail	JoinForm.EMAIL
+Details.txtQASPostcode	JoinForm.ZIP
+Details.cboCountryAlt	JoinForm.COUNTRY
+Details.txtPasswordConfirm	JoinForm.REENTERPASSWORD
+Details.txtAddress1	JoinForm.STREET
+Details.txtStateRegion	JoinForm.STATE

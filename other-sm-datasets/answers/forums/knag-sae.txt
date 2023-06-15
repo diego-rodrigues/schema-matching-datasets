@@ -1,0 +1,11 @@
+FormName.email	prePopulatedForm.Email
+FormName.fax	prePopulatedForm.Fax_Number
+FormName.adres	prePopulatedForm.Street
+FormName.cardnumber	prePopulatedForm.Credit_Card_Number
+FormName.postcodewoonplaats	prePopulatedForm.Postal_Code
+FormName.roepnaam	prePopulatedForm.Name
+FormName.cardtype	prePopulatedForm.Credit_Card
+FormName.city	prePopulatedForm.City
+FormName.telprive	prePopulatedForm.Home_Phone
+FormName.cardexpyear	prePopulatedForm.Expiration_Date_Year
+FormName.cardexpmonth	prePopulatedForm.Expiration_Date_Month

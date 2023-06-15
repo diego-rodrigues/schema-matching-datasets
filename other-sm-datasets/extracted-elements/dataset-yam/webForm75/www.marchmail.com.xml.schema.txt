@@ -1,0 +1,19 @@
+http://www.marchmail.com/templates/common/us/sign_up.htm
+http://www.marchmail.com/templates/common/us/sign_up.htm
+> +-+-+ ** Last name: +-+-+ string
+> +-+-+ Education: +-+-+ string
+> +-+-+ **Hint Question: +-+-+ string
+> +-+-+ ** Password: +-+-+ string
+> +-+-+ ** Confirm Password: +-+-+ string
+> +-+-+ Year of Birth: +-+-+ string
+> +-+-+ Annual Income Range (US$): +-+-+ string
+> +-+-+ **Alternative Contact Address: +-+-+ string
+> +-+-+ **Hint Answer: +-+-+ string
+> +-+-+ ** Login name: +-+-+ string
+> +-+-+ Household size: +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ Sign Me Up +-+-+ string
+> +-+-+ ** Country: +-+-+ string
+> +-+-+ ** First name: +-+-+ string
+> +-+-+ Occupation: +-+-+ string
+> +-+-+ Reset +-+-+ string

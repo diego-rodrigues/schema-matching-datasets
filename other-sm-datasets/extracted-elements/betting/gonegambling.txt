@@ -1,0 +1,31 @@
+frmSearch
+registerfrm
+frmSearch
+> - terms - string
+> - image1 - string
+registerfrm
+> - Source - string
+> - email - string
+> - username - string
+> - password - string
+> - confirmpassword - string
+> - dob_M - string
+> - dob_D - string
+> - dob_Y - string
+> - Gender - string
+> - Newsletter - string
+> - AcceptPosts - string
+> - firstname - string
+> - lastname - string
+> - address1 - string
+> - address2 - string
+> - city - string
+> - zip - string
+> - state - string
+> - country - string
+> - BarrowKey - string
+> - CasinoPromotionCode - string
+> - CasinoName - string
+> - Survey - string
+> - Referee - string
+> - submit1 - string

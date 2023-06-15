@@ -1,0 +1,22 @@
+http://www.omisan.com/omisanonline/form/complaint_form.htm
+http://www.omisan.com/omisanonline/form/complaint_form.htm
+> +-+-+ Send +-+-+ string
+> +-+-+ e-mail: +-+-+ string
+> +-+-+ Purchase time: +-+-+ string
+> +-+-+ Town: +-+-+ string
+> +-+-+ Is the product available for evaluation? +-+-+ string
+> +-+-+ subject +-+-+ string
+> +-+-+ print_config +-+-+ string
+> +-+-+ Shop Name: +-+-+ string
+> +-+-+ recipient +-+-+ string
+> +-+-+ Address: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ http://www.omisan.com/cgi-bin/FormMail.pl +-+-+ string
+> +-+-+ Anything else?: +-+-+ string
+> +-+-+ Lot Number (LOT): +-+-+ string
+> +-+-+ Name and Surname: +-+-+ string
+> +-+-+ Telephone: +-+-+ string
+> +-+-+ Product datas +-+-+ string
+> +-+-+ Monthly frequency usage: +-+-+ string
+> +-+-+ required +-+-+ string
+> +-+-+ Product Name: +-+-+ string

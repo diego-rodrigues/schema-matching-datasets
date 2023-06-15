@@ -1,0 +1,24 @@
+REG
+registerpage
+REG
+> - act - string
+> - termsread - string
+> - agree_to_terms - string
+> - CODE - string
+> - coppa_user - string
+> - UserName - string
+> - PassWord - string
+> - PassWord_Check - string
+> - EmailAddress - string
+> - EmailAddress_two - string
+> - field_1 - string
+> - allow_admin_mail - string
+> - allow_member_mail - string
+> - time_offset - string
+> - dst - string
+> - regid - string
+> - reg_code - string
+> - Submitmyregistration - string
+registerpage
+> - agree_to_terms - string
+> - Register - string

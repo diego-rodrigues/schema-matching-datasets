@@ -1,0 +1,12 @@
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/First Name *;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/First Name:;
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/Last Name *;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/Last Name:;
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/Street Address *;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/Mailing Address 1:;
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/Street Address *;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/Mailing Address 2:;
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/City *;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/City:;
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/Zip Code *;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/Zip:;
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/E-mail address;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/Your E-mail Address:;
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/Home Phone *;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/Evening Phone:;
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/Work Phone;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/Day Phone:;
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/Submit;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/complaintform/Submit;
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/Clear Form;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/complaintform/Clear;
+www.frbatlanta.org.xml.xsd/http://www.frbatlanta.org/consumer/complaint.cfm/where/complaint/State *;www.state.il.us.xml.xsd/http://www.state.il.us/dfi/ccd/ccd_complaint.htm/complaintform/State:;

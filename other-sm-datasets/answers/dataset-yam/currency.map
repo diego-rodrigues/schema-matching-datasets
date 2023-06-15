@@ -1,0 +1,6 @@
+currencyConvertor.xsd/ConversionRate;currencyServer.xsd/getCurrencyValue;
+currencyConvertor.xsd/ConversionRate/FromCurrency;currencyServer.xsd/getCurrencyValue/srcCurrency;
+currencyConvertor.xsd/ConversionRate/ToCurrency;currencyServer.xsd/getCurrencyValue/dstCurrency;
+currencyConvertor.xsd/ConversionRateResponse;currencyServer.xsd/getCurrencyValueResponse;
+currencyConvertor.xsd/ConversionRateResponse/ConversionRateResult;currencyServer.xsd/getCurrencyValueResponse/getCurrencyValueResult;
+currencyConvertor.xsd/double;currencyServer.xsd/double;

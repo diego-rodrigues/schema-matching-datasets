@@ -1,0 +1,10 @@
+signup.email	fmRegister.tbEmail
+signup.password2	fmRegister.tbPassword2
+signup.password1	fmRegister.tbPassword1
+signup.first_name	fmRegister.tbFname
+signup.prodDiscoverySource	fmRegister.newspaper
+signup.mzip	fmRegister.tbAddrPc
+signup.city	fmRegister.tbAddrCty
+signup.last_name	fmRegister.tbLname
+signup.address1	fmRegister.tbAddr1
+signup.zip	fmRegister.tbAddrPc

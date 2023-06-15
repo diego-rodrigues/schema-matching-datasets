@@ -1,0 +1,35 @@
+https://store.primediamags.com/subscribe/surfermag/210/I6ABON
+offer_form
+https://store.primediamags.com/subscribe/surfermag/210/I6ABON
+> +-+-+ offer_form
+offer_form
+> +-+-+ fulfillment_house +-+-+ string
+> +-+-+ offer_id +-+-+ string
+> +-+-+ previous_page +-+-+ string
+> +-+-+ StateB +-+-+ string
+> +-+-+ sweep_id +-+-+ string
+> +-+-+ Apt Suite +-+-+ string
+> +-+-+ Credit Card Number +-+-+ string
+> +-+-+ intl +-+-+ string
+> +-+-+ showAdd +-+-+ string
+> +-+-+ Zip +-+-+ string
+> +-+-+ redir +-+-+ string
+> +-+-+ CityB +-+-+ string
+> +-+-+ PostalCodeB +-+-+ string
+> +-+-+ First name +-+-+ string
+> +-+-+ 1 Year (12 issues) for $14.97 save 75%* +-+-+ string
+> +-+-+ site_id +-+-+ string
+> +-+-+ Last name +-+-+ string
+> +-+-+ msg +-+-+ string
+> +-+-+ country_code +-+-+ string
+> +-+-+ Street Address +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ pm_trans_id +-+-+ string
+> +-+-+ country_codeB +-+-+ string
+> +-+-+ source_code +-+-+ string
+> +-+-+ State +-+-+ string
+> +-+-+ Email +-+-+ string
+> +-+-+ Expiration Date +-+-+ string
+> +-+-+ StreetAdrB +-+-+ string
+> +-+-+ SuppAdrB +-+-+ string
+> +-+-+ trans_type_id +-+-+ string

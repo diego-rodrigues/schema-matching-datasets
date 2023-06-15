@@ -1,0 +1,26 @@
+http://www.italyhotelink.com/add.htm
+FrontPage_Form1
+http://www.italyhotelink.com/add.htm
+> +-+-+ FrontPage_Form1
+FrontPage_Form1
+> +-+-+ Contact Person: * +-+-+ string
+> +-+-+ Reimposta +-+-+ string
+> +-+-+ City Zone: +-+-+ string
+> +-+-+ VTI-GROUP +-+-+ string
+> +-+-+ Invia +-+-+ string
+> +-+-+ Telephone: * +-+-+ string
+> +-+-+ Property Name: * +-+-+ string
+> +-+-+ Currency: * +-+-+ string
+> +-+-+ Opening: * +-+-+ string
+> +-+-+ Max: +-+-+ string
+> +-+-+ Total Number of Rooms: * +-+-+ string
+> +-+-+ Type and Category Rating: * +-+-+ string
+> +-+-+ Country: * +-+-+ string
+> +-+-+ Min: +-+-+ string
+> +-+-+ URL: +-+-+ string
+> +-+-+ Zip-code or Post Code: * +-+-+ string
+> +-+-+ Fax: +-+-+ string
+> +-+-+ City: * +-+-+ string
+> +-+-+ Address: * +-+-+ string
+> +-+-+ Email: * +-+-+ string
+> +-+-+ Owner: * +-+-+ string

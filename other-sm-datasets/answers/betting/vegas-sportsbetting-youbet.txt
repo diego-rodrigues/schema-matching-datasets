@@ -1,0 +1,11 @@
+thisForm.txtState	signup.state
+thisForm.txtLastName	signup.last_name
+thisForm.txtEMail	signup.email
+thisForm.txtZipCode	signup.mzip
+thisForm.txtZipCode	signup.zip
+thisForm.txtInternetPassword	signup.password1
+thisForm.txtFirstName	signup.first_name
+thisForm.txtAddress1	signup.address1
+thisForm.txtCity	signup.city
+thisForm.txtAddress2	signup.maddress1
+thisForm.txtInternetPasswordConfirmed	signup.password2

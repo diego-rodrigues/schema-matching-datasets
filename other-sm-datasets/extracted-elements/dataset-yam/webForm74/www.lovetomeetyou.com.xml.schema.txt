@@ -1,0 +1,16 @@
+http://www.lovetomeetyou.com/join.html
+account_info
+http://www.lovetomeetyou.com/join.html
+> +-+-+ account_info
+account_info
+> +-+-+ * Country: +-+-+ string
+> +-+-+ * Sexual Preference: +-+-+ string
+> +-+-+ * Gender: +-+-+ string
+> +-+-+ * Date Of Birth: +-+-+ string
+> +-+-+ * Reason for joining: +-+-+ string
+> +-+-+ * Password: +-+-+ string
+> +-+-+ * Profile name: +-+-+ string
+> +-+-+ * Email: +-+-+ string
+> +-+-+ Affiliate: +-+-+ string
+> +-+-+ * Retype Password: +-+-+ string
+> +-+-+ State: +-+-+ string

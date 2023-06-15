@@ -1,0 +1,21 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Neptune Eilat Hotel Secure Reservation.htm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Neptune Eilat Hotel Secure Reservation.htm
+> +-+-+ Please specify your arrival date: Total number of nights: +-+-+ string
+> +-+-+ Email address: (*Required) +-+-+ string
+> +-+-+ Number and street: +-+-+ string
+> +-+-+ Zip code: +-+-+ string
+> +-+-+ Country: (*Required) +-+-+ string
+> +-+-+ Phone: +-+-+ string
+> +-+-+ Click here to submit request +-+-+ string
+> +-+-+ Last name: (*Required) +-+-+ string
+> +-+-+ Number of adults: Children: Total number of persons: +-+-+ string
+> +-+-+ Room Type: +-+-+ string
+> +-+-+ First name: (*Required) +-+-+ string
+> +-+-+ State province: +-+-+ string
+> +-+-+ Fax: +-+-+ string
+> +-+-+ Nationality: I.D Passport Number: +-+-+ string
+> +-+-+ Please specify your departure date: +-+-+ string
+> +-+-+ Credit Card: Card Number: Valid: +-+-+ string
+> +-+-+ Add your comments here: +-+-+ string
+> +-+-+ success +-+-+ string
+> +-+-+ City: +-+-+ string

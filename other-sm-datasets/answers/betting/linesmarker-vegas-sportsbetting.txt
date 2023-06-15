@@ -1,0 +1,12 @@
+signupForm.REENTERPASSWORD	thisForm.txtInternetPasswordConfirmed
+signupForm.STATE	thisForm.txtState
+signupForm.EMAIL	thisForm.txtEMail
+signupForm.CITY	thisForm.txtCity
+signupForm.LASTNAME	thisForm.txtLastName
+signupForm.STREET	thisForm.txtAddress1
+signupForm.USERID	thisForm.txtPin
+signupForm.PASSWORD	thisForm.txtInternetPassword
+signupForm.ZIP	thisForm.txtZipCode
+signupForm.COUNTRY	thisForm.cboCountry
+signupForm.FIRSTNAME	thisForm.txtFirstName
+signupForm.HOMEPHONENO	thisForm.txtDayPhone

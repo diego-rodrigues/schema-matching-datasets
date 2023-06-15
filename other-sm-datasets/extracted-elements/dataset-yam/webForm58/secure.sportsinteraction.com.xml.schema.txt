@@ -1,0 +1,28 @@
+https://secure.sportsinteraction.com/sportsbook/body_accountform.cfm
+apply
+https://secure.sportsinteraction.com/sportsbook/body_accountform.cfm
+> +-+-+ apply
+apply
+> +-+-+ How did you hear about Sports Interaction +-+-+ string
+> +-+-+ Phone Number +-+-+ string
+> +-+-+ Promotion +-+-+ string
+> +-+-+ State Province +-+-+ string
+> +-+-+ Receive News and Updates? +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Postal Code +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ Your Time Zone +-+-+ string
+> +-+-+ iPromotion +-+-+ string
+> +-+-+ Title +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ PageAction +-+-+ string
+> +-+-+ StateValue +-+-+ string
+> +-+-+ Confirm Password +-+-+ string
+> +-+-+ Mother's maiden name +-+-+ string
+> +-+-+ ApplyAccCheck +-+-+ string
+> +-+-+ Username +-+-+ string
+> +-+-+ Address +-+-+ string
+> +-+-+ Betting Currency +-+-+ string
+> +-+-+ Email Address +-+-+ string
+> +-+-+ Surname +-+-+ string
+> +-+-+ First Name +-+-+ string

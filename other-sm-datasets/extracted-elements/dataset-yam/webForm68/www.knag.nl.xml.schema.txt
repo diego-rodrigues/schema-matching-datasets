@@ -1,0 +1,26 @@
+http://www.knag.nl/formulieren/shop_form.html
+FormName
+http://www.knag.nl/formulieren/shop_form.html
+> +-+-+ FormName
+FormName
+> +-+-+ Your Details +-+-+ string
+> +-+-+ Card number +-+-+ string
+> +-+-+ Quantity +-+-+ string
+> +-+-+ Postal code +-+-+ string
+> +-+-+ Telephone +-+-+ string
+> +-+-+ Card Validation Code* +-+-+ string
+> +-+-+ Card expire date +-+-+ string
+> +-+-+ Fax +-+-+ string
+> +-+-+ Credit card type +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ Street + number +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ Name +-+-+ string
+> +-+-+ Price per item +-+-+ string
+> +-+-+ Mr. +-+-+ string
+> +-+-+ E-mail: +-+-+ string
+> +-+-+ Date +-+-+ string
+> +-+-+ Name as on card +-+-+ string
+> +-+-+ Order # +-+-+ string
+> +-+-+ Adres of cardholder +-+-+ string
+> +-+-+ Total price +-+-+ string

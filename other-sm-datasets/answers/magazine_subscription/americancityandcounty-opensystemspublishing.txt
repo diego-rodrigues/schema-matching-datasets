@@ -1,0 +1,11 @@
+form1.City	form1.City
+form1.State	form1.ST
+form1.Zip	form1.Zip
+form1.COUNTRY	form1.Country
+form1.Phone	form1.Telephone
+form1.Fax	form1.Fax
+form1.EMail	form1.EmailAddress
+form1.FName	form1.FirstName
+form1.LName	form1.LastName
+form1.Company	form1.CompanyName
+form1	form1

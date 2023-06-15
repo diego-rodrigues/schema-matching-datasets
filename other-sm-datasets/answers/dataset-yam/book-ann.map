@@ -1,0 +1,8 @@
+#author writer Description context
+author-ann.xsd/author;writer-ann.xsd/writer
+#dob dat_of_birth -> tocken + Description context
+author-ann.xsd/author/dob;writer-ann.xsd/writer/date_of_birth
+#loc country_code -> type
+author-ann.xsd/author/loc;writer-ann.xsd/writer/country_code
+#name named string matching
+author-ann.xsd/author/name;writer-ann.xsd/writer/named

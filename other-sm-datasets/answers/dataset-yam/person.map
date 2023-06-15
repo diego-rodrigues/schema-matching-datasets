@@ -1,0 +1,9 @@
+Personne_00.xsd/person;Personne_01.xsd/person;
+Personne_00.xsd/person/person_name;Personne_01.xsd/person/firstName;
+#Personne_00.xsd/person/person_name = concat(Personne_01.xsd/person/firstName, Personne_01.xsd/person/lastName)
+Personne_00.xsd/person/person_name;Personne_01.xsd/person/lastName;
+Personne_00.xsd/person/person_date_of_birth;Personne_01.xsd/person/birthDate;
+Personne_00.xsd/person/person_phone;Personne_01.xsd/person/contact/phone;
+Personne_00.xsd/person/person_email;Personne_01.xsd/person/contact/email;
+Personne_00.xsd/person/person_address;Personne_01.xsd/person/contact/address; 
+#Personne_01.xsd/person/contact/address = concat(Personne_00.xsd/person/person_address/street, Personne_00.xsd/person/person_address/city, Personne_00.xsd/person/person_address/postcode, Personne_00.xsd/person/person_address/country)

@@ -1,0 +1,12 @@
+JoinForm.REENTERPASSWORD	apply.iPassword2
+JoinForm.PASSWORD	apply.iPassword1
+JoinForm.STREET	apply.iAddress
+JoinForm.WORKPHONENO	apply.iPhoneNumber
+JoinForm.HOMEPHONENO	apply.iPhoneNumber
+JoinForm.COUNTRY	apply.iCountryID
+JoinForm.LASTNAME	apply.iLastName
+JoinForm.FIRSTNAME	apply.iFirstName
+JoinForm.CITY	apply.iCity
+JoinForm.ZIP	apply.iPostalCode
+JoinForm.STATE	apply.iState
+JoinForm.EMAIL	apply.iEmail

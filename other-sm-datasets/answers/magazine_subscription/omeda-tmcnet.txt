@@ -1,0 +1,14 @@
+qualform.Submit	subForm.Submit
+qualform.CITY	subForm.City
+qualform.STATE	subForm.State
+qualform.ZIPCODE	subForm.zip
+qualform.COUNTRY	subForm.Country
+qualform.PHONE	subForm.phone
+qualform.FAX	subForm.fax
+qualform.EMAIL_ADDRESS	subForm.Email
+qualform.TITLE	subForm.Title
+qualform.FNAME	subForm.FName
+qualform.LNAME	subForm.LName
+qualform.COMPANY	subForm.Company
+qualform.ADDRESS1	subForm.Address
+qualform.ADDRESS2	subForm.Address2

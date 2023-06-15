@@ -1,0 +1,7 @@
+Registerform.FORM_nachname	thisForm.txtLastName
+Registerform.FORM_strasse	thisForm.txtAddress1
+Registerform.FORM_vorname	thisForm.txtFirstName
+Registerform.FORM_plz	thisForm.txtZipCode
+Registerform.FORM_nation	thisForm.cboCountry
+Registerform.FORM_email	thisForm.txtEMail
+Registerform.FORM_telefon	thisForm.txtDayPhone

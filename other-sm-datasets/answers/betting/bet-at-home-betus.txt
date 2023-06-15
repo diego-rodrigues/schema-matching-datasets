@@ -1,0 +1,9 @@
+Registerform.FORM_nachname	SignupForm.nameLastEntry
+Registerform.FORM_strasse	SignupForm.address1Entry
+Registerform.FORM_vorname	SignupForm.nameFirstEntry
+Registerform.FORM_plz	SignupForm.zipEntry
+Registerform.FORM_nation	SignupForm.countryEntry
+Registerform.FORM_telefax	SignupForm.faxEntry
+Registerform.FORM_email	SignupForm.emailEntry
+Registerform.FORM_telefon	SignupForm.homePhoneEntry
+Registerform.FORM_telefon	SignupForm.businessPhoneEntry

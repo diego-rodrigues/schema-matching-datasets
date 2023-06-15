@@ -1,0 +1,14 @@
+subscribe.Submit	regform.submit
+subscribe.add_city	regform.City
+subscribe.add_state	regform.State
+subscribe.add_postal	regform.Zip
+subscribe.add_country	regform.Country
+subscribe.phone_voice	regform.Phone
+subscribe.phone_fax	regform.Fax
+subscribe.email_add	regform.Email
+subscribe.work_title	regform.Title
+subscribe.name_first	regform.First_Name
+subscribe.name_last	regform.Last_Name
+subscribe.Reset	regform.reset
+subscribe.company_name	regform.Company_Name
+subscribe.add_line1	regform.Address

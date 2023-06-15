@@ -1,0 +1,11 @@
+thisForm.cboCountry	registerfrm.country
+thisForm.txtState	registerfrm.state
+thisForm.txtLastName	registerfrm.lastname
+thisForm.txtEMail	registerfrm.email
+thisForm.txtInternetPassword	registerfrm.password
+thisForm.txtZipCode	registerfrm.zip
+thisForm.txtFirstName	registerfrm.firstname
+thisForm.txtAddress1	registerfrm.address1
+thisForm.txtAddress2	registerfrm.address2
+thisForm.txtCity	registerfrm.city
+thisForm.txtInternetPasswordConfirmed	registerfrm.confirmpassword

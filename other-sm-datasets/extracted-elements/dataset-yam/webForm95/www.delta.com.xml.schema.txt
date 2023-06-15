@@ -1,0 +1,79 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Delta Air Lines - Travel, Airfare and Airline Tickets on delta_com.htm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Delta Air Lines - Travel, Airfare and Airline Tickets on delta_com.htm
+> +-+-+ nextUrl +-+-+ string
+flifoForm
+> +-+-+ flifoForm
+flifoForm
+> +-+-+ flight_date +-+-+ string
+> +-+-+ request +-+-+ string
+> +-+-+ flight_number +-+-+ string
+schedForm
+> +-+-+ schedForm
+schedForm
+> +-+-+ MaxFlights +-+-+ string
+> +-+-+ cmd +-+-+ string
+> +-+-+ ArrText +-+-+ string
+> +-+-+ TimeOfDay +-+-+ string
+> +-+-+ flight_date +-+-+ string
+> +-+-+ DptText +-+-+ string
+inputForm
+> +-+-+ inputForm
+inputForm
+> +-+-+ Flight number Leaving from Going to +-+-+ string
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Delta Air Lines - Travel, Airfare and Airline Tickets on delta_com.htm
+> +-+-+ SkyMiles number and PIN +-+-+ string
+> +-+-+ GO +-+-+ string
+> +-+-+ Start in: +-+-+ string
+QuickFlight
+> +-+-+ QuickFlight
+QuickFlight
+> +-+-+ Passengers Preferred cabin +-+-+ string
+> +-+-+ Leaving from Departure date Time +-+-+ string
+> +-+-+ bookingPostVerify +-+-+ string
+flifoForm
+> +-+-+ flifoForm
+flifoForm
+> +-+-+ flight_date +-+-+ string
+> +-+-+ request +-+-+ string
+> +-+-+ flight_number +-+-+ string
+schedForm
+> +-+-+ schedForm
+schedForm
+> +-+-+ MaxFlights +-+-+ string
+> +-+-+ cmd +-+-+ string
+> +-+-+ ArrText +-+-+ string
+> +-+-+ TimeOfDay +-+-+ string
+> +-+-+ flight_date +-+-+ string
+> +-+-+ DptText +-+-+ string
+inputForm
+> +-+-+ inputForm
+inputForm
+> +-+-+ Flight number Leaving from Going to +-+-+ string
+QuickFlight
+> +-+-+ Going to Return date Time +-+-+ string
+> +-+-+ Availability.x +-+-+ string
+> +-+-+ GO +-+-+ string
+> +-+-+ roundTrip +-+-+ string
+> +-+-+ dl +-+-+ string
+> +-+-+ dummy +-+-+ string
+> +-+-+ qflight +-+-+ string
+> +-+-+ Unrestricted +-+-+ string
+schedForm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Delta Air Lines - Travel, Airfare and Airline Tickets on delta_com.htm
+> +-+-+ schedForm
+schedForm
+> +-+-+ MaxFlights +-+-+ string
+> +-+-+ cmd +-+-+ string
+> +-+-+ ArrText +-+-+ string
+> +-+-+ TimeOfDay +-+-+ string
+> +-+-+ flight_date +-+-+ string
+> +-+-+ DptText +-+-+ string
+inputForm
+> +-+-+ inputForm
+inputForm
+> +-+-+ Flight number Leaving from Going to +-+-+ string
+inputForm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Delta Air Lines - Travel, Airfare and Airline Tickets on delta_com.htm
+> +-+-+ inputForm
+inputForm
+> +-+-+ Flight number Leaving from Going to +-+-+ string

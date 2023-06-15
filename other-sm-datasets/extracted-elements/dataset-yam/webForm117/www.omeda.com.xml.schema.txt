@@ -1,0 +1,60 @@
+http://www.omeda.com/cgi-win/von.cgi?add
+qualform
+http://www.omeda.com/cgi-win/von.cgi?add
+> +-+-+ qualform
+qualform
+> +-+-+ Conferencing Products Services +-+-+ string
+> +-+-+ Postal Zip Code: +-+-+ string
+> +-+-+ Search Site +-+-+ string
+> +-+-+ Broadband Services +-+-+ string
+> +-+-+ CEO President Chairman VP CIO IT IS Network Telecom PC Director Manager Programmer Engineer Analyst Developer Other IT or Telecom Staff Sales Marketing Accounting Office Admin Finance Other Department Staff Consultant Other +-+-+ string
+> +-+-+ URLQueryString +-+-+ string
+> +-+-+ Call Center Systems and Software +-+-+ string
+> +-+-+ mode +-+-+ string
+> +-+-+ KeyByVON +-+-+ string
+> +-+-+ E-mail: +-+-+ string
+> +-+-+ Are you a member of the Free World DialUp? +-+-+ string
+> +-+-+ Wireless Hardware Software Services +-+-+ string
+> +-+-+ Fax Number: (Digits only) +-+-+ string
+> +-+-+ Department Mail Stop +-+-+ string
+> +-+-+ sp-p +-+-+ string
+> +-+-+ Manufacturers: +-+-+ string
+> +-+-+ Yes, I want to subscribe. +-+-+ string
+> +-+-+ EmbPromo +-+-+ string
+> +-+-+ More than 5,000 1000 to 4,999 500 to 999 100 to 499 50-99 Less than 50 +-+-+ string
+> +-+-+ CALLINGURL +-+-+ string
+> +-+-+ hFNum +-+-+ string
+> +-+-+ NameType +-+-+ string
+> +-+-+ Other +-+-+ string
+> +-+-+ PSTN Services +-+-+ string
+> +-+-+ part2of2 +-+-+ string
+> +-+-+ Company: +-+-+ string
+> +-+-+ Title +-+-+ string
+> +-+-+ Street Address +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Fax over IP +-+-+ string
+> +-+-+ sp-a +-+-+ string
+> +-+-+ Do you influence the purchase of Voice Fax Email Video over IP and or telecommunications and or computer products or services for your organization, clients or customers? +-+-+ string
+http://www.omeda.com/cgi-win/von.cgi
+> +-+-+ http://www.omeda.com/cgi-win/von.cgi
+http://www.omeda.com/cgi-win/von.cgi
+> +-+-+ sp-a +-+-+ string
+> +-+-+ Search Site +-+-+ string
+> +-+-+ sp-f +-+-+ string
+> +-+-+ sp-p +-+-+ string
+> +-+-+ http://search.atomz.com/search/ +-+-+ string
+qualform
+> +-+-+ Business Phone Systems +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ sp-f +-+-+ string
+> +-+-+ Communications Servers +-+-+ string
+> +-+-+ Phone Number: (Digits only) +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ Video Cable over IP +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ IP Telephony +-+-+ string
+> +-+-+ State Province: +-+-+ string
+> +-+-+ formname +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Reset +-+-+ string
+> +-+-+ Home or Small Office (SOHO) Hardware Software Services +-+-+ string

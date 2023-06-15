@@ -1,0 +1,15 @@
+SearchCatForm.RegisterForm.Register	search.trial.submit
+SearchCatForm.RegisterForm.Suburb	search.trial.city
+SearchCatForm.RegisterForm.State	search.trial.state
+SearchCatForm.RegisterForm.Postcode	search.trial.zip
+SearchCatForm.RegisterForm.CountryID	search.trial.country
+SearchCatForm.RegisterForm.Phone1	search.trial.phone
+SearchCatForm.RegisterForm.Fax	search.trial.fax
+SearchCatForm.RegisterForm.Email	search.trial.email
+SearchCatForm.RegisterForm.Title	search.trial.title
+SearchCatForm.RegisterForm.FirstName	search.trial.first
+SearchCatForm.RegisterForm.Surname	search.trial.last
+SearchCatForm.SearchTitleForm.Search	search
+SearchCatForm.RegisterForm.Address1	search.trial.address1
+SearchCatForm.RegisterForm.Address2	search.trial.address2
+SearchCatForm.RegisterForm.MiddleInitials	search.trial.middle

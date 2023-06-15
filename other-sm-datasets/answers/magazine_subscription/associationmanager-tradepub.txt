@@ -1,0 +1,11 @@
+form.AssociationManagersubscriptionform._submit	search._submit
+form.AssociationManagersubscriptionform._City	search.city
+form.AssociationManagersubscriptionform._Postcode	search.zip
+form.AssociationManagersubscriptionform._Telephone	search.phone
+form.AssociationManagersubscriptionform._Fax	search.fax
+form.AssociationManagersubscriptionform._Email	search.email
+form.AssociationManagersubscriptionform._Title	search.title
+form.AssociationManagersubscriptionform._Name	search.first
+form.AssociationManagersubscriptionform._Company_Name	search.company
+form.AssociationManagersubscriptionform._Address	search.street
+form.AssociationManagersubscriptionform._Position	search.jobcode

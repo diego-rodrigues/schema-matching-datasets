@@ -1,0 +1,33 @@
+http://www.bootsunlimited.com/index.cgi?token=10532681319_action=checkout_promo_code=
+http://www.bootsunlimited.com/index.cgi?token=10532681319_action=checkout_promo_code=
+> +-+-+ Boots Unlimited +-+-+ string
+> +-+-+ Nighttime Phone : +-+-+ string
+> +-+-+ Search +-+-+ string
+> +-+-+ Company : +-+-+ string
+> +-+-+ promo_code +-+-+ string
+> +-+-+ Zip Code : +-+-+ string
+> +-+-+ Extension: +-+-+ string
+> +-+-+ First Name : +-+-+ string
+> +-+-+ Email Address : +-+-+ string
+> +-+-+ dplate +-+-+ string
+> +-+-+ query_page +-+-+ string
+> +-+-+ page +-+-+ string
+> +-+-+ token +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ Last Name : Use this area if Shipping Address is different than Billing Info +-+-+ string
+> +-+-+ mf_list_march01 +-+-+ string
+> +-+-+ State Province : +-+-+ string
+> +-+-+ CLEAR +-+-+ string
+> +-+-+ SECURE SUBMIT +-+-+ string
+> +-+-+ payment +-+-+ string
+> +-+-+ rankedby +-+-+ string
+> +-+-+ Join +-+-+ string
+> +-+-+ perpage +-+-+ string
+> +-+-+ Last Name : Must match name on card. +-+-+ string
+> +-+-+ Country : +-+-+ string
+> +-+-+ Daytime Phone : +-+-+ string
+> +-+-+ Street : +-+-+ string
+> +-+-+ JOIN OUR MAILING LIST +-+-+ string
+> +-+-+ Fax : +-+-+ string
+> +-+-+ Go! +-+-+ string
+> +-+-+ City : +-+-+ string

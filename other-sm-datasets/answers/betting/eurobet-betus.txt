@@ -1,0 +1,17 @@
+newclient.City	SignupForm.cityEntry
+newclient.Mobilenumber	SignupForm.homePhoneEntry
+newclient.Mobilenumber	SignupForm.businessPhoneEntry
+newclient.Country	SignupForm.countryEntry
+newclient.PhoneNumber	SignupForm.homePhoneEntry
+newclient.PhoneNumber	SignupForm.businessPhoneEntry
+newclient.InfoSource	SignupForm.sourceEntry
+newclient.Reference	SignupForm.referredByEntry
+newclient.email	SignupForm.emailEntry
+newclient.Username	LoginVerify.CustomerID
+newclient.Name	SignupForm.nameFirstEntry
+newclient.Postcode	SignupForm.zipEntry
+newclient.Surname	SignupForm.nameLastEntry
+newclient.Pwd	SignupForm.passwordEntry
+newclient.Pwd	LoginVerify.Password
+newclient.RePwd	SignupForm.ConfirmPasswordEntry
+newclient.Address1	SignupForm.address1Entry

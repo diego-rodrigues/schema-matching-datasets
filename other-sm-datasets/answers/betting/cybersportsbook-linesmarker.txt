@@ -1,0 +1,15 @@
+JoinForm.txtPassword2	signupForm.REENTERPASSWORD
+JoinForm.txtPassword1	signupForm.PASSWORD
+JoinForm.txtBirthYear	signupForm.BIRTHYEAR
+JoinForm.txtCity	signupForm.CITY
+JoinForm.txtHomePhone	signupForm.HOMEPHONENO
+JoinForm.txtEmail	signupForm.EMAIL
+JoinForm.txtFirstName	signupForm.FIRSTNAME
+JoinForm.txtLastName	signupForm.LASTNAME
+JoinForm.txtCountry	signupForm.COUNTRY
+sportsbook.USERNAME	signupForm.USERID
+JoinForm.txtState	signupForm.STATE
+JoinForm.txtWorkPhone	signupForm.WORKPHONENO
+JoinForm.cboBirthMonth	signupForm.BIRTHMONTH
+JoinForm.txtZip	signupForm.ZIP
+JoinForm.cboBirthDay	signupForm.BIRTHDAY

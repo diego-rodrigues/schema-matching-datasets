@@ -1,0 +1,9 @@
+JoinForm.txtFirstName	Registerform.FORM_vorname
+JoinForm.txtFax	Registerform.FORM_telefax
+JoinForm.txtCountry	Registerform.FORM_nation
+JoinForm.txtLastName	Registerform.FORM_nachname
+JoinForm.txtAddress1	Registerform.FORM_strasse
+JoinForm.txtHomePhone	Registerform.FORM_telefon
+JoinForm.txtWorkPhone	Registerform.FORM_telefon
+JoinForm.txtEmail	Registerform.FORM_email
+JoinForm.txtZip	Registerform.FORM_plz

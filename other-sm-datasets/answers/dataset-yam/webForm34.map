@@ -1,0 +1,10 @@
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Username: ;excite.com.xml.xsd/http://registration.excite.com/excitereg/register.jsp/register/Birthdate/Member Name;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Password:;excite.com.xml.xsd/http://registration.excite.com/excitereg/register.jsp/register/Birthdate/Password;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Confirm Password:;excite.com.xml.xsd/http://registration.excite.com/excitereg/register.jsp/register/Birthdate/Repeat Password;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Please enter text from image:;excite.com.xml.xsd/http://registration.excite.com/excitereg/register.jsp/register/Birthdate/Travel/Autos/Shopping/Enter the letters as they appear in the box above:;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Email Address:;excite.com.xml.xsd/http://registration.excite.com/excitereg/register.jsp/register/Birthdate/Primary Email;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Confirm Email Address:;excite.com.xml.xsd/http://registration.excite.com/excitereg/register.jsp/register/Birthdate/Confirm Email Address;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/First Name:;excite.com.xml.xsd/http://registration.excite.com/excitereg/register.jsp/register/First Name;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Last Name:;excite.com.xml.xsd/http://registration.excite.com/excitereg/register.jsp/register/Last Name;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Street Address:;excite.com.xml.xsd/http://registration.excite.com/excitereg/register.jsp/register/Birthdate/Street Address;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/ZIP Postal Code:;excite.com.xml.xsd/http://registration.excite.com/excitereg/register.jsp/register/Birthdate/ZIP Code;

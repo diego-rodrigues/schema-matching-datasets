@@ -1,0 +1,19 @@
+https://www.moneymart.ca/paydayloans/applynow.asp
+CalcForm
+https://www.moneymart.ca/paydayloans/applynow.asp
+> +-+-+ CalcForm
+CalcForm
+> +-+-+ $ +-+-+ string
+> +-+-+ Phone Number +-+-+ string
+> +-+-+ Postal Code +-+-+ string
+> +-+-+ E-Mail +-+-+ string
+> +-+-+ Province +-+-+ string
+> +-+-+ Street Address +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ If the box below is empty it means Money Mart does not have a store in your city. Please choose the city nearest to you. +-+-+ string
+> +-+-+ - +-+-+ string
+> +-+-+ Date of Birth (mm dd yyyy) +-+-+ string
+> +-+-+ Enter the date you're next paid (mm dd yyyy) : +-+-+ string
+> +-+-+ Social Insurance # +-+-+ string
+> +-+-+ Last Name +-+-+ string
+> +-+-+ First Name +-+-+ string

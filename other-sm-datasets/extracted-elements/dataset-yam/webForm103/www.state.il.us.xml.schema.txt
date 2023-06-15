@@ -1,0 +1,34 @@
+http://www.state.il.us/dfi/ccd/ccd_complaint.htm
+http://www.state.il.us/dfi/ccd/ccd_complaint.htm
+> +-+-+ ResultCount +-+-+ string
+> +-+-+ Action +-+-+ string
+complaintform
+> +-+-+ complaintform
+complaintform
+> +-+-+ Mailing Address: +-+-+ string
+> +-+-+ Type of Company +-+-+ string
+> +-+-+ - - +-+-+ string
+> +-+-+ Name of Company +-+-+ string
+> +-+-+ Account Number +-+-+ string
+> +-+-+ Zip: +-+-+ string
+> +-+-+ Clear +-+-+ string
+> +-+-+ - +-+-+ string
+> +-+-+ Your E-mail Address: +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Telephone: +-+-+ string
+> +-+-+ City : +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ Mailing Address 1: +-+-+ string
+> +-+-+ Mailing Address 2: +-+-+ string
+> +-+-+ Date of Incident +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ State: +-+-+ string
+> +-+-+ Evening Phone: +-+-+ string
+> +-+-+ Day Phone: +-+-+ string
+http://www.state.il.us/dfi/ccd/ccd_complaint.htm
+> +-+-+ QueryMode +-+-+ string
+> +-+-+ Go +-+-+ string
+> +-+-+ collection +-+-+ string
+> +-+-+ Search Illinois +-+-+ string
+> +-+-+ ResultTemplate +-+-+ string

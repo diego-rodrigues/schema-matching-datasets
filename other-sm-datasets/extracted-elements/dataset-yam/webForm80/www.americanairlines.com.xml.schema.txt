@@ -1,0 +1,121 @@
+http://www.americanairlines.com/
+http://www.americanairlines.com/
+> +-+-+ _D:searchFormHandlerCaller +-+-+ string
+> +-+-+ _D:siteSections +-+-+ string
+> +-+-+ searchFormHandlerCaller +-+-+ string
+> +-+-+ _D:searchType +-+-+ string
+> +-+-+ maxResultsOnPage +-+-+ string
+> +-+-+ Go +-+-+ string
+> +-+-+ siteSections +-+-+ string
+> +-+-+ searchType +-+-+ string
+gts
+> +-+-+ gts
+gts
+> +-+-+ _D:origin +-+-+ string
+> +-+-+ _D:/aa/travelinfo/ViewFlightInfoFormHandler.submit +-+-+ string
+> +-+-+ Go +-+-+ string
+> +-+-+ currentCodeForm +-+-+ string
+viewMyMilesLoggedOut
+> +-+-+ viewMyMilesLoggedOut
+viewMyMilesLoggedOut
+> +-+-+ 1 +-+-+ string
+> +-+-+ _D:1 +-+-+ string
+> +-+-+ AAdvantage # +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Go +-+-+ string
+> +-+-+ _D:aadvantage number +-+-+ string
+> +-+-+ _D:/aa/account/authentication/LoginHandler.login +-+-+ string
+> +-+-+ _D:password +-+-+ string
+> +-+-+ _D:remember +-+-+ string
+gts
+> +-+-+ Date: +-+-+ string
+> +-+-+ _D:destination +-+-+ string
+> +-+-+ _D:flightNumber +-+-+ string
+> +-+-+ _D:time +-+-+ string
+> +-+-+ Flight Number: +-+-+ string
+> +-+-+ To: City or Airport Code +-+-+ string
+> +-+-+ _D:arrival +-+-+ string
+> +-+-+ currentCalForm +-+-+ string
+> +-+-+ From: City or Airport Code +-+-+ string
+> +-+-+ _D:date +-+-+ string
+> +-+-+ Time: +-+-+ string
+viewMyMilesLoggedOut
+http://www.americanairlines.com/
+> +-+-+ viewMyMilesLoggedOut
+viewMyMilesLoggedOut
+> +-+-+ 1 +-+-+ string
+> +-+-+ _D:1 +-+-+ string
+> +-+-+ AAdvantage # +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Go +-+-+ string
+> +-+-+ _D:aadvantage number +-+-+ string
+> +-+-+ _D:/aa/account/authentication/LoginHandler.login +-+-+ string
+> +-+-+ _D:password +-+-+ string
+> +-+-+ _D:remember +-+-+ string
+http://www.americanairlines.com/
+> +-+-+ _D:maxResultsOnPage +-+-+ string
+> +-+-+ _D:/aa/search/SearchFormHandler.currentResultsOffset +-+-+ string
+> +-+-+ /aa/search/SearchFormHandler.currentResultsOffset +-+-+ string
+depRetDates
+> +-+-+ depRetDates
+depRetDates
+> +-+-+ Number of Passengers: +-+-+ string
+> +-+-+ _D:returnTime +-+-+ string
+> +-+-+ Departure Date: +-+-+ string
+> +-+-+ _D:searchType +-+-+ string
+> +-+-+ returnYear +-+-+ string
+> +-+-+ Go +-+-+ string
+> +-+-+ Return Date: +-+-+ string
+> +-+-+ _D:departureTime +-+-+ string
+gts
+> +-+-+ gts
+gts
+> +-+-+ _D:origin +-+-+ string
+> +-+-+ _D:/aa/travelinfo/ViewFlightInfoFormHandler.submit +-+-+ string
+> +-+-+ Go +-+-+ string
+> +-+-+ currentCodeForm +-+-+ string
+viewMyMilesLoggedOut
+> +-+-+ viewMyMilesLoggedOut
+viewMyMilesLoggedOut
+> +-+-+ 1 +-+-+ string
+> +-+-+ _D:1 +-+-+ string
+> +-+-+ AAdvantage # +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Go +-+-+ string
+> +-+-+ _D:aadvantage number +-+-+ string
+> +-+-+ _D:/aa/account/authentication/LoginHandler.login +-+-+ string
+> +-+-+ _D:password +-+-+ string
+> +-+-+ _D:remember +-+-+ string
+gts
+> +-+-+ Date: +-+-+ string
+> +-+-+ _D:destination +-+-+ string
+> +-+-+ _D:flightNumber +-+-+ string
+> +-+-+ _D:time +-+-+ string
+> +-+-+ Flight Number: +-+-+ string
+> +-+-+ To: City or Airport Code +-+-+ string
+> +-+-+ _D:arrival +-+-+ string
+> +-+-+ currentCalForm +-+-+ string
+> +-+-+ From: City or Airport Code +-+-+ string
+> +-+-+ _D:date +-+-+ string
+> +-+-+ Time: +-+-+ string
+depRetDates
+> +-+-+ To: City or Airport Code +-+-+ string
+> +-+-+ _D:departureMonth +-+-+ string
+> +-+-+ AA.com +-+-+ string
+> +-+-+ currentCalForm +-+-+ string
+> +-+-+ _D:returnDay +-+-+ string
+> +-+-+ From: City or Airport Code +-+-+ string
+> +-+-+ _D:/aa/travelinfo/SearchFlightsFormHandler.submit +-+-+ string
+> +-+-+ _D:returnMonth +-+-+ string
+> +-+-+ Search by: +-+-+ string
+> +-+-+ _D:tripType +-+-+ string
+> +-+-+ _D:numAdultPassengers +-+-+ string
+> +-+-+ _D:origin +-+-+ string
+> +-+-+ departureYear +-+-+ string
+> +-+-+ currentCodeForm +-+-+ string
+> +-+-+ _D:destination +-+-+ string
+> +-+-+ _D:numChildPassengers +-+-+ string
+> +-+-+ _D:departureDay +-+-+ string
+http://www.americanairlines.com/
+> +-+-+ AA.com +-+-+ string
+> +-+-+ _D:searchText +-+-+ string

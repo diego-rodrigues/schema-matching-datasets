@@ -1,0 +1,11 @@
+fmRegister.tbEmail	JoinForm.EMAIL
+fmRegister.tbLname	JoinForm.LASTNAME
+fmRegister.tbAddrPc	JoinForm.ZIP
+fmRegister.tbAddr1	JoinForm.STREET
+fmRegister.tbPassword1	JoinForm.PASSWORD
+fmRegister.tbTel	JoinForm.HOMEPHONENO
+fmRegister.tbTel	JoinForm.WORKPHONENO
+fmRegister.tbPassword2	JoinForm.REENTERPASSWORD
+fmRegister.tbAddrCty	JoinForm.CITY
+fmRegister.country_code	JoinForm.COUNTRY
+fmRegister.tbFname	JoinForm.FIRSTNAME

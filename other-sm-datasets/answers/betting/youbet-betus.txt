@@ -1,0 +1,12 @@
+signup.email	SignupForm.emailEntry
+signup.maddress1	SignupForm.address2Entry
+signup.password2	SignupForm.ConfirmPasswordEntry
+signup.password1	SignupForm.passwordEntry
+signup.password1	LoginVerify.Password
+signup.first_name	SignupForm.nameFirstEntry
+signup.state	SignupForm.stateEntry
+signup.prodDiscoverySource	SignupForm.sourceEntry
+signup.last_name	SignupForm.nameLastEntry
+signup.city	SignupForm.cityEntry
+signup.address1	SignupForm.address1Entry
+signup.zip	SignupForm.zipEntry

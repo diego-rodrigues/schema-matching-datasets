@@ -1,0 +1,23 @@
+http://www.royal-plaza.co.il/ContactEng.html
+http://www.royal-plaza.co.il/ContactEng.html
+> +-+-+ Send +-+-+ string
+> +-+-+ Departure Date: +-+-+ string
+> +-+-+ Rooms and Suites: +-+-+ string
+> +-+-+ Total number of nights: +-+-+ string
+> +-+-+ Comments: +-+-+ string
+> +-+-+ cust_id +-+-+ string
+> +-+-+ lang +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ E-mail: +-+-+ string
+> +-+-+ Arrival Date: +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Zip Code: +-+-+ string
+> +-+-+ Telephone: +-+-+ string
+> +-+-+ Choose hotel: +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ Fax: +-+-+ string
+> +-+-+ Street and Apartment No.: +-+-+ string
+> +-+-+ State Province: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Number of people: +-+-+ string
+> +-+-+ Reset +-+-+ string

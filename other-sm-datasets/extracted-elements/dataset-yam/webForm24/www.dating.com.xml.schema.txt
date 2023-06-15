@@ -1,0 +1,35 @@
+http://www.dating.com/home.asp?sec=content_sub=3
+frmSignup
+http://www.dating.com/home.asp?sec=content_sub=3
+> +-+-+ frmSignup
+frmSignup
+> +-+-+ No Children +-+-+ string
+> +-+-+ Enter promotion code: +-+-+ string
+> +-+-+ Do you drink? +-+-+ string
+> +-+-+ Young child +-+-+ string
+> +-+-+ Zip code: +-+-+ string
+> +-+-+ Body type: +-+-+ string
+> +-+-+ Do you smoke? +-+-+ string
+> +-+-+ Special partners offers +-+-+ string
+> +-+-+ Hair Color: +-+-+ string
+> +-+-+ Teenager +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ My sexual orientation: +-+-+ string
+> +-+-+ My email address: +-+-+ string
+> +-+-+ Infant +-+-+ string
+> +-+-+ Education level: +-+-+ string
+> +-+-+ Ethnicity Background: +-+-+ string
+> +-+-+ College+ +-+-+ string
+> +-+-+ Height: +-+-+ string
+> +-+-+ Male +-+-+ string
+> +-+-+ dating.com news +-+-+ string
+> +-+-+ I am looking for: +-+-+ string
+> +-+-+ country +-+-+ string
+> +-+-+ Eye Color: +-+-+ string
+> +-+-+ My birthday: +-+-+ string
+> +-+-+ Pre-teen +-+-+ string
+> +-+-+ My username: +-+-+ string
+> +-+-+ Toddler +-+-+ string
+> +-+-+ Females +-+-+ string
+> +-+-+ (Minimum of 50 characters) +-+-+ string
+> +-+-+ Confirm password: +-+-+ string

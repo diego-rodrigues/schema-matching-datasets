@@ -1,0 +1,58 @@
+http://www.netstumbler.org/register.php
+http://www.netstumbler.org/register.php
+> +-+-+ Search +-+-+ string
+> +-+-+ forid +-+-+ string
+> +-+-+ client +-+-+ string
+> +-+-+ Month: +-+-+ string
+> +-+-+ domains +-+-+ string
+> +-+-+ Register +-+-+ string
+> +-+-+ hl +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ who +-+-+ string
+> +-+-+ Year: +-+-+ string
+register
+> +-+-+ register
+register
+> +-+-+ Search +-+-+ string
+> +-+-+ client +-+-+ string
+> +-+-+ Confirm Email Address: +-+-+ string
+> +-+-+ domains +-+-+ string
+> +-+-+ All timestamps displayed on the forums can be automatically corrected to show the correct time for your location in the world. Simply select the appropriate time zone from the list below. +-+-+ string
+> +-+-+ Confirm Password: +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ hl +-+-+ string
+> +-+-+ oe +-+-+ string
+> +-+-+ In addition, you may set the appropriate option to allow for daylight savings time in your part of the world. +-+-+ string
+> +-+-+ imagehash +-+-+ string
+> +-+-+ ie +-+-+ string
+> +-+-+ do +-+-+ string
+> +-+-+ User Name : +-+-+ string
+> +-+-+ password_md5 +-+-+ string
+> +-+-+ Receive Email from Administrators +-+-+ string
+> +-+-+ Receive Email from Other Members +-+-+ string
+> +-+-+ forid +-+-+ string
+> +-+-+ Please enter the text that you see in the image into the box on the right. You are asked to do this in order to verify that this registration is not being performed by an automated process. +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ passwordconfirm_md5 +-+-+ string
+> +-+-+ s +-+-+ string
+> +-+-+ cof +-+-+ string
+> +-+-+ Complete Registration +-+-+ string
+> +-+-+ Email Address: +-+-+ string
+> +-+-+ Reset Fields +-+-+ string
+> +-+-+ Google +-+-+ string
+> +-+-+ channel +-+-+ string
+> +-+-+ agree +-+-+ string
+http://www.netstumbler.org/register.php
+> +-+-+ oe +-+-+ string
+> +-+-+ s +-+-+ string
+> +-+-+ Day: +-+-+ string
+> +-+-+ cof +-+-+ string
+> +-+-+ ie +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+  Proceed  +-+-+ string
+> +-+-+ year +-+-+ string
+> +-+-+ do +-+-+ string
+> +-+-+ day +-+-+ string
+> +-+-+ I have read, and agree to abide by the NetStumbler.org WiFi Forums rules. +-+-+ string
+> +-+-+ Google +-+-+ string
+> +-+-+ channel +-+-+ string

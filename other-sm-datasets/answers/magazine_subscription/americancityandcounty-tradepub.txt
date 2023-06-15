@@ -1,0 +1,15 @@
+form1.Submit	search._submit
+form1.City	search.city
+form1.State	search.state
+form1.Zip	search.zip
+form1.COUNTRY	search.country
+form1.Phone	search.phone
+form1.Fax	search.fax
+form1.EMail	search.email
+form1.Title	search.title
+form1.FREE_SUB	search.Subscribe
+form1.FName	search.first
+form1.LName	search.last
+form1.Company	search.company
+form1.Deparment	search.dept_div
+form1.Address1	search.street

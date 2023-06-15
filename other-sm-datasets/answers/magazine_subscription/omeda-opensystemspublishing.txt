@@ -1,0 +1,10 @@
+qualform.CITY	form1.City
+qualform.STATE	form1.ST
+qualform.ZIPCODE	form1.Zip
+qualform.COUNTRY	form1.Country
+qualform.PHONE	form1.Telephone
+qualform.FAX	form1.Fax
+qualform.EMAIL_ADDRESS	form1.EmailAddress
+qualform.FNAME	form1.FirstName
+qualform.LNAME	form1.LastName
+qualform.COMPANY	form1.CompanyName

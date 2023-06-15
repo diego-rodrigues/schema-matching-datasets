@@ -1,0 +1,10 @@
+Preview.QuickOrder1btnSubmit	subForm.Submit
+Preview.QuickOrder1addresstxtCity	subForm.City
+Preview.QuickOrder1addresscboState	subForm.State
+Preview.QuickOrder1addresstxtPostalCode	subForm.zip
+Preview.QuickOrder1addresscboCountry	subForm.Country
+Preview.QuickOrder1addresstxtEmail	subForm.Email
+Preview.QuickOrder1addresstxtFirstName	subForm.FName
+Preview.QuickOrder1addresstxtLastName	subForm.LName
+Preview.QuickOrder1addresstxtAddress1	subForm.Address
+Preview.QuickOrder1addresstxtAddress2	subForm.Address2

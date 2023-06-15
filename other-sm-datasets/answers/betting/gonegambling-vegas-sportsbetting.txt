@@ -1,0 +1,11 @@
+registerfrm.confirmpassword	thisForm.txtInternetPasswordConfirmed
+registerfrm.city	thisForm.txtCity
+registerfrm.lastname	thisForm.txtLastName
+registerfrm.address2	thisForm.txtAddress2
+registerfrm.zip	thisForm.txtZipCode
+registerfrm.state	thisForm.txtState
+registerfrm.address1	thisForm.txtAddress1
+registerfrm.country	thisForm.cboCountry
+registerfrm.firstname	thisForm.txtFirstName
+registerfrm.email	thisForm.txtEMail
+registerfrm.password	thisForm.txtInternetPassword

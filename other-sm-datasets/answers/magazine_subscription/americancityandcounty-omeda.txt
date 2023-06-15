@@ -1,0 +1,13 @@
+form1.Submit	qualform.Submit
+form1.City	qualform.CITY
+form1.State	qualform.STATE
+form1.Zip	qualform.ZIPCODE
+form1.COUNTRY	qualform.COUNTRY
+form1.Phone	qualform.PHONE
+form1.Fax	qualform.FAX
+form1.EMail	qualform.EMAIL_ADDRESS
+form1.Title	qualform.TITLE
+form1.FName	qualform.FNAME
+form1.LName	qualform.LNAME
+form1.Company	qualform.COMPANY
+form1.Address1	qualform.ADDRESS1

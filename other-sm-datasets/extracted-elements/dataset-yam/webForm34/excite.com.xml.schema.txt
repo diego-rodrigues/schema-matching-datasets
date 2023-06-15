@@ -1,0 +1,238 @@
+http://registration.excite.com/excitereg/register.jsp
+register
+http://registration.excite.com/excitereg/register.jsp
+> +-+-+ register
+register
+> +-+-+ Sports +-+-+ string
+> +-+-+ password_err +-+-+ string
+> +-+-+ Music +-+-+ string
+> +-+-+ Golf +-+-+ string
+> +-+-+ Primary Email +-+-+ string
+> +-+-+ Confirm Email Address +-+-+ string
+> +-+-+ Asian or Pacific Islander +-+-+ string
+> +-+-+ submitted +-+-+ string
+> +-+-+ Other +-+-+ string
+> +-+-+ Market Research +-+-+ string
+> +-+-+ Books Reading +-+-+ string
+> +-+-+ Excite may make the information that I supplied available to selected companies so that they may contact me regarding services that may be of interest to me. +-+-+ string
+> +-+-+ Street Address +-+-+ string
+> +-+-+ Parenting Children +-+-+ string
+> +-+-+ Entertainment Celebrities +-+-+ string
+> +-+-+ Repeat Password +-+-+ string
+> +-+-+ White Caucasian +-+-+ string
+> +-+-+ Gender +-+-+ string
+> +-+-+ Business Opportunities +-+-+ string
+> +-+-+ Real Estate +-+-+ string
+> +-+-+ Last Name +-+-+ string
+> +-+-+ Technology +-+-+ string
+> +-+-+ First Name +-+-+ string
+Travel
+> +-+-+ Travel
+Autos
+Travel
+> +-+-+ Autos
+Shopping
+Autos
+> +-+-+ Shopping
+Shopping
+> +-+-+ Computer _ Electronics +-+-+ string
+> +-+-+ What is your household's total annual income for the most recent calendar year? (Please combine income for all household members.) +-+-+ string
+> +-+-+ Health _ Pharmaceuticals +-+-+ string
+> +-+-+ Free Samples, Discounts _ Coupons +-+-+ string
+> +-+-+ Food _ Beverage +-+-+ string
+> +-+-+ Entertainment _ Games +-+-+ string
+> +-+-+ Sports +-+-+ string
+> +-+-+ Fashion _ Beauty +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo +-+-+ string
+> +-+-+ Cooking +-+-+ string
+> +-+-+ I'd rather not say +-+-+ string
+> +-+-+ Please notify me about new features, events and special offers about Excite services. +-+-+ string
+> +-+-+ Financial Services +-+-+ string
+> +-+-+ Asian or Pacific Islander +-+-+ string
+> +-+-+ Black African-American +-+-+ string
+> +-+-+ Enter the letters as they appear in the box above: +-+-+ string
+> +-+-+ Career _ Education +-+-+ string
+> +-+-+ Magazine _ Books +-+-+ string
+> +-+-+ Other +-+-+ string
+> +-+-+ Market Research +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo I'd rather not say +-+-+ string
+> +-+-+ Excite may make the information that I supplied available to selected companies so that they may contact me regarding services that may be of interest to me. +-+-+ string
+> +-+-+ White Caucasian +-+-+ string
+> +-+-+ Home _ Gardening +-+-+ string
+> +-+-+ Gender +-+-+ string
+> +-+-+ Business Opportunities +-+-+ string
+> +-+-+ Real Estate +-+-+ string
+> +-+-+ Technology +-+-+ string
+Autos
+> +-+-+ Personal Finance +-+-+ string
+> +-+-+ Gambling +-+-+ string
+> +-+-+ Health +-+-+ string
+> +-+-+ Books Reading +-+-+ string
+> +-+-+ Golf +-+-+ string
+> +-+-+ None of the above +-+-+ string
+> +-+-+ Computers Technology +-+-+ string
+> +-+-+ Parenting Children +-+-+ string
+register
+> +-+-+ Adventure Outdoors +-+-+ string
+> +-+-+ What is your household's total annual income for the most recent calendar year? (Please combine income for all household members.) +-+-+ string
+> +-+-+ Reminder Phrase +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Health +-+-+ string
+> +-+-+ None of the above +-+-+ string
+> +-+-+ Computers Technology +-+-+ string
+> +-+-+ Personal Finance +-+-+ string
+> +-+-+ coreg +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo +-+-+ string
+> +-+-+ Cooking +-+-+ string
+> +-+-+ jsok +-+-+ string
+Birthdate
+> +-+-+ Birthdate
+Travel
+Birthdate
+> +-+-+ Travel
+Autos
+Travel
+> +-+-+ Autos
+Shopping
+Autos
+> +-+-+ Shopping
+Shopping
+> +-+-+ Computer _ Electronics +-+-+ string
+> +-+-+ What is your household's total annual income for the most recent calendar year? (Please combine income for all household members.) +-+-+ string
+> +-+-+ Health _ Pharmaceuticals +-+-+ string
+> +-+-+ Free Samples, Discounts _ Coupons +-+-+ string
+> +-+-+ Food _ Beverage +-+-+ string
+> +-+-+ Entertainment _ Games +-+-+ string
+> +-+-+ Sports +-+-+ string
+> +-+-+ Fashion _ Beauty +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo +-+-+ string
+> +-+-+ Cooking +-+-+ string
+> +-+-+ I'd rather not say +-+-+ string
+> +-+-+ Please notify me about new features, events and special offers about Excite services. +-+-+ string
+> +-+-+ Financial Services +-+-+ string
+> +-+-+ Asian or Pacific Islander +-+-+ string
+> +-+-+ Black African-American +-+-+ string
+> +-+-+ Enter the letters as they appear in the box above: +-+-+ string
+> +-+-+ Career _ Education +-+-+ string
+> +-+-+ Magazine _ Books +-+-+ string
+> +-+-+ Other +-+-+ string
+> +-+-+ Market Research +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo I'd rather not say +-+-+ string
+> +-+-+ Excite may make the information that I supplied available to selected companies so that they may contact me regarding services that may be of interest to me. +-+-+ string
+> +-+-+ White Caucasian +-+-+ string
+> +-+-+ Home _ Gardening +-+-+ string
+> +-+-+ Gender +-+-+ string
+> +-+-+ Business Opportunities +-+-+ string
+> +-+-+ Real Estate +-+-+ string
+> +-+-+ Technology +-+-+ string
+Autos
+> +-+-+ Personal Finance +-+-+ string
+> +-+-+ Gambling +-+-+ string
+> +-+-+ Health +-+-+ string
+> +-+-+ Books Reading +-+-+ string
+> +-+-+ Golf +-+-+ string
+> +-+-+ None of the above +-+-+ string
+> +-+-+ Computers Technology +-+-+ string
+> +-+-+ Parenting Children +-+-+ string
+Birthdate
+> +-+-+ Member Name +-+-+ string
+> +-+-+ Adventure Outdoors +-+-+ string
+> +-+-+ Reminder Phrase +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Street Address +-+-+ string
+> +-+-+ password_err +-+-+ string
+> +-+-+ Entertainment Celebrities +-+-+ string
+> +-+-+ Repeat Password +-+-+ string
+> +-+-+ Music +-+-+ string
+> +-+-+ ZIP Code +-+-+ string
+> +-+-+ Primary Email +-+-+ string
+> +-+-+ Confirm Email Address +-+-+ string
+register
+> +-+-+ I'd rather not say +-+-+ string
+> +-+-+ Financial Services +-+-+ string
+> +-+-+ Please notify me about new features, events and special offers about Excite services. +-+-+ string
+> +-+-+ scroll_y +-+-+ string
+> +-+-+ Black African-American +-+-+ string
+> +-+-+ zipcheck +-+-+ string
+> +-+-+ Member Name +-+-+ string
+Shopping
+> +-+-+ Shopping
+Shopping
+> +-+-+ Computer _ Electronics +-+-+ string
+> +-+-+ What is your household's total annual income for the most recent calendar year? (Please combine income for all household members.) +-+-+ string
+> +-+-+ Health _ Pharmaceuticals +-+-+ string
+> +-+-+ Free Samples, Discounts _ Coupons +-+-+ string
+> +-+-+ Food _ Beverage +-+-+ string
+> +-+-+ Entertainment _ Games +-+-+ string
+> +-+-+ Sports +-+-+ string
+> +-+-+ Fashion _ Beauty +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo +-+-+ string
+> +-+-+ Cooking +-+-+ string
+> +-+-+ I'd rather not say +-+-+ string
+> +-+-+ Please notify me about new features, events and special offers about Excite services. +-+-+ string
+> +-+-+ Financial Services +-+-+ string
+> +-+-+ Asian or Pacific Islander +-+-+ string
+> +-+-+ Black African-American +-+-+ string
+> +-+-+ Enter the letters as they appear in the box above: +-+-+ string
+> +-+-+ Career _ Education +-+-+ string
+> +-+-+ Magazine _ Books +-+-+ string
+> +-+-+ Other +-+-+ string
+> +-+-+ Market Research +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo I'd rather not say +-+-+ string
+> +-+-+ Excite may make the information that I supplied available to selected companies so that they may contact me regarding services that may be of interest to me. +-+-+ string
+> +-+-+ White Caucasian +-+-+ string
+> +-+-+ Home _ Gardening +-+-+ string
+> +-+-+ Gender +-+-+ string
+> +-+-+ Business Opportunities +-+-+ string
+> +-+-+ Real Estate +-+-+ string
+> +-+-+ Technology +-+-+ string
+register
+> +-+-+ Enter the letters as they appear in the box above: +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo I'd rather not say +-+-+ string
+> +-+-+ Gambling +-+-+ string
+> +-+-+ ZIP Code +-+-+ string
+Autos
+> +-+-+ Autos
+Shopping
+Autos
+> +-+-+ Shopping
+Shopping
+> +-+-+ Computer _ Electronics +-+-+ string
+> +-+-+ What is your household's total annual income for the most recent calendar year? (Please combine income for all household members.) +-+-+ string
+> +-+-+ Health _ Pharmaceuticals +-+-+ string
+> +-+-+ Free Samples, Discounts _ Coupons +-+-+ string
+> +-+-+ Food _ Beverage +-+-+ string
+> +-+-+ Entertainment _ Games +-+-+ string
+> +-+-+ Sports +-+-+ string
+> +-+-+ Fashion _ Beauty +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo +-+-+ string
+> +-+-+ Cooking +-+-+ string
+> +-+-+ I'd rather not say +-+-+ string
+> +-+-+ Please notify me about new features, events and special offers about Excite services. +-+-+ string
+> +-+-+ Financial Services +-+-+ string
+> +-+-+ Asian or Pacific Islander +-+-+ string
+> +-+-+ Black African-American +-+-+ string
+> +-+-+ Enter the letters as they appear in the box above: +-+-+ string
+> +-+-+ Career _ Education +-+-+ string
+> +-+-+ Magazine _ Books +-+-+ string
+> +-+-+ Other +-+-+ string
+> +-+-+ Market Research +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo I'd rather not say +-+-+ string
+> +-+-+ Excite may make the information that I supplied available to selected companies so that they may contact me regarding services that may be of interest to me. +-+-+ string
+> +-+-+ White Caucasian +-+-+ string
+> +-+-+ Home _ Gardening +-+-+ string
+> +-+-+ Gender +-+-+ string
+> +-+-+ Business Opportunities +-+-+ string
+> +-+-+ Real Estate +-+-+ string
+> +-+-+ Technology +-+-+ string
+Autos
+> +-+-+ Personal Finance +-+-+ string
+> +-+-+ Gambling +-+-+ string
+> +-+-+ Health +-+-+ string
+> +-+-+ Books Reading +-+-+ string
+> +-+-+ Golf +-+-+ string
+> +-+-+ None of the above +-+-+ string
+> +-+-+ Computers Technology +-+-+ string
+> +-+-+ Parenting Children +-+-+ string
+register
+> +-+-+ img_name +-+-+ string

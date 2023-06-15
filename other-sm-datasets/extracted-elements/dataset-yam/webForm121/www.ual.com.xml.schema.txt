@@ -1,0 +1,279 @@
+http://www.ual.com/
+EmailLite
+http://www.ual.com/
+> +-+-+ EmailLite
+EmailLite
+> +-+-+ l_contentid +-+-+ string
+> +-+-+ l_vid +-+-+ string
+> +-+-+ Email address +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ l_cid +-+-+ string
+> +-+-+ l_bid +-+-+ string
+MileagePlus
+http://www.ual.com/
+> +-+-+ MileagePlus
+MileagePlus
+> +-+-+ Login +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Remember my Mileage Plus# +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ Mileage Plus# +-+-+ string
+FlightStatus
+> +-+-+ FlightStatus
+EmailLite
+FlightStatus
+> +-+-+ EmailLite
+EmailLite
+> +-+-+ l_contentid +-+-+ string
+> +-+-+ l_vid +-+-+ string
+> +-+-+ Email address +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ l_cid +-+-+ string
+> +-+-+ l_bid +-+-+ string
+FlightStatus
+> +-+-+ Check +-+-+ string
+> +-+-+ Flight number +-+-+ string
+> +-+-+ time +-+-+ string
+> +-+-+ deparr value= +-+-+ string
+> +-+-+ To +-+-+ string
+> +-+-+ united.com +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ From +-+-+ string
+FlightSearch
+http://www.ual.com/
+> +-+-+ FlightSearch
+FlightSearch
+> +-+-+ air_avail +-+-+ string
+who_opened
+> +-+-+ who_opened
+who_opened
+> +-+-+ Check +-+-+ string
+> +-+-+ Search by +-+-+ string
+> +-+-+ Departure date +-+-+ string
+> +-+-+ Round trip One way Multi city +-+-+ string
+> +-+-+ To +-+-+ string
+> +-+-+ Return +-+-+ string
+> +-+-+ whowho +-+-+ string
+> +-+-+ Search by Schedule Price Passengers +-+-+ string
+WebCheckin
+> +-+-+ WebCheckin
+MileagePlus
+WebCheckin
+> +-+-+ MileagePlus
+MileagePlus
+> +-+-+ Login +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Remember my Mileage Plus# +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ Mileage Plus# +-+-+ string
+FlightStatus
+> +-+-+ FlightStatus
+EmailLite
+FlightStatus
+> +-+-+ EmailLite
+EmailLite
+> +-+-+ l_contentid +-+-+ string
+> +-+-+ l_vid +-+-+ string
+> +-+-+ Email address +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ l_cid +-+-+ string
+> +-+-+ l_bid +-+-+ string
+FlightStatus
+> +-+-+ Check +-+-+ string
+> +-+-+ Flight number +-+-+ string
+> +-+-+ time +-+-+ string
+> +-+-+ deparr value= +-+-+ string
+> +-+-+ To +-+-+ string
+> +-+-+ united.com +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ From +-+-+ string
+WebCheckin
+> +-+-+ Continue +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Remember my Mileage Plus# +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ Mileage Plus# +-+-+ string
+who_opened
+> +-+-+ From +-+-+ string
+FlightSearch
+> +-+-+ action +-+-+ string
+> +-+-+ airline +-+-+ string
+who_opened
+http://www.ual.com/
+> +-+-+ who_opened
+who_opened
+> +-+-+ Check +-+-+ string
+> +-+-+ Search by +-+-+ string
+> +-+-+ Departure date +-+-+ string
+> +-+-+ Round trip One way Multi city +-+-+ string
+> +-+-+ To +-+-+ string
+> +-+-+ Return +-+-+ string
+> +-+-+ whowho +-+-+ string
+> +-+-+ Search by Schedule Price Passengers +-+-+ string
+WebCheckin
+> +-+-+ WebCheckin
+MileagePlus
+WebCheckin
+> +-+-+ MileagePlus
+MileagePlus
+> +-+-+ Login +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Remember my Mileage Plus# +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ Mileage Plus# +-+-+ string
+FlightStatus
+> +-+-+ FlightStatus
+EmailLite
+FlightStatus
+> +-+-+ EmailLite
+EmailLite
+> +-+-+ l_contentid +-+-+ string
+> +-+-+ l_vid +-+-+ string
+> +-+-+ Email address +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ l_cid +-+-+ string
+> +-+-+ l_bid +-+-+ string
+FlightStatus
+> +-+-+ Check +-+-+ string
+> +-+-+ Flight number +-+-+ string
+> +-+-+ time +-+-+ string
+> +-+-+ deparr value= +-+-+ string
+> +-+-+ To +-+-+ string
+> +-+-+ united.com +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ From +-+-+ string
+WebCheckin
+> +-+-+ Continue +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Remember my Mileage Plus# +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ Mileage Plus# +-+-+ string
+who_opened
+> +-+-+ From +-+-+ string
+WebCheckin
+http://www.ual.com/
+> +-+-+ WebCheckin
+MileagePlus
+WebCheckin
+> +-+-+ MileagePlus
+MileagePlus
+> +-+-+ Login +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Remember my Mileage Plus# +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ Mileage Plus# +-+-+ string
+FlightStatus
+> +-+-+ FlightStatus
+EmailLite
+FlightStatus
+> +-+-+ EmailLite
+EmailLite
+> +-+-+ l_contentid +-+-+ string
+> +-+-+ l_vid +-+-+ string
+> +-+-+ Email address +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ l_cid +-+-+ string
+> +-+-+ l_bid +-+-+ string
+FlightStatus
+> +-+-+ Check +-+-+ string
+> +-+-+ Flight number +-+-+ string
+> +-+-+ time +-+-+ string
+> +-+-+ deparr value= +-+-+ string
+> +-+-+ To +-+-+ string
+> +-+-+ united.com +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ From +-+-+ string
+WebCheckin
+> +-+-+ Continue +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Remember my Mileage Plus# +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ Mileage Plus# +-+-+ string
+FlightStatus
+http://www.ual.com/
+> +-+-+ FlightStatus
+EmailLite
+FlightStatus
+> +-+-+ EmailLite
+EmailLite
+> +-+-+ l_contentid +-+-+ string
+> +-+-+ l_vid +-+-+ string
+> +-+-+ Email address +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ l_cid +-+-+ string
+> +-+-+ l_bid +-+-+ string
+FlightStatus
+> +-+-+ Check +-+-+ string
+> +-+-+ Flight number +-+-+ string
+> +-+-+ time +-+-+ string
+> +-+-+ deparr value= +-+-+ string
+> +-+-+ To +-+-+ string
+> +-+-+ united.com +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ From +-+-+ string
+Homepagesearch
+http://www.ual.com/
+> +-+-+ Homepagesearch
+Homepagesearch
+> +-+-+ Contact United | Site search : +-+-+ string
+FlightSearch
+> +-+-+ FlightSearch
+FlightSearch
+> +-+-+ air_avail +-+-+ string
+who_opened
+> +-+-+ who_opened
+who_opened
+> +-+-+ Check +-+-+ string
+> +-+-+ Search by +-+-+ string
+> +-+-+ Departure date +-+-+ string
+> +-+-+ Round trip One way Multi city +-+-+ string
+> +-+-+ To +-+-+ string
+> +-+-+ Return +-+-+ string
+> +-+-+ whowho +-+-+ string
+> +-+-+ Search by Schedule Price Passengers +-+-+ string
+WebCheckin
+> +-+-+ WebCheckin
+MileagePlus
+WebCheckin
+> +-+-+ MileagePlus
+MileagePlus
+> +-+-+ Login +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Remember my Mileage Plus# +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ Mileage Plus# +-+-+ string
+FlightStatus
+> +-+-+ FlightStatus
+EmailLite
+FlightStatus
+> +-+-+ EmailLite
+EmailLite
+> +-+-+ l_contentid +-+-+ string
+> +-+-+ l_vid +-+-+ string
+> +-+-+ Email address +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ l_cid +-+-+ string
+> +-+-+ l_bid +-+-+ string
+FlightStatus
+> +-+-+ Check +-+-+ string
+> +-+-+ Flight number +-+-+ string
+> +-+-+ time +-+-+ string
+> +-+-+ deparr value= +-+-+ string
+> +-+-+ To +-+-+ string
+> +-+-+ united.com +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ From +-+-+ string
+WebCheckin
+> +-+-+ Continue +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Remember my Mileage Plus# +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ Mileage Plus# +-+-+ string
+who_opened
+> +-+-+ From +-+-+ string
+FlightSearch
+> +-+-+ action +-+-+ string
+> +-+-+ airline +-+-+ string
+Homepagesearch
+> +-+-+ Go +-+-+ string
+> +-+-+ pr +-+-+ string

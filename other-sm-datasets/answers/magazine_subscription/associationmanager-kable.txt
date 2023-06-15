@@ -1,0 +1,9 @@
+form.AssociationManagersubscriptionform._submit	newsubs.Submit
+form.AssociationManagersubscriptionform._City	newsubs.City
+form.AssociationManagersubscriptionform._Postcode	newsubs.PostalCode
+form.AssociationManagersubscriptionform._Email	newsubs.Email
+form.AssociationManagersubscriptionform._Name	newsubs.FirstName
+form.AssociationManagersubscriptionform._Company_Name	newsubs.Company
+form.AssociationManagersubscriptionform._Address	newsubs.Address1
+form.AssociationManagersubscriptionform._card_no	newsubs.CCNum
+form.AssociationManagersubscriptionform._expire	newsubs.CCExpMonth

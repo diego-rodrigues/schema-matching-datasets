@@ -1,0 +1,14 @@
+fmRegister.tbEmail	Details.txtEmail
+fmRegister.tbAddr1	Details.txtAddress1
+fmRegister.tbTel	Details.txtTelephone
+fmRegister.tbAddrCty	Details.txtCityTown
+fmRegister.country_code	Details.cboCountryAlt
+fmRegister.tbFname	Details.txtFirstName
+fmRegister.tbTitle	Details.cboTitle
+fmRegister.tbUserName	Details.txtUsername
+fmRegister.tbLname	Details.txtSurname
+fmRegister.tbAddrPc	Details.txtPostcode
+fmRegister.tbAddrPc	Details.txtQASPostcode
+fmRegister.tbPassword1	Details.txtPassword
+fmRegister.tbPassword2	Details.txtPasswordConfirm
+fmRegister.rdContact	Details.chkMail

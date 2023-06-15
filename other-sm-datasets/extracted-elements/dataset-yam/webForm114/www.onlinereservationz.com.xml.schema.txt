@@ -1,0 +1,35 @@
+http://www.onlinereservationz.com/rc/index.html
+resrvForm
+http://www.onlinereservationz.com/rc/index.html
+> +-+-+ resrvForm
+resrvForm
+> +-+-+ bed_type +-+-+ string
+> +-+-+ Search Now +-+-+ string
+> +-+-+ #Rooms: +-+-+ string
+> +-+-+ src_aid +-+-+ string
+Check In:
+> +-+-+ Check In:
+Check Out:
+Check In:
+> +-+-+ Check Out:
+Check Out:
+> +-+-+ #Children: +-+-+ string
+> +-+-+ #Adults: +-+-+ string
+> +-+-+ #Rooms: +-+-+ string
+resrvForm
+> +-+-+ avail +-+-+ string
+> +-+-+ header +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ #Children: +-+-+ string
+> +-+-+ footer +-+-+ string
+> +-+-+ #Adults: +-+-+ string
+Check Out:
+> +-+-+ Check Out:
+Check Out:
+> +-+-+ #Children: +-+-+ string
+> +-+-+ #Adults: +-+-+ string
+> +-+-+ #Rooms: +-+-+ string
+resrvForm
+> +-+-+ src +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ smoking_pref +-+-+ string

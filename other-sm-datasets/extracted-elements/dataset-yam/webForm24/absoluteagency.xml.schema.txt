@@ -1,0 +1,29 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/A b s o l u t e A g e n c y.htm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/A b s o l u t e A g e n c y.htm
+> +-+-+ Your Religion +-+-+ string
+> +-+-+ Look for a: +-+-+ string
+> +-+-+ You are +-+-+ string
+> +-+-+ Your State (US only) +-+-+ string
+> +-+-+ Your Preference +-+-+ string
+> +-+-+ Your City +-+-+ string
+> +-+-+ Age range from +-+-+ string
+> +-+-+ Preferred Ethnicity +-+-+ string
+> +-+-+ What type of relations you'd prefer +-+-+ string
+> +-+-+ Add to database +-+-+ string
+> +-+-+ Your Weight +-+-+ string
+> +-+-+ Your Hair Color +-+-+ string
+> +-+-+ Your personal ad's Text +-+-+ string
+> +-+-+ Height from +-+-+ string
+> +-+-+ Your Height +-+-+ string
+> +-+-+ To +-+-+ string
+> +-+-+ Smoking Preference +-+-+ string
+> +-+-+ Your Email +-+-+ string
+> +-+-+ Your race +-+-+ string
+> +-+-+ Your Age +-+-+ string
+> +-+-+ pcode +-+-+ string
+> +-+-+ Weight from +-+-+ string
+> +-+-+ Do you want to receive new profiles? +-+-+ string
+> +-+-+ Your Country +-+-+ string
+> +-+-+ You are a +-+-+ string
+> +-+-+ Your Name +-+-+ string
+> +-+-+ Your Eye Color +-+-+ string

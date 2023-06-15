@@ -1,0 +1,20 @@
+Registerform
+Registerform
+> - FORM_anrede - string
+> - FORM_titel - string
+> - FORM_vorname - string
+> - FORM_nachname - string
+> - FORM_strasse - string
+> - FORM_plz - string
+> - FORM_ort - string
+> - FORM_nation - string
+> - FORM_waehrung - string
+> - FORM_geburtsdatumTag - string
+> - FORM_geburtsdatumMonat - string
+> - FORM_geburtsdatumJahr - string
+> - FORM_email - string
+> - FORM_telefon - string
+> - FORM_telefax - string
+> - FORM_teilnahme - string
+> - FORM_submitType - string
+> - FORM_submit - string

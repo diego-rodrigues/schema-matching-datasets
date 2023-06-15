@@ -1,0 +1,14 @@
+signupForm.WORKPHONENO	newclient.PhoneNumber
+signupForm.EMAIL	newclient.email
+signupForm.CITY	newclient.City
+signupForm.BIRTHMONTH	newclient.p_birthmonth
+signupForm.LASTNAME	newclient.Surname
+signupForm.USERID	newclient.Username
+signupForm.STREET	newclient.Addressno
+signupForm.PASSWORD	newclient.Pwd
+signupForm.REENTERPASSWORD	newclient.RePwd
+signupForm.BIRTHDAY	newclient.p_birthday
+signupForm.ZIP	newclient.Postcode
+signupForm.COUNTRY	newclient.Country
+signupForm.FIRSTNAME	newclient.Name
+signupForm.BIRTHYEAR	newclient.p_birthyear

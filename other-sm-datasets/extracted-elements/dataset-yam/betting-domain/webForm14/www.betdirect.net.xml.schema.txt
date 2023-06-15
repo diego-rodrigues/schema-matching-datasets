@@ -1,0 +1,40 @@
+https://www.betdirect.net/betdirect?action=go_register
+fmRegister
+https://www.betdirect.net/betdirect?action=go_register
+> +-+-+ fmRegister
+fmRegister
+> +-+-+ Account Currency : +-+-+ string
+> +-+-+ Telephone : +-+-+ string
+> +-+-+ Date Of Birth (DD MM YYYY) : +-+-+ string
+> +-+-+ Title: +-+-+ string
+> +-+-+ I don't mind if you contact me Please don't contact me +-+-+ string
+> +-+-+ Pin (4 digit) Password (6-16 chars) (once) : +-+-+ string
+> +-+-+ How did you hear about Littlewoods Bet Direct? TV Football Pools Coupon Newspaper, Search Engine Bet 247 Website Radio Lotteries Other, Please specify: +-+-+ string
+> +-+-+ aff +-+-+ string
+> +-+-+ I hereby confirm that I have read, understood and agree to be bound by all the +-+-+ string
+> +-+-+ Yes No +-+-+ string
+> +-+-+ First Name : +-+-+ string
+> +-+-+ AffBetslip +-+-+ string
+> +-+-+ Postcode Zipcode : +-+-+ string
+> +-+-+ Interactive TV Email : +-+-+ string
+> +-+-+ Last Name : +-+-+ string
+> +-+-+ tbQ2 +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ tbQ1 +-+-+ string
+> +-+-+ (4) : +-+-+ string
+> +-+-+ regCombination +-+-+ string
+> +-+-+ Mother's Maiden Name : +-+-+ string
+> +-+-+ Fractional Decimal +-+-+ string
+> +-+-+ (3) : +-+-+ string
+> +-+-+ Mobile Phone : +-+-+ string
+> +-+-+ Street Address (1) : +-+-+ string
+> +-+-+ City Town : +-+-+ string
+> +-+-+ (2) : +-+-+ string
+> +-+-+ Enter Pin Password again : +-+-+ string
+> +-+-+ Country : +-+-+ string
+> +-+-+ Football Pools Coupon +-+-+ string
+> +-+-+ this is the name you will use to access the system, between 6 and 16 characters, please use letters, numbers and underscores only. N.B. your username is case sensitive) +-+-+ string
+> +-+-+ E-mail Address : +-+-+ string
+> +-+-+ I am 18 years of age or over +-+-+ string
+> +-+-+ How did you hear about Littlewoods Bet Direct? TV Football Pools Coupon Newspaper, Search Engine Bet 247 Website Radio Lotteries Other, Please specify: Newspaper (please specify which) : +-+-+ string
+> +-+-+ TV +-+-+ string

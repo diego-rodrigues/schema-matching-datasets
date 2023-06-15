@@ -1,0 +1,124 @@
+Reference
+> +-+-+ Book
+> +-+-+ Informal
+> +-+-+ Part
+> +-+-+ Academic
+> +-+-+ Misc
+> +-+-+ Report
+> +-+-+ MotionPicture
+> +-+-+ key +-+-+ string
+> +-+-+ reviewed +-+-+ string
+> +-+-+ chapters +-+-+ string
+> +-+-+ parts +-+-+ string
+> +-+-+ annote +-+-+ string
+> +-+-+ contract +-+-+ string
+> +-+-+ humanCreator +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ note +-+-+ string
+> +-+-+ publisher +-+-+ string
+> +-+-+ series +-+-+ string
+> +-+-+ title +-+-+ string
+> +-+-+ affiliation +-+-+ string
+> +-+-+ abstract +-+-+ string
+> +-+-+ contents +-+-+ string
+> +-+-+ copyright +-+-+ string
+> +-+-+ isbn +-+-+ string
+> +-+-+ issn +-+-+ string
+> +-+-+ keywords +-+-+ string
+> +-+-+ language +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ lccn +-+-+ string
+> +-+-+ mrNumber +-+-+ string
+> +-+-+ price +-+-+ string
+> +-+-+ size +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ number +-+-+ string
+> +-+-+ issue +-+-+ string
+> +-+-+ volume +-+-+ string
+Article
+> +-+-+ journal +-+-+ string
+Part
+> +-+-+ Article
+> +-+-+ Chapter
+> +-+-+ InBook
+> +-+-+ InCollection
+> +-+-+ InProceedings
+> +-+-+ isPartOf +-+-+ string
+> +-+-+ chapter +-+-+ string
+> +-+-+ pages +-+-+ string
+Book
+> +-+-+ Monograph +-+-+ string
+> +-+-+ Collection +-+-+ string
+> +-+-+ Proceedings
+> +-+-+ edition +-+-+ string
+Informal
+> +-+-+ Booklet
+> +-+-+ LectureNotes
+> +-+-+ Manual
+> +-+-+ Unpublished +-+-+ string
+Booklet
+> +-+-+ howPublished +-+-+ string
+Chapter
+> +-+-+ firstPublished +-+-+ string
+> +-+-+ type +-+-+ string
+InBook
+> +-+-+ book +-+-+ string
+InCollection
+> +-+-+ collection +-+-+ string
+InProceedings
+> +-+-+ proceedings +-+-+ string
+LectureNotes
+> +-+-+ school +-+-+ string
+Manual
+> +-+-+ edition +-+-+ string
+> +-+-+ organization +-+-+ string
+Academic
+> +-+-+ MastersThesis +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+> +-+-+ school +-+-+ string
+> +-+-+ type +-+-+ string
+Misc
+> +-+-+ howPublished +-+-+ string
+Proceedings
+> +-+-+ communications +-+-+ string
+> +-+-+ event +-+-+ string
+> +-+-+ organization +-+-+ string
+Report
+> +-+-+ TechReport
+> +-+-+ Deliverable +-+-+ string
+> +-+-+ institution +-+-+ string
+TechReport
+> +-+-+ type +-+-+ string
+MotionPicture
+> +-+-+ directors +-+-+ string
+Journal
+> +-+-+ articles +-+-+ string
+> +-+-+ periodicity +-+-+ string
+> +-+-+ publisher +-+-+ string
+Conference
+> +-+-+ organizer +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ issue +-+-+ string
+Address
+> +-+-+ city +-+-+ string
+> +-+-+ state +-+-+ string
+> +-+-+ country +-+-+ string
+Institution
+> +-+-+ Publisher +-+-+ string
+> +-+-+ School +-+-+ string
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ Institution
+List
+> +-+-+ PersonList +-+-+ string
+PageRange
+> +-+-+ startPage +-+-+ string
+> +-+-+ endPage +-+-+ string
+Date
+> +-+-+ year +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+ day +-+-+ string
+Thing
+> +-+-+ address +-+-+ string

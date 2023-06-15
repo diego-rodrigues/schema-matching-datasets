@@ -1,0 +1,9 @@
+univ1.xsd/CS Dept Australia;univ2.xsd/CS Dept U.S.;
+univ1.xsd/CS Dept Australia/Courses;univ2.xsd/CS Dept U.S./Grad Courses;
+univ1.xsd/CS Dept Australia/Courses;univ2.xsd/CS Dept U.S./Undergrad Courses;
+univ1.xsd/CS Dept Australia/Staff;univ2.xsd/CS Dept U.S./People;
+univ1.xsd/CS Dept Australia/Staff/Technical Staff;univ2.xsd/CS Dept U.S./People/Staff;
+univ1.xsd/CS Dept Australia/Staff/Academic Staff;univ2.xsd/CS Dept U.S./People/Faculty;
+univ1.xsd/CS Dept Australia/Staff/Academic Staff/Lecturer;univ2.xsd/CS Dept U.S./People/Faculty/Assistant Professor;
+univ1.xsd/CS Dept Australia/Staff/Academic Staff/Senior Lecturer;univ2.xsd/CS Dept U.S./People/Faculty/Associate Professor;
+univ1.xsd/CS Dept Australia/Staff/Academic Staff/Professor;univ2.xsd/CS Dept U.S./People/Faculty/Professor;

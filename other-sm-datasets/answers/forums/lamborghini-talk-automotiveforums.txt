@@ -1,0 +1,12 @@
+register.optionsadminemail	registerpage.optionsadminemail
+register.password	registerpage.password
+register.month	registerpage.month
+register.year	registerpage.year
+register.passwordconfirm	registerpage.passwordconfirm
+register.field5	registerpage.field5
+register.optionsshowemail	registerpage.optionsshowemail
+register.s	registerpage.s
+register.username	registerpage.username
+register.email	registerpage.email
+register.emailconfirm	registerpage.emailconfirm
+register.day	registerpage.day

@@ -1,0 +1,8 @@
+form.AssociationManagersubscriptionform._City	form1.City
+form.AssociationManagersubscriptionform._Postcode	form1.Zip
+form.AssociationManagersubscriptionform._Telephone	form1.Telephone
+form.AssociationManagersubscriptionform._Fax	form1.Fax
+form.AssociationManagersubscriptionform._Email	form1.EmailAddress
+form.AssociationManagersubscriptionform._Name	form1.FirstName
+form.AssociationManagersubscriptionform._Company_Name	form1.CompanyName
+form	form1

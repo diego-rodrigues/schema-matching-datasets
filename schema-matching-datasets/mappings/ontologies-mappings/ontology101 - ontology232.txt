@@ -1,0 +1,15 @@
+Reference.date <-> Reference.date
+Reference.Book.date <-> Reference.date
+Reference.Academic.date <-> Reference.date
+Reference.Report.date <-> Reference.date
+Reference.Part.Article.date <-> Reference.date
+Reference.title <-> Reference.title
+Reference.Book.title <-> Reference.title
+Reference.Informal.title <-> Reference.title
+Reference.Part.title <-> Reference.title
+Reference.Academic.title <-> Reference.title
+Reference.Report.title <-> Reference.title
+Reference.Informal.Manual.title <-> Reference.title
+Reference.Informal.Unpublished.title <-> Reference.title
+Reference <-> Reference
+Reference.Book.humanCreator <-> Reference.humanCreator

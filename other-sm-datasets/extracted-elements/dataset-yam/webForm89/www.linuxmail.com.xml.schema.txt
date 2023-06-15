@@ -1,0 +1,29 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/www.linuxmail.com.html
+signupform
+file:/C:/Documents and Settings/Eyal_ami/Desktop/www.linuxmail.com.html
+> +-+-+ signupform
+signupform
+> +-+-+ refresh_captcha +-+-+ string
+> +-+-+ ** Last name: +-+-+ string
+> +-+-+ Education: +-+-+ string
+> +-+-+ ** Password: +-+-+ string
+> +-+-+ ** Confirm Password: +-+-+ string
+> +-+-+ answerstr +-+-+ string
+> +-+-+ ** Date of Birth: +-+-+ string
+> +-+-+ secid +-+-+ string
+> +-+-+ Annual Income Range (US$): +-+-+ string
+> +-+-+ **Hint Answer: +-+-+ string
+> +-+-+ **Hint Question : +-+-+ string
+> +-+-+ mail_language +-+-+ string
+> +-+-+ Household size: +-+-+ string
+> +-+-+ Occupation : +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ **Alternate E-mail Address: +-+-+ string
+> +-+-+ domain +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ Sign Me Up +-+-+ string
+> +-+-+ login +-+-+ string
+> +-+-+ ** Country: +-+-+ string
+> +-+-+ Please enter the word you see from the picture below : +-+-+ string
+> +-+-+ ** First name: +-+-+ string
+> +-+-+ Reset +-+-+ string

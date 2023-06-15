@@ -1,0 +1,124 @@
+REFERENCE
+> +-+-+ Book
+> +-+-+ Informal
+> +-+-+ Part
+> +-+-+ Academic
+> +-+-+ Misc_
+> +-+-+ Report
+> +-+-+ Motion_picture
+> +-+-+ key +-+-+ string
+> +-+-+ reviewed +-+-+ string
+> +-+-+ chap +-+-+ string
+> +-+-+ parts +-+-+ string
+> +-+-+ annote +-+-+ string
+> +-+-+ contract +-+-+ string
+> +-+-+ human_creator +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ note +-+-+ string
+> +-+-+ publisher +-+-+ string
+> +-+-+ series +-+-+ string
+> +-+-+ title +-+-+ string
+> +-+-+ affiliation +-+-+ string
+> +-+-+ abstract +-+-+ string
+> +-+-+ contents +-+-+ string
+> +-+-+ copyright +-+-+ string
+> +-+-+ I_S.B.N. +-+-+ string
+> +-+-+ I_S.S.N. +-+-+ string
+> +-+-+ keywords +-+-+ string
+> +-+-+ language +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ L_C.C.N. +-+-+ string
+> +-+-+ M_R.Nb +-+-+ string
+> +-+-+ price +-+-+ string
+> +-+-+ size +-+-+ string
+> +-+-+ U_R.L. +-+-+ string
+> +-+-+ number_or_volume +-+-+ string
+> +-+-+ number +-+-+ string
+> +-+-+ issue +-+-+ string
+> +-+-+ volume +-+-+ string
+Article
+> +-+-+ journal +-+-+ string
+Part
+> +-+-+ Article
+> +-+-+ Chapter
+> +-+-+ In_book
+> +-+-+ In_collection
+> +-+-+ In_proceedings
+> +-+-+ is_part_of +-+-+ string
+> +-+-+ chapter +-+-+ string
+> +-+-+ pages +-+-+ string
+Book
+> +-+-+ Monograph +-+-+ string
+> +-+-+ Collection +-+-+ string
+> +-+-+ Proc_
+> +-+-+ edition +-+-+ string
+Informal
+> +-+-+ Booklet
+> +-+-+ Lecture_notes
+> +-+-+ Manual
+> +-+-+ Un_published +-+-+ string
+Booklet
+> +-+-+ how_published +-+-+ string
+Chapter
+> +-+-+ first_published +-+-+ string
+> +-+-+ type +-+-+ string
+In_book
+> +-+-+ book +-+-+ string
+In_collection
+> +-+-+ collection +-+-+ string
+In_proceedings
+> +-+-+ proceedings +-+-+ string
+Lecture_notes
+> +-+-+ school +-+-+ string
+Manual
+> +-+-+ edition +-+-+ string
+> +-+-+ organisation +-+-+ string
+Academic
+> +-+-+ MSc_thesis +-+-+ string
+> +-+-+ PhD_thesis +-+-+ string
+> +-+-+ school +-+-+ string
+> +-+-+ type +-+-+ string
+Misc_
+> +-+-+ how_published +-+-+ string
+Proc_
+> +-+-+ com +-+-+ string
+> +-+-+ event +-+-+ string
+> +-+-+ organisation +-+-+ string
+Report
+> +-+-+ Technical_report
+> +-+-+ Deliverable +-+-+ string
+> +-+-+ institution +-+-+ string
+Technical_report
+> +-+-+ type +-+-+ string
+Motion_picture
+> +-+-+ directors +-+-+ string
+JOURNAL
+> +-+-+ art +-+-+ string
+> +-+-+ periodicity +-+-+ string
+> +-+-+ publisher +-+-+ string
+CONFERENCE
+> +-+-+ organiser +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ number_or_volume +-+-+ string
+> +-+-+ issue +-+-+ string
+ADDRESS
+> +-+-+ city +-+-+ string
+> +-+-+ state +-+-+ string
+> +-+-+ country +-+-+ string
+Institution
+> +-+-+ Publisher +-+-+ string
+> +-+-+ School +-+-+ string
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ Institution
+List
+> +-+-+ PERSON_LIST +-+-+ string
+PAGE_RANGE
+> +-+-+ start_page +-+-+ string
+> +-+-+ end_page +-+-+ string
+DATE
+> +-+-+ year +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+ day +-+-+ string
+Thing
+> +-+-+ address +-+-+ string

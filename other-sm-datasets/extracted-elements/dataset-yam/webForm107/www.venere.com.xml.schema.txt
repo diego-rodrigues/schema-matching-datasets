@@ -1,0 +1,37 @@
+http://www.venere.com/cgi/ihr/vcom/padd.php?lg=en
+hotel_data
+http://www.venere.com/cgi/ihr/vcom/padd.php?lg=en
+> +-+-+ hotel_data
+hotel_data
+> +-+-+ Contact Person: * +-+-+ string
+> +-+-+ GO! +-+-+ string
+> +-+-+ How have you known about us? +-+-+ string
+> +-+-+ geo_id +-+-+ string
+> +-+-+ Property Name: * +-+-+ string
+> +-+-+ Min: Max: +-+-+ string
+> +-+-+ Chain: +-+-+ string
+> +-+-+ Region: +-+-+ string
+> +-+-+ Local Number +-+-+ string
+> +-+-+ Total Number of Rooms: * +-+-+ string
+> +-+-+ Type and Category Rating: * +-+-+ string
+> +-+-+ Min: +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ URL: +-+-+ string
+> +-+-+ Confirm Email: * +-+-+ string
+> +-+-+ Zip-code or Post Code: * +-+-+ string
+> +-+-+ Other usefull information about hotel: +-+-+ string
+> +-+-+ Address: * +-+-+ string
+> +-+-+ State: +-+-+ string
+> +-+-+ Information about location: +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ country_code +-+-+ string
+> +-+-+ City Zone Place: +-+-+ string
+> +-+-+ Area Code +-+-+ string
+> +-+-+ Country: * +-+-+ string
+> +-+-+ lg +-+-+ string
+> +-+-+ Currency: +-+-+ string
+> +-+-+ City: * +-+-+ string
+> +-+-+ Province: +-+-+ string
+> +-+-+ Opening: +-+-+ string
+> +-+-+ Email: * +-+-+ string
+> +-+-+ Owner: * +-+-+ string

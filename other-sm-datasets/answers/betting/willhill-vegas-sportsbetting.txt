@@ -1,0 +1,13 @@
+Details.txtPassword	thisForm.txtInternetPassword
+Details.txtFirstName	thisForm.txtFirstName
+Details.txtCityTown	thisForm.txtCity
+Details.txtSurname	thisForm.txtLastName
+Details.txtTelephone	thisForm.txtDayPhone
+Details.txtPostcode	thisForm.txtZipCode
+Details.cboCountryAlt	thisForm.cboCountry
+Details.txtStateRegion	thisForm.txtState
+Details.txtEmail	thisForm.txtEMail
+Details.txtQASPostcode	thisForm.txtZipCode
+Details.txtPasswordConfirm	thisForm.txtInternetPasswordConfirmed
+Details.txtAddress1	thisForm.txtAddress1
+Details.txtAddress2	thisForm.txtAddress2

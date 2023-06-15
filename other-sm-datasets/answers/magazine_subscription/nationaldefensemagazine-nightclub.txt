@@ -1,0 +1,15 @@
+search.trial.submit	subscribe.Submit
+search.trial.city	subscribe.add_city
+search.trial.state	subscribe.add_state
+search.trial.zip	subscribe.add_postal
+search.trial.country	subscribe.add_country
+search.trial.phone	subscribe.phone_voice
+search.trial.fax	subscribe.phone_fax
+search.trial.email	subscribe.email_add
+search.trial.title	subscribe.work_title
+search.trial.first	subscribe.name_first
+search.trial.last	subscribe.name_last
+search.trial.reset2	subscribe.Reset
+search.trial.company	subscribe.company_name
+search.trial.address1	subscribe.add_line1
+search.trial.address2	subscribe.add_line2

@@ -1,0 +1,10 @@
+form1.City	search.city
+form1.ST	search.state
+form1.Zip	search.zip
+form1.Country	search.country
+form1.Telephone	search.phone
+form1.Fax	search.fax
+form1.EmailAddress	search.email
+form1.FirstName	search.first
+form1.LastName	search.last
+form1.CompanyName	search.company

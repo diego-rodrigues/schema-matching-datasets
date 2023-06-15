@@ -1,0 +1,82 @@
+Resource
+> +-+-+ Reference
+Reference
+> +-+-+ Text
+> +-+-+ MotionPicture +-+-+ string
+Text
+> +-+-+ Book
+> +-+-+ Informal
+> +-+-+ Part
+> +-+-+ Academic
+> +-+-+ Misc +-+-+ string
+> +-+-+ Report
+JournalPart
+> +-+-+ Article +-+-+ string
+> +-+-+ Review +-+-+ string
+> +-+-+ Editorial +-+-+ string
+> +-+-+ Letter +-+-+ string
+Part
+> +-+-+ JournalPart
+> +-+-+ Chapter +-+-+ string
+> +-+-+ InBook +-+-+ string
+> +-+-+ InCollection +-+-+ string
+> +-+-+ InProceedings +-+-+ string
+Book
+> +-+-+ Monograph +-+-+ string
+> +-+-+ Collection +-+-+ string
+> +-+-+ Proceedings +-+-+ string
+Informal
+> +-+-+ Booklet +-+-+ string
+> +-+-+ LectureNotes +-+-+ string
+> +-+-+ Manual
+> +-+-+ Unpublished +-+-+ string
+Manual
+> +-+-+ UserGuide +-+-+ string
+> +-+-+ ReferenceManual +-+-+ string
+Academic
+> +-+-+ MastersThesis +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+Report
+> +-+-+ InstitutionReport
+> +-+-+ Deliverable
+InstitutionReport
+> +-+-+ ProspectiveReport +-+-+ string
+> +-+-+ EvaluationReport +-+-+ string
+> +-+-+ SerialReport
+> +-+-+ PeriodicReport
+SerialReport
+> +-+-+ NormalizationReport
+> +-+-+ WorkReport
+NormalizationReport
+> +-+-+ Standard +-+-+ string
+> +-+-+ Recommendation +-+-+ string
+WorkReport
+> +-+-+ TechReport +-+-+ string
+> +-+-+ TechnicalMemo +-+-+ string
+> +-+-+ ResearchReport +-+-+ string
+> +-+-+ ResearchNote +-+-+ string
+PeriodicReport
+> +-+-+ YearlyReport +-+-+ string
+Deliverable
+> +-+-+ FinalReport +-+-+ string
+Periodical
+> +-+-+ Journal +-+-+ string
+> +-+-+ Magazine +-+-+ string
+ScientificMeeting
+> +-+-+ Conference +-+-+ string
+> +-+-+ Congress +-+-+ string
+> +-+-+ Symposium +-+-+ string
+> +-+-+ Workshop +-+-+ string
+Institution
+> +-+-+ Society +-+-+ string
+> +-+-+ Publisher +-+-+ string
+> +-+-+ HigherEducationInstitution
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ Institution
+HigherEducationInstitution
+> +-+-+ University +-+-+ string
+> +-+-+ School +-+-+ string
+> +-+-+ EngineerSchool +-+-+ string
+> +-+-+ Polytechnics +-+-+ string
+List
+> +-+-+ PersonList +-+-+ string

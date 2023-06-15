@@ -1,0 +1,14 @@
+thisForm.cboCountry	SignupForm.countryEntry
+thisForm.txtState	SignupForm.stateEntry
+thisForm.txtLastName	SignupForm.nameLastEntry
+thisForm.txtDayPhone	SignupForm.homePhoneEntry
+thisForm.txtDayPhone	SignupForm.businessPhoneEntry
+thisForm.txtEMail	SignupForm.emailEntry
+thisForm.txtZipCode	SignupForm.zipEntry
+thisForm.txtInternetPassword	SignupForm.passwordEntry
+thisForm.txtInternetPassword	LoginVerify.Password
+thisForm.txtFirstName	SignupForm.nameFirstEntry
+thisForm.txtAddress1	SignupForm.address1Entry
+thisForm.txtCity	SignupForm.cityEntry
+thisForm.txtAddress2	SignupForm.address2Entry
+thisForm.txtInternetPasswordConfirmed	SignupForm.ConfirmPasswordEntry

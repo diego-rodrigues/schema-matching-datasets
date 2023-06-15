@@ -1,0 +1,34 @@
+newsubs
+subscribe
+newsubs
+> - subscribe
+> - MagCode - string
+> - Source - string
+> - SubTerm - string
+> - QualDate - string
+> - NameType - string
+> - FirstName - string
+> - MiddleInitial - string
+> - LastName - string
+> - Company - string
+> - Address1 - string
+> - Address2 - string
+> - Address3 - string
+> - City - string
+> - StOrProv - string
+> - PostalCode - string
+> - AddType - string
+> - Country - string
+> - Email - string
+> - CCType - string
+> - CCNum - string
+> - CCExpMonth - string
+> - CCExpYear - string
+> - CCCVDNum - string
+> - BillMeLater - string
+> - Submit - string
+> - Reset - string
+subscribe
+> - mode - string
+> - q - string
+> - Search - string

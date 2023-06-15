@@ -1,0 +1,9 @@
+SearchCatForm.RegisterForm.Suburb	form1.City
+SearchCatForm.RegisterForm.State	form1.ST
+SearchCatForm.RegisterForm.Postcode	form1.Zip
+SearchCatForm.RegisterForm.CountryID	form1.Country
+SearchCatForm.RegisterForm.Phone1	form1.Telephone
+SearchCatForm.RegisterForm.Fax	form1.Fax
+SearchCatForm.RegisterForm.Email	form1.EmailAddress
+SearchCatForm.RegisterForm.FirstName	form1.FirstName
+SearchCatForm.RegisterForm.Surname	form1.LastName

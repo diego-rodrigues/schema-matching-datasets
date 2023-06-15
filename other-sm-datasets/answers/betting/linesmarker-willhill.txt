@@ -1,0 +1,15 @@
+signupForm.STATE	Details.txtStateRegion
+signupForm.EMAIL	Details.txtEmail
+signupForm.CITY	Details.txtCityTown
+signupForm.BIRTHMONTH	Details.cboMonth
+signupForm.LASTNAME	Details.txtSurname
+signupForm.STREET	Details.txtAddress1
+signupForm.USERID	Details.txtUsername
+signupForm.PASSWORD	Details.txtPassword
+signupForm.HOMEPHONENO	Details.txtTelephone
+signupForm.REENTERPASSWORD	Details.txtPasswordConfirm
+signupForm.BIRTHDAY	Details.cboDay
+signupForm.ZIP	Details.txtPostcode
+signupForm.COUNTRY	Details.cboCountryAlt
+signupForm.FIRSTNAME	Details.txtFirstName
+signupForm.BIRTHYEAR	Details.cboYear

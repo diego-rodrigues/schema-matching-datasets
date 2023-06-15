@@ -1,0 +1,582 @@
+<?xml version="1.0"?>
+<Schema name="ontology102" xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+	<ElementType name="ConsumableThing">
+		<element type="EdibleThing"/>
+		<element type="PotableLiquid"/>
+		<element type="MealCourse"/>
+		<element type="Meal"/>
+	</ElementType>
+	<ElementType name="NonConsumableThing">
+	</ElementType>
+	<ElementType name="EdibleThing">
+		<element type="Pasta"/>
+		<element type="OtherTomatoBasedFood"/>
+		<element type="NonSweetFruit"/>
+		<element type="Meat"/>
+		<element type="Fruit"/>
+		<element type="Fowl"/>
+		<element type="Dessert"/>
+		<element type="SweetFruit"/>
+		<element type="Seafood"/>
+	</ElementType>
+	<ElementType name="PotableLiquid">
+		<element type="Juice"/>
+	</ElementType>
+	<ElementType name="Wine">
+	</ElementType>
+	<ElementType name="Juice">
+		<element type="madeFromFruit"/>
+	</ElementType>
+	<ElementType name="Grape">
+		<element type="EatingGrape"/>
+	</ElementType>
+	<ElementType name="SweetFruit">
+		<element type="Grape"/>
+	</ElementType>
+	<ElementType name="Pasta">
+		<element type="PastaWithWhiteSauce"/>
+		<element type="PastaWithRedSauce"/>
+	</ElementType>
+	<ElementType name="PastaWithWhiteSauce">
+		<element type="PastaWithLightCreamSauce"/>
+		<element type="PastaWithHeavyCreamSauce"/>
+	</ElementType>
+	<ElementType name="PastaWithSpicyRedSauceCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+		<element type="hasBody"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="PastaWithSpicyRedSauce">
+	</ElementType>
+	<ElementType name="PastaWithRedSauce">
+		<element type="PastaWithSpicyRedSauce"/>
+		<element type="PastaWithNonSpicyRedSauce"/>
+	</ElementType>
+	<ElementType name="PastaWithNonSpicyRedSauceCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+		<element type="hasBody"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="PastaWithNonSpicyRedSauce">
+	</ElementType>
+	<ElementType name="PastaWithLightCreamSauce">
+	</ElementType>
+	<ElementType name="PastaWithLightCreamCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+		<element type="hasBody"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="PastaWithHeavyCreamSauce">
+	</ElementType>
+	<ElementType name="PastaWithHeavyCreamCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+		<element type="hasBody"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="OysterShellfishCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="OysterShellfish">
+	</ElementType>
+	<ElementType name="Shellfish">
+		<element type="OysterShellfish"/>
+		<element type="NonOysterShellfish"/>
+	</ElementType>
+	<ElementType name="OtherTomatoBasedFoodCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+		<element type="hasBody"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="OtherTomatoBasedFood">
+	</ElementType>
+	<ElementType name="NonSweetFruitCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="SweetFruitCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="NonSweetFruit">
+	</ElementType>
+	<ElementType name="Fruit">
+		<element type="NonSweetFruit"/>
+		<element type="SweetFruit"/>
+	</ElementType>
+	<ElementType name="NonSpicyRedMeatCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+		<element type="hasBody"/>
+		<element type="hasSugar"/>
+		<element type="hasFlavor"/>
+	</ElementType>
+	<ElementType name="NonSpicyRedMeat">
+	</ElementType>
+	<ElementType name="RedMeat">
+		<element type="NonSpicyRedMeat"/>
+		<element type="SpicyRedMeat"/>
+	</ElementType>
+	<ElementType name="NonRedMeatCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+		<element type="hasBody"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="NonRedMeat">
+	</ElementType>
+	<ElementType name="Meat">
+		<element type="NonRedMeat"/>
+		<element type="RedMeat"/>
+	</ElementType>
+	<ElementType name="NonOysterShellfishCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="NonOysterShellfish">
+	</ElementType>
+	<ElementType name="NonBlandFishCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasFlavor"/>
+	</ElementType>
+	<ElementType name="NonBlandFish">
+	</ElementType>
+	<ElementType name="Fish">
+		<element type="NonBlandFish"/>
+		<element type="BlandFish"/>
+	</ElementType>
+	<ElementType name="MealCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+	</ElementType>
+	<ElementType name="Meal">
+		<element type="course"/>
+	</ElementType>
+	<ElementType name="LightMeatFowlCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+		<element type="hasBody"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="LightMeatFowl">
+	</ElementType>
+	<ElementType name="Fowl">
+		<element type="LightMeatFowl"/>
+		<element type="DarkMeatFowl"/>
+	</ElementType>
+	<ElementType name="FruitCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+		<element type="hasBody"/>
+	</ElementType>
+	<ElementType name="FishCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasBody"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="DessertCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasBody"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="Dessert">
+		<element type="SweetDessert"/>
+		<element type="CheeseNutsDessert"/>
+	</ElementType>
+	<ElementType name="SweetDessertCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+	</ElementType>
+	<ElementType name="SweetDessert">
+	</ElementType>
+	<ElementType name="DarkMeatFowlCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+		<element type="hasBody"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="DarkMeatFowl">
+	</ElementType>
+	<ElementType name="CheeseNutsDessertCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+	</ElementType>
+	<ElementType name="CheeseNutsDessert">
+	</ElementType>
+	<ElementType name="BlandFishCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasFlavor"/>
+	</ElementType>
+	<ElementType name="BlandFish">
+	</ElementType>
+	<ElementType name="Seafood">
+		<element type="Fish"/>
+		<element type="Shellfish"/>
+	</ElementType>
+	<ElementType name="SpicyRedMeat">
+	</ElementType>
+	<ElementType name="ShellfishCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasFlavor"/>
+		<element type="hasBody"/>
+	</ElementType>
+	<ElementType name="SeafoodCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+	</ElementType>
+	<ElementType name="RedMeatCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+	</ElementType>
+	<ElementType name="EatingGrape">
+	</ElementType>
+	<ElementType name="SpicyRedMeatCourse">
+		<element type="hasFood"/>
+		<element type="hasDrink"/>
+		<element type="hasColor"/>
+		<element type="hasBody"/>
+		<element type="hasFlavor"/>
+		<element type="hasSugar"/>
+	</ElementType>
+	<ElementType name="EdibleThing" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="PotableLiquid" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="MealCourse" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Meal" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Pasta" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="OtherTomatoBasedFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="NonSweetFruit" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Meat" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Fruit" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Fowl" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Dessert" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="SweetFruit" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Seafood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Juice" content="textOnly" dt:type="PotableLiquid">
+	</ElementType>
+	<ElementType name="madeFromFruit" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="EatingGrape" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Grape" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="PastaWithWhiteSauce" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="PastaWithRedSauce" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="PastaWithLightCreamSauce" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="PastaWithHeavyCreamSauce" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="PastaWithSpicyRedSauce" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="PastaWithNonSpicyRedSauce" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="OysterShellfish" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="NonOysterShellfish" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="NonSweetFruit" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="SweetFruit" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="NonSpicyRedMeat" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="SpicyRedMeat" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="NonRedMeat" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="RedMeat" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="NonBlandFish" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="BlandFish" content="textOnly" dt:type="EdibleThing">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="course" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="LightMeatFowl" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="DarkMeatFowl" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="SweetDessert" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="CheeseNutsDessert" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Fish" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Shellfish" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFood" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasDrink" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasColor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasBody" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasFlavor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="hasSugar" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+</Schema>

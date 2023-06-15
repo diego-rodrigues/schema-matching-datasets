@@ -1,0 +1,12 @@
+thisForm.cboCountry	signupForm.COUNTRY
+thisForm.txtState	signupForm.STATE
+thisForm.txtLastName	signupForm.LASTNAME
+thisForm.txtDayPhone	signupForm.HOMEPHONENO
+thisForm.txtEMail	signupForm.EMAIL
+thisForm.txtZipCode	signupForm.ZIP
+thisForm.txtInternetPassword	signupForm.PASSWORD
+thisForm.txtFirstName	signupForm.FIRSTNAME
+thisForm.txtPin	signupForm.USERID
+thisForm.txtAddress1	signupForm.STREET
+thisForm.txtCity	signupForm.CITY
+thisForm.txtInternetPasswordConfirmed	signupForm.REENTERPASSWORD

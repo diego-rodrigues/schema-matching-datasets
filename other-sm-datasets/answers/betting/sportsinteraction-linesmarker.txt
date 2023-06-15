@@ -1,0 +1,12 @@
+apply.iPostalCode	signupForm.ZIP
+apply.iPhoneNumber	signupForm.HOMEPHONENO
+apply.iState	signupForm.STATE
+apply.iEmail	signupForm.EMAIL
+apply.iLastName	signupForm.LASTNAME
+apply.iCity	signupForm.CITY
+apply.iFirstName	signupForm.FIRSTNAME
+apply.iCountryID	signupForm.COUNTRY
+apply.iPassword1	signupForm.PASSWORD
+apply.iPassword2	signupForm.REENTERPASSWORD
+apply.iUsername	signupForm.USERID
+apply.iAddress	signupForm.STREET

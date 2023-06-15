@@ -1,0 +1,13 @@
+signupForm.STATE	registerfrm.state
+signupForm.EMAIL	registerfrm.email
+signupForm.CITY	registerfrm.city
+signupForm.BIRTHMONTH	registerfrm.dob_M
+signupForm.LASTNAME	registerfrm.lastname
+signupForm.USERID	registerfrm.username
+signupForm.PASSWORD	registerfrm.password
+signupForm.REENTERPASSWORD	registerfrm.confirmpassword
+signupForm.BIRTHDAY	registerfrm.dob_D
+signupForm.ZIP	registerfrm.zip
+signupForm.COUNTRY	registerfrm.country
+signupForm.FIRSTNAME	registerfrm.firstname
+signupForm.BIRTHYEAR	registerfrm.dob_Y

@@ -1,0 +1,9 @@
+Registerform.FORM_nachname	Details.txtSurname
+Registerform.FORM_strasse	Details.txtAddress1
+Registerform.FORM_vorname	Details.txtFirstName
+Registerform.FORM_plz	Details.txtPostcode
+Registerform.FORM_plz	Details.txtQASPostcode
+Registerform.FORM_nation	Details.cboCountryAlt
+Registerform.FORM_email	Details.txtTelephone
+Registerform.FORM_email	Details.txtEmail
+Registerform.FORM_telefon	Details.txtTelephone

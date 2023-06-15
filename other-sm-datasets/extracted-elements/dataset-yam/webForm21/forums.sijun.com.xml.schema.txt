@@ -1,0 +1,30 @@
+http://forums.sijun.com/profile.php?mode=register_agreed=true
+http://forums.sijun.com/profile.php?mode=register_agreed=true
+> +-+-+ Always notify me of replies: Sends an e-mail when someone replies to a topic you have posted in. This can be changed whenever you post. +-+-+ string
+> +-+-+ E-mail address: * +-+-+ string
+> +-+-+ Always allow HTML: +-+-+ string
+> +-+-+ Password: * +-+-+ string
+> +-+-+ mode +-+-+ string
+> +-+-+ coppa +-+-+ string
+> +-+-+ Hide your online status: +-+-+ string
+> +-+-+ Timezone: +-+-+ string
+> +-+-+ Interests: +-+-+ string
+> +-+-+ Username: * +-+-+ string
+> +-+-+ MSN Messenger: +-+-+ string
+> +-+-+ Location: +-+-+ string
+> +-+-+ agreed +-+-+ string
+> +-+-+ ICQ Number: +-+-+ string
+> +-+-+ Confirm password: * +-+-+ string
+> +-+-+ Always show my e-mail address: +-+-+ string
+> +-+-+ Notify on new Private Message: +-+-+ string
+> +-+-+ Always enable Smilies: +-+-+ string
+> +-+-+ Signature: This is a block of text that can be added to posts you make. There is a 150 character limit HTML is OFF BBCode is ON Smilies are ON +-+-+ string
+> +-+-+ Always allow BBCode: +-+-+ string
+> +-+-+ Yahoo Messenger: +-+-+ string
+> +-+-+ AIM Address: +-+-+ string
+> +-+-+ Website: +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ Pop up window on new Private Message: Some templates may open a new window to inform you when new private messages arrive. +-+-+ string
+> +-+-+ Always attach my signature: +-+-+ string
+> +-+-+ Reset +-+-+ string
+> +-+-+ Occupation: +-+-+ string

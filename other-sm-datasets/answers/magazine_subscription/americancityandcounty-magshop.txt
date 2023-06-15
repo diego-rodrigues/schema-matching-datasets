@@ -1,0 +1,13 @@
+form1.Submit	SearchCatForm.RegisterForm.Register
+form1.City	SearchCatForm.RegisterForm.Suburb
+form1.State	SearchCatForm.RegisterForm.State
+form1.Zip	SearchCatForm.RegisterForm.Postcode
+form1.COUNTRY	SearchCatForm.RegisterForm.CountryID
+form1.Phone	SearchCatForm.RegisterForm.Phone1
+form1.Fax	SearchCatForm.RegisterForm.Fax
+form1.EMail	SearchCatForm.RegisterForm.Email
+form1.Title	SearchCatForm.RegisterForm.Title
+form1.FName	SearchCatForm.RegisterForm.FirstName
+form1.LName	SearchCatForm.RegisterForm.Surname
+form1	SearchCatForm.RegisterForm
+form1.Address1	SearchCatForm.RegisterForm.Address1

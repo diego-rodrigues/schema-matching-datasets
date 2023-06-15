@@ -1,0 +1,24 @@
+http://www.motels.com/
+hotelSearch
+http://www.motels.com/
+> +-+-+ hotelSearch
+hotelSearch
+> +-+-+ submitted +-+-+ string
+> +-+-+ validateDates +-+-+ string
+> +-+-+ cid +-+-+ string
+> +-+-+ arrivalDay +-+-+ string
+> +-+-+ mode +-+-+ string
+> +-+-+ isAdvancedSearch +-+-+ string
+> +-+-+ departureDay +-+-+ string
+> +-+-+ specials +-+-+ string
+> +-+-+ showHotels +-+-+ string
+> +-+-+ netOnly +-+-+ string
+> +-+-+ isHotels +-+-+ string
+> +-+-+ departureMonth +-+-+ string
+> +-+-+ arrivalMonth +-+-+ string
+> +-+-+ # adults: +-+-+ string
+> +-+-+ isCondos +-+-+ string
+> +-+-+ city name: +-+-+ string
+> +-+-+ state: +-+-+ string
+> +-+-+ country: +-+-+ string
+> +-+-+ showCondos +-+-+ string

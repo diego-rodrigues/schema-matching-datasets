@@ -1,0 +1,14 @@
+newclient.City	apply.iCity
+newclient.Mobilenumber	apply.iPhoneNumber
+newclient.Country	apply.iCountryID
+newclient.PhoneNumber	apply.iPhoneNumber
+newclient.InfoSource	apply.iReferrer
+newclient.email	apply.iEmail
+newclient.Question	apply.iNotify
+newclient.Username	apply.iUsername
+newclient.Name	apply.iFirstName
+newclient.Postcode	apply.iPostalCode
+newclient.Surname	apply.iLastName
+newclient.RePwd	apply.iPassword2
+newclient.Pwd	apply.iPassword1
+newclient.Address1	apply.iAddress

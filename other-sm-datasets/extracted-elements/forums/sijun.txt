@@ -1,0 +1,30 @@
+registerpage
+registerpage
+> - username - string
+> - email - string
+> - new_password - string
+> - password_confirm - string
+> - website - string
+> - location - string
+> - occupation - string
+> - interests - string
+> - icq - string
+> - aim - string
+> - msn - string
+> - yim - string
+> - signature - string
+> - viewemail - string
+> - hideonline - string
+> - notifyreply - string
+> - notifypm - string
+> - popup_pm - string
+> - attachsig - string
+> - allowbbcode - string
+> - allowhtml - string
+> - allowsmilies - string
+> - timezone - string
+> - mode - string
+> - agreed - string
+> - coppa - string
+> - submit - string
+> - reset - string

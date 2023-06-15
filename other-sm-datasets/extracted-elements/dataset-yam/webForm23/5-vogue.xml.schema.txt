@@ -1,0 +1,21 @@
+https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=VOG_cds_page_id=1242_cds_response_key=I3ANT5AA
+https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=VOG_cds_page_id=1242_cds_response_key=I3ANT5AA
+> +-+-+ Full name +-+-+ string
+> +-+-+ Please select one of the following: +-+-+ string
+> +-+-+ cds_page_id +-+-+ string
+> +-+-+ E-mail address (example: janedoe@yahoo.com) +-+-+ string
+> +-+-+ Credit card type +-+-+ string
+> +-+-+ Vogue may contact me via email regarding my subscription. +-+-+ string
+> +-+-+ Mailing address +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ Expiration date +-+-+ string
+> +-+-+ State Zip +-+-+ string
+> +-+-+ State +-+-+ string
+> +-+-+ Credit card number +-+-+ string
+> +-+-+ cds_country +-+-+ string
+> +-+-+ cds_mag_code +-+-+ string
+> +-+-+ Vogue may contact me via email regarding my subscription. Yes No Vogue may contact me via email regarding special Vogue promotions and events. Yes No Vogue may contact me via email regarding products or services from selected companies that Vogue thinks may be of interest to me. +-+-+ string
+> +-+-+ Vogue may contact me via email regarding my subscription. Yes No Vogue may contact me via email regarding special Vogue promotions and events. +-+-+ string
+> +-+-+ vid +-+-+ string
+> +-+-+ Subscribe +-+-+ string
+> +-+-+ lsid +-+-+ string

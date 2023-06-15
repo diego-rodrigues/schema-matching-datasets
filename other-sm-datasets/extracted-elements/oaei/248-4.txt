@@ -1,0 +1,93 @@
+sqdsq
+> +-+-+ key +-+-+ string
+> +-+-+ dsqndbsqx +-+-+ string
+> +-+-+ chapters +-+-+ string
+> +-+-+ parts +-+-+ string
+> +-+-+ annote +-+-+ string
+> +-+-+ zandsbh +-+-+ string
+> +-+-+ humanCreator +-+-+ string
+> +-+-+ sqndsqgy +-+-+ string
+> +-+-+ zdsnsqdv +-+-+ string
+> +-+-+ publisher +-+-+ string
+> +-+-+ dszbnz +-+-+ string
+> +-+-+ dznbaln +-+-+ string
+> +-+-+ zadzqbsdg +-+-+ string
+> +-+-+ dsqndsz +-+-+ string
+> +-+-+ contents +-+-+ string
+> +-+-+ copyright +-+-+ string
+> +-+-+ isbn +-+-+ string
+> +-+-+ zadsznad +-+-+ string
+> +-+-+ zqdszh +-+-+ string
+> +-+-+ language +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ lccn +-+-+ string
+> +-+-+ dszbgz +-+-+ string
+> +-+-+ dsq +-+-+ string
+> +-+-+ size +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ number +-+-+ string
+> +-+-+ sqnzkzn +-+-+ string
+> +-+-+ zsbdgz +-+-+ string
+Article
+> +-+-+ sxqsnbvsq +-+-+ string
+Book
+> +-+-+ edition +-+-+ string
+Booklet
+> +-+-+ howPublished +-+-+ string
+Part
+> +-+-+ zansbzh +-+-+ string
+> +-+-+ dsazdjz +-+-+ string
+> +-+-+ pages +-+-+ string
+Chapter
+> +-+-+ firstPublished +-+-+ string
+> +-+-+ type +-+-+ string
+vccfsq
+> +-+-+ book +-+-+ string
+dcsqdcsqd
+> +-+-+ collection +-+-+ string
+InProceedings
+> +-+-+ proceedings +-+-+ string
+LectureNotes
+> +-+-+ school +-+-+ string
+Manual
+> +-+-+ edition +-+-+ string
+> +-+-+ organization +-+-+ string
+zdazsx
+> +-+-+ school +-+-+ string
+> +-+-+ type +-+-+ string
+Misc
+> +-+-+ howPublished +-+-+ string
+Proceedings
+> +-+-+ PrSGUs +-+-+ string
+> +-+-+ event +-+-+ string
+> +-+-+ organization +-+-+ string
+dqzdxdcsqj
+> +-+-+ institution +-+-+ string
+sdcsqhyz
+> +-+-+ type +-+-+ string
+MotionPicture
+> +-+-+ directors +-+-+ string
+qsdsquj
+> +-+-+ YuEma +-+-+ string
+> +-+-+ sdxsndxsqg +-+-+ string
+> +-+-+ publisher +-+-+ string
+zqedzbx
+> +-+-+ organizer +-+-+ string
+> +-+-+ sqndsqgy +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ sqnzkzn +-+-+ string
+Address
+> +-+-+ zdzndh +-+-+ string
+> +-+-+ zdnzadh +-+-+ string
+> +-+-+ country +-+-+ string
+PageRange
+> +-+-+ startPage +-+-+ string
+> +-+-+ endPage +-+-+ string
+Date
+> +-+-+ year +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+ day +-+-+ string
+Thing
+> +-+-+ qzd +-+-+ string

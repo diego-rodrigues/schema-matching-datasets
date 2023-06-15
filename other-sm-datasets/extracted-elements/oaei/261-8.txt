@@ -1,0 +1,82 @@
+Resource
+> +-+-+ sqdsq
+sqdsq
+> +-+-+ Text
+> +-+-+ MotionPicture +-+-+ string
+Text
+> +-+-+ Book
+> +-+-+ qsdsnbsqd
+> +-+-+ Part
+> +-+-+ Academic
+> +-+-+ Misc +-+-+ string
+> +-+-+ Report
+JournalPart
+> +-+-+ Article +-+-+ string
+> +-+-+ Review +-+-+ string
+> +-+-+ Editorial +-+-+ string
+> +-+-+ Letter +-+-+ string
+Part
+> +-+-+ JournalPart
+> +-+-+ Chapter +-+-+ string
+> +-+-+ InBook +-+-+ string
+> +-+-+ dcsqdcsqd +-+-+ string
+> +-+-+ InProceedings +-+-+ string
+Book
+> +-+-+ Monograph +-+-+ string
+> +-+-+ Collection +-+-+ string
+> +-+-+ Proceedings +-+-+ string
+qsdsnbsqd
+> +-+-+ Booklet +-+-+ string
+> +-+-+ LectureNotes +-+-+ string
+> +-+-+ Manual
+> +-+-+ Unpublished +-+-+ string
+Manual
+> +-+-+ UserGuide +-+-+ string
+> +-+-+ ZGKW1E +-+-+ string
+Academic
+> +-+-+ xsqlknk +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+Report
+> +-+-+ EwQu
+> +-+-+ Deliverable
+EwQu
+> +-+-+ ProspectiveReport +-+-+ string
+> +-+-+ EvaluationReport +-+-+ string
+> +-+-+ SerialReport
+> +-+-+ PeriodicReport
+SerialReport
+> +-+-+ NormalizationReport
+> +-+-+ WorkReport
+NormalizationReport
+> +-+-+ ZVxsNo +-+-+ string
+> +-+-+ Recommendation +-+-+ string
+WorkReport
+> +-+-+ sdcsqhyz +-+-+ string
+> +-+-+ TechnicalMemo +-+-+ string
+> +-+-+ ResearchReport +-+-+ string
+> +-+-+ LXtNU +-+-+ string
+PeriodicReport
+> +-+-+ YearlyReport +-+-+ string
+Deliverable
+> +-+-+ FinalReport +-+-+ string
+Periodical
+> +-+-+ Journal +-+-+ string
+> +-+-+ wxVRZcIXbbz +-+-+ string
+ScientificMeeting
+> +-+-+ zqedzbx +-+-+ string
+> +-+-+ Congress +-+-+ string
+> +-+-+ Symposium +-+-+ string
+> +-+-+ Workshop +-+-+ string
+Institution
+> +-+-+ YpNk +-+-+ string
+> +-+-+ Publisher +-+-+ string
+> +-+-+ HigherEducationInstitution
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ Institution
+HigherEducationInstitution
+> +-+-+ University +-+-+ string
+> +-+-+ School +-+-+ string
+> +-+-+ EngineerSchool +-+-+ string
+> +-+-+ Polytechnics +-+-+ string
+List
+> +-+-+ dsqdbz +-+-+ string

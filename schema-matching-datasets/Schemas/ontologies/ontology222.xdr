@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+<Schema name="ontology222" xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+	<ElementType name="Reference">
+		<element type="date"/>
+		<element type="title"/>
+		<element type="author"/>
+		<element type="Article"/>
+		<element type="Monograph"/>
+		<element type="Collection"/>
+		<element type="Booklet"/>
+		<element type="Chapter"/>
+		<element type="InBook"/>
+		<element type="InCollection"/>
+		<element type="InProceedings"/>
+		<element type="LectureNotes"/>
+		<element type="Manual"/>
+		<element type="MastersThesis"/>
+		<element type="PhdThesis"/>
+		<element type="Misc"/>
+		<element type="Proceedings"/>
+		<element type="TechReport"/>
+		<element type="Deliverable"/>
+		<element type="Unpublished"/>
+		<element type="MotionPicture"/>
+	</ElementType>
+	<ElementType name="Article">
+		<element type="title"/>
+		<element type="isPartOf"/>
+		<element type="author"/>
+		<element type="pages"/>
+		<element type="journal"/>
+		<element type="date"/>
+		<element type="number"/>
+		<element type="volume"/>
+	</ElementType>
+	<ElementType name="Monograph">
+		<element type="title"/>
+		<element type="volume"/>
+		<element type="publisher"/>
+		<element type="series"/>
+		<element type="date"/>
+		<element type="humanCreator"/>
+		<element type="edition"/>
+	</ElementType>
+	<ElementType name="Collection">
+		<element type="title"/>
+		<element type="volume"/>
+		<element type="publisher"/>
+		<element type="series"/>
+		<element type="date"/>
+		<element type="humanCreator"/>
+		<element type="edition"/>
+	</ElementType>
+	<ElementType name="Booklet">
+		<element type="title"/>
+	</ElementType>
+	<ElementType name="Chapter">
+		<element type="pages"/>
+		<element type="title"/>
+		<element type="isPartOf"/>
+		<element type="chapter"/>
+	</ElementType>
+	<ElementType name="InBook">
+		<element type="pages"/>
+		<element type="title"/>
+		<element type="isPartOf"/>
+		<element type="author"/>
+		<element type="book"/>
+	</ElementType>
+	<ElementType name="InCollection">
+		<element type="pages"/>
+		<element type="title"/>
+		<element type="isPartOf"/>
+		<element type="author"/>
+		<element type="collection"/>
+	</ElementType>
+	<ElementType name="InProceedings">
+		<element type="pages"/>
+		<element type="title"/>
+		<element type="isPartOf"/>
+		<element type="volume"/>
+		<element type="publisher"/>
+		<element type="series"/>
+		<element type="date"/>
+		<element type="humanCreator"/>
+		<element type="edition"/>
+		<element type="author"/>
+		<element type="proceedings"/>
+	</ElementType>
+	<ElementType name="LectureNotes">
+		<element type="title"/>
+	</ElementType>
+	<ElementType name="Manual">
+		<element type="organization"/>
+		<element type="edition"/>
+		<element type="title"/>
+	</ElementType>
+	<ElementType name="MastersThesis">
+		<element type="author"/>
+		<element type="title"/>
+		<element type="school"/>
+		<element type="date"/>
+	</ElementType>
+	<ElementType name="PhdThesis">
+		<element type="author"/>
+		<element type="title"/>
+		<element type="school"/>
+		<element type="date"/>
+	</ElementType>
+	<ElementType name="Misc">
+	</ElementType>
+	<ElementType name="Proceedings">
+		<element type="event"/>
+		<element type="editor"/>
+		<element type="organization"/>
+	</ElementType>
+	<ElementType name="TechReport">
+		<element type="author"/>
+		<element type="title"/>
+		<element type="institution"/>
+		<element type="date"/>
+		<element type="number"/>
+	</ElementType>
+	<ElementType name="Deliverable">
+		<element type="contract"/>
+		<element type="author"/>
+		<element type="title"/>
+		<element type="institution"/>
+		<element type="date"/>
+		<element type="number"/>
+	</ElementType>
+	<ElementType name="Unpublished">
+		<element type="author"/>
+		<element type="title"/>
+		<element type="note"/>
+	</ElementType>
+	<ElementType name="MotionPicture">
+	</ElementType>
+	<ElementType name="Journal">
+		<element type="name"/>
+		<element type="shortName"/>
+		<element type="periodicity"/>
+		<element type="publisher"/>
+		<element type="series"/>
+		<element type="firstPublished"/>
+	</ElementType>
+	<ElementType name="Conference">
+		<element type="name"/>
+		<element type="organizer"/>
+		<element type="shortName"/>
+		<element type="issue"/>
+		<element type="location"/>
+	</ElementType>
+	<ElementType name="Address">
+		<element type="country"/>
+		<element type="state"/>
+		<element type="city"/>
+	</ElementType>
+	<ElementType name="Institution">
+		<element type="name"/>
+		<element type="shortName"/>
+		<element type="address"/>
+		<element type="Publisher"/>
+		<element type="School"/>
+	</ElementType>
+	<ElementType name="Organization">
+		<element type="Institution"/>
+	</ElementType>
+	<ElementType name="Publisher">
+	</ElementType>
+	<ElementType name="School">
+	</ElementType>
+	<ElementType name="PersonList">
+		<element type="first"/>
+		<element type="rest"/>
+	</ElementType>
+	<ElementType name="List">
+		<element type="PersonList"/>
+	</ElementType>
+	<ElementType name="PageRange">
+		<element type="startPage"/>
+		<element type="endPage"/>
+	</ElementType>
+	<ElementType name="Date">
+		<element type="year"/>
+		<element type="month"/>
+		<element type="day"/>
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="author" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Article" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Monograph" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Collection" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Booklet" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Chapter" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="InBook" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="InCollection" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="InProceedings" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="LectureNotes" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Manual" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="MastersThesis" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="PhdThesis" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Misc" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Proceedings" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="TechReport" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Deliverable" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Unpublished" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="MotionPicture" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="isPartOf" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="author" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="pages" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="journal" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="number" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="volume" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="volume" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="publisher" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="series" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="humanCreator" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="edition" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="volume" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="publisher" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="series" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="humanCreator" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="edition" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="pages" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="isPartOf" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="chapter" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="pages" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="isPartOf" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="author" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="book" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="pages" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="isPartOf" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="author" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="collection" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="pages" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="isPartOf" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="volume" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="publisher" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="series" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="humanCreator" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="edition" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="author" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="proceedings" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="organization" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="edition" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="author" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="school" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="author" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="school" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="event" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="editor" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="organization" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="author" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="institution" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="number" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="contract" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="author" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="institution" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="number" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="author" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="note" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="name" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="shortName" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="periodicity" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="publisher" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="series" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="firstPublished" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="name" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="organizer" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="shortName" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="issue" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="location" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="country" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="state" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="city" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="name" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="shortName" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="address" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Publisher" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="School" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Institution" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="first" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="rest" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="PersonList" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="startPage" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="endPage" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="year" content="textOnly" dt:type="gYear">
+	</ElementType>
+	<ElementType name="month" content="textOnly" dt:type="gMonth">
+	</ElementType>
+	<ElementType name="day" content="textOnly" dt:type="gDay">
+	</ElementType>
+</Schema>

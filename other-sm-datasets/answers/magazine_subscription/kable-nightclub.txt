@@ -1,0 +1,13 @@
+newsubs.Submit	subscribe.Submit
+newsubs.City	subscribe.add_city
+newsubs.StOrProv	subscribe.add_state
+newsubs.PostalCode	subscribe.add_postal
+newsubs.Country	subscribe.add_country
+newsubs.Email	subscribe.email_add
+newsubs.subscribe	subcribe
+newsubs.FirstName	subscribe.name_first
+newsubs.LastName	subscribe.name_last
+newsubs.Reset	subscribe.Reset
+newsubs.Company	subscribe.company_name
+newsubs.Address1	subscribe.add_line1
+newsubs.Address2	subscribe.add_line2

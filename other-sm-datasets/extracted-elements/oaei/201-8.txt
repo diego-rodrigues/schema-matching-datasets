@@ -1,0 +1,124 @@
+sqdsq
+> +-+-+ zajdhqs
+> +-+-+ qsdsnbsqd
+> +-+-+ sqdsopq
+> +-+-+ zdazsx
+> +-+-+ wxsdxqsdh
+> +-+-+ dqzdxdcsqj
+> +-+-+ dscdscg
+> +-+-+ zdzbh +-+-+ string
+> +-+-+ dsqndbsqx +-+-+ string
+> +-+-+ chapters +-+-+ string
+> +-+-+ TfniY +-+-+ string
+> +-+-+ dsqnhza +-+-+ string
+> +-+-+ zandsbh +-+-+ string
+> +-+-+ sbqgzga +-+-+ string
+> +-+-+ sqndsqgy +-+-+ string
+> +-+-+ zdsnsqdv +-+-+ string
+> +-+-+ sddnsnqdb +-+-+ string
+> +-+-+ dszbnz +-+-+ string
+> +-+-+ dznbaln +-+-+ string
+> +-+-+ zadzqbsdg +-+-+ string
+> +-+-+ dsqndsz +-+-+ string
+> +-+-+ contents +-+-+ string
+> +-+-+ zdzdzd +-+-+ string
+> +-+-+ szdnzak +-+-+ string
+> +-+-+ zadsznad +-+-+ string
+> +-+-+ zqdszh +-+-+ string
+> +-+-+ language +-+-+ string
+> +-+-+ zdjznzn +-+-+ string
+> +-+-+ dzandzah +-+-+ string
+> +-+-+ dszbgz +-+-+ string
+> +-+-+ dsq +-+-+ string
+> +-+-+ size +-+-+ string
+> +-+-+ zdsznbadzagh +-+-+ string
+> +-+-+ dzezd +-+-+ string
+> +-+-+ ndsbzh +-+-+ string
+> +-+-+ sqnzkzn +-+-+ string
+> +-+-+ zsbdgz +-+-+ string
+Article
+> +-+-+ sxqsnbvsq +-+-+ string
+sqdsopq
+> +-+-+ Article
+> +-+-+ dzqndbzq
+> +-+-+ vccfsq
+> +-+-+ dcsqdcsqd
+> +-+-+ InProceedings
+> +-+-+ EzGNplyLBiS +-+-+ string
+> +-+-+ dsazdjz +-+-+ string
+> +-+-+ pages +-+-+ string
+zajdhqs
+> +-+-+ dzajndsq +-+-+ string
+> +-+-+ sqxsqkd +-+-+ string
+> +-+-+ zdqssqdb
+> +-+-+ sdsqddz +-+-+ string
+qsdsnbsqd
+> +-+-+ Booklet
+> +-+-+ scds
+> +-+-+ dcsqdsq
+> +-+-+ zeadza +-+-+ string
+Booklet
+> +-+-+ sdqz +-+-+ string
+dzqndbzq
+> +-+-+ firstPublished +-+-+ string
+> +-+-+ type +-+-+ string
+vccfsq
+> +-+-+ book +-+-+ string
+dcsqdcsqd
+> +-+-+ sqnbyz +-+-+ string
+InProceedings
+> +-+-+ zassdzadb +-+-+ string
+scds
+> +-+-+ dzbn +-+-+ string
+dcsqdsq
+> +-+-+ sdsqddz +-+-+ string
+> +-+-+ organization +-+-+ string
+zdazsx
+> +-+-+ xsqlknk +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+> +-+-+ dzbn +-+-+ string
+> +-+-+ type +-+-+ string
+wxsdxqsdh
+> +-+-+ sdqz +-+-+ string
+zdqssqdb
+> +-+-+ PrSGUs +-+-+ string
+> +-+-+ event +-+-+ string
+> +-+-+ organization +-+-+ string
+dqzdxdcsqj
+> +-+-+ sdcsqhyz
+> +-+-+ Deliverable +-+-+ string
+> +-+-+ hsgiuyza +-+-+ string
+sdcsqhyz
+> +-+-+ type +-+-+ string
+dscdscg
+> +-+-+ directors +-+-+ string
+qsdsquj
+> +-+-+ YuEma +-+-+ string
+> +-+-+ sdxsndxsqg +-+-+ string
+> +-+-+ sddnsnqdb +-+-+ string
+zqedzbx
+> +-+-+ sdnsbh +-+-+ string
+> +-+-+ sqndsqgy +-+-+ string
+> +-+-+ zdjznzn +-+-+ string
+> +-+-+ dzezd +-+-+ string
+> +-+-+ sqnzkzn +-+-+ string
+Address
+> +-+-+ zdzndh +-+-+ string
+> +-+-+ zdnzadh +-+-+ string
+> +-+-+ zadszabnds +-+-+ string
+izxnquo
+> +-+-+ zauio +-+-+ string
+> +-+-+ zadazxn +-+-+ string
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ izxnquo
+List
+> +-+-+ dsqdbz +-+-+ string
+PageRange
+> +-+-+ startPage +-+-+ string
+> +-+-+ mkalnshsq +-+-+ string
+dzshyuua
+> +-+-+ year +-+-+ string
+> +-+-+ asndzsd +-+-+ string
+> +-+-+ dznadzh +-+-+ string
+Thing
+> +-+-+ qzd +-+-+ string

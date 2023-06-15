@@ -1,0 +1,13 @@
+http://search.scotsman.com/scripts/rwisapi.dll/@scotsman.env?CQ_QUERY_STRING=_CQ_USER_NAME=guest_CQ_PASSWORD=guest_CQ_PROCESS_LOGIN=YES_CQ_LOGIN=YES_CQ_SAVE[Refine_the_query]=FALSE_CQ_DTF_SEARCHFORM=YES_CQ_CUR_LIBRARY=Arts_Lib%20Careers_Lib%20Heritage_Lib%20Leisure_Lib%20Motors_Lib%20Property_Lib%20Travel_Lib%20ScottishLocalities_Lib%20Festival_Lib%20Network_lib
+http://search.scotsman.com/scripts/rwisapi.dll/@scotsman.env?CQ_QUERY_STRING=_CQ_USER_NAME=guest_CQ_PASSWORD=guest_CQ_PROCESS_LOGIN=YES_CQ_LOGIN=YES_CQ_SAVE[Refine_the_query]=FALSE_CQ_DTF_SEARCHFORM=YES_CQ_CUR_LIBRARY=Arts_Lib%20Careers_Lib%20Heritage_Lib%20Leisure_Lib%20Motors_Lib%20Property_Lib%20Travel_Lib%20ScottishLocalities_Lib%20Festival_Lib%20Network_lib
+> +-+-+ CQ_SAVE[Start_Row] +-+-+ string
+> +-+-+ Search +-+-+ string
+> +-+-+ You are currently searching for: +-+-+ string
+> +-+-+ CQ_SESSION_KEY +-+-+ string
+> +-+-+ The site is organised into several different zones . Select the one(s) you want to search from this list. (Ctrl-Click to select multiple categories) +-+-+ string
+> +-+-+ Change the style of your search: +-+-+ string
+> +-+-+ Search Headline on: +-+-+ string
+> +-+-+ Change the mode of your search: +-+-+ string
+> +-+-+ CQ_DTF_QUICKSEARCH_RESULTS +-+-+ string
+> +-+-+ Search Byline on: +-+-+ string
+> +-+-+ CQMARK +-+-+ string

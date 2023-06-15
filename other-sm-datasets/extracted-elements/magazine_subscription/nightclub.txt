@@ -1,0 +1,23 @@
+subscribe
+subscribe
+> - confirm - string
+> - name_first - string
+> - name_last - string
+> - high_school - string
+> - work_title - string
+> - company_name - string
+> - add_line1 - string
+> - add_line2 - string
+> - add_city - string
+> - add_state - string
+> - add_state_other - string
+> - add_postal - string
+> - add_country - string
+> - phone_voice - string
+> - phone_fax - string
+> - email_add - string
+> - business_type - string
+> - business_type_other - string
+> - Submit - string
+> - magazine_abv - string
+> - Reset - string

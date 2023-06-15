@@ -1,0 +1,7 @@
+author
+author
+> +-+-+ dob +-+-+ string
+> +-+-+ dod +-+-+ string
+> +-+-+ country_code +-+-+ string
+> +-+-+ loc +-+-+ xsd:string
+> +-+-+ named +-+-+ string

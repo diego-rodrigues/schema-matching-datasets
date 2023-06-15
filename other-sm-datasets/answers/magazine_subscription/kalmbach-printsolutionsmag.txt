@@ -1,0 +1,12 @@
+Preview.QuickOrder1btnSubmit	regform.submit
+Preview.QuickOrder1addresstxtCity	regform.City
+Preview.QuickOrder1addresscboState	regform.State
+Preview.QuickOrder1addresstxtPostalCode	regform.Zip
+Preview.QuickOrder1addresscboCountry	regform.Country
+Preview.QuickOrder1addresstxtEmail	regform.Email
+Preview.QuickOrder1addresstxtFirstName	regform.First_Name
+Preview.QuickOrder1addresstxtLastName	regform.Last_Name
+Preview.QuickOrder1addresstxtAddress1	regform.Address
+Preview.QuickOrder1creditCardtxtCardNumber	regform.Credit_Card_Number
+Preview.QuickOrder1creditCarddrpExpireYear	regform.Expiration_Date	
+Preview.QuickOrder1PaymentOptions	regform.Payment

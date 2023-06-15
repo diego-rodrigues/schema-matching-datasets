@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<Schema name="ontology205" xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+	<ElementType name="Entry">
+		<element type="publishingDate"/>
+		<element type="heading"/>
+		<element type="writtenBy"/>
+		<element type="Book"/>
+		<element type="NonFormal"/>
+		<element type="Section"/>
+		<element type="StudentReport"/>
+		<element type="Various"/>
+		<element type="Report"/>
+		<element type="Movie"/>
+	</ElementType>
+	<ElementType name="JournalPaper">
+		<element type="writtenBy"/>
+		<element type="pageRange"/>
+		<element type="inPeriodical"/>
+		<element type="publishingDate"/>
+		<element type="number"/>
+		<element type="volume"/>
+	</ElementType>
+	<ElementType name="Section">
+		<element type="JournalPaper"/>
+		<element type="pageRange"/>
+		<element type="heading"/>
+		<element type="partOf"/>
+		<element type="Chapter"/>
+		<element type="Extract"/>
+		<element type="InCompilation"/>
+		<element type="Communication"/>
+	</ElementType>
+	<ElementType name="Book">
+		<element type="heading"/>
+		<element type="volume"/>
+		<element type="publishedBy"/>
+		<element type="inSeries"/>
+		<element type="publishingDate"/>
+		<element type="createdBy"/>
+		<element type="issue"/>
+		<element type="Monograph"/>
+		<element type="Compilation"/>
+		<element type="CongressMinutes"/>
+	</ElementType>
+	<ElementType name="Monograph">
+	</ElementType>
+	<ElementType name="Compilation">
+	</ElementType>
+	<ElementType name="NonFormal">
+		<element type="heading"/>
+		<element type="Brochure"/>
+		<element type="CourseMaterial"/>
+		<element type="ReferenceGuide"/>
+		<element type="Manuscript"/>
+	</ElementType>
+	<ElementType name="Brochure">
+	</ElementType>
+	<ElementType name="Chapter">
+		<element type="section"/>
+	</ElementType>
+	<ElementType name="Extract">
+		<element type="writtenBy"/>
+		<element type="pageRange"/>
+		<element type="inVolume"/>
+	</ElementType>
+	<ElementType name="InCompilation">
+		<element type="writtenBy"/>
+		<element type="inCompilation"/>
+	</ElementType>
+	<ElementType name="Communication">
+		<element type="writtenBy"/>
+		<element type="inMinutes"/>
+	</ElementType>
+	<ElementType name="CourseMaterial">
+	</ElementType>
+	<ElementType name="ReferenceGuide">
+		<element type="sponsoredBy"/>
+		<element type="issue"/>
+		<element type="heading"/>
+	</ElementType>
+	<ElementType name="StudentReport">
+		<element type="writtenBy"/>
+		<element type="heading"/>
+		<element type="issuer"/>
+		<element type="publishingDate"/>
+		<element type="MScThesis"/>
+		<element type="DoctoralThesis"/>
+	</ElementType>
+	<ElementType name="MScThesis">
+	</ElementType>
+	<ElementType name="DoctoralThesis">
+	</ElementType>
+	<ElementType name="Various">
+	</ElementType>
+	<ElementType name="CongressMinutes">
+		<element type="meeting"/>
+		<element type="coordinatedBy"/>
+		<element type="sponsoredBy"/>
+	</ElementType>
+	<ElementType name="Report">
+		<element type="writtenBy"/>
+		<element type="heading"/>
+		<element type="issuedBy"/>
+		<element type="publishingDate"/>
+		<element type="number"/>
+		<element type="TechnicalReport"/>
+		<element type="Deliverable"/>
+	</ElementType>
+	<ElementType name="TechnicalReport">
+	</ElementType>
+	<ElementType name="Deliverable">
+		<element type="contract"/>
+	</ElementType>
+	<ElementType name="Manuscript">
+		<element type="writtenBy"/>
+		<element type="heading"/>
+		<element type="comment"/>
+	</ElementType>
+	<ElementType name="Movie">
+	</ElementType>
+	<ElementType name="Periodical">
+		<element type="id"/>
+		<element type="acronym"/>
+		<element type="frequency"/>
+		<element type="publishedBy"/>
+		<element type="inSeries"/>
+		<element type="startDate"/>
+	</ElementType>
+	<ElementType name="Congress">
+		<element type="id"/>
+		<element type="organizedBy"/>
+		<element type="acronym"/>
+		<element type="issue"/>
+		<element type="place"/>
+	</ElementType>
+	<ElementType name="Directions">
+		<element type="country"/>
+		<element type="state"/>
+		<element type="town"/>
+	</ElementType>
+	<ElementType name="Organization">
+		<element type="Organization"/>
+		<element type="id"/>
+		<element type="acronym"/>
+		<element type="coordinates"/>
+		<element type="PublishingHouse"/>
+		<element type="University"/>
+	</ElementType>
+	<ElementType name="PublishingHouse">
+	</ElementType>
+	<ElementType name="University">
+	</ElementType>
+	<ElementType name="People">
+		<element type="first"/>
+		<element type="rest"/>
+	</ElementType>
+	<ElementType name="List">
+		<element type="People"/>
+	</ElementType>
+	<ElementType name="PageInterval">
+		<element type="beginning"/>
+		<element type="end"/>
+	</ElementType>
+	<ElementType name="Date">
+		<element type="year"/>
+		<element type="month"/>
+		<element type="day"/>
+	</ElementType>
+	<ElementType name="publishingDate" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="heading" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="writtenBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Book" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="NonFormal" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Section" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="StudentReport" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Various" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Report" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Movie" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="writtenBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="pageRange" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="inPeriodical" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="publishingDate" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="number" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="volume" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="JournalPaper" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="pageRange" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="heading" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="partOf" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Chapter" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Extract" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="InCompilation" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Communication" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="heading" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="volume" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="publishedBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="inSeries" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="publishingDate" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="createdBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="issue" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="Monograph" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Compilation" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="CongressMinutes" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="heading" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="Brochure" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="CourseMaterial" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="ReferenceGuide" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Manuscript" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="section" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="writtenBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="pageRange" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="inVolume" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="writtenBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="inCompilation" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="writtenBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="inMinutes" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sponsoredBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="issue" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="heading" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="writtenBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="heading" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="issuer" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="publishingDate" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="MScThesis" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="DoctoralThesis" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="meeting" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="coordinatedBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sponsoredBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="writtenBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="heading" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="issuedBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="publishingDate" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="number" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="TechnicalReport" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Deliverable" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="contract" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="writtenBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="heading" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="comment" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="id" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="acronym" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="frequency" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="publishedBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="inSeries" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="startDate" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="id" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="organizedBy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="acronym" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="issue" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="place" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="country" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="state" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="town" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="Organization" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="id" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="acronym" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="coordinates" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="PublishingHouse" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="University" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="first" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="rest" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="People" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="beginning" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="end" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="year" content="textOnly" dt:type="gYear">
+	</ElementType>
+	<ElementType name="month" content="textOnly" dt:type="gMonth">
+	</ElementType>
+	<ElementType name="day" content="textOnly" dt:type="gDay">
+	</ElementType>
+</Schema>

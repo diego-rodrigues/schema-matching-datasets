@@ -1,0 +1,22 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/americansingles_com - Free personals, online dating, chat, millions of members.htm
+frmStep1
+file:/C:/Documents and Settings/Eyal_ami/Desktop/americansingles_com - Free personals, online dating, chat, millions of members.htm
+> +-+-+ frmStep1
+frmStep1
+> +-+-+ Introduce Yourself: What is the first thing you want people to know about you? Need help? +-+-+ string
+> +-+-+ Login +-+-+ string
+> +-+-+ OpenerParentRegionID +-+-+ string
+> +-+-+ Screen Name: This is the name that is seen by other members. +-+-+ string
+> +-+-+ Include Your Photo: Profiles with photos get 8 times more results! +-+-+ string
+> +-+-+ Date of Birth: +-+-+ string
+> +-+-+ a +-+-+ string
+> +-+-+ How did you hear about us: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ EditFlag +-+-+ string
+> +-+-+ Password: This item is Confidential . +-+-+ string
+> +-+-+ LastCountryRegionID +-+-+ string
+> +-+-+ RegionID +-+-+ string
+> +-+-+ Email Address: This item is Confidential . You'll need it to login. +-+-+ string
+> +-+-+ Re-enter Password: +-+-+ string
+> +-+-+ Zip Code: +-+-+ string
+> +-+-+ You are a: +-+-+ string

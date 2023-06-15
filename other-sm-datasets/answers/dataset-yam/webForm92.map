@@ -1,0 +1,14 @@
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/Username;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/User Name: (min. 4 characters);
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/Password;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/Password: (min. 6 characters);
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/Password (re-enter);www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/Re-Enter Password:;
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/First name;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/First Name:;
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/Last name;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/Last Name:;
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/Address;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/Street:;
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/City;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/City:;
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/Zipcode;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/Postal Code ZIP:;
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/Country;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/Country:;
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/State;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/Province State:;
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/Home Phone;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/Home Phone (With Area Code):;
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/Work Phone;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/Work Phone (With Area Code):;
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/Email;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/Email:;
+www.cybersportsbook.com.xml.xsd/http://www.cybersportsbook.com/join.asp/sportsbook/JoinForm/Birth Date;www.bettingexpress.com.xml.xsd/http://www.bettingexpress.com/sportsbook/join.html/JoinForm/Birth-Date (MMDDYYYY):;

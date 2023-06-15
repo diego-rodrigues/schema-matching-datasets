@@ -1,0 +1,75 @@
+http://www.cybersportsbook.com/join.asp
+sportsbook
+http://www.cybersportsbook.com/join.asp
+> +-+-+ sportsbook
+sportsbook
+> +-+-+ Login +-+-+ string
+> +-+-+ PAGE +-+-+ string
+> +-+-+ Username: +-+-+ string
+> +-+-+ SITEID +-+-+ string
+JoinForm
+> +-+-+ JoinForm
+JoinForm
+> +-+-+ Join now! +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Zipcode +-+-+ string
+> +-+-+ How did you find us? +-+-+ string
+> +-+-+ MPIdentifier +-+-+ string
+> +-+-+ Password (re-enter) +-+-+ string
+> +-+-+ Target +-+-+ string
+> +-+-+ Mobile +-+-+ string
+> +-+-+ Alternate Email +-+-+ string
+> +-+-+ Description +-+-+ string
+> +-+-+ Address 2 +-+-+ string
+> +-+-+ Home Phone +-+-+ string
+> +-+-+ First name +-+-+ string
+> +-+-+ Fax +-+-+ string
+> +-+-+ Friends Username +-+-+ string
+> +-+-+ Last name +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ State +-+-+ string
+> +-+-+ Email +-+-+ string
+> +-+-+ I agree to be contacted from time to time regarding customer +-+-+ string
+> +-+-+ Work Phone +-+-+ string
+> +-+-+ Address +-+-+ string
+> +-+-+ Username +-+-+ string
+> +-+-+ Birth Date +-+-+ string
+> +-+-+ Select Odds Preference +-+-+ string
+> +-+-+ I have read and agree to the terms and conditions +-+-+ string
+> +-+-+ SiteID +-+-+ string
+sportsbook
+> +-+-+ ACTION +-+-+ string
+> +-+-+ Password: +-+-+ string
+JoinForm
+http://www.cybersportsbook.com/join.asp
+> +-+-+ JoinForm
+JoinForm
+> +-+-+ Join now! +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Zipcode +-+-+ string
+> +-+-+ How did you find us? +-+-+ string
+> +-+-+ MPIdentifier +-+-+ string
+> +-+-+ Password (re-enter) +-+-+ string
+> +-+-+ Target +-+-+ string
+> +-+-+ Mobile +-+-+ string
+> +-+-+ Alternate Email +-+-+ string
+> +-+-+ Description +-+-+ string
+> +-+-+ Address 2 +-+-+ string
+> +-+-+ Home Phone +-+-+ string
+> +-+-+ First name +-+-+ string
+> +-+-+ Fax +-+-+ string
+> +-+-+ Friends Username +-+-+ string
+> +-+-+ Last name +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ State +-+-+ string
+> +-+-+ Email +-+-+ string
+> +-+-+ I agree to be contacted from time to time regarding customer +-+-+ string
+> +-+-+ Work Phone +-+-+ string
+> +-+-+ Address +-+-+ string
+> +-+-+ Username +-+-+ string
+> +-+-+ Birth Date +-+-+ string
+> +-+-+ Select Odds Preference +-+-+ string
+> +-+-+ I have read and agree to the terms and conditions +-+-+ string
+> +-+-+ SiteID +-+-+ string

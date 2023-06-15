@@ -1,0 +1,15 @@
+apply.iPhoneNumber	Details.txtTelephone
+apply.iLastName	Details.txtSurname
+apply.iFirstName	Details.txtFirstName
+apply.iCountryID	Details.cboCountryAlt
+apply.iTitle	Details.cboTitle
+apply.iUsername	Details.txtUsername
+apply.iPostalCode	Details.txtPostcode
+apply.iPostalCode	Details.txtQASPostcode
+apply.iState	Details.txtStateRegion
+apply.iEmail	Details.txtEmail
+apply.iCity	Details.txtCityTown
+apply.iNotify	Details.chkMail
+apply.iPassword1	Details.txtPassword
+apply.iPassword2	Details.txtPasswordConfirm
+apply.iAddress	Details.txtAddress1

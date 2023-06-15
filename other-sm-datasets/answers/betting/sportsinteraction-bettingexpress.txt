@@ -1,0 +1,12 @@
+apply.iPostalCode	JoinForm.ZIP
+apply.iState	JoinForm.STATE
+apply.iPhoneNumber	JoinForm.HOMEPHONENO
+apply.iPhoneNumber	JoinForm.WORKPHONENO
+apply.iEmail	JoinForm.EMAIL
+apply.iLastName	JoinForm.LASTNAME
+apply.iCity	JoinForm.CITY
+apply.iFirstName	JoinForm.FIRSTNAME
+apply.iCountryID	JoinForm.COUNTRY
+apply.iPassword1	JoinForm.PASSWORD
+apply.iPassword2	JoinForm.REENTERPASSWORD
+apply.iAddress	JoinForm.STREET

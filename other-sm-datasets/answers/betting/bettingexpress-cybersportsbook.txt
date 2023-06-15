@@ -1,0 +1,14 @@
+JoinForm.REENTERPASSWORD	JoinForm.txtPassword2
+JoinForm.PASSWORD	sportsbook.PASSWORD
+JoinForm.HOMEPHONENO	JoinForm.txtHomePhone
+JoinForm.HOMEPHONENO	JoinForm.txtWorkPhone
+JoinForm.WORKPHONENO	JoinForm.txtHomePhone
+JoinForm.WORKPHONENO	JoinForm.txtWorkPhone
+JoinForm.STREET	JoinForm.txtAddress1
+JoinForm.COUNTRY	JoinForm.txtCountry
+JoinForm.FIRSTNAME	JoinForm.txtFirstName
+JoinForm.CITY	JoinForm.txtCity
+JoinForm.ZIP	JoinForm.txtZip
+JoinForm.LASTNAME	JoinForm.txtLastName
+JoinForm.STATE	JoinForm.ddlState
+JoinForm.EMAIL	JoinForm.txtEmail

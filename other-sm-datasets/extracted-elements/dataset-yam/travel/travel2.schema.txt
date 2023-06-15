@@ -1,0 +1,32 @@
+TripForm
+departure-city
+TripForm
+> +-+-+ departure-city
+DepartureDate
+departure-city
+> +-+-+ DepartureDate
+departure-month
+DepartureDate
+> +-+-+ departure-month
+departure-month
+> +-+-+ departure-day +-+-+ string
+departure-time
+> +-+-+ departure-time
+arrival-city
+departure-time
+> +-+-+ arrival-city
+ReturnDate
+arrival-city
+> +-+-+ ReturnDate
+returning-month
+ReturnDate
+> +-+-+ returning-month
+returning-month
+> +-+-+ returning-day +-+-+ string
+returning-time
+> +-+-+ returning-time
+passenger-adults-num
+returning-time
+> +-+-+ passenger-adults-num
+passenger-adults-num
+> +-+-+ max-connections +-+-+ string

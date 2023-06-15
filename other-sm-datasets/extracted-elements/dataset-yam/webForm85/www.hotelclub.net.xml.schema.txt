@@ -1,0 +1,24 @@
+http://www.hotelclub.net/hotelregform.asp
+frmHotelReg
+http://www.hotelclub.net/hotelregform.asp
+> +-+-+ frmHotelReg
+frmHotelReg
+> +-+-+ Post Code: +-+-+ string
+> +-+-+ Hotel Property Name: (info) +-+-+ string
+> +-+-+ Position: +-+-+ string
+> +-+-+ form +-+-+ string
+> +-+-+ Property Type: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Reservations By: (info) +-+-+ string
+> +-+-+ How did you hear about HotelClub? +-+-+ string
+> +-+-+ Comments: 200 chars max +-+-+ string
+> +-+-+ E-mail Address: +-+-+ string
+> +-+-+ Website Address: +-+-+ string
+> +-+-+ Street Address: +-+-+ string
+> +-+-+ Telephone: +-+-+ string
+> +-+-+ Star Rating: (info) +-+-+ string
+> +-+-+ Fax: +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ Contact Name: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Number of Rooms: +-+-+ string

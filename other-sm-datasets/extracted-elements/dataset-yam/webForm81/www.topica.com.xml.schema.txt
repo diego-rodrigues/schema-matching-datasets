@@ -1,0 +1,17 @@
+http://www.topica.com/register
+form_local
+http://www.topica.com/register
+> +-+-+ form_local
+form_local
+> +-+-+ * Re-Enter Password: +-+-+ string
+> +-+-+ * Email Type: +-+-+ string
+> +-+-+ * Country: +-+-+ string
+> +-+-+ * Email Address: +-+-+ string
+> +-+-+ * First Name: +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ I Agree +-+-+ string
+> +-+-+ * Birth Date: +-+-+ string
+> +-+-+ * Gender: +-+-+ string
+> +-+-+ * Choose a Password: +-+-+ string
+> +-+-+ * Zip Code: +-+-+ string
+> +-+-+ * Last Name: +-+-+ string

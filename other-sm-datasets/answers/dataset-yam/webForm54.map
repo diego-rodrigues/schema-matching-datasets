@@ -1,0 +1,11 @@
+screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Find Stocks;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Search;
+screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Industry:;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Industry;
+screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Share Price:;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Price;
+screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Market Cap:;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Market Capitalization;
+screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Dividend Yield:;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Yield;
+screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Sales Revenue:;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Prior Year's Sales;
+screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Profit Margin;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Profit Margin;
+screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Price Earnings Ratio:;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/P E Ratio (TTM);
+screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Price Book Ratio:;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Price Book (MRQ);
+screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Price Sales Ratio:;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Price Sales (TTM);
+screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Avg Analyst Rec: (1=Buy, 5=Sell);finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Analyst Consensus;

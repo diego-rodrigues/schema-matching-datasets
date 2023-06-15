@@ -1,0 +1,14 @@
+newsubs.Submit	search.trial.submit
+newsubs.City	search.trial.city
+newsubs.StOrProv	search.trial.state
+newsubs.PostalCode	search.trial.zip
+newsubs.Country	search.trial.country
+newsubs.Email	search.trial.email
+newsubs.FirstName	search.trial.first
+newsubs.LastName	search.trial.last
+newsubs.Reset	search.trial.reset2
+newsubs.subscribe.Search	search
+newsubs.Company	search.trial.company
+newsubs.Address1	search.trial.address1
+newsubs.Address2	search.trial.address2
+newsubs.MiddleInitial	search.trial.middle

@@ -1,0 +1,34 @@
+form1
+form1
+> - BID - string
+> - REF_ID - string
+> - CS - string
+> - FName - string
+> - LName - string
+> - Email - string
+> - ConfShown - string
+> - ConfEmail - string
+> - Title - string
+> - Company - string
+> - Department - string
+> - MailStop - string
+> - Address1 - string
+> - City - string
+> - State - string
+> - Zip - string
+> - Zip_Ext - string
+> - COUNTRY - string
+> - PhonePre - string
+> - PhoneExt - string
+> - Phone - string
+> - FaxPre - string
+> - FaxExt - string
+> - Fax - string
+> - FREE_SUB - string
+> - BIRTH_CITY - string
+> - AC_ACTIVITY - string
+> - AC_ACTIVITY_OTHER - string
+> - AC_DEPARTMENT - string
+> - AC_DEPARTMENT_OTHER - string
+> - AC_POPSIZE - string
+> - Submit - string

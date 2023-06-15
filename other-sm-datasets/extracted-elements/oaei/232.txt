@@ -1,0 +1,93 @@
+Reference
+> +-+-+ key +-+-+ string
+> +-+-+ reviewed +-+-+ string
+> +-+-+ chapters +-+-+ string
+> +-+-+ parts +-+-+ string
+> +-+-+ annote +-+-+ string
+> +-+-+ contract +-+-+ string
+> +-+-+ humanCreator +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ note +-+-+ string
+> +-+-+ publisher +-+-+ string
+> +-+-+ series +-+-+ string
+> +-+-+ title +-+-+ string
+> +-+-+ affiliation +-+-+ string
+> +-+-+ abstract +-+-+ string
+> +-+-+ contents +-+-+ string
+> +-+-+ copyright +-+-+ string
+> +-+-+ isbn +-+-+ string
+> +-+-+ issn +-+-+ string
+> +-+-+ keywords +-+-+ string
+> +-+-+ language +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ lccn +-+-+ string
+> +-+-+ mrNumber +-+-+ string
+> +-+-+ price +-+-+ string
+> +-+-+ size +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ number +-+-+ string
+> +-+-+ issue +-+-+ string
+> +-+-+ volume +-+-+ string
+Article
+> +-+-+ journal +-+-+ string
+Book
+> +-+-+ edition +-+-+ string
+Booklet
+> +-+-+ howPublished +-+-+ string
+Part
+> +-+-+ isPartOf +-+-+ string
+> +-+-+ chapter +-+-+ string
+> +-+-+ pages +-+-+ string
+Chapter
+> +-+-+ firstPublished +-+-+ string
+> +-+-+ type +-+-+ string
+InBook
+> +-+-+ book +-+-+ string
+InCollection
+> +-+-+ collection +-+-+ string
+InProceedings
+> +-+-+ proceedings +-+-+ string
+LectureNotes
+> +-+-+ school +-+-+ string
+Manual
+> +-+-+ edition +-+-+ string
+> +-+-+ organization +-+-+ string
+Academic
+> +-+-+ school +-+-+ string
+> +-+-+ type +-+-+ string
+Misc
+> +-+-+ howPublished +-+-+ string
+Proceedings
+> +-+-+ communications +-+-+ string
+> +-+-+ event +-+-+ string
+> +-+-+ organization +-+-+ string
+Report
+> +-+-+ institution +-+-+ string
+TechReport
+> +-+-+ type +-+-+ string
+MotionPicture
+> +-+-+ directors +-+-+ string
+Journal
+> +-+-+ articles +-+-+ string
+> +-+-+ periodicity +-+-+ string
+> +-+-+ publisher +-+-+ string
+Conference
+> +-+-+ organizer +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ issue +-+-+ string
+Address
+> +-+-+ city +-+-+ string
+> +-+-+ state +-+-+ string
+> +-+-+ country +-+-+ string
+PageRange
+> +-+-+ startPage +-+-+ string
+> +-+-+ endPage +-+-+ string
+Date
+> +-+-+ year +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+ day +-+-+ string
+Thing
+> +-+-+ address +-+-+ string

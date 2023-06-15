@@ -1,0 +1,21 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/judit.htm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/judit.htm
+> +-+-+ storeid +-+-+ string
+> +-+-+ Card Number Name on Card +-+-+ string
+> +-+-+ Name Company Email +-+-+ string
+> +-+-+ Card Number Name on Card Company +-+-+ string
+> +-+-+ Return to Cart +-+-+ string
+> +-+-+ Submit this Order +-+-+ string
+> +-+-+ Name Company Email Address Address 2 City State Province +-+-+ string
+> +-+-+ prevlocation +-+-+ string
+> +-+-+ Name +-+-+ string
+> +-+-+ Name Company Email Address Address 2 City State Province Zip Code Phone Number +-+-+ string
+> +-+-+ Name Company Email Address Address 2 City State Province Zip Code +-+-+ string
+> +-+-+ I would like to receive an email with more information about setting up my own free online store using ShopSite. +-+-+ string
+> +-+-+ Name Company Email Address Address 2 +-+-+ string
+> +-+-+ Card Number +-+-+ string
+> +-+-+ sbid +-+-+ string
+> +-+-+ Name Company Email Address +-+-+ string
+> +-+-+ Name Company Email Address Address 2 City +-+-+ string
+> +-+-+ Name Company +-+-+ string
+> +-+-+ PayType +-+-+ string

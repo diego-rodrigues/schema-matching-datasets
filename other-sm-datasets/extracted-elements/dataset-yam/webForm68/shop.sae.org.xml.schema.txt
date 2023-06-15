@@ -1,0 +1,97 @@
+https://shop.sae.org/calendar/topreg.shtml
+SAE_SEARCH
+https://shop.sae.org/calendar/topreg.shtml
+> +-+-+ SAE_SEARCH
+SAE_SEARCH
+> +-+-+ rq +-+-+ string
+> +-+-+ qm +-+-+ string
+> +-+-+ Search +-+-+ string
+> +-+-+ qp +-+-+ string
+> +-+-+ col +-+-+ string
+> +-+-+ sae_qt1 +-+-+ string
+> +-+-+ ql +-+-+ string
+> +-+-+ ht +-+-+ string
+> +-+-+ oq +-+-+ string
+> +-+-+ charset +-+-+ string
+prePopulatedForm
+> +-+-+ prePopulatedForm
+prePopulatedForm
+> +-+-+ Bill to Address: +-+-+ string
+> +-+-+ Credit Card: +-+-+ string
+> +-+-+ Street: +-+-+ string
+> +-+-+ subject +-+-+ string
+> +-+-+ Mail Stop (if applicable): +-+-+ string
+> +-+-+ Home Phone: +-+-+ string
+> +-+-+ Organization: +-+-+ string
+> +-+-+ recipient +-+-+ string
+> +-+-+ Are you an SAE member? Yes No SAE Member Number: +-+-+ string
+> +-+-+ Email: +-+-+ string
+> +-+-+ Date: +-+-+ string
+> +-+-+ Business Phone: +-+-+ string
+> +-+-+ Postal Code: +-+-+ string
+> +-+-+ Job Title: +-+-+ string
+> +-+-+ Department: +-+-+ string
+> +-+-+ Registration Fee: +-+-+ string
+> +-+-+ redirect +-+-+ string
+> +-+-+ required +-+-+ string
+> +-+-+ ID Number: +-+-+ string
+> +-+-+ Purchase Order Number: +-+-+ string
+> +-+-+ Location: +-+-+ string
+> +-+-+ Card Number: +-+-+ string
+> +-+-+ Course Name: +-+-+ string
+> +-+-+ Expiration Date: +-+-+ string
+> +-+-+ missing_fields_redirect +-+-+ string
+> +-+-+ Fax Number: +-+-+ string
+> +-+-+ Name: +-+-+ string
+> +-+-+ Are you an SAE member? +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ State Province: +-+-+ string
+> +-+-+ City: +-+-+ string
+SAE_SEARCH
+> +-+-+ rf +-+-+ string
+> +-+-+ ws +-+-+ string
+> +-+-+ si +-+-+ string
+> +-+-+ qc +-+-+ string
+> +-+-+ lk +-+-+ string
+> +-+-+ jsp_name +-+-+ string
+> +-+-+ Go! +-+-+ string
+> +-+-+ la +-+-+ string
+> +-+-+ nh +-+-+ string
+> +-+-+ pw +-+-+ string
+> +-+-+ st +-+-+ string
+> +-+-+ qs +-+-+ string
+prePopulatedForm
+https://shop.sae.org/calendar/topreg.shtml
+> +-+-+ prePopulatedForm
+prePopulatedForm
+> +-+-+ Bill to Address: +-+-+ string
+> +-+-+ Credit Card: +-+-+ string
+> +-+-+ Street: +-+-+ string
+> +-+-+ subject +-+-+ string
+> +-+-+ Mail Stop (if applicable): +-+-+ string
+> +-+-+ Home Phone: +-+-+ string
+> +-+-+ Organization: +-+-+ string
+> +-+-+ recipient +-+-+ string
+> +-+-+ Are you an SAE member? Yes No SAE Member Number: +-+-+ string
+> +-+-+ Email: +-+-+ string
+> +-+-+ Date: +-+-+ string
+> +-+-+ Business Phone: +-+-+ string
+> +-+-+ Postal Code: +-+-+ string
+> +-+-+ Job Title: +-+-+ string
+> +-+-+ Department: +-+-+ string
+> +-+-+ Registration Fee: +-+-+ string
+> +-+-+ redirect +-+-+ string
+> +-+-+ required +-+-+ string
+> +-+-+ ID Number: +-+-+ string
+> +-+-+ Purchase Order Number: +-+-+ string
+> +-+-+ Location: +-+-+ string
+> +-+-+ Card Number: +-+-+ string
+> +-+-+ Course Name: +-+-+ string
+> +-+-+ Expiration Date: +-+-+ string
+> +-+-+ missing_fields_redirect +-+-+ string
+> +-+-+ Fax Number: +-+-+ string
+> +-+-+ Name: +-+-+ string
+> +-+-+ Are you an SAE member? +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ State Province: +-+-+ string
+> +-+-+ City: +-+-+ string

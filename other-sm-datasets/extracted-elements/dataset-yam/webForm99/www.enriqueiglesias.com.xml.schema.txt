@@ -1,0 +1,19 @@
+http://www.enriqueiglesias.com/fans.asp
+http://www.enriqueiglesias.com/fans.asp
+> +-+-+ -Pop Music +-+-+ string
+> +-+-+ Choose a Password: +-+-+ string
+> +-+-+ Register +-+-+ string
+> +-+-+ Enrique Iglesias (espanol) +-+-+ string
+> +-+-+ Sign up for Enrique Iglesias mailing list: +-+-+ string
+> +-+-+ Choose a Login Name: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Email: +-+-+ string
+> +-+-+ RegOldEmail +-+-+ string
+> +-+-+ DOB: +-+-+ string
+> +-+-+ regViewemail +-+-+ string
+> +-+-+ Action +-+-+ string
+> +-+-+ Zip Code: +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ Repeat Password: +-+-+ string
+> +-+-+ qs +-+-+ string
+> +-+-+ --Interscope Geffen A_M Records International +-+-+ string

@@ -1,0 +1,28 @@
+sqdsq
+> +-+-+ Article +-+-+ string
+> +-+-+ Monograph +-+-+ string
+> +-+-+ sqxsqkd +-+-+ string
+> +-+-+ Booklet +-+-+ string
+> +-+-+ Chapter +-+-+ string
+> +-+-+ vccfsq +-+-+ string
+> +-+-+ dcsqdcsqd +-+-+ string
+> +-+-+ InProceedings +-+-+ string
+> +-+-+ LectureNotes +-+-+ string
+> +-+-+ Manual +-+-+ string
+> +-+-+ xsqlknk +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+> +-+-+ Misc +-+-+ string
+> +-+-+ Proceedings +-+-+ string
+> +-+-+ dqzdxdcsqj
+> +-+-+ Unpublished +-+-+ string
+> +-+-+ MotionPicture +-+-+ string
+dqzdxdcsqj
+> +-+-+ sdcsqhyz +-+-+ string
+> +-+-+ Deliverable +-+-+ string
+Institution
+> +-+-+ Publisher +-+-+ string
+> +-+-+ zadazxn +-+-+ string
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ Institution
+List
+> +-+-+ dsqdbz +-+-+ string

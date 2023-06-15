@@ -1,0 +1,17 @@
+http://www.theatremania.org/tixres.htm
+http://www.theatremania.org/tixres.htm
+> +-+-+ subject +-+-+ string
+> +-+-+ E-Mail: +-+-+ string
+> +-+-+ Performance Date: +-+-+ string
+> +-+-+ City, State, Zip: +-+-+ string
+> +-+-+ **Reminder: Reservations for parties of 6 or more MUST be pre-paid (non-refundable) either by check or by credit card +-+-+ string
+> +-+-+ Phone: +-+-+ string
+> +-+-+ recipient +-+-+ string
+> +-+-+ , +-+-+ string
+> +-+-+ Number of tickets desired: +-+-+ string
+> +-+-+ Street Address: +-+-+ string
+> +-+-+ Name: +-+-+ string
+> +-+-+ redirect +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ required +-+-+ string
+> +-+-+ Reset +-+-+ string

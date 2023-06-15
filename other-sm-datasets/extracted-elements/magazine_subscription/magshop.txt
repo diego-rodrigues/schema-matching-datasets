@@ -1,0 +1,42 @@
+SearchCatForm
+> - CategoryID - string
+> - CustServForm
+> - SearchTitleForm
+> - RegisterForm
+RegisterForm
+> - Title - string
+> - FirstName - string
+> - MiddleInitials - string
+> - Surname - string
+> - DAYDOB - string
+> - MONTHDOB - string
+> - YEARDOB - string
+> - Address1 - string
+> - Address2 - string
+> - Address3 - string
+> - Suburb - string
+> - State - string
+> - CountryID - string
+> - Postcode - string
+> - Areacode1 - string
+> - Phone1 - string
+> - Areacode2 - string
+> - Phone2 - string
+> - Areacode3 - string
+> - Phone3 - string
+> - FaxAreacode - string
+> - Fax - string
+> - Email - string
+> - Password - string
+> - ConfirmPassword - string
+> - InterestIDs - string
+> - PreviousInterestIDs - string
+> - JunkMail - string
+> - JunkMailOther - string
+> - Register - string
+> - NextPage - string
+CustServForm
+> - Destination - string
+SearchTitleForm
+> - Criteria - string
+> - Search - string

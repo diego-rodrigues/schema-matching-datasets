@@ -1,0 +1,8 @@
+search	adv_search_form
+search.field-author	adv_search_form.author
+search.field-publisher	adv_search_form.publisher
+search.field-title	adv_search_form.title
+search.field-subject	adv_search_form.class
+search.SearchNow	adv_search_form.StartSearch
+search.field-keywords	adv_search_form.kw
+search.rank	adv_search_form.sort

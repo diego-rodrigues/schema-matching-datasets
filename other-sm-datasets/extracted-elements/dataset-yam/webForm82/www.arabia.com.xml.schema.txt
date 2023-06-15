@@ -1,0 +1,26 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/arabia_com - Registration.htm
+regForm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/arabia_com - Registration.htm
+> +-+-+ regForm
+regForm
+> +-+-+ Answer: +-+-+ string
+> +-+-+ Date of Birth: +-+-+ string
+> +-+-+ js +-+-+ string
+> +-+-+ done +-+-+ string
+> +-+-+ Confirm   Password: +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ I prefer to view my account in: +-+-+ string
+> +-+-+ Year +-+-+ string
+> +-+-+ Notify me of important news and offers from arabia.com and its partners. +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Username: +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ arabia.com offers you a second email domain without having to register again. You can use the same username and password to access it and it will give you a further 10MB of storage space absolutely free! Please select your second domain from the following list: ( Optional ) +-+-+ string
+> +-+-+ Id +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ Hint Question: +-+-+ string
+> +-+-+ Tell your friends about arabia.com Enter as many email addresses as you'd like, separating them using a comma (,). ( Optional ) +-+-+ string
+> +-+-+ arabia.com - Registration +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Occupation: +-+-+ string

@@ -1,0 +1,7 @@
+Registerform.FORM_nachname	fmRegister.tbLname
+Registerform.FORM_strasse	fmRegister.tbAddr1
+Registerform.FORM_vorname	fmRegister.tbFname
+Registerform.FORM_plz	fmRegister.tbAddrPc
+Registerform.FORM_nation	fmRegister.country_code
+Registerform.FORM_email	fmRegister.tbEmail
+Registerform.FORM_telefon	fmRegister.tbTel

@@ -1,0 +1,10 @@
+Order_00.xsd/order;Order_01.xsd/Order;
+Order_00.xsd/order/lines;Order_01.xsd/Order/OrderDetail;
+Order_00.xsd/order/header;Order_01.xsd/Order/OrderHeader;
+Order_00.xsd/order/lines/line;Order_01.xsd/Order/OrderDetail/ListOfItemDetail/ItemDetail;
+Order_00.xsd/order/lines/line/no;Order_01.xsd/Order/OrderDetail/ListOfItemDetail/ItemDetail/BaseItemDetail/LineItemNum;
+Order_00.xsd/order/lines/line/item;Order_01.xsd/Order/OrderDetail/ListOfItemDetail/ItemDetail/BaseItemDetail/ItemIdentifiers;
+Order_00.xsd/order/lines/line/price;Order_01.xsd/Order/OrderHeader/OrderHeaderPrice/ListOfPrice/Price/UnitPrice;
+Order_00.xsd/order/lines/line/qty;Order_01.xsd/Order/OrderHeader/OrderHeaderPrice/ListOfPrice/Price/PriceQuantityRange/Quantity/QuantityValue;
+Order_00.xsd/order/header/customer;Order_01.xsd/Order/OrderHeader/OrderParty/BuyerParty;
+Order_00.xsd/order/header/po;Order_01.xsd/Order/OrderHeader/OrderNumber/BuyerOrderNumber;

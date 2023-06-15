@@ -1,0 +1,65 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/777happyline_com Personals, Dating Services for singles, looking love _ romance.htm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/777happyline_com Personals, Dating Services for singles, looking love _ romance.htm
+> +-+-+ Drinking habits: +-+-+ string
+> +-+-+ from_idp +-+-+ string
+> +-+-+ Your Email Address: +-+-+ string
+> +-+-+ Zip Postal code: +-+-+ string
+> +-+-+ Social Drinker +-+-+ string
+> +-+-+ Smoking habits: +-+-+ string
+> +-+-+ Widowed +-+-+ string
+> +-+-+ Some College +-+-+ string
+> +-+-+ Single +-+-+ string
+> +-+-+ Cancel (x) +-+-+ string
+> +-+-+ Street Address: +-+-+ string
+> +-+-+ Marital Status: +-+-+ string
+> +-+-+ Mixed +-+-+ string
+> +-+-+ Hispanic +-+-+ string
+> +-+-+ Password (4-8 characters) +-+-+ string
+> +-+-+ Click here to continue - +-+-+ string
+> +-+-+ My second language: +-+-+ string
+> +-+-+ Color of Eyes: +-+-+ string
+> +-+-+ Other +-+-+ string
+> +-+-+ Doctorate +-+-+ string
+> +-+-+ Asian +-+-+ string
+> +-+-+ Divorced +-+-+ string
+> +-+-+ Weight: +-+-+ string
+> +-+-+ White Caucasian +-+-+ string
+> +-+-+ My main language: +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ I'm seeking: +-+-+ string
+> +-+-+ Custody: +-+-+ string
+> +-+-+ Body Build: +-+-+ string
+> +-+-+ Smoker +-+-+ string
+> +-+-+ sid_vis +-+-+ string
+> +-+-+ Date of Birth: +-+-+ string
+> +-+-+ Apt. Suite: +-+-+ string
+> +-+-+ Screen Name: +-+-+ string
+> +-+-+ Level of Education: +-+-+ string
+> +-+-+ How did you hear about us? +-+-+ string
+> +-+-+ Hair Color: +-+-+ string
+> +-+-+ Master's degree +-+-+ string
+> +-+-+ Please tell us more about you, about your likes and dislikes: (please limit in 255 symbols) +-+-+ string
+> +-+-+ Children: +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ Height: +-+-+ string
+> +-+-+ From +-+-+ string
+> +-+-+ Non-Drinker +-+-+ string
+> +-+-+ High School +-+-+ string
+> +-+-+ Non-Smoker +-+-+ string
+> +-+-+ Occasional Smoker +-+-+ string
+> +-+-+ African Black +-+-+ string
+> +-+-+ Separated +-+-+ string
+> +-+-+ Occasional Drinker +-+-+ string
+> +-+-+ All Ethnicities +-+-+ string
+> +-+-+ idp +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ In which region do you want to find a partner? +-+-+ string
+> +-+-+ Please tell us more about person you'd like to meet: (please limit in 255 symbols) +-+-+ string
+> +-+-+ Frequent Drinker +-+-+ string
+> +-+-+ Bachelor's degree +-+-+ string
+> +-+-+ East Indian +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ From to +-+-+ string
+> +-+-+ Ethnicity: +-+-+ string
+> +-+-+ Occupation: +-+-+ string

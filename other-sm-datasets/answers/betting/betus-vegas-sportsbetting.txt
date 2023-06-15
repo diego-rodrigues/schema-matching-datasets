@@ -1,0 +1,14 @@
+SignupForm.address2Entry	thisForm.txtAddress2
+SignupForm.homePhoneEntry	thisForm.txtDayPhone
+SignupForm.nameFirstEntry	thisForm.txtFirstName
+SignupForm.passwordEntry	thisForm.txtInternetPassword
+SignupForm.stateEntry	thisForm.txtState
+SignupForm.cityEntry	thisForm.txtCity
+LoginVerify.Password	thisForm.txtInternetPassword
+SignupForm.zipEntry	thisForm.txtZipCode
+SignupForm.address1Entry	thisForm.txtAddress1
+SignupForm.nameLastEntry	thisForm.txtLastName
+SignupForm.countryEntry	thisForm.cboCountry
+SignupForm.emailEntry	thisForm.txtEMail
+SignupForm.ConfirmPasswordEntry	thisForm.txtInternetPasswordConfirmed
+SignupForm.businessPhoneEntry	thisForm.txtDayPhone

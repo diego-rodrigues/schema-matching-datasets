@@ -1,0 +1,10 @@
+Preview.QuickOrder1btnSubmit	search.trial.submit
+Preview.QuickOrder1addresstxtCity	search.trial.city
+Preview.QuickOrder1addresscboState	search.trial.state
+Preview.QuickOrder1addresstxtPostalCode	search.trial.zip
+Preview.QuickOrder1addresscboCountry	search.trial.country
+Preview.QuickOrder1addresstxtEmail	search.trial.email
+Preview.QuickOrder1addresstxtFirstName	search.trial.first
+Preview.QuickOrder1addresstxtLastName	search.trial.last
+Preview.QuickOrder1addresstxtAddress1	search.trial.address1
+Preview.QuickOrder1addresstxtAddress2	search.trial.address2

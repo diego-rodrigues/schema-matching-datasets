@@ -1,0 +1,10 @@
+shop.sae.org.xml.xsd/https://shop.sae.org/calendar/topreg.shtml/SAE_SEARCH/prePopulatedForm/Name:;www.knag.nl.xml.xsd/http://www.knag.nl/formulieren/shop_form.html/FormName/Name;
+shop.sae.org.xml.xsd/https://shop.sae.org/calendar/topreg.shtml/SAE_SEARCH/prePopulatedForm/Street:;www.knag.nl.xml.xsd/http://www.knag.nl/formulieren/shop_form.html/FormName/Street + number;
+shop.sae.org.xml.xsd/https://shop.sae.org/calendar/topreg.shtml/SAE_SEARCH/prePopulatedForm/City:;www.knag.nl.xml.xsd/http://www.knag.nl/formulieren/shop_form.html/FormName/City;
+shop.sae.org.xml.xsd/https://shop.sae.org/calendar/topreg.shtml/SAE_SEARCH/prePopulatedForm/Postal Code:;www.knag.nl.xml.xsd/http://www.knag.nl/formulieren/shop_form.html/FormName/Postal code;
+shop.sae.org.xml.xsd/https://shop.sae.org/calendar/topreg.shtml/SAE_SEARCH/prePopulatedForm/Home Phone:;www.knag.nl.xml.xsd/http://www.knag.nl/formulieren/shop_form.html/FormName/Telephone;
+shop.sae.org.xml.xsd/https://shop.sae.org/calendar/topreg.shtml/SAE_SEARCH/prePopulatedForm/Fax Number:;www.knag.nl.xml.xsd/http://www.knag.nl/formulieren/shop_form.html/FormName/Fax;
+shop.sae.org.xml.xsd/https://shop.sae.org/calendar/topreg.shtml/SAE_SEARCH/prePopulatedForm/Email:;www.knag.nl.xml.xsd/http://www.knag.nl/formulieren/shop_form.html/FormName/E-mail:;
+shop.sae.org.xml.xsd/https://shop.sae.org/calendar/topreg.shtml/SAE_SEARCH/prePopulatedForm/Credit Card:;www.knag.nl.xml.xsd/http://www.knag.nl/formulieren/shop_form.html/FormName/Credit card type;
+shop.sae.org.xml.xsd/https://shop.sae.org/calendar/topreg.shtml/SAE_SEARCH/prePopulatedForm/Card Number:;www.knag.nl.xml.xsd/http://www.knag.nl/formulieren/shop_form.html/FormName/Card number;
+shop.sae.org.xml.xsd/https://shop.sae.org/calendar/topreg.shtml/SAE_SEARCH/prePopulatedForm/Expiration Date:;www.knag.nl.xml.xsd/http://www.knag.nl/formulieren/shop_form.html/FormName/Card expire date;

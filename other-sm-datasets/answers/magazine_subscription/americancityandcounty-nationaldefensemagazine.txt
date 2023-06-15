@@ -1,0 +1,13 @@
+form1.Submit	search.trial.submit
+form1.City	search.trial.city
+form1.State	search.trial.state
+form1.Zip	search.trial.zip
+form1.COUNTRY	search.trial.country
+form1.Phone	search.trial.phone
+form1.Fax	search.trial.fax
+form1.EMail	search.trial.email
+form1.Title	search.trial.title
+form1.FName	search.trial.first
+form1.LName	search.trial.last
+form1.Company	search.trial.company
+form1.Address1	search.trial.address1

@@ -1,0 +1,14 @@
+apply.iPhoneNumber	newclient.Mobilenumber
+apply.iPhoneNumber	newclient.PhoneNumber
+apply.iLastName	newclient.Surname
+apply.iFirstName	newclient.Name
+apply.iCountryID	newclient.Country
+apply.iUsername	newclient.Username
+apply.iReferrer	newclient.InfoSource
+apply.iPostalCode	newclient.Postcode
+apply.iEmail	newclient.email
+apply.iNotify	newclient.Question
+apply.iCity	newclient.City
+apply.iPassword1	newclient.Pwd
+apply.iPassword2	newclient.RePwd
+apply.iAddress	newclient.Address1

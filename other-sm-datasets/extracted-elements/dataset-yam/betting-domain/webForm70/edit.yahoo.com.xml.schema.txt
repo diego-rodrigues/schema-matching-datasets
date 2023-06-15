@@ -1,0 +1,46 @@
+https://edit.yahoo.com/config/eval_register?.intl=us_new=1_.done=http_3A//mail.yahoo.com_.src=ym_.v=0_.u=7bho6h927lhe3_partner=_.partner=_.p=_promo=_.last=
+IOS
+https://edit.yahoo.com/config/eval_register?.intl=us_new=1_.done=http_3A//mail.yahoo.com_.src=ym_.v=0_.u=7bho6h927lhe3_partner=_.partner=_.p=_promo=_.last=
+> +-+-+ IOS
+IOS
+> +-+-+ Last name: +-+-+ string
+> +-+-+ .testid +-+-+ string
+> +-+-+ Title: +-+-+ string
+> +-+-+ .secdata +-+-+ string
+> +-+-+ promo +-+-+ string
+> +-+-+ .last +-+-+ string
+> +-+-+ First name: +-+-+ string
+> +-+-+ Yahoo! ID: +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Your answer: +-+-+ string
+> +-+-+ Alternate Email: +-+-+ string
+> +-+-+ Industry: +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ .md5 +-+-+ string
+> +-+-+ .branch +-+-+ string
+> +-+-+ .demog +-+-+ string
+> +-+-+ Specialization: +-+-+ string
+> +-+-+ Preferred content: +-+-+ string
+> +-+-+ .v +-+-+ string
+> +-+-+               I Agree               +-+-+ string
+> +-+-+ ZIP Postal code: +-+-+ string
+> +-+-+ .save +-+-+ string
+> +-+-+ .ignore +-+-+ string
+> +-+-+ .t +-+-+ string
+> +-+-+ .src +-+-+ string
+> +-+-+ .u +-+-+ string
+> +-+-+ Enter the code shown: +-+-+ string
+> +-+-+ I Do Not Agree +-+-+ string
+> +-+-+ , +-+-+ string
+> +-+-+ Re-type password: +-+-+ string
+> +-+-+ .i +-+-+ string
+> +-+-+ .pwtoken +-+-+ string
+> +-+-+ .co +-+-+ string
+> +-+-+ .partner +-+-+ string
+> +-+-+ .regattempts +-+-+ string
+> +-+-+ Please review the following terms and indicate your agreement below. Printable Version +-+-+ string
+> +-+-+ Birthday: +-+-+ string
+> +-+-+ .accept +-+-+ string
+> +-+-+ .fam +-+-+ string
+> +-+-+ Security question: +-+-+ string
+> +-+-+ .done +-+-+ string

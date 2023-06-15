@@ -1,0 +1,15 @@
+Details.txtPassword	newclient.Pwd
+Details.txtFirstName	newclient.Name
+Details.txtCityTown	newclient.City
+Details.txtTelephone	newclient.Mobilenumber
+Details.txtTelephone	newclient.PhoneNumber
+Details.txtSurname	newclient.Surname
+Details.txtPostcode	newclient.Postcode
+Details.chkMail	newclient.Question
+Details.cboCountryAlt	newclient.Country
+Details.txtUsername	newclient.Username
+Details.txtEmail	newclient.email
+Details.txtQASPostcode	newclient.Postcode
+Details.txtPasswordConfirm	newclient.RePwd
+Details.txtAddress1	newclient.Addressno
+Details.txtAddress1	newclient.Address1

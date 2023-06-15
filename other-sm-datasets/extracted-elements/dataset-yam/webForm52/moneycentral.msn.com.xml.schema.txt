@@ -1,0 +1,18 @@
+http://moneycentral.msn.com/investor/finder/customstocksdl.asp
+MAINFORM
+http://moneycentral.msn.com/investor/finder/customstocksdl.asp
+> +-+-+ MAINFORM
+MAINFORM
+> +-+-+ Measures the price performance of a stock in comparison to all other stocks +-+-+ string
+> +-+-+ Search +-+-+ string
+> +-+-+ The most recent quarter long-term debt divided by the most recent quarter common stock equity +-+-+ string
+> +-+-+ Cust +-+-+ string
+> +-+-+ This gives an indication of the field in which the company operates +-+-+ string
+> +-+-+ A stock's dividend expressed as a percentage of the share price. +-+-+ string
+> +-+-+ Also known as the multiple, this is the latest closing price divided by the latest 12 months' earnings per share +-+-+ string
+> +-+-+ The number of shares traded in a given number of days, divided by that number of days +-+-+ string
+> +-+-+ The latest 12 months' earnings per share +-+-+ string
+> +-+-+ The rate at which revenue grew from the previous 12 month period to the most recent one +-+-+ string
+> +-+-+ Inclusion in one of the Standard _ Poor's Indices +-+-+ string
+> +-+-+ The value of a company's outstanding shares, as measured by shares times current price +-+-+ string
+> +-+-+ Inclusion in one of the Dow Jones Indices +-+-+ string

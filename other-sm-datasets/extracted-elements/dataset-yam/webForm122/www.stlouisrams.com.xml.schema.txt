@@ -1,0 +1,79 @@
+http://www.stlouisrams.com/Reg/
+Display.Form.Login
+http://www.stlouisrams.com/Reg/
+> +-+-+ Display.Form.Login
+Display.Form.Login
+> +-+-+ Login +-+-+ string
+> +-+-+ Reg.Account.MainAction +-+-+ string
+> +-+-+ Display.Form.Login.p +-+-+ string
+> +-+-+ Display.Form.Login.newrowCount +-+-+ string
+Display.Form.Account
+> +-+-+ Display.Form.Account
+Display.Form.Account
+> +-+-+ Display.Form.AccountNew.BIRTHDATE +-+-+ string
+> +-+-+ Zipcode +-+-+ string
+> +-+-+ Register Now! +-+-+ string
+> +-+-+ Reg.Account.MainAction +-+-+ string
+> +-+-+ Birthday +-+-+ string
+> +-+-+ Inform me of special offers from the Rams and partners +-+-+ string
+> +-+-+ (For the Rams Message Boards) +-+-+ string
+> +-+-+ Preferred Email Format +-+-+ string
+> +-+-+ Send me a free merchandise catalog upon next mailing +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ Reg.Account.NextFolder +-+-+ string
+> +-+-+ Sign me up for the Rams Email Newsletter +-+-+ string
+> +-+-+ Display.Form.AccountNew.newrowCount +-+-+ string
+> +-+-+ I have attended a Rams Game in St.Louis +-+-+ string
+> +-+-+ State +-+-+ string
+> +-+-+ SDS.Item +-+-+ string
+> +-+-+ My Favorite Rams Player is +-+-+ string
+> +-+-+ Address +-+-+ string
+> +-+-+ Username +-+-+ string
+> +-+-+ Gender +-+-+ string
+> +-+-+ Display.Form.AccountNew.rowCount +-+-+ string
+> +-+-+ Email Address +-+-+ string
+> +-+-+ Display.Form.AccountNew.PASSWORD +-+-+ string
+> +-+-+ I am a Rams Season Ticket Holder +-+-+ string
+> +-+-+ Last Name +-+-+ string
+> +-+-+ First Name +-+-+ string
+Display.Form.Login
+> +-+-+ Remember me so I don't have to log in next time +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Display.Form.Login.rowCount +-+-+ string
+> +-+-+ User Name +-+-+ string
+> +-+-+ Reg.Account.NextFolder +-+-+ string
+Display.Form.Account
+http://www.stlouisrams.com/Reg/
+> +-+-+ Display.Form.Account
+Display.Form.Account
+> +-+-+ Display.Form.AccountNew.BIRTHDATE +-+-+ string
+> +-+-+ Zipcode +-+-+ string
+> +-+-+ Register Now! +-+-+ string
+> +-+-+ Reg.Account.MainAction +-+-+ string
+> +-+-+ Birthday +-+-+ string
+> +-+-+ Inform me of special offers from the Rams and partners +-+-+ string
+> +-+-+ (For the Rams Message Boards) +-+-+ string
+> +-+-+ Preferred Email Format +-+-+ string
+> +-+-+ Send me a free merchandise catalog upon next mailing +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ Reg.Account.NextFolder +-+-+ string
+> +-+-+ Sign me up for the Rams Email Newsletter +-+-+ string
+> +-+-+ Display.Form.AccountNew.newrowCount +-+-+ string
+> +-+-+ I have attended a Rams Game in St.Louis +-+-+ string
+> +-+-+ State +-+-+ string
+> +-+-+ SDS.Item +-+-+ string
+> +-+-+ My Favorite Rams Player is +-+-+ string
+> +-+-+ Address +-+-+ string
+> +-+-+ Username +-+-+ string
+> +-+-+ Gender +-+-+ string
+> +-+-+ Display.Form.AccountNew.rowCount +-+-+ string
+> +-+-+ Email Address +-+-+ string
+> +-+-+ Display.Form.AccountNew.PASSWORD +-+-+ string
+> +-+-+ I am a Rams Season Ticket Holder +-+-+ string
+> +-+-+ Last Name +-+-+ string
+> +-+-+ First Name +-+-+ string
+http://www.stlouisrams.com/Reg/
+> +-+-+ The official site of the St. Louis Rams - Registration +-+-+ string
+> +-+-+ go +-+-+ string

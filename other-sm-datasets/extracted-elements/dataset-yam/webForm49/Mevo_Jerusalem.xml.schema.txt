@@ -1,0 +1,24 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Mevo Jerusalem Tower - Residential Hotel - Secure Reservation.htm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Mevo Jerusalem Tower - Residential Hotel - Secure Reservation.htm
+> +-+-+ Nationality: +-+-+ string
+> +-+-+ Number and street +-+-+ string
+> +-+-+ Phone: (*Required) +-+-+ string
+> +-+-+ Credit Card: +-+-+ string
+> +-+-+ Email address: (*Required) +-+-+ string
+> +-+-+ Please specify your arrival date: Please specify your departure date: Total number of nights: +-+-+ string
+> +-+-+ submit +-+-+ string
+> +-+-+ Zip code: +-+-+ string
+> +-+-+ Please specify your arrival date: Please specify your departure date: +-+-+ string
+> +-+-+ Country: (*Required) +-+-+ string
+> +-+-+ Number of adults Children Total number of persons +-+-+ string
+> +-+-+ Card Number: +-+-+ string
+> +-+-+ Please specify your arrival date: +-+-+ string
+> +-+-+ Last name: (*Required) +-+-+ string
+> +-+-+ I.D Passport Number: +-+-+ string
+> +-+-+ First name: (*Required) +-+-+ string
+> +-+-+ State province: +-+-+ string
+> +-+-+ Fax: +-+-+ string
+> +-+-+ Add your comments here: +-+-+ string
+> +-+-+ Valid: +-+-+ string
+> +-+-+ success +-+-+ string
+> +-+-+ City: +-+-+ string

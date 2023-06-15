@@ -1,0 +1,27 @@
+subForm
+> - cis_dig - string
+> - cis_print - string
+> - it_dig - string
+> - it_print - string
+> - sip - string
+> - speech - string
+> - wifi - string
+> - voip - string
+> - wimax - string
+> - BPAA - string
+> - FName - string
+> - LName - string
+> - Company - string
+> - Title - string
+> - Email - string
+> - Address - string
+> - Address2 - string
+> - City - string
+> - State - string
+> - zip - string
+> - Country - string
+> - phone - string
+> - fax - string
+> - phldr - string
+> - BPAQ - string
+> - Submit - string

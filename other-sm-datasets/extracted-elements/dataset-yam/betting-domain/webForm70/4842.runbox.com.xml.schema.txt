@@ -1,0 +1,19 @@
+http://4842.runbox.com/signup?feature=imap
+signup
+http://4842.runbox.com/signup?feature=imap
+> +-+-+ signup
+signup
+> +-+-+ Last name: +-+-+ string
+> +-+-+ userdomain +-+-+ string
+> +-+-+ as +-+-+ string
+> +-+-+ First name: +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ av +-+-+ string
+> +-+-+ Desired email address: +-+-+ string
+> +-+-+ Set Up My Runbox Account +-+-+ string
+> +-+-+ product +-+-+ string
+> +-+-+ Re-enter password: +-+-+ string
+> +-+-+ Existing email address: +-+-+ string
+> +-+-+ Time zone: +-+-+ string
+> +-+-+ I have read and accepted the +-+-+ string

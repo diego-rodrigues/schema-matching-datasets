@@ -1,0 +1,21 @@
+http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi
+standardss
+http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi
+> +-+-+ standardss
+standardss
+> +-+-+ No. of Results +-+-+ string
+> +-+-+ Find Stocks +-+-+ string
+> +-+-+ Sort by (for user defined view only) +-+-+ string
+> +-+-+ min: +-+-+ string
+> +-+-+ package_name +-+-+ string
+> +-+-+ display +-+-+ string
+> +-+-+ max: +-+-+ string
+> +-+-+ Sectors: +-+-+ string
+> +-+-+ username +-+-+ string
+> +-+-+ Indices: +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ ac +-+-+ string
+> +-+-+ Performance Table View +-+-+ string
+> +-+-+ max: % +-+-+ string
+> +-+-+ screener +-+-+ string
+> +-+-+ Reset +-+-+ string

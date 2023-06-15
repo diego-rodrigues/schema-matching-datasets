@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<Schema name="ParagonOrder" xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+
+<ElementType name="Order" model="open">
+<element type="OrderHeader" maxOccurs="1" minOccurs="1"/>
+<element type="OrdModels" maxOccurs="1" minOccurs="1"/>
+<element type="Supplier"/>
+<element type="BillTo" maxOccurs="1" minOccurs="1"/>
+<element type="ShipTo"/>
+<element type="CurrencyInfo" maxOccurs="1" minOccurs="0"/>
+</ElementType>
+
+<ElementType name="OrderHeader" model="open" content="eltOnly">
+<AttributeType name="OrderNo" dt:type="String" />
+<AttributeType name="OrderInq" dt:type="enumeration" dt:values="0 1" />
+<AttributeType name="OrderDesc" dt:type="String" />
+<AttributeType name="DateCreated" dt:type="date"/>
+<AttributeType name="ComputerID" dt:type="String" />
+<attribute type="ComputerID" required="no"/>
+<attribute type="OrderNo" required="yes"/>
+<attribute type="OrderDesc" required="no"/>
+<attribute type="DateCreated" required="yes"/>
+<attribute type="OrderInq" required="yes"/>
+<element type="Comment" maxOccurs="1" minOccurs="0" />
+</ElementType>
+
+<ElementType name="Supplier" model="open" content="eltOnly">
+<AttributeType name="SupName" dt:type="String" />
+<AttributeType name="SupID" dt:type="String"/>
+<AttributeType name="PostalCode" dt:type="String"/>
+<AttributeType name="County" dt:type="String"/>
+<AttributeType name="Country" dt:type="String"/>
+<AttributeType name="City" dt:type="String"/>
+<AttributeType name="Address2" dt:type="String"/>
+<AttributeType name="Address" dt:type="String"/>
+
+<attribute type="SupID" required="yes"/>
+<attribute type="SupName" required="no"/>
+<attribute type="City" required="no"/>
+<attribute type="Address" required="no"/>
+<attribute type="Address2" required="no"/>
+<attribute type="PostalCode" required="no"/>
+<attribute type="Country" required="no"/>
+<attribute type="County" required="no"/>
+</ElementType>
+
+<ElementType name="ShipTo" model="open" content="eltOnly">
+
+<AttributeType name="PostalCode" dt:type="String"/>
+<AttributeType name="County" dt:type="String"/>
+<AttributeType name="Country" dt:type="String"/>
+<AttributeType name="CompanyName" dt:type="String"/>
+<AttributeType name="City" dt:type="String"/>
+<AttributeType name="BranchID" dt:type="String"/>
+<AttributeType name="Address2" dt:type="String"/>
+<AttributeType name="Address" dt:type="String"/>
+
+<attribute type="BranchID" required="yes"/>
+<attribute type="CompanyName" required="no"/>
+<attribute type="Address" required="no"/>
+<attribute type="Address2" required="no"/>
+<attribute type="City" required="no"/>
+<attribute type="PostalCode" required="no"/>
+<attribute type="County" required="no"/>
+<attribute type="Country" required="no"/>
+
+<element type="Contact" />
+</ElementType>
+
+<ElementType name="OrdModels" model="open" content="eltOnly">
+<AttributeType name="TotalOrderlines"/>
+<AttributeType name="StartAt" dt:type="int"/>
+<AttributeType name="ModLines" dt:type="String"><description>indicates how many models are in the order</description></AttributeType>
+<attribute type="ModLines" required="yes"/>
+<attribute type="StartAt" required="yes"/>
+<attribute type="TotalOrderlines"/>
+<element type="Model" maxOccurs="*" minOccurs="1"/>
+</ElementType>
+
+<ElementType name="Model" model="open" content="eltOnly">
+<AttributeType name="TotalPrchPrice" dt:type="String" />
+<AttributeType name="OrdLineTyp" dt:type="String"/>
+<AttributeType name="ModType" dt:type="String"/>
+<AttributeType name="ModQty" dt:type="String" />
+<AttributeType name="ModNo" dt:type="String"/>
+<AttributeType name="LotSize" dt:type="String"/>
+<AttributeType name="LineNo" dt:type="String"/>
+<AttributeType name="LatDelDate" dt:type="Date"/>
+<AttributeType name="EarlDelDate" dt:type="Date" />
+<AttributeType name="CatalogNo" dt:type="String" />
+<AttributeType name="BrandNo" dt:type="String"/>
+<attribute type="ModNo" required="yes"/>
+<attribute type="LotSize" required="yes"/>
+<attribute type="ModType" required="yes"/>
+<attribute type="OrdLineTyp"/>
+<attribute type="CatalogNo" required="yes"/>
+<attribute type="TotalPrchPrice" required="yes"/>
+<attribute type="EarlDelDate" required="no"/>
+<attribute type="LatDelDate" required="yes"/>
+<attribute type="LineNo" required="yes"/>
+<attribute type="ModQty" required="yes"/>
+<attribute type="BrandNo"/>
+<element type="ColSizes" maxOccurs="1" minOccurs="1"/>
+</ElementType>
+
+<ElementType name="CurrencyInfo">
+<AttributeType name="ExchangeRate" dt:type="String"/>
+<AttributeType name="CurrencyID" dt:type="String"/>
+<attribute type="CurrencyID" required="yes"/>
+<attribute type="ExchangeRate" required="no"/>
+</ElementType>
+
+<ElementType name="Contact" model="open" content="empty">
+<AttributeType name="Phone" dt:type="String"/>
+<AttributeType name="Name" dt:type="String"/>
+<AttributeType name="Fax" dt:type="String"/>
+<AttributeType name="EMail" dt:type="String"/>
+<AttributeType name="Department" dt:type="String"/>
+
+<attribute type="Department" required="no"/>
+<attribute type="Name" required="yes"/>
+<attribute type="Phone" required="yes"/>
+<attribute type="Fax" required="no"/>
+<attribute type="EMail" required="no"/>
+</ElementType>
+
+<ElementType name="Comment" model="open" content="textOnly">
+</ElementType>
+
+<ElementType name="ColSizes" model="open" content="eltOnly">
+<AttributeType name="StartAt"/>
+<AttributeType name="ColModLines"/>
+<attribute type="ColModLines" required="yes"/>
+<attribute type="StartAt" required="yes"/>
+<element type="ColSize" maxOccurs="*" minOccurs="1"/>
+</ElementType>
+
+<ElementType name="ColSize" model="open" content="empty">
+<AttributeType name="UPC" dt:type="String"/>
+<AttributeType name="SizeIdx" dt:type="String"/>
+<AttributeType name="SizeDesc" dt:type="String"/>
+<AttributeType name="Qty" dt:type="String"/>
+<AttributeType name="PosNo" dt:type="String"/>
+<AttributeType name="NetPrchPrice" dt:type="String" />
+<AttributeType name="LotSize" dt:type="String"/>
+<AttributeType name="ItemNo" dt:type="String"/>
+<AttributeType name="EAN" dt:type="String"/>
+<AttributeType name="ColNo" dt:type="String"/>
+<attribute type="LotSize" required="yes"/>
+<attribute type="ColNo" required="yes"/>
+<attribute type="SizeIdx" required="yes"/>
+<attribute type="Qty" required="yes"/>
+<attribute type="EAN" required="no"/>
+<attribute type="UPC" required="no"/>
+<attribute type="ItemNo" required="yes"/>
+<attribute type="SizeDesc" required="no"/>
+<attribute type="NetPrchPrice" required="yes"/>
+<attribute type="PosNo" required="yes"/>
+</ElementType>
+
+<ElementType name="BillTo" model="open" content="eltOnly">
+<AttributeType name="PostalCode" dt:type="String"/>
+<AttributeType name="CustomerID" dt:type="String"/>
+<AttributeType name="County" dt:type="String"/>
+<AttributeType name="Country" dt:type="String"/>
+<AttributeType name="CompanyName" dt:type="String"/>
+<AttributeType name="City" dt:type="String"/>
+<AttributeType name="Address2" dt:type="String"/>
+<AttributeType name="Address" dt:type="String"/>
+
+<attribute type="CustomerID" required="yes"/>
+<attribute type="CompanyName" required="no"/>
+<attribute type="Address" required="no"/>
+<attribute type="Address2" required="no"/>
+<attribute type="City" required="no"/>
+<attribute type="PostalCode" required="no"/>
+<attribute type="County" required="no"/>
+<attribute type="Country" required="no"/>
+<element type="Contact" maxOccurs="1" minOccurs="0"/>
+</ElementType>
+</Schema>

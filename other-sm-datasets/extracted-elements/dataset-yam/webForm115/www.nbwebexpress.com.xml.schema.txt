@@ -1,0 +1,21 @@
+https://www.nbwebexpress.com/co/co_customer.asp
+frmCheckout
+https://www.nbwebexpress.com/co/co_customer.asp
+> +-+-+ frmCheckout
+frmCheckout
+> +-+-+ save_customer +-+-+ string
+> +-+-+ Full Name: +-+-+ string
+> +-+-+ Get Email Updates +-+-+ string
+> +-+-+ Continue +-+-+ string
+> +-+-+ Security Question: +-+-+ string
+> +-+-+ Zip: +-+-+ string
+> +-+-+ Confirm Password: +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Address: +-+-+ string
+> +-+-+ Email: +-+-+ string
+> +-+-+ Confirm Email: +-+-+ string
+> +-+-+ Telephone: +-+-+ string
+> +-+-+ Apt Suite Etc: +-+-+ string
+> +-+-+ Security Answer: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ State: +-+-+ string

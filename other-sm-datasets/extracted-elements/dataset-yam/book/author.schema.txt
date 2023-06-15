@@ -1,0 +1,6 @@
+author
+author
+> +-+-+ dob +-+-+ string
+> +-+-+ dod +-+-+ string
+> +-+-+ loc +-+-+ xsd:string
+> +-+-+ name +-+-+ string

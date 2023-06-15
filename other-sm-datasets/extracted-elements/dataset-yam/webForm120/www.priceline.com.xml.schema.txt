@@ -1,0 +1,25 @@
+http://www.priceline.com/flights/default.asp?irefid=HPAIRQT_irefclickid=ADSEARCHLINK_AirASO=Y
+airItinRT
+http://www.priceline.com/flights/default.asp?irefid=HPAIRQT_irefclickid=ADSEARCHLINK_AirASO=Y
+> +-+-+ airItinRT
+airItinRT
+> +-+-+ PROCESSING_PARTNER_CODE +-+-+ string
+> +-+-+ OFFER/AIRLINE_TICKET/ITINERARY_TYPE_CODE +-+-+ string
+> +-+-+ From: +-+-+ string
+> +-+-+ Alternate Return Date +-+-+ string
+> +-+-+ Navigation/Required/Advanced_Search_Option +-+-+ string
+> +-+-+ Aircraft Type: +-+-+ string
+> +-+-+ Search Non-Stop Flights Only +-+-+ string
+> +-+-+ CheckBox_Defaults +-+-+ string
+> +-+-+ SEARCH_REQ_REFERRAL_SOURCE_ID +-+-+ string
+> +-+-+ Class: +-+-+ string
+> +-+-+ Depart: +-+-+ string
+> +-+-+ Airline: +-+-+ string
+> +-+-+ Tickets: +-+-+ string
+> +-+-+ (City or Airport) +-+-+ string
+> +-+-+ Search Flights +-+-+ string
+> +-+-+ Return: +-+-+ string
+> +-+-+ Alternate Departure Date +-+-+ string
+> +-+-+ SEARCH_REQ_REFERRAL_ID +-+-+ string
+> +-+-+ NAVIGATION/TEMP/FROMNEWSEARCH +-+-+ string
+> +-+-+ Search Unrestricted Fares Only +-+-+ string

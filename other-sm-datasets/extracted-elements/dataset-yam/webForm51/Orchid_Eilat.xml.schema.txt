@@ -1,0 +1,21 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/The Orchid Thai - Style Resort Hotel in Eilat, Israel - Reservations.htm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/The Orchid Thai - Style Resort Hotel in Eilat, Israel - Reservations.htm
+> +-+-+ Please specify your arrival date: Total number of nights: +-+-+ string
+> +-+-+ I.D Passport Number: Nationality: +-+-+ string
+> +-+-+ Last name: +-+-+ string
+> +-+-+ Number and street: +-+-+ string
+> +-+-+ Zip code: +-+-+ string
+> +-+-+ First name: +-+-+ string
+> +-+-+ Phone: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Email address: +-+-+ string
+> +-+-+ Click here to submit request +-+-+ string
+> +-+-+ Number of adults: Children: Total number of persons: +-+-+ string
+> +-+-+ Room Type: +-+-+ string
+> +-+-+ State province: +-+-+ string
+> +-+-+ Fax: +-+-+ string
+> +-+-+ Please specify your departure date: +-+-+ string
+> +-+-+ Credit Card: Card Number: Valid: +-+-+ string
+> +-+-+ Add your comments here: +-+-+ string
+> +-+-+ success +-+-+ string
+> +-+-+ City: +-+-+ string

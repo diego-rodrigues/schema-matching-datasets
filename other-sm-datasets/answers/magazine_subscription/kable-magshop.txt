@@ -1,0 +1,12 @@
+newsubs.Submit	SearchCatForm.RegisterForm.Register
+newsubs.City	SearchCatForm.RegisterForm.Suburb
+newsubs.StOrProv	SearchCatForm.RegisterForm.State
+newsubs.PostalCode	SearchCatForm.RegisterForm.Postcode
+newsubs.Country	SearchCatForm.RegisterForm.CountryID
+newsubs.Email	SearchCatForm.RegisterForm.Email
+newsubs.FirstName	SearchCatForm.RegisterForm.FirstName
+newsubs.LastName	SearchCatForm.RegisterForm.Surname
+newsubs.subscribe.Search	SearchCatForm.SearchTitleForm.Search
+newsubs.Address1	SearchCatForm.RegisterForm.Address1
+newsubs.Address2	SearchCatForm.RegisterForm.Address2
+newsubs.MiddleInitial	SearchCatForm.RegisterForm.MiddleInitials

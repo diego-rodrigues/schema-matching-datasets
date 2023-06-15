@@ -1,0 +1,13 @@
+registerfrm.confirmpassword	apply.iPassword2
+registerfrm.state	apply.iState
+registerfrm.username	apply.iUsername
+registerfrm.country	apply.iCountryID
+registerfrm.firstname	apply.iFirstName
+registerfrm.email	apply.iEmail
+registerfrm.password	apply.iPassword1
+registerfrm.Gender	apply.iTitle
+registerfrm.lastname	apply.iLastName
+registerfrm.city	apply.iCity
+registerfrm.zip	apply.iPostalCode
+registerfrm.Newsletter	apply.iNotify
+registerfrm.address1	apply.iAddress

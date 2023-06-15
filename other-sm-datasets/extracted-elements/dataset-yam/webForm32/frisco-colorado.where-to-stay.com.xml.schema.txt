@@ -1,0 +1,55 @@
+http://frisco-colorado.where-to-stay.com/
+search
+http://frisco-colorado.where-to-stay.com/
+> +-+-+ search
+search
+> +-+-+ new +-+-+ string
+> +-+-+ Find hotels in Frisco +-+-+ string
+Date In:
+> +-+-+ Date In:
+Date Out:
+Date In:
+> +-+-+ Date Out:
+Date Out:
+> +-+-+ * Country +-+-+ string
+> +-+-+ Search +-+-+ string
+> +-+-+ new +-+-+ string
+> +-+-+ Hotel Name +-+-+ string
+> +-+-+ State +-+-+ string
+Date In
+> +-+-+ Date In
+Date In
+> +-+-+ Date Out +-+-+ string
+Date Out:
+> +-+-+ Chain +-+-+ string
+> +-+-+ Number of Adults: +-+-+ string
+> +-+-+ Number of Rooms: +-+-+ string
+> +-+-+ City +-+-+ string
+Date In:
+> +-+-+ Number of Adults: +-+-+ string
+> +-+-+ Number of Rooms: +-+-+ string
+search
+> +-+-+ State +-+-+ string
+> +-+-+ CalculationMethod +-+-+ string
+Date Out:
+> +-+-+ Date Out:
+Date Out:
+> +-+-+ * Country +-+-+ string
+> +-+-+ Search +-+-+ string
+> +-+-+ new +-+-+ string
+> +-+-+ Hotel Name +-+-+ string
+> +-+-+ State +-+-+ string
+Date In
+> +-+-+ Date In
+Date In
+> +-+-+ Date Out +-+-+ string
+Date Out:
+> +-+-+ Chain +-+-+ string
+> +-+-+ Number of Adults: +-+-+ string
+> +-+-+ Number of Rooms: +-+-+ string
+> +-+-+ City +-+-+ string
+search
+> +-+-+ Number of Adults: +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ Number of Rooms: +-+-+ string
+> +-+-+ City +-+-+ string

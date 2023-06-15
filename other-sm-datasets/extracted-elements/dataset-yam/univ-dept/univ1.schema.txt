@@ -1,0 +1,13 @@
+CS Dept Australia
+CS Dept Australia
+> +-+-+ Courses +-+-+ string
+Staff
+> +-+-+ Staff
+Staff
+> +-+-+ Technical Staff +-+-+ string
+Academic Staff
+> +-+-+ Academic Staff
+Academic Staff
+> +-+-+ Lecturer +-+-+ string
+> +-+-+ Senior Lecturer +-+-+ string
+> +-+-+ Professor +-+-+ string

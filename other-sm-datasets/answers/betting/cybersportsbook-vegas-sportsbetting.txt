@@ -1,0 +1,13 @@
+JoinForm.txtPassword2	thisForm.txtInternetPasswordConfirmed
+JoinForm.txtCity	thisForm.txtCity
+sportsbook.PASSWORD	thisForm.txtInternetPassword
+JoinForm.txtHomePhone	thisForm.txtDayPhone
+JoinForm.ddlState	thisForm.txtState
+JoinForm.txtEmail	thisForm.txtEMail
+JoinForm.txtFirstName	thisForm.txtFirstName
+JoinForm.txtLastName	thisForm.txtLastName
+JoinForm.txtCountry	thisForm.cboCountry
+JoinForm.txtAddress1	thisForm.txtAddress1
+JoinForm.txtAddress2	thisForm.txtAddress2
+JoinForm.txtWorkPhone	thisForm.txtDayPhone
+JoinForm.txtZip	thisForm.txtZipCode

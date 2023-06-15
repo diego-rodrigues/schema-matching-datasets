@@ -1,0 +1,15 @@
+signupForm.STATE	JoinForm.txtState
+signupForm.WORKPHONENO	JoinForm.txtWorkPhone
+signupForm.EMAIL	JoinForm.txtEmail
+signupForm.CITY	JoinForm.txtCity
+signupForm.BIRTHMONTH	JoinForm.cboBirthMonth
+signupForm.LASTNAME	JoinForm.txtLastName
+signupForm.USERID	sportsbook.USERNAME
+signupForm.PASSWORD	JoinForm.txtPassword1
+signupForm.HOMEPHONENO	JoinForm.txtHomePhone
+signupForm.REENTERPASSWORD	JoinForm.txtPassword2
+signupForm.BIRTHDAY	JoinForm.cboBirthDay
+signupForm.ZIP	JoinForm.txtZip
+signupForm.COUNTRY	JoinForm.txtCountry
+signupForm.FIRSTNAME	JoinForm.txtFirstName
+signupForm.BIRTHYEAR	JoinForm.txtBirthYear

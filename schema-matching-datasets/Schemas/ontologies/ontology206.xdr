@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<Schema name="ontology206" xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+	<ElementType name="Reference">
+		<element type="date"/>
+		<element type="titre"/>
+		<element type="auteurs"/>
+		<element type="Livre"/>
+		<element type="Informel"/>
+		<element type="Partie"/>
+		<element type="Memoire"/>
+		<element type="Divers"/>
+		<element type="Rapport"/>
+		<element type="Film"/>
+	</ElementType>
+	<ElementType name="Article">
+		<element type="auteurs"/>
+		<element type="pages"/>
+		<element type="journal"/>
+		<element type="date"/>
+		<element type="numero"/>
+		<element type="volume"/>
+	</ElementType>
+	<ElementType name="Partie">
+		<element type="Article"/>
+		<element type="pages"/>
+		<element type="evenement"/>
+		<element type="titre"/>
+		<element type="partieDe"/>
+		<element type="Chapitre"/>
+		<element type="ExtraitLivre"/>
+		<element type="ExtraitCompilation"/>
+		<element type="ExtraitActes"/>
+	</ElementType>
+	<ElementType name="Livre">
+		<element type="titre"/>
+		<element type="volume"/>
+		<element type="editeur"/>
+		<element type="serie"/>
+		<element type="date"/>
+		<element type="createur"/>
+		<element type="edition"/>
+		<element type="Monographie"/>
+		<element type="Compilation"/>
+		<element type="Actes"/>
+	</ElementType>
+	<ElementType name="Monographie">
+	</ElementType>
+	<ElementType name="Compilation">
+	</ElementType>
+	<ElementType name="Informel">
+		<element type="titre"/>
+		<element type="Livret"/>
+		<element type="Polycopie"/>
+		<element type="Manuel"/>
+		<element type="NonPublie"/>
+	</ElementType>
+	<ElementType name="Livret">
+	</ElementType>
+	<ElementType name="Chapitre">
+		<element type="chapitre"/>
+	</ElementType>
+	<ElementType name="ExtraitLivre">
+		<element type="auteurs"/>
+		<element type="pages"/>
+		<element type="livre"/>
+	</ElementType>
+	<ElementType name="ExtraitCompilation">
+		<element type="auteurs"/>
+		<element type="collection"/>
+	</ElementType>
+	<ElementType name="ExtraitActes">
+		<element type="auteurs"/>
+		<element type="actes"/>
+	</ElementType>
+	<ElementType name="Polycopie">
+	</ElementType>
+	<ElementType name="Manuel">
+		<element type="organisation"/>
+		<element type="edition"/>
+		<element type="titre"/>
+	</ElementType>
+	<ElementType name="Memoire">
+		<element type="auteurs"/>
+		<element type="titre"/>
+		<element type="institution"/>
+		<element type="date"/>
+		<element type="MemoireDeMastere"/>
+		<element type="MemoireDeDoctorat"/>
+	</ElementType>
+	<ElementType name="MemoireDeMastere">
+	</ElementType>
+	<ElementType name="MemoireDeDoctorat">
+	</ElementType>
+	<ElementType name="Divers">
+	</ElementType>
+	<ElementType name="Actes">
+		<element type="evenement"/>
+		<element type="editeurs"/>
+		<element type="organisation"/>
+	</ElementType>
+	<ElementType name="Rapport">
+		<element type="auteurs"/>
+		<element type="titre"/>
+		<element type="institution"/>
+		<element type="date"/>
+		<element type="numero"/>
+		<element type="TechRapport"/>
+		<element type="Livrable"/>
+	</ElementType>
+	<ElementType name="TechRapport">
+	</ElementType>
+	<ElementType name="Livrable">
+		<element type="contrat"/>
+	</ElementType>
+	<ElementType name="NonPublie">
+		<element type="auteurs"/>
+		<element type="titre"/>
+		<element type="note"/>
+	</ElementType>
+	<ElementType name="Film">
+	</ElementType>
+	<ElementType name="Revue">
+		<element type="nom"/>
+		<element type="nomCourt"/>
+		<element type="periodicite"/>
+		<element type="editeur"/>
+		<element type="serie"/>
+		<element type="dateDePublication"/>
+	</ElementType>
+	<ElementType name="Conference">
+		<element type="nom"/>
+		<element type="organisateur"/>
+		<element type="nomCourt"/>
+		<element type="livraison"/>
+		<element type="localisation"/>
+	</ElementType>
+	<ElementType name="Adresse">
+		<element type="pays"/>
+		<element type="etat"/>
+		<element type="ville"/>
+	</ElementType>
+	<ElementType name="Institution">
+		<element type="nom"/>
+		<element type="nomCourt"/>
+		<element type="adresse"/>
+		<element type="editeur"/>
+		<element type="Universite"/>
+	</ElementType>
+	<ElementType name="Organization">
+		<element type="Institution"/>
+	</ElementType>
+	<ElementType name="editeur">
+	</ElementType>
+	<ElementType name="Universite">
+	</ElementType>
+	<ElementType name="Personnes">
+		<element type="first"/>
+		<element type="rest"/>
+	</ElementType>
+	<ElementType name="List">
+		<element type="Personnes"/>
+	</ElementType>
+	<ElementType name="IntervalleDePages">
+		<element type="pageDebut"/>
+		<element type="pageFin"/>
+	</ElementType>
+	<ElementType name="Date">
+		<element type="annee"/>
+		<element type="mois"/>
+		<element type="jour"/>
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="titre" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="auteurs" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Livre" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Informel" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Partie" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Memoire" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Divers" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Rapport" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Film" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="auteurs" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="pages" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="journal" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="numero" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="volume" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="Article" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="pages" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="evenement" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="titre" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="partieDe" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Chapitre" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="ExtraitLivre" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="ExtraitCompilation" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="ExtraitActes" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="titre" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="volume" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="editeur" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="serie" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="createur" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="edition" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="Monographie" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Compilation" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Actes" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="titre" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="Livret" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Polycopie" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Manuel" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="NonPublie" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="chapitre" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="auteurs" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="pages" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="livre" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="auteurs" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="collection" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="auteurs" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="actes" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="organisation" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="edition" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="titre" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="auteurs" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="titre" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="institution" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="MemoireDeMastere" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="MemoireDeDoctorat" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="evenement" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="editeurs" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="organisation" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="auteurs" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="titre" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="institution" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="numero" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="TechRapport" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Livrable" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="contrat" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="auteurs" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="titre" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="note" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="nom" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="nomCourt" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="periodicite" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="editeur" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="serie" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="dateDePublication" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="nom" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="organisateur" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="nomCourt" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="livraison" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="localisation" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="pays" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="etat" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="ville" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="nom" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="nomCourt" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="adresse" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="editeur" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Universite" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Institution" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="first" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="rest" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="Personnes" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="pageDebut" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="pageFin" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="annee" content="textOnly" dt:type="gYear">
+	</ElementType>
+	<ElementType name="mois" content="textOnly" dt:type="gMonth">
+	</ElementType>
+	<ElementType name="jour" content="textOnly" dt:type="gDay">
+	</ElementType>
+</Schema>

@@ -1,0 +1,15 @@
+newclient.City	Details.txtCityTown
+newclient.Mobilenumber	Details.txtTelephone
+newclient.Country	Details.cboCountryAlt
+newclient.PhoneNumber	Details.txtTelephone
+newclient.email	Details.txtEmail
+newclient.Question	Details.chkMail
+newclient.Addressno	Details.txtAddress1
+newclient.Username	Details.txtUsername
+newclient.Name	Details.txtFirstName
+newclient.Postcode	Details.txtPostcode
+newclient.Postcode	Details.txtQASPostcode
+newclient.Surname	Details.txtSurname
+newclient.Pwd	Details.txtPassword
+newclient.RePwd	Details.txtPasswordConfirm
+newclient.Address1	Details.txtAddress1

@@ -1,0 +1,17 @@
+search.trial.submit	qualform.Submit
+search.trial.city	qualform.CITY
+search.trial.state	qualform.STATE
+search.trial.zip	qualform.ZIPCODE
+search.trial.country	qualform.COUNTRY
+search.trial.phone	qualform.PHONE
+search.trial.fax	qualform.FAX
+search.trial.email	qualform.EMAIL_ADDRESS
+search.trial.title	qualform.TITLE
+search.trial.first	qualform.FNAME
+search.trial.last	qualform.LNAME
+search.trial.reset2	qualform.Reset
+search	qualform.search
+search.trial.company	qualform.COMPANY
+search.trial.address1	qualform.ADDRESS1
+search.trial.address2	qualform.ADDRESS2
+search.trial.JobFunction	qualform.JOB_TITLE

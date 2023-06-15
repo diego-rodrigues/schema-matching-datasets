@@ -1,0 +1,29 @@
+http://www.marketwatch.com/tools/stockresearch/screener/default.asp?state=2_siteid=mktw
+ScreenerConfig
+http://www.marketwatch.com/tools/stockresearch/screener/default.asp?state=2_siteid=mktw
+> +-+-+ ScreenerConfig
+ScreenerConfig
+> +-+-+ that are +-+-+ string
+> +-+-+ All NYSE NASDAQ AMEX +-+-+ string
+> +-+-+ producing block trades of +-+-+ string
+> +-+-+ that are the market index chosen below by +-+-+ string
+> +-+-+ in price by +-+-+ string
+> +-+-+ with a current trading volume between and +-+-+ string
+> +-+-+ with a P E ratio from to +-+-+ string
+> +-+-+ that are currently their +-+-+ string
+> +-+-+ state +-+-+ string
+> +-+-+ Trading from $ to +-+-+ string
+> +-+-+ with a market capitalization from $ to $ +-+-+ string
+> +-+-+ Trading from $ to per share +-+-+ string
+> +-+-+ with a market capitalization from $ +-+-+ string
+> +-+-+ with a P E ratio from +-+-+ string
+> +-+-+ Trading from $ +-+-+ string
+> +-+-+ with a current trading volume between +-+-+ string
+> +-+-+ in price by % or more during +-+-+ string
+> +-+-+ classified in one of the following Dow Jones Industry groups: +-+-+ string
+> +-+-+ producing block trades of during +-+-+ string
+> +-+-+ that are currently +-+-+ string
+> +-+-+ siteid +-+-+ string
+> +-+-+ DJIA Nasdaq Composite Russell 2000 DJ Internet Index +-+-+ string
+> +-+-+ numresults +-+-+ string
+> +-+-+ trading +-+-+ string

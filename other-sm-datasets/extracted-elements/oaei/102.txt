@@ -1,0 +1,32 @@
+Wine
+> +-+-+ madeFromGrape +-+-+ string
+> +-+-+ hasWineDescriptor +-+-+ string
+> +-+-+ hasColor +-+-+ string
+> +-+-+ LateHarvest
+> +-+-+ EarlyHarvest +-+-+ string
+> +-+-+ DessertWine
+Vintage
+> +-+-+ hasVintageYear +-+-+ string
+Region
+> +-+-+ adjacentRegion +-+-+ string
+Thing
+> +-+-+ locatedIn +-+-+ string
+VintageYear
+> +-+-+ yearValue +-+-+ string
+WineDescriptor
+> +-+-+ WineTaste
+> +-+-+ WineColor +-+-+ string
+WineTaste
+> +-+-+ WineSugar +-+-+ string
+> +-+-+ WineFlavor +-+-+ string
+> +-+-+ WineBody +-+-+ string
+DessertWine
+> +-+-+ SweetRiesling +-+-+ string
+LateHarvest
+> +-+-+ Sauternes +-+-+ string
+Bordeaux
+> +-+-+ Sauternes +-+-+ string
+RedWine
+> +-+-+ Port +-+-+ string
+ItalianWine
+> +-+-+ Chianti +-+-+ string

@@ -1,0 +1,23 @@
+JoinForm
+JoinForm
+> - CASINO_URL - string
+> - CASINO_NAME - string
+> - RESELLERNAME - string
+> - LICENSEEID - string
+> - DONEURL - string
+> - NABLOCKURL - string
+> - USERID - string
+> - PASSWORD - string
+> - REENTERPASSWORD - string
+> - FIRSTNAME - string
+> - LASTNAME - string
+> - BIRTHDATE - string
+> - STREET - string
+> - CITY - string
+> - STATE - string
+> - COUNTRY - string
+> - ZIP - string
+> - HOMEPHONENO - string
+> - WORKPHONENO - string
+> - EMAIL - string
+> - SUBMIT - string

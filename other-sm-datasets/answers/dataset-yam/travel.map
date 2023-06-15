@@ -1,0 +1,5 @@
+travel1.xsd/Airfares-form;travel2.xsd/TripForm;
+travel1.xsd/Airfares-form/Dept;travel2.xsd/TripForm/departure-city;
+travel1.xsd/Airfares-form/Dest;travel2.xsd/TripForm/arrival-city;
+travel1.xsd/Airfares-form/DepartDate;travel2.xsd/TripForm/DepartureDate;
+travel1.xsd/Airfares-form/ReturnDate;travel2.xsd/TripForm/ReturnDate;

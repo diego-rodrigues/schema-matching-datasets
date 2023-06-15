@@ -1,0 +1,11 @@
+signup.email	registerfrm.email
+signup.maddress1	registerfrm.address2
+signup.password2	registerfrm.confirmpassword
+signup.password1	registerfrm.password
+signup.first_name	registerfrm.firstname
+signup.state	registerfrm.state
+signup.mzip	registerfrm.zip
+signup.last_name	registerfrm.lastname
+signup.city	registerfrm.city
+signup.address1	registerfrm.address1
+signup.zip	registerfrm.zip

@@ -1,0 +1,38 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Continental Airlines - Airline Tickets, Vacations Packages, Travel Deals, and Company Information on continental_com.htm
+frmMain
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Continental Airlines - Airline Tickets, Vacations Packages, Travel Deals, and Company Information on continental_com.htm
+> +-+-+ frmMain
+frmMain
+> +-+-+ hdnItinKey +-+-+ string
+> +-+-+ Return (MM DD YYYY): +-+-+ string
+> +-+-+ hdnPage +-+-+ string
+> +-+-+ hdnNav +-+-+ string
+> +-+-+ From: +-+-+ string
+> +-+-+ Search Type: +-+-+ string
+> +-+-+ cboInfantLap +-+-+ string
+> +-+-+ cboSenior +-+-+ string
+> +-+-+ hdnDNav +-+-+ string
+> +-+-+ cboChildTwo +-+-+ string
+> +-+-+ cboChildFive +-+-+ string
+> +-+-+ Cabin: +-+-+ string
+> +-+-+ chkFltOptnpe +-+-+ string
+> +-+-+ Depart (MM DD YYYY): +-+-+ string
+> +-+-+ cboSenior65 +-+-+ string
+> +-+-+ Flight Number: Departure Date: +-+-+ string
+> +-+-+ chkFltOptoppromo +-+-+ string
+> +-+-+ cboInfant +-+-+ string
+> +-+-+ hdnItinDetailKey +-+-+ string
+> +-+-+ OnePass Number: +-+-+ string
+> +-+-+ Remember Me +-+-+ string
+> +-+-+ cboChildTwelve +-+-+ string
+> +-+-+ Number of Adults: +-+-+ string
+> +-+-+ chkFltOptyfare +-+-+ string
+> +-+-+ hdnPOS +-+-+ string
+> +-+-+ cboNumOfFlts1 +-+-+ string
+> +-+-+ hdnAction +-+-+ string
+> +-+-+ chkFltOptopupgrade +-+-+ string
+> +-+-+ To: +-+-+ string
+> +-+-+ PIN: +-+-+ string
+> +-+-+ chkFltOptnap +-+-+ string
+> +-+-+ Time: +-+-+ string
+> +-+-+ Continental Airlines - Airline Tickets, Vacations Packages, Travel Deals, and Company Information on continental.com +-+-+ string

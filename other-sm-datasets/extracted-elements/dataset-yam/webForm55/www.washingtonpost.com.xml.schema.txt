@@ -1,0 +1,22 @@
+http://www.washingtonpost.com/wp-adv/archives/advanced.htm
+http://www.washingtonpost.com/wp-adv/archives/advanced.htm
+> +-+-+ Display Display up to +-+-+ string
+> +-+-+ Search +-+-+ string
+> +-+-+ help ). appearing and or not appearing +-+-+ string
+> +-+-+ Display +-+-+ string
+searchForm1
+> +-+-+ searchForm1
+searchForm1
+> +-+-+ SITE SEARCH: +-+-+ string
+> +-+-+ searchsection +-+-+ string
+http://www.washingtonpost.com/wp-adv/archives/advanced.htm
+> +-+-+ help ). +-+-+ string
+> +-+-+ Date Range: +-+-+ string
+> +-+-+ help ). appearing +-+-+ string
+> +-+-+ help ). appearing and or not appearing and or not appearing +-+-+ string
+> +-+-+ help ). appearing and or not +-+-+ string
+> +-+-+ From: (month day year) To: (month day year) +-+-+ string
+> +-+-+ Date of Article (select one) To select more than one year, hold down the Command key (Mac) or Control key (Win) while selecting. +-+-+ string
+> +-+-+ REGION +-+-+ string
+> +-+-+ help ). appearing and or not appearing and or not +-+-+ string
+> +-+-+ Reset Fields +-+-+ string

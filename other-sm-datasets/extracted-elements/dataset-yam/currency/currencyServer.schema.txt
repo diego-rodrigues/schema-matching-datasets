@@ -1,0 +1,41 @@
+getDataSet
+getDataSet
+> +-+-+ provider +-+-+ s:string
+
+> +-+-+ getDataSetResponse +-+-+ string
+getDataSetResult
+getDataSetResult
+getDataSetResult
+> +-+-+ getDataSetResult
+
+> +-+-+ getXmlStream +-+-+ string
+> +-+-+ provider +-+-+ s:string
+> +-+-+ getXmlStreamResponse +-+-+ string
+> +-+-+ getXmlStreamResult +-+-+ s:string
+> +-+-+ getCurrencyValue +-+-+ string
+> +-+-+ provider +-+-+ s:string
+> +-+-+ srcCurrency +-+-+ s:string
+> +-+-+ dstCurrency +-+-+ s:string
+> +-+-+ getCurrencyValueResponse +-+-+ string
+> +-+-+ getCurrencyValueResult +-+-+ s:double
+> +-+-+ getDollarValue +-+-+ string
+> +-+-+ provider +-+-+ s:string
+> +-+-+ currency +-+-+ s:string
+> +-+-+ getDollarValueResponse +-+-+ string
+> +-+-+ getDollarValueResult +-+-+ s:double
+> +-+-+ getProviderDescription +-+-+ string
+> +-+-+ provider +-+-+ s:string
+> +-+-+ getProviderDescriptionResponse +-+-+ string
+> +-+-+ getProviderDescriptionResult +-+-+ s:string
+> +-+-+ getProviderTimestamp +-+-+ string
+> +-+-+ providerId +-+-+ s:string
+> +-+-+ provider +-+-+ s:string
+> +-+-+ getProviderTimestampResponse +-+-+ string
+> +-+-+ getProviderTimestampResult +-+-+ s:string
+> +-+-+ getProviderList +-+-+ string
+> +-+-+ getProviderListResponse +-+-+ string
+> +-+-+ getProviderListResult +-+-+ s:string
+> +-+-+ DataSet +-+-+ string
+> +-+-+ DataSet +-+-+ string
+> +-+-+ string +-+-+ s:string
+> +-+-+ double +-+-+ s:double

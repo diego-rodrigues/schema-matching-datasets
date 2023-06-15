@@ -1,0 +1,28 @@
+https://store.primediamags.com/subscribe/powdermag/2699/I3MBTX
+offer_form
+https://store.primediamags.com/subscribe/powdermag/2699/I3MBTX
+> +-+-+ offer_form
+offer_form
+> +-+-+ fulfillment_house +-+-+ string
+> +-+-+ Please send me special offers and exclusive promotions from Powder's premiere partners. +-+-+ string
+> +-+-+ offer_id +-+-+ string
+> +-+-+ Credit Card Expiration: +-+-+ string
+> +-+-+ previous_page +-+-+ string
+> +-+-+ Postal Code +-+-+ string
+> +-+-+ site_id +-+-+ string
+> +-+-+ sweep_id +-+-+ string
+> +-+-+ country_code +-+-+ string
+> +-+-+ Credit Card Number: +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ country_codeB +-+-+ string
+> +-+-+ source_code +-+-+ string
+> +-+-+ State +-+-+ string
+> +-+-+ USA: 6 issues (1 year) for $10.97* and save 63% +-+-+ string
+> +-+-+ intl +-+-+ string
+> +-+-+ uses Secure Socket Layer (SSL) technology for all online transactions. SSL encrypts your personal information such as name, address and credit card number in an effort to prevent unauthorized access of this information during the transmission of your online order. +-+-+ string
+> +-+-+ Address Line 1 +-+-+ string
+> +-+-+ Email Address +-+-+ string
+> +-+-+ trans_type_id +-+-+ string
+> +-+-+ Address Line 2 +-+-+ string
+> +-+-+ Last Name +-+-+ string
+> +-+-+ First Name +-+-+ string

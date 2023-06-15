@@ -1,0 +1,10 @@
+form.AssociationManagersubscriptionform._submit	subscribe.Submit
+form.AssociationManagersubscriptionform._City	subscribe.add_city
+form.AssociationManagersubscriptionform._Postcode	subscribe.add_postal
+form.AssociationManagersubscriptionform._Telephone	subscribe.phone_voice
+form.AssociationManagersubscriptionform._Fax	subscribe.phone_fax
+form.AssociationManagersubscriptionform._Email	subscribe.email_add
+form.AssociationManagersubscriptionform._Title	subscribe.work_title
+form.AssociationManagersubscriptionform._Name	subscribe.name_first
+form.AssociationManagersubscriptionform._Company_Name	subscribe.company_name
+form.AssociationManagersubscriptionform._Address	subscribe.add_line1

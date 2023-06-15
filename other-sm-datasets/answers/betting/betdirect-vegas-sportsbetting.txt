@@ -1,0 +1,10 @@
+fmRegister.tbEmail	thisForm.txtEMail
+fmRegister.tbLname	thisForm.txtLastName
+fmRegister.tbAddrPc	thisForm.txtZipCode
+fmRegister.tbAddr1	thisForm.txtAddress1
+fmRegister.tbPassword1	thisForm.txtInternetPassword
+fmRegister.tbTel	thisForm.txtDayPhone
+fmRegister.tbPassword2	thisForm.txtInternetPasswordConfirmed
+fmRegister.tbAddrCty	thisForm.txtCity
+fmRegister.country_code	thisForm.cboCountry
+fmRegister.tbFname	thisForm.txtFirstName

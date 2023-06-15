@@ -1,0 +1,22 @@
+<DataSource name="test.xml">
+    <Abbr key="SSN"> Social Security Number </Abbr>
+    <Abbr key="No"> Number </Abbr>
+    <Abbr key="Num"> Number </Abbr>
+    <Abbr key="Cust"> Customer </Abbr>
+    <Abbr key="#"> Number </Abbr>
+    <Abbr key="qty"> Quantity </Abbr>
+    <Abbr key="uom"> Unit Of Measure </Abbr>
+    <Abbr key="fob"> Freight On Board </Abbr>
+    <Abbr key="po"> PurchaseOrder </Abbr>
+    <Abbr key="ref"> Reference </Abbr>
+    <Abbr key="tel"> Telephone </Abbr>
+    <Abbr key="del"> delivery </Abbr>
+    <Abbr key="ord"> order </Abbr>
+    <Abbr key="mod"> model </Abbr>
+    <Abbr key="ref"> reference </Abbr>
+    <Abbr key="desc"> description </Abbr>
+    <Abbr key="VAT"> value added tax </Abbr>
+    <Conj key="and"/>
+    <Conj key="or"/>
+    <Prep key="at"/>
+</DataSource>

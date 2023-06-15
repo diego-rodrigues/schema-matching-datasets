@@ -1,0 +1,26 @@
+http://prosearch.businessweek.com/businessweek/general_free_search.html
+http://prosearch.businessweek.com/businessweek/general_free_search.html
+> +-+-+ Return on Sales +-+-+ string
+> +-+-+ Search Now +-+-+ string
+> +-+-+ Select an Industry +-+-+ string
+> +-+-+ Market Capitalization +-+-+ string
+> +-+-+ Proj EPS Current Fiscal Yr +-+-+ string
+> +-+-+ Analysts Buy Hold Sell Mean +-+-+ string
+> +-+-+ Type of Stock +-+-+ string
+> +-+-+ Return on Equity +-+-+ string
+> +-+-+ P E Projected Nxt FY +-+-+ string
+> +-+-+ EPS Growth 1 Yr +-+-+ string
+> +-+-+ Number of Stocks: +-+-+ string
+> +-+-+ Cash Flow Growth 1 Yr +-+-+ string
+> +-+-+ Sales Growth 1 Yr +-+-+ string
+> +-+-+ P E Ratio +-+-+ string
+> +-+-+ Price Book Ratio +-+-+ string
+> +-+-+ Stock Price +-+-+ string
+> +-+-+ Select an Exchange +-+-+ string
+> +-+-+ Price Cash Flow Ratio +-+-+ string
+> +-+-+ Price Sales Ratio +-+-+ string
+> +-+-+ Report Format: +-+-+ string
+> +-+-+ Gross Profit Margin +-+-+ string
+> +-+-+ Debt Equity Ratio +-+-+ string
+> +-+-+ Dividend Yield +-+-+ string
+> +-+-+ Clear All +-+-+ string

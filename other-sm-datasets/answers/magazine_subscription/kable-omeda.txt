@@ -1,0 +1,13 @@
+newsubs.Submit	qualform.Submit
+newsubs.City	qualform.CITY
+newsubs.StOrProv	qualform.STATE
+newsubs.PostalCode	qualform.ZIPCODE
+newsubs.Country	qualform.COUNTRY
+newsubs.Email	qualform.EMAIL_ADDRESS
+newsubs.FirstName	qualform.FNAME
+newsubs.LastName	qualform.LNAME
+newsubs.Reset	qualform.Reset
+newsubs.subscribe.Search	qualform.search
+newsubs.Company	qualform.COMPANY
+newsubs.Address1	qualform.ADDRESS1
+newsubs.Address2	qualform.ADDRESS2

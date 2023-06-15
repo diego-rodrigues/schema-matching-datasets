@@ -1,0 +1,133 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Book search - Sagebrush Corporation.htm
+SiteSearch
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Book search - Sagebrush Corporation.htm
+> +-+-+ SiteSearch
+SiteSearch
+> +-+-+ Site search: +-+-+ string
+adv
+> +-+-+ adv
+adv
+> +-+-+ to +-+-+ string
+bookset
+> +-+-+ bookset
+bookset
+> +-+-+ Title: +-+-+ string
+> +-+-+ searchtype +-+-+ string
+number
+> +-+-+ number
+number
+> +-+-+ searchtype +-+-+ string
+BookSetSearch
+> +-+-+ BookSetSearch
+BookSetSearch
+> +-+-+ searchtype +-+-+ string
+> +-+-+ Disk #: +-+-+ string
+> +-+-+ Set title: +-+-+ string
+number
+> +-+-+ Find: +-+-+ string
+> +-+-+ Product number(s): +-+-+ string
+bookset
+> +-+-+ Disk #: +-+-+ string
+adv
+> +-+-+ Reviews: +-+-+ string
+> +-+-+ searchtype +-+-+ string
+> +-+-+ Title: +-+-+ string
+> +-+-+ Lexile: +-+-+ string
+> +-+-+ Annotation: +-+-+ string
+> +-+-+ Subject: +-+-+ string
+> +-+-+ Fiction: +-+-+ string
+> +-+-+ Author: +-+-+ string
+> +-+-+ Spanish titles only +-+-+ string
+> +-+-+ Copyright: +-+-+ string
+> +-+-+ or specify review code: +-+-+ string
+> +-+-+ Reading level: +-+-+ string
+> +-+-+ Price: +-+-+ string
+> +-+-+ Reading Program: +-+-+ string
+> +-+-+ Dewey decimal: +-+-+ string
+> +-+-+ Interest level: +-+-+ string
+> +-+-+ Publisher: +-+-+ string
+bookset
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Book search - Sagebrush Corporation.htm
+> +-+-+ bookset
+bookset
+> +-+-+ Title: +-+-+ string
+> +-+-+ searchtype +-+-+ string
+number
+> +-+-+ number
+number
+> +-+-+ searchtype +-+-+ string
+BookSetSearch
+> +-+-+ BookSetSearch
+BookSetSearch
+> +-+-+ searchtype +-+-+ string
+> +-+-+ Disk #: +-+-+ string
+> +-+-+ Set title: +-+-+ string
+number
+> +-+-+ Find: +-+-+ string
+> +-+-+ Product number(s): +-+-+ string
+bookset
+> +-+-+ Disk #: +-+-+ string
+BookSetSearch
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Book search - Sagebrush Corporation.htm
+> +-+-+ BookSetSearch
+BookSetSearch
+> +-+-+ searchtype +-+-+ string
+> +-+-+ Disk #: +-+-+ string
+> +-+-+ Set title: +-+-+ string
+number
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Book search - Sagebrush Corporation.htm
+> +-+-+ number
+number
+> +-+-+ searchtype +-+-+ string
+BookSetSearch
+> +-+-+ BookSetSearch
+BookSetSearch
+> +-+-+ searchtype +-+-+ string
+> +-+-+ Disk #: +-+-+ string
+> +-+-+ Set title: +-+-+ string
+number
+> +-+-+ Find: +-+-+ string
+> +-+-+ Product number(s): +-+-+ string
+adv
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Book search - Sagebrush Corporation.htm
+> +-+-+ adv
+adv
+> +-+-+ to +-+-+ string
+bookset
+> +-+-+ bookset
+bookset
+> +-+-+ Title: +-+-+ string
+> +-+-+ searchtype +-+-+ string
+number
+> +-+-+ number
+number
+> +-+-+ searchtype +-+-+ string
+BookSetSearch
+> +-+-+ BookSetSearch
+BookSetSearch
+> +-+-+ searchtype +-+-+ string
+> +-+-+ Disk #: +-+-+ string
+> +-+-+ Set title: +-+-+ string
+number
+> +-+-+ Find: +-+-+ string
+> +-+-+ Product number(s): +-+-+ string
+bookset
+> +-+-+ Disk #: +-+-+ string
+adv
+> +-+-+ Reviews: +-+-+ string
+> +-+-+ searchtype +-+-+ string
+> +-+-+ Title: +-+-+ string
+> +-+-+ Lexile: +-+-+ string
+> +-+-+ Annotation: +-+-+ string
+> +-+-+ Subject: +-+-+ string
+> +-+-+ Fiction: +-+-+ string
+> +-+-+ Author: +-+-+ string
+> +-+-+ Spanish titles only +-+-+ string
+> +-+-+ Copyright: +-+-+ string
+> +-+-+ or specify review code: +-+-+ string
+> +-+-+ Reading level: +-+-+ string
+> +-+-+ Price: +-+-+ string
+> +-+-+ Reading Program: +-+-+ string
+> +-+-+ Dewey decimal: +-+-+ string
+> +-+-+ Interest level: +-+-+ string
+> +-+-+ Publisher: +-+-+ string

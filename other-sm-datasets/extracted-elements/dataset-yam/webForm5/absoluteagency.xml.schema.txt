@@ -1,0 +1,8 @@
+absolute agency
+absolute agency
+> +-+-+ Your Religion +-+-+ string
+> +-+-+ Look for a: +-+-+ string
+> +-+-+ Your Country +-+-+ string
+> +-+-+ You are a +-+-+ string
+> +-+-+ Your Name +-+-+ string
+> +-+-+ Your Eye Color +-+-+ string

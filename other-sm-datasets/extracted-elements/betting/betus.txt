@@ -1,0 +1,26 @@
+LoginVerify
+SignupForm
+LoginVerify
+> - CustomerID - anyType
+> - Password - string
+SignupForm
+> - ref_sid - anyType
+> - ref_temail - anyType
+> - nameFirstEntry - anyType
+> - nameLastEntry - anyType
+> - emailEntry - anyType
+> - homePhoneEntry - anyType
+> - businessPhoneEntry - anyType
+> - faxEntry - anyType
+> - address1Entry - anyType
+> - address2Entry - anyType
+> - cityEntry - anyType
+> - stateEntry - anyType
+> - zipEntry - anyType
+> - countryEntry - anyType
+> - referredByEntry - anyType
+> - sourceEntry - anyType
+> - passwordEntry - anyType
+> - ConfirmPasswordEntry - anyType
+> - Notes - anyType
+> - Submit - anyType

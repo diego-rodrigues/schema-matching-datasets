@@ -1,0 +1,16 @@
+qualform.Submit	regform.submit
+qualform.CITY	regform.City
+qualform.STATE	regform.State
+qualform.ZIPCODE	regform.Zip
+qualform.COUNTRY	regform.Country
+qualform.PHONE	regform.Phone
+qualform.FAX	regform.Fax
+qualform.EMAIL_ADDRESS	regform.Email
+qualform.TITLE	regform.Title
+qualform.FNAME	regform.First_Name
+qualform.LNAME	regform.Last_Name
+qualform.Reset	regform.reset
+qualform.COMPANY	regform.Company_Name
+qualform.ADDRESS1	regform.Address
+qualform.JOB_TITLE	regform.jobfunc1
+qualform.URLQueryString	regform.URL

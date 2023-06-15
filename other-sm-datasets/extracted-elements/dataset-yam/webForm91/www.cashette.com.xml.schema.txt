@@ -1,0 +1,22 @@
+http://www.cashette.com/myCashette/createNewUser.jsp?
+CreateNewUserForm
+http://www.cashette.com/myCashette/createNewUser.jsp?
+> +-+-+ CreateNewUserForm
+CreateNewUserForm
+> +-+-+ I prefer to receive advertising email that pays me. +-+-+ string
+> +-+-+ inviterID +-+-+ string
+> +-+-+ Year of Birth: +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Enter the code below: +-+-+ string
+> +-+-+ I have read and agree to the +-+-+ string
+> +-+-+ Sign Up +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Existing Email Address: +-+-+ string
+> +-+-+ Create Cashette ID: +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ Zip Code: +-+-+ string
+> +-+-+ Repeat Password: +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ dispatch +-+-+ string
+> +-+-+ referralID +-+-+ string

@@ -1,0 +1,14 @@
+http://www.debtbusterloans.com/loanapplication1.aspx
+http://www.debtbusterloans.com/loanapplication1.aspx
+> +-+-+ Postcode +-+-+ string
+> +-+-+ Do you currently pay a mortgage to a bank or building society? +-+-+ string
+> +-+-+ How much would you like to borrow? +-+-+ string
+> +-+-+ Home Telephone Number +-+-+ string
+> +-+-+ Submit application +-+-+ string
+> +-+-+ Email Address +-+-+ string
+> +-+-+ Surname +-+-+ string
+> +-+-+ postback +-+-+ string
+> +-+-+ Work Telephone Number +-+-+ string
+> +-+-+ Title +-+-+ string
+> +-+-+ First Name(s) +-+-+ string
+> +-+-+ Mobile Telephone Number +-+-+ string

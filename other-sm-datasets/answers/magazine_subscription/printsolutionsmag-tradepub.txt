@@ -1,0 +1,15 @@
+regform.submit	search._submit
+regform.City	search.city
+regform.State	search.state
+regform.Zip	search.zip
+regform.Country	search.country
+regform.Phone	search.phone
+regform.Fax	search.fax
+regform.Email	search.email
+regform.Title	search.title
+regform.First_Name	search.first
+regform.Last_Name	search.last
+regform.reset	ResetForm
+regform.Company_Name	search.company
+regform.Address	search.street
+regform.jobfunc1	search.jobcode

@@ -1,0 +1,36 @@
+sqdsq
+> +-+-+ zajdhqs
+> +-+-+ qsdsnbsqd
+> +-+-+ sqdsopq
+> +-+-+ zdazsx
+> +-+-+ wxsdxqsdh +-+-+ string
+> +-+-+ dqzdxdcsqj
+> +-+-+ dscdscg +-+-+ string
+sqdsopq
+> +-+-+ Article +-+-+ string
+> +-+-+ dzqndbzq +-+-+ string
+> +-+-+ vccfsq +-+-+ string
+> +-+-+ dcsqdcsqd +-+-+ string
+> +-+-+ InProceedings +-+-+ string
+zajdhqs
+> +-+-+ dzajndsq +-+-+ string
+> +-+-+ sqxsqkd +-+-+ string
+> +-+-+ zdqssqdb +-+-+ string
+qsdsnbsqd
+> +-+-+ Booklet +-+-+ string
+> +-+-+ scds +-+-+ string
+> +-+-+ dcsqdsq +-+-+ string
+> +-+-+ zeadza +-+-+ string
+zdazsx
+> +-+-+ xsqlknk +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+dqzdxdcsqj
+> +-+-+ sdcsqhyz +-+-+ string
+> +-+-+ Deliverable +-+-+ string
+izxnquo
+> +-+-+ zauio +-+-+ string
+> +-+-+ zadazxn +-+-+ string
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ izxnquo
+List
+> +-+-+ dsqdbz +-+-+ string

@@ -1,0 +1,45 @@
+search
+search2
+search3
+search1
+search4
+search
+> - index - string
+> - field-author - string
+> - SearchNow - string
+> - field-title - string
+> - field-subject - string
+> - field-asin - string
+> - field-publisher - string
+> - field-ignore-date - string
+> - field-is-available-used - string
+> - field-datemod - string
+> - field-dateyear - string
+> - field-dateyear - string
+> - field-keywords - string
+> - Go - string
+> - asin_B000065UE7 - string
+> - asin_B000050FFN - string
+> - asin_B00008PW1M - string
+> - asin_B000093IRD - string
+> - asin_B000092YOX - string
+> - asin_B00008J1CL - string
+> - submit_add-to-cart - string
+> - url - string
+> - field-age - string
+> - field-language - string
+> - field-dateop - string
+> - rank - string
+> - url - string
+search2
+> - index - string
+search3
+> - field-power - string
+search1
+> - PowerSearchNow - string
+search4
+> - colid - string
+> - template-name - string
+> - store-name - string
+> - maw - string
+> - coliid - string

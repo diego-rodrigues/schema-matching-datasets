@@ -1,0 +1,14 @@
+signupForm.STATE	SignupForm.stateEntry
+signupForm.WORKPHONENO	SignupForm.businessPhoneEntry
+signupForm.EMAIL	SignupForm.emailEntry
+signupForm.CITY	SignupForm.cityEntry
+signupForm.LASTNAME	SignupForm.nameLastEntry
+signupForm.STREET	SignupForm.address2Entry
+signupForm.STREET	SignupForm.address1Entry
+signupForm.USERID	LoginVerify.CustomerID
+signupForm.PASSWORD	SignupForm.passwordEntry
+signupForm.HOMEPHONENO	SignupForm.homePhoneEntry
+signupForm.REENTERPASSWORD	SignupForm.ConfirmPasswordEntry
+signupForm.ZIP	SignupForm.zipEntry
+signupForm.COUNTRY	SignupForm.countryEntry
+signupForm.FIRSTNAME	SignupForm.nameFirstEntry

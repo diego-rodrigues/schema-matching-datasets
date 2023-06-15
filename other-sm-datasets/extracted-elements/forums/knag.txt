@@ -1,0 +1,22 @@
+FormName
+FormName
+> - adres - string
+> - adres - string
+> - adres - string
+> - adres - string
+> - roepnaam - string
+> - sexe - string
+> - adres - string
+> - postcodewoonplaats - string
+> - city - string
+> - bcountry - string
+> - telprive - string
+> - fax - string
+> - email - string
+> - cardtype - string
+> - nameoncard - string
+> - cardadres1 - string
+> - cardadres2 - string
+> - cardnumber - string
+> - cardexpmonth - string
+> - cardexpyear - string

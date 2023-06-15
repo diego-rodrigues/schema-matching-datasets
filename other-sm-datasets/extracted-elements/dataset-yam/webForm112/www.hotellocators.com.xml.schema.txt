@@ -1,0 +1,15 @@
+http://www.hotellocators.com/
+http://www.hotellocators.com/
+> +-+-+ # Child: +-+-+ string
+> +-+-+ Travel Deals Newsletter +-+-+ string
+> +-+-+ Check in: +-+-+ string
+> +-+-+ # Beds: +-+-+ string
+> +-+-+ Or, enter your destination City +-+-+ string
+> +-+-+ srprf +-+-+ string
+> +-+-+ Hotel Reservations +-+-+ string
+> +-+-+ Hotel Quick Search: +-+-+ string
+> +-+-+ # Adults: +-+-+ string
+> +-+-+ # Rooms: +-+-+ string
+> +-+-+ v_rate +-+-+ string
+> +-+-+ Subscribe +-+-+ string
+> +-+-+ # Nights: +-+-+ string

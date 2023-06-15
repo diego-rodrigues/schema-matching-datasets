@@ -1,0 +1,143 @@
+http://www.besthotel.com/
+newsletter
+http://www.besthotel.com/
+> +-+-+ newsletter
+newsletter
+> +-+-+ Join Our Hot Deals Newsletter +-+-+ string
+> +-+-+ src +-+-+ string
+searchForm
+> +-+-+ searchForm
+searchForm
+> +-+-+ Search +-+-+ string
+> +-+-+ AMENITY_Pool +-+-+ string
+> +-+-+ AMENITY_Tennis +-+-+ string
+> +-+-+ Rooms: +-+-+ string
+> +-+-+ AMENITY_Rooms for the Disabled +-+-+ string
+> +-+-+ Hotel Brand: +-+-+ string
+> +-+-+ src_aid +-+-+ string
+> +-+-+ AMENITY_Barber/Beauty Shop +-+-+ string
+> +-+-+ AMENITY_Free Newspaper +-+-+ string
+> +-+-+ AMENITY_Beach +-+-+ string
+> +-+-+ lang +-+-+ string
+> +-+-+ Beds: +-+-+ string
+> +-+-+ AMENITY_Golf +-+-+ string
+> +-+-+ AMENITY_Casino +-+-+ string
+> +-+-+ Children: +-+-+ string
+> +-+-+ Hotel Name: +-+-+ string
+> +-+-+ AMENITY_Free Parking +-+-+ string
+> +-+-+ dod_yy +-+-+ string
+> +-+-+ AMENITY_24 Hour Front Desk +-+-+ string
+> +-+-+ AMENITY_Laundry/Valet Services +-+-+ string
+> +-+-+ src +-+-+ string
+> +-+-+ AMENITY_Concierge +-+-+ string
+Check Out
+> +-+-+ Check Out
+Check Out
+> +-+-+ Beds: +-+-+ string
+> +-+-+ Children: +-+-+ string
+> +-+-+ Rooms: +-+-+ string
+> +-+-+ Adults: +-+-+ string
+searchForm
+> +-+-+ AMENITY_Shops/Commercial Services +-+-+ string
+> +-+-+ AMENITY_Meeting/Banquet Facilities +-+-+ string
+> +-+-+ Sort By: +-+-+ string
+> +-+-+ AMENITY_Fitness Center or Spa +-+-+ string
+> +-+-+ currency_id +-+-+ string
+> +-+-+ AMENITY_Snow Skiing +-+-+ string
+> +-+-+ priceband +-+-+ string
+> +-+-+ AMENITY_Bar/Lounge +-+-+ string
+> +-+-+ avail +-+-+ string
+> +-+-+ Adults: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ doa_yy +-+-+ string
+> +-+-+ AMENITY_Babysitting/Child Services +-+-+ string
+> +-+-+ AMENITY_Room Service +-+-+ string
+> +-+-+ AMENITY_Business Center +-+-+ string
+> +-+-+ AMENITY_Express Checkout +-+-+ string
+> +-+-+ AMENITY_Restaurant +-+-+ string
+> +-+-+ AMENITY_Pets Allowed +-+-+ string
+> +-+-+ State Province: +-+-+ string
+Check In
+> +-+-+ Check In
+Check Out
+Check In
+> +-+-+ Check Out
+Check Out
+> +-+-+ Beds: +-+-+ string
+> +-+-+ Children: +-+-+ string
+> +-+-+ Rooms: +-+-+ string
+> +-+-+ Adults: +-+-+ string
+searchForm
+> +-+-+ City: +-+-+ string
+> +-+-+ smoking_pref +-+-+ string
+> +-+-+ AMENITY_Safe Deposit Box +-+-+ string
+newsletter
+> +-+-+ lang +-+-+ string
+> +-+-+ Subscribe +-+-+ string
+searchForm
+http://www.besthotel.com/
+> +-+-+ searchForm
+searchForm
+> +-+-+ Search +-+-+ string
+> +-+-+ AMENITY_Pool +-+-+ string
+> +-+-+ AMENITY_Tennis +-+-+ string
+> +-+-+ Rooms: +-+-+ string
+> +-+-+ AMENITY_Rooms for the Disabled +-+-+ string
+> +-+-+ Hotel Brand: +-+-+ string
+> +-+-+ src_aid +-+-+ string
+> +-+-+ AMENITY_Barber/Beauty Shop +-+-+ string
+> +-+-+ AMENITY_Free Newspaper +-+-+ string
+> +-+-+ AMENITY_Beach +-+-+ string
+> +-+-+ lang +-+-+ string
+> +-+-+ Beds: +-+-+ string
+> +-+-+ AMENITY_Golf +-+-+ string
+> +-+-+ AMENITY_Casino +-+-+ string
+> +-+-+ Children: +-+-+ string
+> +-+-+ Hotel Name: +-+-+ string
+> +-+-+ AMENITY_Free Parking +-+-+ string
+> +-+-+ dod_yy +-+-+ string
+> +-+-+ AMENITY_24 Hour Front Desk +-+-+ string
+> +-+-+ AMENITY_Laundry/Valet Services +-+-+ string
+> +-+-+ src +-+-+ string
+> +-+-+ AMENITY_Concierge +-+-+ string
+Check Out
+> +-+-+ Check Out
+Check Out
+> +-+-+ Beds: +-+-+ string
+> +-+-+ Children: +-+-+ string
+> +-+-+ Rooms: +-+-+ string
+> +-+-+ Adults: +-+-+ string
+searchForm
+> +-+-+ AMENITY_Shops/Commercial Services +-+-+ string
+> +-+-+ AMENITY_Meeting/Banquet Facilities +-+-+ string
+> +-+-+ Sort By: +-+-+ string
+> +-+-+ AMENITY_Fitness Center or Spa +-+-+ string
+> +-+-+ currency_id +-+-+ string
+> +-+-+ AMENITY_Snow Skiing +-+-+ string
+> +-+-+ priceband +-+-+ string
+> +-+-+ AMENITY_Bar/Lounge +-+-+ string
+> +-+-+ avail +-+-+ string
+> +-+-+ Adults: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ doa_yy +-+-+ string
+> +-+-+ AMENITY_Babysitting/Child Services +-+-+ string
+> +-+-+ AMENITY_Room Service +-+-+ string
+> +-+-+ AMENITY_Business Center +-+-+ string
+> +-+-+ AMENITY_Express Checkout +-+-+ string
+> +-+-+ AMENITY_Restaurant +-+-+ string
+> +-+-+ AMENITY_Pets Allowed +-+-+ string
+> +-+-+ State Province: +-+-+ string
+Check In
+> +-+-+ Check In
+Check Out
+Check In
+> +-+-+ Check Out
+Check Out
+> +-+-+ Beds: +-+-+ string
+> +-+-+ Children: +-+-+ string
+> +-+-+ Rooms: +-+-+ string
+> +-+-+ Adults: +-+-+ string
+searchForm
+> +-+-+ City: +-+-+ string
+> +-+-+ smoking_pref +-+-+ string
+> +-+-+ AMENITY_Safe Deposit Box +-+-+ string

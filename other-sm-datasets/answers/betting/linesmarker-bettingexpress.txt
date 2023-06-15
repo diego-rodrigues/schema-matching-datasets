@@ -1,0 +1,13 @@
+signupForm.STATE	JoinForm.STATE
+signupForm.WORKPHONENO	JoinForm.WORKPHONENO
+signupForm.EMAIL	JoinForm.EMAIL
+signupForm.CITY	JoinForm.CITY
+signupForm.LASTNAME	JoinForm.LASTNAME
+signupForm.USERID	JoinForm.USERID
+signupForm.STREET	JoinForm.STREET
+signupForm.PASSWORD	JoinForm.PASSWORD
+signupForm.HOMEPHONENO	JoinForm.HOMEPHONENO
+signupForm.REENTERPASSWORD	JoinForm.REENTERPASSWORD
+signupForm.ZIP	JoinForm.ZIP
+signupForm.COUNTRY	JoinForm.COUNTRY
+signupForm.FIRSTNAME	JoinForm.FIRSTNAME

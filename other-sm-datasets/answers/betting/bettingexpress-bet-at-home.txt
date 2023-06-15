@@ -1,0 +1,8 @@
+JoinForm.WORKPHONENO	Registerform.FORM_telefon
+JoinForm.HOMEPHONENO	Registerform.FORM_telefon
+JoinForm.STREET	Registerform.FORM_strasse
+JoinForm.COUNTRY	Registerform.FORM_nation
+JoinForm.ZIP	Registerform.FORM_plz
+JoinForm.FIRSTNAME	Registerform.FORM_vorname
+JoinForm.LASTNAME	Registerform.FORM_nachname
+JoinForm.EMAIL	Registerform.FORM_email

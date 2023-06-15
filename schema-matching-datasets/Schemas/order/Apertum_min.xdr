@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!-- APERTUM GREAT PLAINS Purchase Order Schema Version 1.0 -->
+<!-- Generated using APERTUM BTDesigner -->
+<!-- GREAT PLAINS Software -->
+<Schema name="APERTUM_PO_1" xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+<ElementType name="Order" content="eltOnly" model="open" order="many">
+<element type="POHead" minOccurs="1" maxOccurs="1"/>
+<element type="Buyer" minOccurs="1" maxOccurs="1"/>
+<element type="Supplier" minOccurs="0" maxOccurs="1"/>
+<element type="DeliverTo" minOccurs="0" maxOccurs="1"/>
+<element type="InvoiceTo" minOccurs="0" maxOccurs="1"/>
+<element type="POLine" minOccurs="1" maxOccurs="*"/>
+<element type="OrderTotal" minOccurs="0" maxOccurs="1"/>
+</ElementType>
+<ElementType name="POHead" content="eltOnly" model="open" order="seq">
+<description>
+Order head</description>
+<element type="OrderDetails" minOccurs="1" maxOccurs="1"/>
+<element type="Currency" minOccurs="1" maxOccurs="1"/>
+<element type="TermsOfPayment" minOccurs="0" maxOccurs="1"/>
+<element type="TermsOfDelivery" minOccurs="0" maxOccurs="1"/>
+</ElementType>
+<ElementType name="Buyer" content="eltOnly" model="open" order="seq">
+<description>
+Buyer</description>
+<element type="SupplierReferenceNo" minOccurs="0" maxOccurs="1"/>
+<element type="BuyerReferenceNo" minOccurs="0" maxOccurs="1"/>
+<element type="VAT_RegistrationNo" minOccurs="0" maxOccurs="1"/>
+<element type="Address" minOccurs="0" maxOccurs="1"/>
+<element type="Contact" minOccurs="0" maxOccurs="1"/>
+</ElementType>
+<ElementType name="Supplier" content="eltOnly" model="open" order="seq">
+<description>
+Supplier</description>
+<element type="SupplierReferenceNo" minOccurs="0" maxOccurs="1"/>
+<element type="BuyerReferenceNo" minOccurs="0" maxOccurs="1"/>
+<element type="VAT_RegistrationNo" minOccurs="0" maxOccurs="1"/>
+<element type="Address" minOccurs="0" maxOccurs="1"/>
+<element type="Contact" minOccurs="0" maxOccurs="1"/>
+</ElementType>
+<ElementType name="DeliverTo" content="eltOnly" model="open" order="seq">
+<description>
+Delivery</description>
+<element type="SupplierReferenceNo" minOccurs="0" maxOccurs="1"/>
+<element type="BuyerReferenceNo" minOccurs="0" maxOccurs="1"/>
+<element type="VAT_RegistrationNo" minOccurs="0" maxOccurs="1"/>
+<element type="Address" minOccurs="0" maxOccurs="1"/>
+<element type="Contact" minOccurs="0" maxOccurs="1"/>
+</ElementType>
+<ElementType name="InvoiceTo" content="eltOnly" model="open" order="seq">
+<description>
+Invoice</description>
+<element type="SupplierReferenceNo" minOccurs="0" maxOccurs="1"/>
+<element type="BuyerReferenceNo" minOccurs="0" maxOccurs="1"/>
+<element type="VAT_RegistrationNo" minOccurs="0" maxOccurs="1"/>
+<element type="Address" minOccurs="0" maxOccurs="1"/>
+<element type="Contact" minOccurs="0" maxOccurs="1"/>
+</ElementType>
+<ElementType name="POLine" content="eltOnly" model="open" order="seq">
+<description>
+Product Lines</description>
+<element type="LineNo" minOccurs="0" maxOccurs="1"/>
+<element type="Product" minOccurs="1" maxOccurs="1"/>
+<element type="Price" minOccurs="0" maxOccurs="1"/>
+<element type="Quantity" minOccurs="1" maxOccurs="1"/>
+<element type="RequestedDeliveryDate" minOccurs="0" maxOccurs="1"/>
+<element type="Discount" minOccurs="0" maxOccurs="1"/>
+<element type="Amount" minOccurs="0" maxOccurs="1"/>
+</ElementType>
+<ElementType name="OrderTotal" content="eltOnly" model="open" order="seq">
+<description>
+Order summary</description>
+<element type="NumberOfLines" minOccurs="0" maxOccurs="1"/>
+<element type="TotalAmount" minOccurs="0" maxOccurs="1"/>
+</ElementType>
+</Schema>

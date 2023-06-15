@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!-- Wine Schema english: http://www.atl.lmco.com/projects/ontology/ontologies/wine/WineA.n3# -->
+<Schema name="WineA" xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+<ElementType name="Wine">
+	<element type="WhiteWine"/>
+	<element type="RedWine"/>
+</ElementType>
+<ElementType name="RedWine">
+	<element type="Berbera"/>
+	<element type="CabernetMerlot"/>
+	<element type="CabernetSauvignon"/>
+	<element type="Chianti"/>
+	<element type="Dolcetto"/>
+	<element type="ItalianRed"/>
+	<element type="Merlot"/>
+	<element type="Nebbiolo"/>
+	<element type="PetiteSirah"/>
+	<element type="PinotNior"/>
+	<element type="RedBordeaux"/>
+	<element type="RedBurgundy"/>
+	<element type="Sangiovese"/>
+	<element type="Syrah"/>
+	<element type="Tempranillo"/>
+	<element type="Zinfandel"/>
+</ElementType>
+<ElementType name="WhiteWine">
+	<element type="Chablis"/>
+	<element type="Chardonnay"/>
+	<element type="CheninBlanc"/>
+	<element type="Gewurztaminer"/>
+	<element type="ItalianWhite"/>
+	<element type="Muscat"/>
+	<element type="PinotBlanc"/>
+	<element type="PinotGris"/>
+	<element type="Riesling"/>
+	<element type="Sake"/>
+	<element type="SauvignonBlanc"/>
+	<element type="Semillon"/>
+	<element type="WhiteBordeaux"/>
+	<element type="WhiteBurgundy"/>
+</ElementType>
+<ElementType name="Barbera" content="textOnly" dt:type="string"/>
+
+
+<ElementType name="Berbera" content="textOnly" dt:type="string"/>
+</ElementType>
+<ElementType name="CabernetMerlot" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="CabernetSauvignon" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Chianti" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Dolcetto" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="ItalianRed" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Merlot" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Nebbiolo" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="PetiteSirah" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="PinotNior" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="RedBordeaux" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="RedBurgundy" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Sangiovese" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Syrah" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Tempranillo" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Zinfandel" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Chablis" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Chardonnay" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="CheninBlanc" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Gewurztaminer" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="ItalianWhite" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Muscat" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="PinotBlanc" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="PinotGris" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Riesling" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Sake" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="SauvignonBlanc" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="Semillon" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="WhiteBordeaux" content="textOnly" dt:type="string">
+</ElementType>
+<ElementType name="WhiteBurgundy" content="textOnly" dt:type="string">
+</ElementType>
+</Schema>

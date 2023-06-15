@@ -1,0 +1,24 @@
+searchform
+searchform
+> +-+-+ fid +-+-+ string
+Hotel Location
+> +-+-+ Hotel Location
+Hotel Location
+> +-+-+ * City: +-+-+ string
+> +-+-+ OR * Zip Postal Code: +-+-+ string
+> +-+-+ State: +-+-+ string
+> +-+-+ Country: +-+-+ string
+Reservation Details
+searchform
+> +-+-+ Reservation Details
+Reservation Details
+> +-+-+ Check-in date: +-+-+ string
+> +-+-+ Check-out date: +-+-+ string
+> +-+-+ Number of Adults: +-+-+ string
+> +-+-+ Children: +-+-+ string
+> +-+-+ Rooms Needed: +-+-+ string
+Optional
+searchform
+> +-+-+ Optional
+Optional
+> +-+-+ Hotel Brand: +-+-+ string

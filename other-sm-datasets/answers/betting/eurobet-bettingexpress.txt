@@ -1,0 +1,13 @@
+newclient.email	JoinForm.EMAIL
+newclient.City	JoinForm.CITY
+newclient.Name	JoinForm.FIRSTNAME
+newclient.Mobilenumber	JoinForm.WORKPHONENO
+newclient.Mobilenumber	JoinForm.HOMEPHONENO
+newclient.Postcode	JoinForm.ZIP
+newclient.Surname	JoinForm.LASTNAME
+newclient.Country	JoinForm.COUNTRY
+newclient.Pwd	JoinForm.PASSWORD
+newclient.RePwd	JoinForm.REENTERPASSWORD
+newclient.Address1	JoinForm.STREET
+newclient.PhoneNumber	JoinForm.WORKPHONENO
+newclient.PhoneNumber	JoinForm.HOMEPHONENO

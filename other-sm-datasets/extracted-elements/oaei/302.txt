@@ -1,0 +1,32 @@
+Resource
+> +-+-+ title +-+-+ string
+> +-+-+ publishedOn +-+-+ string
+> +-+-+ description +-+-+ string
+> +-+-+ keyword +-+-+ string
+> +-+-+ version +-+-+ string
+> +-+-+ author +-+-+ string
+> +-+-+ firstAuthor +-+-+ string
+> +-+-+ type +-+-+ string
+> +-+-+ relatedProject +-+-+ string
+> +-+-+ softCopyFormat +-+-+ string
+> +-+-+ softCopyURI +-+-+ string
+> +-+-+ softCopySize +-+-+ string
+> +-+-+ Publication
+Publication
+> +-+-+ editor +-+-+ string
+> +-+-+ abstract +-+-+ string
+> +-+-+ edition +-+-+ string
+> +-+-+ chapter +-+-+ string
+> +-+-+ series +-+-+ string
+> +-+-+ pages +-+-+ string
+> +-+-+ volume +-+-+ string
+> +-+-+ number +-+-+ string
+> +-+-+ note +-+-+ string
+> +-+-+ address +-+-+ string
+> +-+-+ organization +-+-+ string
+> +-+-+ journal +-+-+ string
+> +-+-+ booktitle +-+-+ string
+> +-+-+ school +-+-+ string
+> +-+-+ institution +-+-+ string
+> +-+-+ publisher +-+-+ string
+> +-+-+ counter +-+-+ string

@@ -1,0 +1,27 @@
+https://www.youbet.com/account/signupForm.asp?
+signup
+https://www.youbet.com/account/signupForm.asp?
+> +-+-+ signup
+signup
+> +-+-+ update +-+-+ string
+> +-+-+ Residential Address: (No PO Boxes) +-+-+ string
+> +-+-+ discoveryOther +-+-+ string
+> +-+-+ Birthday (mm-dd-yyyy) +-+-+ string
+> +-+-+ Yes +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ How did you hear about us?: +-+-+ string
+> +-+-+ Mailing Address: (If different) +-+-+ string
+> +-+-+ (name@domain.com) +-+-+ string
+> +-+-+ Phone Number: +-+-+ string
+> +-+-+ userExists +-+-+ string
+> +-+-+ CAFunding +-+-+ string
+> +-+-+ Desired Handle User ID: +-+-+ string
+> +-+-+ tafID +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Retype Password: +-+-+ string
+> +-+-+ Promotion Code: +-+-+ string
+> +-+-+ Zip Code: +-+-+ string
+> +-+-+ Social Security Number +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ State: +-+-+ string

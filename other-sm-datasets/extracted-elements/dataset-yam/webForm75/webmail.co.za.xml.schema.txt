@@ -1,0 +1,12 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/reg.webmail.co.za.html
+file:/C:/Documents and Settings/Eyal_ami/Desktop/reg.webmail.co.za.html
+> +-+-+ Next +-+-+ string
+> +-+-+ Just in case! If you forget your password, we will ask you a question to be sure that you are the owner of this mailbox. If we get the correct answer, your password will be reset (we cannot read your password, it is encrypted). +-+-+ string
+> +-+-+ Internet Access: +-+-+ string
+> +-+-+ @ +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Cancel +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ Mailbox Name and Password must start with a letter, and can only contain letters (a-z), numbers (0-9), dot (.) or hyphen (-). No space or special characters. +-+-+ string
+> +-+-+ Female   Male +-+-+ string

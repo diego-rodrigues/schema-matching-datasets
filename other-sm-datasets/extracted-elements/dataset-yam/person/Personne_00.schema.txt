@@ -1,0 +1,27 @@
+person
+person_name
+person
+> +-+-+ person_name
+person_date_of_birth
+person_name
+> +-+-+ person_date_of_birth
+person_email
+person_date_of_birth
+> +-+-+ person_email
+person_phone
+person_email
+> +-+-+ person_phone
+person_address
+person_phone
+> +-+-+ person_address
+street
+person_address
+> +-+-+ street
+city
+street
+> +-+-+ city
+country
+city
+> +-+-+ country
+country
+> +-+-+ postcode +-+-+ xsd:int

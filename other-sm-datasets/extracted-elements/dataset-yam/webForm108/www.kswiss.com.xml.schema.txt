@@ -1,0 +1,51 @@
+https://www.kswiss.com/cgi-bin/kswiss/store/ord/cart_cust_info.html
+search
+https://www.kswiss.com/cgi-bin/kswiss/store/ord/cart_cust_info.html
+> +-+-+ search
+search
+> +-+-+ If you have a coupon code for a special offer, please enter it here: +-+-+ string
+> +-+-+ Mailing Preferences +-+-+ string
+> +-+-+ * First Name * * Last Name * +-+-+ string
+> +-+-+ Billing Address (P.O. Box OK) City +-+-+ string
+> +-+-+ Billing Address (P.O. Box OK) City State Province Zip Postal Code +-+-+ string
+> +-+-+ Send me an e-mail copy of my receipt. +-+-+ string
+> +-+-+ (No P.O. Boxes! UPS will not deliver!) * * +-+-+ string
+> +-+-+ mv_click_Previous +-+-+ string
+> +-+-+ Billing Address (P.O. Box OK) +-+-+ string
+> +-+-+ (No P.O. Boxes! UPS will not deliver!) * +-+-+ string
+> +-+-+ (No P.O. Boxes! UPS will not deliver!) * * * City * * State Province * +-+-+ string
+> +-+-+ Your billing information must exactly match the address where your credit card bill is sent. Billing First Name Billing Last Name Billing Country +-+-+ string
+> +-+-+ * First Name * +-+-+ string
+> +-+-+ (No P.O. Boxes! UPS will not deliver!) * * * City * * State Province * * Zip Postal Code * +-+-+ string
+> +-+-+ mv_click_Next +-+-+ string
+> +-+-+ * +-+-+ string
+> +-+-+ Your billing information must exactly match the address where your credit card bill is sent. Billing First Name Billing Last Name +-+-+ string
+> +-+-+ Billing Address (P.O. Box OK) City State Province +-+-+ string
+> +-+-+ Your billing information must exactly match the address where your credit card bill is sent. Billing First Name +-+-+ string
+> +-+-+ * Billing Phone * +-+-+ string
+> +-+-+ If you have a K-Swiss gift certificate code, please enter it here: +-+-+ string
+> +-+-+ * Day Phone * +-+-+ string
+> +-+-+ (No P.O. Boxes! UPS will not deliver!) * * * City * +-+-+ string
+> +-+-+ mv_click_map +-+-+ string
+> +-+-+ * E-mail Address * +-+-+ string
+checkout
+> +-+-+ checkout
+checkout
+> +-+-+ mv_order_profile +-+-+ string
+> +-+-+ mv_failpage +-+-+ string
+> +-+-+ mv_doit +-+-+ string
+> +-+-+ mv_shipmode +-+-+ string
+> +-+-+ mv_successpage +-+-+ string
+> +-+-+ mv_session_id +-+-+ string
+> +-+-+ mv_nextpage +-+-+ string
+checkout
+https://www.kswiss.com/cgi-bin/kswiss/store/ord/cart_cust_info.html
+> +-+-+ checkout
+checkout
+> +-+-+ mv_order_profile +-+-+ string
+> +-+-+ mv_failpage +-+-+ string
+> +-+-+ mv_doit +-+-+ string
+> +-+-+ mv_shipmode +-+-+ string
+> +-+-+ mv_successpage +-+-+ string
+> +-+-+ mv_session_id +-+-+ string
+> +-+-+ mv_nextpage +-+-+ string

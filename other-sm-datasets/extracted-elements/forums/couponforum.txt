@@ -1,0 +1,33 @@
+profile
+profile
+> - username - string
+> - email - string
+> - new_password - string
+> - password_confirm - string
+> - icq - string
+> - aim - string
+> - msn - string
+> - yim - string
+> - website - string
+> - location - string
+> - occupation - string
+> - interests - string
+> - signature - string
+> - viewemail - string
+> - hideonline - string
+> - notifyreply - string
+> - notifypm - string
+> - popup_pm - string
+> - attachsig - string
+> - allowbbcode - string
+> - allowhtml - string
+> - allowsmilies - string
+> - language - string
+> - style - string
+> - timezone - string
+> - dateformat - string
+> - mode - string
+> - confr - string
+> - coppa - string
+> - submit - string
+> - reset - string

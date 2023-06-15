@@ -1,0 +1,12 @@
+JoinForm.REENTERPASSWORD	thisForm.txtInternetPasswordConfirmed
+JoinForm.PASSWORD	thisForm.txtInternetPassword
+JoinForm.STREET	thisForm.txtAddress1
+JoinForm.HOMEPHONENO	thisForm.txtDayPhone
+JoinForm.WORKPHONENO	thisForm.txtDayPhone
+JoinForm.COUNTRY	thisForm.cboCountry
+JoinForm.LASTNAME	thisForm.txtLastName
+JoinForm.FIRSTNAME	thisForm.txtFirstName
+JoinForm.CITY	thisForm.txtCity
+JoinForm.ZIP	thisForm.txtZipCode
+JoinForm.STATE	thisForm.txtState
+JoinForm.EMAIL	thisForm.txtEMail

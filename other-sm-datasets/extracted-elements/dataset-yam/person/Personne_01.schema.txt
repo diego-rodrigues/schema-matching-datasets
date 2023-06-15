@@ -1,0 +1,24 @@
+person
+firstName
+person
+> +-+-+ firstName
+lastName
+firstName
+> +-+-+ lastName
+birthDate
+lastName
+> +-+-+ birthDate
+birthPlace
+birthDate
+> +-+-+ birthPlace
+contact
+birthPlace
+> +-+-+ contact
+address
+contact
+> +-+-+ address
+phone
+address
+> +-+-+ phone
+phone
+> +-+-+ email +-+-+ xsd:string

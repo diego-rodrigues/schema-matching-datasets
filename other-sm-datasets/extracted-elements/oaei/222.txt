@@ -1,0 +1,104 @@
+Reference
+> +-+-+ Article
+> +-+-+ Monograph +-+-+ string
+> +-+-+ Collection +-+-+ string
+> +-+-+ Booklet
+> +-+-+ Chapter
+> +-+-+ InBook
+> +-+-+ InCollection
+> +-+-+ InProceedings
+> +-+-+ LectureNotes +-+-+ string
+> +-+-+ Manual
+> +-+-+ MastersThesis +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+> +-+-+ Misc
+> +-+-+ Proceedings
+> +-+-+ Report
+> +-+-+ Unpublished +-+-+ string
+> +-+-+ MotionPicture
+> +-+-+ key +-+-+ string
+> +-+-+ reviewed +-+-+ string
+> +-+-+ chapters +-+-+ string
+> +-+-+ parts +-+-+ string
+> +-+-+ annote +-+-+ string
+> +-+-+ contract +-+-+ string
+> +-+-+ edition +-+-+ string
+> +-+-+ humanCreator +-+-+ string
+> +-+-+ isPartOf +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ note +-+-+ string
+> +-+-+ publisher +-+-+ string
+> +-+-+ school +-+-+ string
+> +-+-+ series +-+-+ string
+> +-+-+ title +-+-+ string
+> +-+-+ type +-+-+ string
+> +-+-+ affiliation +-+-+ string
+> +-+-+ abstract +-+-+ string
+> +-+-+ contents +-+-+ string
+> +-+-+ copyright +-+-+ string
+> +-+-+ isbn +-+-+ string
+> +-+-+ issn +-+-+ string
+> +-+-+ keywords +-+-+ string
+> +-+-+ language +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ lccn +-+-+ string
+> +-+-+ mrNumber +-+-+ string
+> +-+-+ price +-+-+ string
+> +-+-+ size +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ chapter +-+-+ string
+> +-+-+ pages +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ number +-+-+ string
+> +-+-+ issue +-+-+ string
+> +-+-+ volume +-+-+ string
+Article
+> +-+-+ journal +-+-+ string
+Booklet
+> +-+-+ howPublished +-+-+ string
+Chapter
+> +-+-+ firstPublished +-+-+ string
+InBook
+> +-+-+ book +-+-+ string
+InCollection
+> +-+-+ collection +-+-+ string
+InProceedings
+> +-+-+ proceedings +-+-+ string
+Manual
+> +-+-+ organization +-+-+ string
+Misc
+> +-+-+ howPublished +-+-+ string
+Proceedings
+> +-+-+ communications +-+-+ string
+> +-+-+ event +-+-+ string
+> +-+-+ organization +-+-+ string
+Report
+> +-+-+ TechReport +-+-+ string
+> +-+-+ Deliverable +-+-+ string
+> +-+-+ institution +-+-+ string
+MotionPicture
+> +-+-+ directors +-+-+ string
+Journal
+> +-+-+ articles +-+-+ string
+> +-+-+ periodicity +-+-+ string
+> +-+-+ publisher +-+-+ string
+Conference
+> +-+-+ organizer +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ issue +-+-+ string
+Address
+> +-+-+ city +-+-+ string
+> +-+-+ state +-+-+ string
+> +-+-+ country +-+-+ string
+Institution
+> +-+-+ Publisher +-+-+ string
+> +-+-+ School +-+-+ string
+PageRange
+> +-+-+ startPage +-+-+ string
+> +-+-+ endPage +-+-+ string
+Date
+> +-+-+ year +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+ day +-+-+ string

@@ -1,0 +1,58 @@
+https://auth.ivillage.co.uk/uk/registrationPage1?channelType=ukivillage_channelData=ukivillage_destinationType=jive_destinationData=http%3A%2F%2Fivy%2Eivillage%2Eco%2Euk%2Fboards%2Fivy%2Fukiv%2Fstepfam%3Fpage%3D%2Fpost%2Ejsp%26mode%3Dnew%26forum%3D146
+findit
+https://auth.ivillage.co.uk/uk/registrationPage1?channelType=ukivillage_channelData=ukivillage_destinationType=jive_destinationData=http%3A%2F%2Fivy%2Eivillage%2Eco%2Euk%2Fboards%2Fivy%2Fukiv%2Fstepfam%3Fpage%3D%2Fpost%2Ejsp%26mode%3Dnew%26forum%3D146
+> +-+-+ findit
+MemberUKReg
+findit
+> +-+-+ MemberUKReg
+MemberUKReg
+> +-+-+ my home address +-+-+ string
+> +-+-+ channelType +-+-+ string
+> +-+-+ Password Hint* +-+-+ string
+> +-+-+ Mobile Phone Number* +-+-+ string
+> +-+-+ my email address +-+-+ string
+> +-+-+ pageError +-+-+ string
+> +-+-+ destinationType +-+-+ string
+> +-+-+ Parenting +-+-+ string
+> +-+-+ Enter Valid Email +-+-+ string
+> +-+-+ iVillage UK - events and news from iVillage UK +-+-+ string
+> +-+-+ News _ Entertainment +-+-+ string
+> +-+-+ submit +-+-+ string
+> +-+-+ Region* +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ Food _ Drink +-+-+ string
+> +-+-+ Pregnancy +-+-+ string
+> +-+-+ Postcode +-+-+ string
+> +-+-+ cmd +-+-+ string
+> +-+-+ defaultTagId +-+-+ string
+> +-+-+ Birth Date +-+-+ string
+> +-+-+ Horoscopes _ Astrology +-+-+ string
+> +-+-+ Retype Password +-+-+ string
+> +-+-+ trans_token +-+-+ string
+> +-+-+ City* +-+-+ string
+> +-+-+ First Name +-+-+ string
+> +-+-+ Competitions, Freebies _ Offers +-+-+ string
+> +-+-+ Save Password? +-+-+ string
+> +-+-+ Travel +-+-+ string
+> +-+-+ Health +-+-+ string
+> +-+-+ dParam1 +-+-+ string
+> +-+-+ page1Receiving +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ memberID +-+-+ string
+> +-+-+ channelData +-+-+ string
+> +-+-+ Relationships +-+-+ string
+> +-+-+ Choose a Password +-+-+ string
+> +-+-+ Street Address* +-+-+ string
+> +-+-+ Work _ Career +-+-+ string
+> +-+-+ channelCall +-+-+ string
+> +-+-+ Beauty +-+-+ string
+> +-+-+ skipMemberNameCheck +-+-+ string
+> +-+-+ overrideTagId +-+-+ string
+> +-+-+ contactPointer +-+-+ string
+> +-+-+ Diet _ Fitness +-+-+ string
+> +-+-+ Retype Valid Email +-+-+ string
+> +-+-+ destinationData +-+-+ string
+> +-+-+ Surname +-+-+ string
+findit
+> +-+-+ search +-+-+ string
+> +-+-+ Go! +-+-+ string

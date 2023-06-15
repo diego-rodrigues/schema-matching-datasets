@@ -1,0 +1,13 @@
+thisForm.cboCountry	Details.cboCountryAlt
+thisForm.txtState	Details.txtStateRegion
+thisForm.txtLastName	Details.txtSurname
+thisForm.txtEMail	Details.txtEmail
+thisForm.txtDayPhone	Details.txtTelephone
+thisForm.txtInternetPassword	Details.txtPassword
+thisForm.txtZipCode	Details.txtPostcode
+thisForm.txtZipCode	Details.txtQASPostcode
+thisForm.txtFirstName	Details.txtFirstName
+thisForm.txtAddress1	Details.txtAddress1
+thisForm.txtAddress2	Details.txtAddress2
+thisForm.txtCity	Details.txtCityTown
+thisForm.txtInternetPasswordConfirmed	Details.txtPasswordConfirm

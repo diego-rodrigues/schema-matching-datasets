@@ -1,0 +1,11 @@
+search
+search
+> +-+-+ Hotel Name +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ State +-+-+ string
+> +-+-+ * Country +-+-+ string
+> +-+-+ Chain +-+-+ string
+> +-+-+ Number of Adults: +-+-+ string
+> +-+-+ Number of Rooms: +-+-+ string
+> +-+-+ Date In: +-+-+ string
+> +-+-+ Date Out: +-+-+ string

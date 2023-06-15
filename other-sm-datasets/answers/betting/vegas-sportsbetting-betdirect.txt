@@ -1,0 +1,10 @@
+thisForm.cboCountry	fmRegister.country_code
+thisForm.txtLastName	fmRegister.tbLname
+thisForm.txtDayPhone	fmRegister.tbTel
+thisForm.txtEMail	fmRegister.tbEmail
+thisForm.txtInternetPassword	fmRegister.tbPassword1
+thisForm.txtZipCode	fmRegister.tbAddrPc
+thisForm.txtFirstName	fmRegister.tbFname
+thisForm.txtAddress1	fmRegister.tbAddr1
+thisForm.txtCity	fmRegister.tbAddrCty
+thisForm.txtInternetPasswordConfirmed	fmRegister.tbPassword2

@@ -1,0 +1,169 @@
+Resource
+> +-+-+ sqdsq
+> +-+-+ humanCreator +-+-+ string
+sqdsq
+> +-+-+ Text
+> +-+-+ MotionPicture
+> +-+-+ key +-+-+ string
+> +-+-+ reviewed +-+-+ string
+> +-+-+ parts +-+-+ string
+> +-+-+ annote +-+-+ string
+> +-+-+ zandsbh +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ zdsnsqdv +-+-+ string
+> +-+-+ publisher +-+-+ string
+> +-+-+ series +-+-+ string
+> +-+-+ dznbaln +-+-+ string
+> +-+-+ affiliation +-+-+ string
+> +-+-+ dsqndsz +-+-+ string
+> +-+-+ contents +-+-+ string
+> +-+-+ copyright +-+-+ string
+> +-+-+ zqdszh +-+-+ string
+> +-+-+ language +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ lccn +-+-+ string
+> +-+-+ mrNumber +-+-+ string
+> +-+-+ dsq +-+-+ string
+> +-+-+ size +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ number +-+-+ string
+> +-+-+ issue +-+-+ string
+> +-+-+ zsbdgz +-+-+ string
+Text
+> +-+-+ Book
+> +-+-+ qsdsnbsqd
+> +-+-+ Part
+> +-+-+ Academic
+> +-+-+ Misc
+> +-+-+ Report
+> +-+-+ chapters +-+-+ string
+JournalPart
+> +-+-+ Article +-+-+ string
+> +-+-+ Review +-+-+ string
+> +-+-+ Editorial +-+-+ string
+> +-+-+ Letter +-+-+ string
+> +-+-+ sxqsnbvsq +-+-+ string
+Part
+> +-+-+ JournalPart
+> +-+-+ Chapter
+> +-+-+ InBook
+> +-+-+ dcsqdcsqd
+> +-+-+ InProceedings
+> +-+-+ isPartOf +-+-+ string
+> +-+-+ dsazdjz +-+-+ string
+> +-+-+ pages +-+-+ string
+Book
+> +-+-+ Monograph +-+-+ string
+> +-+-+ Collection +-+-+ string
+> +-+-+ Proceedings
+> +-+-+ edition +-+-+ string
+> +-+-+ isbn +-+-+ string
+qsdsnbsqd
+> +-+-+ Booklet
+> +-+-+ LectureNotes
+> +-+-+ Manual
+> +-+-+ Unpublished +-+-+ string
+Booklet
+> +-+-+ howPublished +-+-+ string
+Chapter
+> +-+-+ firstPublished +-+-+ string
+> +-+-+ type +-+-+ string
+InBook
+> +-+-+ book +-+-+ string
+dcsqdcsqd
+> +-+-+ collection +-+-+ string
+InProceedings
+> +-+-+ proceedings +-+-+ string
+LectureNotes
+> +-+-+ school +-+-+ string
+Manual
+> +-+-+ UserGuide +-+-+ string
+> +-+-+ ZGKW1E +-+-+ string
+> +-+-+ edition +-+-+ string
+> +-+-+ organization +-+-+ string
+Academic
+> +-+-+ xsqlknk +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+> +-+-+ school +-+-+ string
+> +-+-+ type +-+-+ string
+Misc
+> +-+-+ howPublished +-+-+ string
+Proceedings
+> +-+-+ PrSGUs +-+-+ string
+> +-+-+ event +-+-+ string
+> +-+-+ organization +-+-+ string
+Report
+> +-+-+ EwQu
+> +-+-+ Deliverable
+> +-+-+ institution +-+-+ string
+EwQu
+> +-+-+ ProspectiveReport +-+-+ string
+> +-+-+ EvaluationReport +-+-+ string
+> +-+-+ SerialReport
+> +-+-+ PeriodicReport
+SerialReport
+> +-+-+ NormalizationReport
+> +-+-+ WorkReport
+NormalizationReport
+> +-+-+ ZVxsNo +-+-+ string
+> +-+-+ Recommendation +-+-+ string
+WorkReport
+> +-+-+ sdcsqhyz
+> +-+-+ TechnicalMemo +-+-+ string
+> +-+-+ ResearchReport +-+-+ string
+> +-+-+ LXtNU +-+-+ string
+sdcsqhyz
+> +-+-+ type +-+-+ string
+PeriodicReport
+> +-+-+ YearlyReport +-+-+ string
+Deliverable
+> +-+-+ FinalReport +-+-+ string
+MotionPicture
+> +-+-+ directors +-+-+ string
+Periodical
+> +-+-+ Journal
+> +-+-+ wxVRZcIXbbz +-+-+ string
+> +-+-+ contributions +-+-+ string
+> +-+-+ periodicity +-+-+ string
+> +-+-+ publisher +-+-+ string
+> +-+-+ issn +-+-+ string
+Journal
+> +-+-+ articles +-+-+ string
+ScientificMeeting
+> +-+-+ zqedzbx
+> +-+-+ Congress +-+-+ string
+> +-+-+ Symposium +-+-+ string
+> +-+-+ Workshop +-+-+ string
+> +-+-+ organizer +-+-+ string
+> +-+-+ issue +-+-+ string
+zqedzbx
+> +-+-+ date +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+Address
+> +-+-+ city +-+-+ string
+> +-+-+ zdnzadh +-+-+ string
+> +-+-+ country +-+-+ string
+Institution
+> +-+-+ YpNk +-+-+ string
+> +-+-+ Publisher +-+-+ string
+> +-+-+ HigherEducationInstitution
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ Institution
+HigherEducationInstitution
+> +-+-+ University +-+-+ string
+> +-+-+ School +-+-+ string
+> +-+-+ EngineerSchool +-+-+ string
+> +-+-+ Polytechnics +-+-+ string
+List
+> +-+-+ dsqdbz +-+-+ string
+PageRange
+> +-+-+ startPage +-+-+ string
+> +-+-+ endPage +-+-+ string
+Date
+> +-+-+ year +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+ day +-+-+ string
+Thing
+> +-+-+ qzd +-+-+ string

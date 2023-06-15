@@ -1,0 +1,12 @@
+JoinForm.txtPassword2	signup.password2
+JoinForm.txtFirstName	signup.first_name
+JoinForm.ddlFindUs	signup.prodDiscoverySource
+JoinForm.txtLastName	signup.last_name
+JoinForm.txtCity	signup.city
+JoinForm.txtAddress1	signup.address1
+JoinForm.txtAddress2	signup.maddress1
+sportsbook.PASSWORD	signup.password1
+JoinForm.ddlState	signup.state
+JoinForm.txtZip	signup.mzip
+JoinForm.txtZip	signup.zip
+JoinForm.txtEmail	signup.email

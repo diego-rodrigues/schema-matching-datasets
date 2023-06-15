@@ -1,0 +1,11 @@
+signupForm.REENTERPASSWORD	signup.password2
+signupForm.BIRTHDAY	signup.birthDay
+signupForm.STATE	signup.state
+signupForm.EMAIL	signup.email
+signupForm.CITY	signup.city
+signupForm.LASTNAME	signup.last_name
+signupForm.BIRTHMONTH	signup.birthMonth
+signupForm.PASSWORD	signup.password1
+signupForm.ZIP	signup.zip
+signupForm.BIRTHYEAR	signup.birthYear
+signupForm.FIRSTNAME	signup.first_name

@@ -1,0 +1,15 @@
+Reference.date <-> sqdsq.sqndsqgy
+Reference.Book.date <-> sqdsq.sqndsqgy
+Reference.Academic.date <-> sqdsq.sqndsqgy
+Reference.Report.date <-> sqdsq.sqndsqgy
+Reference.Part.Article.date <-> sqdsq.sqndsqgy
+Reference.title <-> sqdsq.dznbaln
+Reference.Book.title <-> sqdsq.dznbaln
+Reference.Informal.title <-> sqdsq.dznbaln
+Reference.Part.title <-> sqdsq.dznbaln
+Reference.Academic.title <-> sqdsq.dznbaln
+Reference.Report.title <-> sqdsq.dznbaln
+Reference.Informal.Manual.title <-> sqdsq.dznbaln
+Reference.Informal.Unpublished.title <-> sqdsq.dznbaln
+Reference <-> sqdsq
+Reference.Book.humanCreator <-> sqdsq.humanCreator

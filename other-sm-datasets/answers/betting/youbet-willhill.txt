@@ -1,0 +1,13 @@
+signup.email	Details.txtEmail
+signup.maddress1	Details.txtAddress2
+signup.password2	Details.txtPasswordConfirm
+signup.password1	Details.txtPassword
+signup.first_name	Details.txtFirstName
+signup.state	Details.txtStateRegion
+signup.mzip	Details.txtPostcode
+signup.mzip	Details.txtQASPostcode
+signup.last_name	Details.txtSurname
+signup.city	Details.txtCityTown
+signup.address1	Details.txtAddress1
+signup.zip	Details.txtPostcode
+signup.zip	Details.txtQASPostcode

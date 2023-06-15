@@ -1,0 +1,44 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/kaka.html
+IOS
+file:/C:/Documents and Settings/Eyal_ami/Desktop/kaka.html
+> +-+-+ IOS
+IOS
+> +-+-+ Title: +-+-+ string
+> +-+-+ .secdata +-+-+ string
+> +-+-+ promo +-+-+ string
+> +-+-+ .last +-+-+ string
+> +-+-+ Yahoo! ID: +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ ZIP Postal Code: +-+-+ string
+> +-+-+ Alternate Email: +-+-+ string
+> +-+-+ Industry: +-+-+ string
+> +-+-+ Interests (optional): +-+-+ string
+> +-+-+ Language _ Content: +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ .md5 +-+-+ string
+> +-+-+ .demog +-+-+ string
+> +-+-+ Specialization: +-+-+ string
+> +-+-+ Submit This Form +-+-+ string
+> +-+-+ Re-type Password: +-+-+ string
+> +-+-+ .v +-+-+ string
+> +-+-+ .save +-+-+ string
+> +-+-+ .ignore +-+-+ string
+> +-+-+ Security Question: +-+-+ string
+> +-+-+ .src +-+-+ string
+> +-+-+ .u +-+-+ string
+> +-+-+ Send me special offers, promotions, and research surveys from selected Yahoo! partners through Yahoo! Delivers. +-+-+ string
+> +-+-+ , +-+-+ string
+> +-+-+ .i +-+-+ string
+> +-+-+ .pwtoken +-+-+ string
+> +-+-+ Your Answer: +-+-+ string
+> +-+-+ .co +-+-+ string
+> +-+-+ .partner +-+-+ string
+> +-+-+ .regattempts +-+-+ string
+> +-+-+ Birthday: +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ .accept +-+-+ string
+> +-+-+ .fam +-+-+ string
+> +-+-+ .ym_signup +-+-+ string
+> +-+-+ Enter the word as it is shown in the box below. +-+-+ string
+> +-+-+ .done +-+-+ string

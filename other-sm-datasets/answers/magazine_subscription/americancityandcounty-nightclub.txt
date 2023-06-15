@@ -1,0 +1,14 @@
+form1.Submit	subscribe.Submit
+form1.City	subscribe.add_city
+form1.State	subscribe.add_state
+form1.Zip	subscribe.add_postal
+form1.COUNTRY	subscribe.add_country
+form1.Phone	subscribe.phone_voice
+form1.Fax	subscribe.phone_fax
+form1.EMail	subscribe.email_add
+form1.Title	subscribe.work_title
+form1.FREE_SUB	subcribe
+form1.FName	subscribe.name_first
+form1.LName	subscribe.name_last
+form1.Company	subscribe.company_name
+form1.Address1	subscribe.add_line1

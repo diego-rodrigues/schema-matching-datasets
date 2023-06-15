@@ -1,0 +1,12 @@
+signupForm.REENTERPASSWORD	apply.iPassword2
+signupForm.STATE	apply.iState
+signupForm.EMAIL	apply.iEmail
+signupForm.CITY	apply.iCity
+signupForm.LASTNAME	apply.iLastName
+signupForm.STREET	apply.iAddress
+signupForm.USERID	apply.iUsername
+signupForm.PASSWORD	apply.iPassword1
+signupForm.ZIP	apply.iPostalCode
+signupForm.COUNTRY	apply.iCountryID
+signupForm.FIRSTNAME	apply.iFirstName
+signupForm.HOMEPHONENO	apply.iPhoneNumber

@@ -1,0 +1,33 @@
+signup
+signup
+> - update - string
+> - userExists - string
+> - CAFunding - string
+> - discoveryOther - string
+> - tafID - string
+> - first_name - string
+> - last_name - string
+> - email - string
+> - address1 - string
+> - zip - string
+> - city - string
+> - state - string
+> - maddress1 - string
+> - mzip - string
+> - mcity - string
+> - mstate - string
+> - areaCode - string
+> - prefix - string
+> - suffix - string
+> - ssn1 - string
+> - ssn2 - string
+> - ssn3 - string
+> - birthMonth - string
+> - birthDay - string
+> - birthYear - string
+> - promoCode - string
+> - prodDiscoverySource - string
+> - handle - string
+> - password1 - string
+> - password2 - string
+> - ccFunding - string

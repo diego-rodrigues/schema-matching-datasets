@@ -1,0 +1,12 @@
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/Latest Closing Price;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Price;
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/Intraday Volume;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Intraday Volume;
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/Price Earnings per Share;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/P E Ratio (TTM);
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/Dividend Yield;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Yield;
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/Revenue ($Mil);finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Prior Year's Sales;
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/Price Book Value per Share;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Price Book (MRQ);
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/Market Capitalization ($Mil);finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Market Capitalization;
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/Net Income ($Mil);finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Prior Year's Net Income;
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/bonk/Industry;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Industry;
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/bonk/bonk/bonk/bonk/bonk/Report;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Display View;
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/bonk/bonk/bonk/bonk/bonk/bonk/Get Results;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Search;
+www.globeinvestor.com.xml.xsd/http://www.globeinvestor.com/v5/content/filters/bonk/bonk/bonk/bonk/bonk/bonk/bonk/Get Results;finance.aol.com.xml.xsd/http://finance.aol.com/usw/quotes/stockscreener/quote/Search;

@@ -1,0 +1,15 @@
+Details.txtPassword	apply.iPassword1
+Details.txtFirstName	apply.iFirstName
+Details.txtCityTown	apply.iCity
+Details.txtTelephone	apply.iPhoneNumber
+Details.txtSurname	apply.iLastName
+Details.txtPostcode	apply.iPostalCode
+Details.chkMail	apply.iNotify
+Details.cboTitle	apply.iTitle
+Details.cboCountryAlt	apply.iCountryID
+Details.txtStateRegion	apply.iState
+Details.txtUsername	apply.iUsername
+Details.txtQASPostcode	apply.iPostalCode
+Details.txtEmail	apply.iEmail
+Details.txtPasswordConfirm	apply.iPassword2
+Details.txtAddress1	apply.iAddress

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Schema name="ontology105" xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+	<ElementType name="Reference">
+		<element type="date"/>
+		<element type="title"/>
+		<element type="author"/>
+	</ElementType>
+	<ElementType name="Date">
+		<element type="year"/>
+		<element type="month"/>
+		<element type="day"/>
+	</ElementType>
+	<ElementType name="PersonList">
+		<element type="first"/>
+		<element type="rest"/>
+	</ElementType>
+	<ElementType name="List">
+		<element type="PersonList"/>
+	</ElementType>
+	<ElementType name="date" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="title" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="author" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="year" content="textOnly" dt:type="gYear">
+	</ElementType>
+	<ElementType name="month" content="textOnly" dt:type="gMonth">
+	</ElementType>
+	<ElementType name="day" content="textOnly" dt:type="gDay">
+	</ElementType>
+	<ElementType name="first" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="rest" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="PersonList" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+</Schema>

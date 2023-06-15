@@ -1,0 +1,10 @@
+ConversionRate
+FromCurrency
+ConversionRate
+> +-+-+ FromCurrency
+FromCurrency
+> +-+-+ ToCurrency +-+-+ tns:Currency
+
+> +-+-+ ConversionRateResponse +-+-+ string
+> +-+-+ ConversionRateResult +-+-+ s:double
+> +-+-+ double +-+-+ s:double

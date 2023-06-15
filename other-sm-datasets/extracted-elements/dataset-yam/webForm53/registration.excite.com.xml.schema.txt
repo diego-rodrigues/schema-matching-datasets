@@ -1,0 +1,66 @@
+http://registration.excite.com/excitereg/register.jsp?return_url=http%3A%2F%2Fe21.email.excite.com
+register
+http://registration.excite.com/excitereg/register.jsp?return_url=http%3A%2F%2Fe21.email.excite.com
+> +-+-+ register
+register
+> +-+-+ Computer _ Electronics +-+-+ string
+> +-+-+ Health _ Pharmaceuticals +-+-+ string
+> +-+-+ Food _ Beverage +-+-+ string
+> +-+-+ Entertainment _ Games +-+-+ string
+> +-+-+ Sports +-+-+ string
+> +-+-+ password_err +-+-+ string
+> +-+-+ Fashion _ Beauty +-+-+ string
+> +-+-+ Music +-+-+ string
+> +-+-+ Golf +-+-+ string
+> +-+-+ Primary Email +-+-+ string
+> +-+-+ Confirm Email Address +-+-+ string
+> +-+-+ Asian or Pacific Islander +-+-+ string
+> +-+-+ Career _ Education +-+-+ string
+> +-+-+ submitted +-+-+ string
+> +-+-+ Other +-+-+ string
+> +-+-+ Market Research +-+-+ string
+> +-+-+ Books Reading +-+-+ string
+> +-+-+ Excite may make the information that I supplied available to selected companies so that they may contact me regarding services that may be of interest to me. +-+-+ string
+> +-+-+ Street Address +-+-+ string
+> +-+-+ return_url +-+-+ string
+> +-+-+ Parenting Children +-+-+ string
+> +-+-+ Entertainment Celebrities +-+-+ string
+> +-+-+ Repeat Password +-+-+ string
+> +-+-+ Home _ Gardening +-+-+ string
+> +-+-+ White Caucasian +-+-+ string
+> +-+-+ Gender +-+-+ string
+> +-+-+ Business Opportunities +-+-+ string
+> +-+-+ Real Estate +-+-+ string
+> +-+-+ Last Name +-+-+ string
+> +-+-+ Technology +-+-+ string
+> +-+-+ First Name +-+-+ string
+> +-+-+ Travel +-+-+ string
+> +-+-+ Adventure Outdoors +-+-+ string
+> +-+-+ What is your household's total annual income for the most recent calendar year? (Please combine income for all household members.) +-+-+ string
+> +-+-+ Free Samples, Discounts _ Coupons +-+-+ string
+> +-+-+ Reminder Phrase +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Health +-+-+ string
+> +-+-+ None of the above +-+-+ string
+> +-+-+ Computers Technology +-+-+ string
+> +-+-+ Personal Finance +-+-+ string
+> +-+-+ coreg +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo +-+-+ string
+> +-+-+ Cooking +-+-+ string
+> +-+-+ jsok +-+-+ string
+> +-+-+ Birthdate +-+-+ string
+> +-+-+ I'd rather not say +-+-+ string
+> +-+-+ Financial Services +-+-+ string
+> +-+-+ Please notify me about new features, events and special offers about Excite services. +-+-+ string
+> +-+-+ scroll_y +-+-+ string
+> +-+-+ Black African-American +-+-+ string
+> +-+-+ zipcheck +-+-+ string
+> +-+-+ Member Name +-+-+ string
+> +-+-+ Shopping +-+-+ string
+> +-+-+ Enter the letters as they appear in the box above: +-+-+ string
+> +-+-+ Magazine _ Books +-+-+ string
+> +-+-+ American Indian Aleut or Eskimo I'd rather not say +-+-+ string
+> +-+-+ Gambling +-+-+ string
+> +-+-+ ZIP Code +-+-+ string
+> +-+-+ Autos +-+-+ string
+> +-+-+ img_name +-+-+ string

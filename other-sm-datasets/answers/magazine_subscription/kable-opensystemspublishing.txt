@@ -1,0 +1,8 @@
+newsubs.City	form1.City
+newsubs.StOrProv	form1.ST
+newsubs.PostalCode	form1.Zip
+newsubs.Country	form1.Country
+newsubs.Email	form1.EmailAddress
+newsubs.FirstName	form1.FirstName
+newsubs.LastName	form1.LastName
+newsubs.Company	form1.CompanyName

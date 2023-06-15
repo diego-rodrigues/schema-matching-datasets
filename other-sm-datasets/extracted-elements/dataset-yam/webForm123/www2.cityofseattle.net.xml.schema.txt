@@ -1,0 +1,31 @@
+http://www2.cityofseattle.net/util/forms/surfacewater/swq_form.htm
+frmSwqComplaint
+http://www2.cityofseattle.net/util/forms/surfacewater/swq_form.htm
+> +-+-+ frmSwqComplaint
+frmSwqComplaint
+> +-+-+ Please write a brief description of the alleged violation, and provide any additional comments about the violation that you wish to submit: +-+-+ string
+> +-+-+ Send +-+-+ string
+> +-+-+ Model +-+-+ string
+> +-+-+ Time observed +-+-+ string
+> +-+-+ City * +-+-+ string
+> +-+-+ Clear +-+-+ string
+> +-+-+ Address (cont.) +-+-+ string
+> +-+-+ Name of alleged violator Person or company (if known) +-+-+ string
+> +-+-+ Apartment # +-+-+ string
+> +-+-+ Any additional markings on vehicle such as business name, phone number, permit numbers, etc. (You may keep typing beyond the boundary of the box. Your entire entry will be forwarded with this message.) +-+-+ string
+> +-+-+ Street address * +-+-+ string
+> +-+-+ First name * +-+-+ string
+> +-+-+ Street address +-+-+ string
+> +-+-+ License plate number +-+-+ string
+> +-+-+ http://www2.cityofseattle.net/util/forms/surfacewater/SendSwqForm.asp +-+-+ string
+> +-+-+ Last name * +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ Color +-+-+ string
+> +-+-+ Phone (if known) +-+-+ string
+> +-+-+ Work Phone +-+-+ string
+> +-+-+ Zip Code * +-+-+ string
+> +-+-+ Home Phone * +-+-+ string
+> +-+-+ Date observed +-+-+ string
+> +-+-+ E-mail * +-+-+ string
+> +-+-+ State of vehicle registration +-+-+ string
+> +-+-+ Make +-+-+ string

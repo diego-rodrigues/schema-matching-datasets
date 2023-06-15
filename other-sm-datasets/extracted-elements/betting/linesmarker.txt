@@ -1,0 +1,26 @@
+signupForm
+signupForm
+> - RESELLERNAME - anyType
+> - LICENSEEID - anyType
+> - DONEURL - anyType
+> - SOURCEID - anyType
+> - BFINFO - anyType
+> - SITEID - anyType
+> - PROMOCODE - anyType
+> - ACCOUNTHANDLER - anyType
+> - USERID - anyType
+> - PASSWORD - anyType
+> - REENTERPASSWORD - anyType
+> - FIRSTNAME - anyType
+> - LASTNAME - anyType
+> - BIRTHMONTH - anyType
+> - BIRTHDAY - anyType
+> - BIRTHYEAR - anyType
+> - STREET - anyType
+> - CITY - anyType
+> - STATE - anyType
+> - ZIP - anyType
+> - COUNTRY - anyType
+> - HOMEPHONENO - anyType
+> - WORKPHONENO - anyType
+> - EMAIL - anyType

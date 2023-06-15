@@ -1,0 +1,53 @@
+http://ldbreg.lycos.com/cgi-bin/mayaRegister
+form1
+http://ldbreg.lycos.com/cgi-bin/mayaRegister
+> +-+-+ form1
+form1
+> +-+-+ Yes! Activate my free Jackpot Buddy so I never miss out on a huge jackpot again. +-+-+ string
+> +-+-+ Title: +-+-+ string
+> +-+-+ I Agree +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Street Address: +-+-+ string
+> +-+-+ Yes! Send me The Gamesville Times email newsletter featuring fun photos, member interviews _ more. +-+-+ string
+> +-+-+ Auto +-+-+ string
+> +-+-+ Music +-+-+ string
+> +-+-+ m_RC +-+-+ string
+> +-+-+ m_LANG +-+-+ string
+> +-+-+ Sports _ Outdoors +-+-+ string
+> +-+-+ State Province(Not USA): +-+-+ string
+> +-+-+ Business +-+-+ string
+> +-+-+ Fashion _ Lifestyles +-+-+ string
+> +-+-+ Yes - I am interested in receiving a FREE trial membership and other special offers from Matchmaker.com. +-+-+ string
+> +-+-+ Please inform me about special offers from select Lycos clients. +-+-+ string
+> +-+-+ m_DL_FREE +-+-+ string
+> +-+-+ Birthday: +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ Member Name: +-+-+ string
+> +-+-+ Movies,Theater _ TV +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Travel +-+-+ string
+> +-+-+ m_AL +-+-+ string
+> +-+-+ Financing _ Investing +-+-+ string
+> +-+-+ m_ES_45 +-+-+ string
+> +-+-+ m_ES_47 +-+-+ string
+> +-+-+ m_PR +-+-+ string
+> +-+-+ Small Business +-+-+ string
+> +-+-+ Cancel +-+-+ string
+> +-+-+ m_LRC +-+-+ string
+> +-+-+ m_ES_2 +-+-+ string
+> +-+-+ Z +-+-+ string
+> +-+-+ Health _ Wellness +-+-+ string
+> +-+-+ Shopping +-+-+ string
+> +-+-+ Education: +-+-+ string
+> +-+-+ Computers _ Technology +-+-+ string
+> +-+-+ m_CBERRURL +-+-+ string
+> +-+-+ Zip Postal Code: +-+-+ string
+> +-+-+ State(USA): +-+-+ string
+> +-+-+ Gambling _ Lottery +-+-+ string
+> +-+-+ Home _ Family +-+-+ string
+> +-+-+ m_CBURL +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Email Address: +-+-+ string
+> +-+-+ Repeat Password: +-+-+ string
+> +-+-+ Occupation: +-+-+ string

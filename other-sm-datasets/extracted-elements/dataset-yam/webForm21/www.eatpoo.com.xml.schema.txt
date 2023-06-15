@@ -1,0 +1,70 @@
+http://www.eatpoo.com/phpBB2/profile.php?mode=register_agreed=true
+http://www.eatpoo.com/phpBB2/profile.php?mode=register_agreed=true
+> +-+-+ Date format: The syntax used is identical to the PHP date() function. +-+-+ string
+> +-+-+ Always notify me of replies: Sends an e-mail when someone replies to a topic you have posted in. This can be changed whenever you post. +-+-+ string
+> +-+-+ E-mail address: * +-+-+ string
+> +-+-+ Always allow HTML: +-+-+ string
+> +-+-+ Password: * +-+-+ string
+> +-+-+ mode +-+-+ string
+> +-+-+ coppa +-+-+ string
+> +-+-+ Hide your online status: +-+-+ string
+> +-+-+ Timezone: +-+-+ string
+> +-+-+ Interests: +-+-+ string
+> +-+-+ Username: * +-+-+ string
+> +-+-+ MSN Messenger: +-+-+ string
+> +-+-+ Location: +-+-+ string
+> +-+-+ agreed +-+-+ string
+> +-+-+ ICQ Number: +-+-+ string
+> +-+-+ Confirm password: * +-+-+ string
+> +-+-+ Always show my e-mail address: +-+-+ string
+> +-+-+ Notify on new Private Message: +-+-+ string
+> +-+-+ Always enable Smilies: +-+-+ string
+> +-+-+ Board Style: +-+-+ string
+> +-+-+ This information will be publicly viewable +-+-+ string
+> +-+-+ Always allow BBCode: +-+-+ string
+> +-+-+ Yahoo Messenger: +-+-+ string
+> +-+-+ AIM Address: +-+-+ string
+> +-+-+ Website: +-+-+ string
+> +-+-+ Signature: This is a block of text that can be added to posts you make. There is a 2000 character limit HTML is OFF BBCode is ON Smilies are ON +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ Board Language: +-+-+ string
+> +-+-+ Pop up window on new Private Message: Some templates may open a new window to inform you when new private messages arrive. +-+-+ string
+http://www.eatpoo.com/phpBB2/profile.php
+> +-+-+ http://www.eatpoo.com/phpBB2/profile.php
+http://www.eatpoo.com/phpBB2/profile.php
+> +-+-+ Date format: The syntax used is identical to the PHP date() function. +-+-+ string
+> +-+-+ Always notify me of replies: Sends an e-mail when someone replies to a topic you have posted in. This can be changed whenever you post. +-+-+ string
+> +-+-+ E-mail address: * +-+-+ string
+> +-+-+ Always allow HTML: +-+-+ string
+> +-+-+ Password: * +-+-+ string
+> +-+-+ mode +-+-+ string
+> +-+-+ coppa +-+-+ string
+> +-+-+ Hide your online status: +-+-+ string
+> +-+-+ Timezone: +-+-+ string
+> +-+-+ Interests: +-+-+ string
+> +-+-+ Username: * +-+-+ string
+> +-+-+ MSN Messenger: +-+-+ string
+> +-+-+ Location: +-+-+ string
+> +-+-+ agreed +-+-+ string
+> +-+-+ ICQ Number: +-+-+ string
+> +-+-+ Confirm password: * +-+-+ string
+> +-+-+ Always show my e-mail address: +-+-+ string
+> +-+-+ Notify on new Private Message: +-+-+ string
+> +-+-+ Always enable Smilies: +-+-+ string
+> +-+-+ Board Style: +-+-+ string
+> +-+-+ This information will be publicly viewable +-+-+ string
+> +-+-+ Always allow BBCode: +-+-+ string
+> +-+-+ Yahoo Messenger: +-+-+ string
+> +-+-+ AIM Address: +-+-+ string
+> +-+-+ Website: +-+-+ string
+> +-+-+ Signature: This is a block of text that can be added to posts you make. There is a 2000 character limit HTML is OFF BBCode is ON Smilies are ON +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ Board Language: +-+-+ string
+> +-+-+ Pop up window on new Private Message: Some templates may open a new window to inform you when new private messages arrive. +-+-+ string
+> +-+-+ Always attach my signature: +-+-+ string
+> +-+-+ Reset +-+-+ string
+> +-+-+ Occupation: +-+-+ string
+http://www.eatpoo.com/phpBB2/profile.php?mode=register_agreed=true
+> +-+-+ Always attach my signature: +-+-+ string
+> +-+-+ Reset +-+-+ string
+> +-+-+ Occupation: +-+-+ string

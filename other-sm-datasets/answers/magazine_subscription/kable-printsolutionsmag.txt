@@ -1,0 +1,13 @@
+newsubs.Submit	regform.submit
+newsubs.City	regform.City
+newsubs.StOrProv	regform.State
+newsubs.PostalCode	regform.Zip
+newsubs.Country	regform.Country
+newsubs.Email	regform.Email
+newsubs.FirstName	regform.First_Name
+newsubs.LastName	regform.Last_Name
+newsubs.Reset	regform.reset
+newsubs.Company	regform.Company_Name
+newsubs.Address1	regform.Address
+newsubs.CCNum	regform.Credit_Card_Number
+newsubs.CCExpYear	regform.Expiration_Date

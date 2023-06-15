@@ -1,0 +1,7 @@
+searchForm	adv_search_form
+searchForm.shortAuthor	adv_search_form.author
+searchForm.provider	adv_search_form.publisher
+searchForm.shortTitle	adv_search_form.title
+searchForm.selectedSubject	adv_search_form.class
+searchForm.search	adv_search_form.StartSearch
+searchForm.keyword	adv_search_form.kw

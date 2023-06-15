@@ -1,0 +1,22 @@
+http://webmail.kaxy.com/cgi-bin/user/join.cgi
+http://webmail.kaxy.com/cgi-bin/user/join.cgi
+> +-+-+ Please enter text from image: +-+-+ string
+> +-+-+ Confirm Email Address: +-+-+ string
+> +-+-+ Confirm Password: +-+-+ string
+> +-+-+ signup_key +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ ZIP Postal Code: +-+-+ string
+> +-+-+ Next +-+-+ string
+> +-+-+ t +-+-+ string
+> +-+-+ Street Address: +-+-+ string
+> +-+-+ page +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Username: +-+-+ string
+> +-+-+ Email Address: +-+-+ string
+> +-+-+ domain +-+-+ string
+> +-+-+ error_page +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ do +-+-+ string
+> +-+-+ State Province: +-+-+ string
+> +-+-+ City: +-+-+ string

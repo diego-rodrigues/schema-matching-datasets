@@ -1,0 +1,21 @@
+Airfares-form
+Dept
+Airfares-form
+> +-+-+ Dept
+Dest
+Dept
+> +-+-+ Dest
+DepartDate
+Dest
+> +-+-+ DepartDate
+ReturnDate
+DepartDate
+> +-+-+ ReturnDate
+name
+ReturnDate
+> +-+-+ name
+customeremail
+name
+> +-+-+ customeremail
+customeremail
+> +-+-+ phone +-+-+ string

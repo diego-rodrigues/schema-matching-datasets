@@ -1,0 +1,16 @@
+Details.txtPassword	SignupForm.passwordEntry
+Details.txtPassword	LoginVerify.Password
+Details.txtFirstName	SignupForm.nameFirstEntry
+Details.txtCityTown	SignupForm.cityEntry
+Details.txtTelephone	SignupForm.homePhoneEntry
+Details.txtTelephone	SignupForm.businessPhoneEntry
+Details.txtSurname	SignupForm.nameLastEntry
+Details.txtPostcode	SignupForm.zipEntry
+Details.cboCountryAlt	SignupForm.countryEntry
+Details.txtStateRegion	SignupForm.stateEntry
+Details.txtUsername	LoginVerify.CustomerID
+Details.txtEmail	SignupForm.emailEntry
+Details.txtQASPostcode	SignupForm.zipEntry
+Details.txtPasswordConfirm	SignupForm.ConfirmPasswordEntry
+Details.txtAddress1	SignupForm.address1Entry
+Details.txtAddress2	SignupForm.address2Entry

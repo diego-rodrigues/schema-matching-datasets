@@ -1,0 +1,124 @@
+Référence
+> +-+-+ Livre
+> +-+-+ Informel
+> +-+-+ Partie
+> +-+-+ Mémoire
+> +-+-+ Divers
+> +-+-+ Raport
+> +-+-+ Film
+> +-+-+ Clé +-+-+ string
+> +-+-+ Évalué +-+-+ string
+> +-+-+ chapitres +-+-+ string
+> +-+-+ parties +-+-+ string
+> +-+-+ annote +-+-+ string
+> +-+-+ contrat +-+-+ string
+> +-+-+ créateur +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ note +-+-+ string
+> +-+-+ éditeur +-+-+ string
+> +-+-+ série +-+-+ string
+> +-+-+ titre +-+-+ string
+> +-+-+ affiliation +-+-+ string
+> +-+-+ résumé +-+-+ string
+> +-+-+ contenu +-+-+ string
+> +-+-+ droits +-+-+ string
+> +-+-+ isbn +-+-+ string
+> +-+-+ issn +-+-+ string
+> +-+-+ mots-clé +-+-+ string
+> +-+-+ langage +-+-+ string
+> +-+-+ localisation +-+-+ string
+> +-+-+ lccn +-+-+ string
+> +-+-+ noMR +-+-+ string
+> +-+-+ prix +-+-+ string
+> +-+-+ taille +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ numéroOuVolume +-+-+ string
+> +-+-+ numéro +-+-+ string
+> +-+-+ sortie +-+-+ string
+> +-+-+ volume +-+-+ string
+Article
+> +-+-+ journal +-+-+ string
+Partie
+> +-+-+ Article
+> +-+-+ Chapitre
+> +-+-+ ExtraitLivre
+> +-+-+ ExtraitCompilation
+> +-+-+ ExtraitActes
+> +-+-+ partieDe +-+-+ string
+> +-+-+ chapitre +-+-+ string
+> +-+-+ pages +-+-+ string
+Livre
+> +-+-+ Monographie +-+-+ string
+> +-+-+ Compilation +-+-+ string
+> +-+-+ Actes
+> +-+-+ édition +-+-+ string
+Informel
+> +-+-+ Livret
+> +-+-+ Polycopié
+> +-+-+ Manuel
+> +-+-+ NonPublié +-+-+ string
+Livret
+> +-+-+ modeDePublication +-+-+ string
+Chapitre
+> +-+-+ dateDePublication +-+-+ string
+> +-+-+ catégorie +-+-+ string
+ExtraitLivre
+> +-+-+ livre +-+-+ string
+ExtraitCompilation
+> +-+-+ collection +-+-+ string
+ExtraitActes
+> +-+-+ actes +-+-+ string
+Polycopié
+> +-+-+ institution +-+-+ string
+Manuel
+> +-+-+ édition +-+-+ string
+> +-+-+ organisation +-+-+ string
+Mémoire
+> +-+-+ MémoireDeMastère +-+-+ string
+> +-+-+ MémoireDeDoctorat +-+-+ string
+> +-+-+ institution +-+-+ string
+> +-+-+ catégorie +-+-+ string
+Divers
+> +-+-+ modeDePublication +-+-+ string
+Actes
+> +-+-+ communications +-+-+ string
+> +-+-+ évènement +-+-+ string
+> +-+-+ organisation +-+-+ string
+Raport
+> +-+-+ RaportTechnique
+> +-+-+ Livrable +-+-+ string
+> +-+-+ institution +-+-+ string
+RaportTechnique
+> +-+-+ catégorie +-+-+ string
+Film
+> +-+-+ réalisateurs +-+-+ string
+Revue
+> +-+-+ articles +-+-+ string
+> +-+-+ périodicité +-+-+ string
+> +-+-+ éditeur +-+-+ string
+Conférence
+> +-+-+ organisateur +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ localisation +-+-+ string
+> +-+-+ numéroOuVolume +-+-+ string
+> +-+-+ sortie +-+-+ string
+Adresse
+> +-+-+ ville +-+-+ string
+> +-+-+ état +-+-+ string
+> +-+-+ pays +-+-+ string
+Institution
+> +-+-+ Éditeur +-+-+ string
+> +-+-+ Université +-+-+ string
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ Institution
+List
+> +-+-+ Personnes +-+-+ string
+IntervalleDePages
+> +-+-+ pageDébut +-+-+ string
+> +-+-+ pageFin +-+-+ string
+Date
+> +-+-+ année +-+-+ string
+> +-+-+ mois +-+-+ string
+> +-+-+ jour +-+-+ string
+Thing
+> +-+-+ adresse +-+-+ string

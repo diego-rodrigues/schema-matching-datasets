@@ -1,0 +1,25 @@
+http://linesmaker.com/join.php
+http://linesmaker.com/join.php
+> +-+-+ ACCOUNTHANDLER +-+-+ string
+> +-+-+ Street: +-+-+ string
+> +-+-+ RESELLERNAME +-+-+ string
+> +-+-+ LICENSEEID +-+-+ string
+> +-+-+ Confirm: +-+-+ string
+> +-+-+ Home Phone: +-+-+ string
+> +-+-+ ZIP Postal: +-+-+ string
+> +-+-+ Birth Date: +-+-+ string
+> +-+-+ DONEURL +-+-+ string
+> +-+-+ SOURCEID +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ BFINFO +-+-+ string
+> +-+-+ CREATE ACCOUNT +-+-+ string
+> +-+-+ Email: +-+-+ string
+> +-+-+ PROMOCODE +-+-+ string
+> +-+-+ User Name: +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ SITEID +-+-+ string
+> +-+-+ State Prov: +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ Daytime Phone: +-+-+ string
+> +-+-+ City: +-+-+ string

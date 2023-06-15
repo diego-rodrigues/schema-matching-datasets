@@ -1,0 +1,12 @@
+Resource
+Resource.Publication
+Resource.Publication.Article
+Resource.Publication.Book
+Resource.Publication.InBook
+Resource.Publication.InCollection
+Resource.Publication.InProceedings
+Resource.Publication.MastersThesis
+Resource.Publication.Misc
+Resource.Publication.PhdThesis
+Resource.Publication.Proceedings
+Resource.Publication.TechReport

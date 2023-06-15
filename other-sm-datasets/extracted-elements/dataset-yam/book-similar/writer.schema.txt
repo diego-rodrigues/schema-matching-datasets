@@ -1,0 +1,9 @@
+writer
+date_of_birth
+writer
+> +-+-+ date_of_birth
+named
+date_of_birth
+> +-+-+ named
+named
+> +-+-+ country_code +-+-+ xsd:string

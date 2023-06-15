@@ -1,0 +1,19 @@
+http://www.bet-at-home.com/en/register.asp
+Registerform
+http://www.bet-at-home.com/en/register.asp
+> +-+-+ Registerform
+Registerform
+> +-+-+ FORM_submitType +-+-+ string
+> +-+-+ first name: +-+-+ string
+> +-+-+ email: +-+-+ string
+> +-+-+ street, no.: +-+-+ string
+> +-+-+ post code, town: +-+-+ string
+> +-+-+ register now! +-+-+ string
+> +-+-+ telefax (optional): +-+-+ string
+> +-+-+ date of birth (dd mm yyyy): +-+-+ string
+> +-+-+ telephone (optional): +-+-+ string
+> +-+-+ title: +-+-+ string
+> +-+-+ betting currency: +-+-+ string
+> +-+-+ other title (optional): +-+-+ string
+> +-+-+ country: +-+-+ string
+> +-+-+ surname: +-+-+ string

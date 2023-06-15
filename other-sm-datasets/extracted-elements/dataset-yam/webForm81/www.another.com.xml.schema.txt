@@ -1,0 +1,23 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/another_com - Welcome Register__.htm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/another_com - Welcome Register__.htm
+> +-+-+ redirect_page +-+-+ string
+> +-+-+ retype password +-+-+ string
+> +-+-+ mobile phone number +-+-+ string
+> +-+-+ security question +-+-+ string
+> +-+-+ into this box  +-+-+ string
+> +-+-+ forename +-+-+ string
+> +-+-+ heard_about +-+-+ string
+> +-+-+ security answer +-+-+ string
+> +-+-+ date of birth +-+-+ string
+> +-+-+ surname +-+-+ string
+> +-+-+ lastpage +-+-+ string
+> +-+-+ ENTER +-+-+ string
+> +-+-+ user_class +-+-+ string
+> +-+-+ password +-+-+ string
+> +-+-+ country +-+-+ string
+> +-+-+ desired username +-+-+ string
+> +-+-+ see our Terms and Conditions +-+-+ string
+> +-+-+ other email address +-+-+ string
+> +-+-+ put their another.com email address here +-+-+ string
+> +-+-+ gender +-+-+ string
+> +-+-+ postal code +-+-+ string

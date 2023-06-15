@@ -1,0 +1,10 @@
+Preview.QuickOrder1btnSubmit	qualform.Submit
+Preview.QuickOrder1addresstxtCity	qualform.CITY
+Preview.QuickOrder1addresscboState	qualform.STATE
+Preview.QuickOrder1addresstxtPostalCode	qualform.ZIPCODE
+Preview.QuickOrder1addresscboCountry	qualform.COUNTRY
+Preview.QuickOrder1addresstxtEmail	qualform.EMAIL_ADDRESS
+Preview.QuickOrder1addresstxtFirstName	qualform.FNAME
+Preview.QuickOrder1addresstxtLastName	qualform.LNAME
+Preview.QuickOrder1addresstxtAddress1	qualform.ADDRESS1
+Preview.QuickOrder1addresstxtAddress2	qualform.ADDRESS2

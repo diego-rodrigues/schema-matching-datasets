@@ -1,0 +1,25 @@
+http://screen.morningstar.com/StockSelector.html?wmcsection=toolsssel
+StockCriteria
+http://screen.morningstar.com/StockSelector.html?wmcsection=toolsssel
+> +-+-+ StockCriteria
+StockCriteria
+> +-+-+ P E-to-Earnings Growth Ratio (PEG) less than or equal to: +-+-+ string
+> +-+-+ 1-year total return: +-+-+ string
+LoadQuestion
+> +-+-+ LoadQuestion
+LoadQuestion
+> +-+-+ dumi +-+-+ string
+StockCriteria
+> +-+-+ Morningstar stock type: +-+-+ string
+> +-+-+ Minimum market capitalization: +-+-+ string
+> +-+-+ 3-month total return: +-+-+ string
+> +-+-+ 5-year forecasted earnings growth greater than or equal to: +-+-+ string
+> +-+-+ 1-month total return: +-+-+ string
+> +-+-+ Dividend yield greater than or equal to: +-+-+ string
+> +-+-+ Morningstar equity style box: +-+-+ string
+> +-+-+ Stock sector: +-+-+ string
+> +-+-+ 5-year total return: +-+-+ string
+> +-+-+ Trailing P E ratio less than or equal to: +-+-+ string
+> +-+-+ 3-year revenue growth greater than or equal to: +-+-+ string
+> +-+-+ Return on equity (ROE) greater than or equal to: +-+-+ string
+> +-+-+ YTD total return: +-+-+ string

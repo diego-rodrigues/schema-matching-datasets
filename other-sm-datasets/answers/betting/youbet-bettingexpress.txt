@@ -1,0 +1,10 @@
+signup.email	JoinForm.EMAIL
+signup.password2	JoinForm.REENTERPASSWORD
+signup.password1	JoinForm.PASSWORD
+signup.first_name	JoinForm.FIRSTNAME
+signup.state	JoinForm.STATE
+signup.mzip	JoinForm.ZIP
+signup.city	JoinForm.CITY
+signup.last_name	JoinForm.LASTNAME
+signup.address1	JoinForm.STREET
+signup.zip	JoinForm.ZIP

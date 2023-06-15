@@ -1,0 +1,24 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Match_com Millions of possibilities to meet your match.htm
+matchMainForm
+file:/C:/Documents and Settings/Eyal_ami/Desktop/Match_com Millions of possibilities to meet your match.htm
+> +-+-+ matchMainForm
+matchMainForm
+> +-+-+ Select a start page +-+-+ string
+> +-+-+ Birth date +-+-+ string
+> +-+-+ Continue +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Choose a password +-+-+ string
+> +-+-+ __FORMQUERYSTRING +-+-+ string
+> +-+-+ Go +-+-+ string
+> +-+-+ ControlRegistrationLoginContainer:ControlRegistrationContainer:ControlRegistration:countryHistory +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ Choose a username +-+-+ string
+> +-+-+ seeking a +-+-+ string
+> +-+-+ I am a +-+-+ string
+> +-+-+ __VIEWSTATE +-+-+ string
+> +-+-+ Email +-+-+ string
+> +-+-+ __FORMPOSTBACK +-+-+ string
+> +-+-+ Confirm password +-+-+ string
+> +-+-+ Username +-+-+ string
+> +-+-+ Zip Postal code +-+-+ string
+> +-+-+ ControlRegistrationLoginContainer:ControlRegistrationContainer:ControlRegistration:stateHistory +-+-+ string

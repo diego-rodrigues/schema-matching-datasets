@@ -1,0 +1,28 @@
+http://search.abcnews.go.com/query.html?col=_ht=0_qp=_qs=_qc=_pw=100%25_ws=0_la=_si=1_fs=_qt=_ex=_rq=1_oq=_qm=0_ql=a_st=1_nh=10_lk=1_rf=1
+seek1
+http://search.abcnews.go.com/query.html?col=_ht=0_qp=_qs=_qc=_pw=100%25_ws=0_la=_si=1_fs=_qt=_ex=_rq=1_oq=_qm=0_ql=a_st=1_nh=10_lk=1_rf=1
+> +-+-+ seek1
+seek1
+> +-+-+ rq +-+-+ string
+> +-+-+ qm +-+-+ string
+> +-+-+ col +-+-+ string
+> +-+-+ qp +-+-+ string
+> +-+-+ Show individual word scores +-+-+ string
+> +-+-+ ql +-+-+ string
+> +-+-+ ht +-+-+ string
+> +-+-+ on or after +-+-+ string
+> +-+-+ ct +-+-+ string
+> +-+-+ , +-+-+ string
+> +-+-+ and show +-+-+ string
+> +-+-+  seek  +-+-+ string
+> +-+-+ and +-+-+ string
+> +-+-+ qc +-+-+ string
+> +-+-+ and on or before +-+-+ string
+> +-+-+ Anytime +-+-+ string
+> +-+-+ st +-+-+ string
+> +-+-+ pw +-+-+ string
+> +-+-+ for documents that +-+-+ string
+> +-+-+ qs +-+-+ string
+> +-+-+ qt +-+-+ string
+http://search.abcnews.go.com/query.html?col=_ht=0_qp=_qs=_qc=_pw=100%25_ws=0_la=_si=1_fs=_qt=_ex=_rq=1_oq=_qm=0_ql=a_st=1_nh=10_lk=1_rf=1
+> +-+-+ Untitled +-+-+ string

@@ -1,0 +1,9 @@
+Preview.QuickOrder1btnSubmit	search._submit
+Preview.QuickOrder1addresstxtCity	search.city
+Preview.QuickOrder1addresscboState	search.state
+Preview.QuickOrder1addresstxtPostalCode	search.zip
+Preview.QuickOrder1addresscboCountry	search.country
+Preview.QuickOrder1addresstxtEmail	search.email
+Preview.QuickOrder1addresstxtFirstName	search.first
+Preview.QuickOrder1addresstxtLastName	search.last
+Preview.QuickOrder1addresstxtAddress1	search.street

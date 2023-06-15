@@ -1,0 +1,23 @@
+file:/C:/Documents and Settings/Eyal_ami/Desktop/www.boardermail.com.html
+signupform
+file:/C:/Documents and Settings/Eyal_ami/Desktop/www.boardermail.com.html
+> +-+-+ signupform
+signupform
+> +-+-+ ** Last name: +-+-+ string
+> +-+-+ Education: +-+-+ string
+> +-+-+ ** Confirm Password: +-+-+ string
+> +-+-+ Year of Birth: +-+-+ string
+> +-+-+ ** Password : +-+-+ string
+> +-+-+ Annual Income Range (US$): +-+-+ string
+> +-+-+ **Alternative Contact Address: +-+-+ string
+> +-+-+ **Hint Answer: +-+-+ string
+> +-+-+ **Hint Question : +-+-+ string
+> +-+-+ mail_language +-+-+ string
+> +-+-+ Household size: +-+-+ string
+> +-+-+ Occupation : +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ login +-+-+ string
+> +-+-+ Sign Me Up +-+-+ string
+> +-+-+ ** Country: +-+-+ string
+> +-+-+ ** First name: +-+-+ string
+> +-+-+ Reset +-+-+ string

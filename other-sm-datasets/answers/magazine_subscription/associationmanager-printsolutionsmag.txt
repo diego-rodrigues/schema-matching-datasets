@@ -1,0 +1,14 @@
+form.AssociationManagersubscriptionform._submit	regform.submit
+form.AssociationManagersubscriptionform._City	regform.City
+form.AssociationManagersubscriptionform._Postcode	regform.Zip
+form.AssociationManagersubscriptionform._Telephone	regform.Phone
+form.AssociationManagersubscriptionform._Fax	regform.Fax
+form.AssociationManagersubscriptionform._Email	regform.Email
+form.AssociationManagersubscriptionform._Title	regform.Title
+form.AssociationManagersubscriptionform._Name	regform.First_Name
+form.AssociationManagersubscriptionform._Company_Name	regform.Company_Name
+form	regform
+form.AssociationManagersubscriptionform._Address	regform.Address
+form.AssociationManagersubscriptionform._card_no	regform.Credit_Card_Number
+form.AssociationManagersubscriptionform._payment	regform.Payment
+form.AssociationManagersubscriptionform._Position	regform.jobfunc1

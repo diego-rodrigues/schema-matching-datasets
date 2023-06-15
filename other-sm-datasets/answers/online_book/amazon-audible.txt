@@ -1,0 +1,7 @@
+search	searchForm
+search.field-author	searchForm.shortAuthor
+search.field-publisher	searchForm.provider
+search.field-title	searchForm.shortTitle
+search.field-subject	searchForm.selectedSubject
+search.SearchNow	searchForm.search
+search.field-keywords	searchForm.keyword

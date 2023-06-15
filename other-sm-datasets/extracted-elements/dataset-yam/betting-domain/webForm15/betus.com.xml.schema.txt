@@ -1,0 +1,26 @@
+http://betus.com/english/join.asp
+SignupForm
+http://betus.com/english/join.asp
+> +-+-+ SignupForm
+SignupForm
+> +-+-+ Zip Postal Code: +-+-+ string
+> +-+-+ Were you referred by anyone? If so, enter their account number here . +-+-+ string
+> +-+-+ Comments: +-+-+ string
+> +-+-+ ref_sid +-+-+ string
+> +-+-+ Address2: +-+-+ string
+> +-+-+ Confirm Password: +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Phone: +-+-+ string
+> +-+-+ Where did you hear about us? +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Email: +-+-+ string
+> +-+-+ Please Enter Your BetUS Account Password +-+-+ string
+> +-+-+ Business Phone: +-+-+ string
+> +-+-+ Address1: +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ ref_temail +-+-+ string
+> +-+-+ Please Enter Your BetUS Account Number +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ Fax: +-+-+ string
+> +-+-+ State Province: +-+-+ string
+> +-+-+ City: +-+-+ string

@@ -1,0 +1,12 @@
+thisForm.cboCountry	JoinForm.COUNTRY
+thisForm.txtState	JoinForm.STATE
+thisForm.txtLastName	JoinForm.LASTNAME
+thisForm.txtEMail	JoinForm.EMAIL
+thisForm.txtDayPhone	JoinForm.WORKPHONENO
+thisForm.txtDayPhone	JoinForm.HOMEPHONENO
+thisForm.txtZipCode	JoinForm.ZIP
+thisForm.txtInternetPassword	JoinForm.PASSWORD
+thisForm.txtFirstName	JoinForm.FIRSTNAME
+thisForm.txtAddress1	JoinForm.STREET
+thisForm.txtCity	JoinForm.CITY
+thisForm.txtInternetPasswordConfirmed	JoinForm.REENTERPASSWORD

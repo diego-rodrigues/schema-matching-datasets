@@ -1,0 +1,17 @@
+registerpage.month	registerpage.month
+register.password	register.password
+register.email	register.email
+register.optionsshowemail	register.optionsshowemail
+register.username	register.username
+register.dst	register.dst
+register.CompleteRegistration	register.CompleteRegistration
+register.agree	register.agree
+registerpage.year	registerpage.year
+register.passwordconfirm	register.passwordconfirm
+register.timezoneoffset	register.timezoneoffset
+registerpage1.Register	registerpage2.Register
+registerpage.day	registerpage.day
+register.optionsadminemail	register.optionsadminemail
+register.Reset	register.Reset
+registerpage.Proceed	registerpage.Proceed
+register.emailconfirm	register.emailconfirm

@@ -1,0 +1,10 @@
+apply.iPostalCode	signup.zip
+apply.iState	signup.state
+apply.iEmail	signup.email
+apply.iLastName	signup.last_name
+apply.iCity	signup.city
+apply.iFirstName	signup.first_name
+apply.iPassword1	signup.password1
+apply.iPassword2	signup.password2
+apply.iAddress	signup.address1
+apply.iReferrer	signup.prodDiscoverySource

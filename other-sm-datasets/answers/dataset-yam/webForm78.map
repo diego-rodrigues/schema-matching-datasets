@@ -1,0 +1,8 @@
+www.amazon.com.xml.xsd/http://www.amazon.com/exec/obidos/ats-query-page/ref=b_bh_1_a_2/Author:;www.powells.com.xml.xsd/http://www.powells.com/search.html/search/Author;
+www.amazon.com.xml.xsd/http://www.amazon.com/exec/obidos/ats-query-page/ref=b_bh_1_a_2/Title:;www.powells.com.xml.xsd/http://www.powells.com/search.html/search/Title;
+www.amazon.com.xml.xsd/http://www.amazon.com/exec/obidos/ats-query-page/ref=b_bh_1_a_2/Subject:;www.powells.com.xml.xsd/http://www.powells.com/search.html/search/Section;
+www.amazon.com.xml.xsd/http://www.amazon.com/exec/obidos/ats-query-page/ref=b_bh_1_a_2/ISBN:;www.powells.com.xml.xsd/http://www.powells.com/search.html/search/ISBN;
+www.amazon.com.xml.xsd/http://www.amazon.com/exec/obidos/ats-query-page/ref=b_bh_1_a_2/Publisher:;www.powells.com.xml.xsd/http://www.powells.com/search.html/search/Publisher;
+www.amazon.com.xml.xsd/http://www.amazon.com/exec/obidos/ats-query-page/ref=b_bh_1_a_2/Format:;www.powells.com.xml.xsd/http://www.powells.com/search.html/search/Binding Type;
+www.amazon.com.xml.xsd/http://www.amazon.com/exec/obidos/ats-query-page/ref=b_bh_1_a_2/Sort results by:;www.powells.com.xml.xsd/http://www.powells.com/search.html/search/Sort By;
+www.amazon.com.xml.xsd/http://www.amazon.com/exec/obidos/ats-query-page/ref=b_bh_1_a_2/Search;www.powells.com.xml.xsd/http://www.powells.com/search.html/search/Start Search;

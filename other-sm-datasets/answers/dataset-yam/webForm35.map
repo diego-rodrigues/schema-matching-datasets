@@ -1,0 +1,9 @@
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Username:;www.cashette.com.xml.xsd/http://www.cashette.com/myCashette/createNewUser.jsp/CreateNewUserForm/Create Cashette ID:;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Password:;www.cashette.com.xml.xsd/http://www.cashette.com/myCashette/createNewUser.jsp/CreateNewUserForm/Password:;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Confirm Password:;www.cashette.com.xml.xsd/http://www.cashette.com/myCashette/createNewUser.jsp/CreateNewUserForm/Repeat Password:;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Please enter text from image:;www.cashette.com.xml.xsd/http://www.cashette.com/myCashette/createNewUser.jsp/CreateNewUserForm/Enter the code below:;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Email Address:;www.cashette.com.xml.xsd/http://www.cashette.com/myCashette/createNewUser.jsp/CreateNewUserForm/Existing Email Address:;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/First Name:;www.cashette.com.xml.xsd/http://www.cashette.com/myCashette/createNewUser.jsp/CreateNewUserForm/First Name:;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Last Name:;www.cashette.com.xml.xsd/http://www.cashette.com/myCashette/createNewUser.jsp/CreateNewUserForm/Last Name:;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/Country:;www.cashette.com.xml.xsd/http://www.cashette.com/myCashette/createNewUser.jsp/CreateNewUserForm/Country:;
+kaxy.xml.xsd/http://webmail.kaxy.com/cgi-bin/user/join.cgi/ZIP Postal Code:;www.cashette.com.xml.xsd/http://www.cashette.com/myCashette/createNewUser.jsp/CreateNewUserForm/Zip Code:;

@@ -1,0 +1,14 @@
+JoinForm.txtPassword2	fmRegister.tbPassword2
+JoinForm.ddlFindUs	fmRegister.newspaper
+JoinForm.txtCity	fmRegister.tbAddrCty
+JoinForm.txtUsername	fmRegister.tbUserName
+JoinForm.txtHomePhone	fmRegister.tbTel
+sportsbook.PASSWORD	fmRegister.tbPassword1
+JoinForm.txtEmail	fmRegister.tbEmail
+JoinForm.txtEmail	fmRegister.tbTel
+JoinForm.txtFirstName	fmRegister.tbFname
+JoinForm.txtLastName	fmRegister.tbLname
+JoinForm.txtCountry	fmRegister.country_code
+JoinForm.txtAddress1	fmRegister.tbAddr1
+JoinForm.txtWorkPhone	fmRegister.tbTel
+JoinForm.txtZip	fmRegister.tbAddrPc

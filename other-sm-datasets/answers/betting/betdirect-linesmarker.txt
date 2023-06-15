@@ -1,0 +1,10 @@
+fmRegister.tbEmail	signupForm.EMAIL
+fmRegister.tbAddrPc	signupForm.ZIP
+fmRegister.tbLname	signupForm.LASTNAME
+fmRegister.tbTel	signupForm.HOMEPHONENO
+fmRegister.tbPassword1	signupForm.PASSWORD
+fmRegister.tbAddr1	signupForm.STREET
+fmRegister.tbAddrCty	signupForm.CITY
+fmRegister.tbPassword2	signupForm.REENTERPASSWORD
+fmRegister.country_code	signupForm.COUNTRY
+fmRegister.tbFname	signupForm.FIRSTNAME

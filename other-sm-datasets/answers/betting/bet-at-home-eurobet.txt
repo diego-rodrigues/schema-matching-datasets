@@ -1,0 +1,9 @@
+Registerform.FORM_nachname	newclient.Surname
+Registerform.FORM_strasse	newclient.Addressno
+Registerform.FORM_strasse	newclient.Address1
+Registerform.FORM_vorname	newclient.Name
+Registerform.FORM_plz	newclient.Postcode
+Registerform.FORM_nation	newclient.Country
+Registerform.FORM_email	newclient.email
+Registerform.FORM_telefon	newclient.Mobilenumber
+Registerform.FORM_telefon	newclient.PhoneNumber

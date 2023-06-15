@@ -1,0 +1,5 @@
+search	adv
+search.field-author	adv.author
+search.field-publisher	adv.publisher
+search.field-title	adv.title
+search.field-subject	adv.subject

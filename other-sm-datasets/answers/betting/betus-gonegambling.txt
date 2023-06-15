@@ -1,0 +1,14 @@
+SignupForm.homePhoneEntry	registerfrm.email
+SignupForm.address2Entry	registerfrm.address2
+SignupForm.nameFirstEntry	registerfrm.firstname
+SignupForm.passwordEntry	registerfrm.password
+SignupForm.stateEntry	registerfrm.state
+SignupForm.cityEntry	registerfrm.city
+SignupForm.zipEntry	registerfrm.zip
+LoginVerify.Password	registerfrm.password
+SignupForm.address1Entry	registerfrm.address1
+SignupForm.nameLastEntry	registerfrm.lastname
+LoginVerify.CustomerID	registerfrm.username
+SignupForm.countryEntry	registerfrm.country
+SignupForm.emailEntry	registerfrm.email
+SignupForm.ConfirmPasswordEntry	registerfrm.confirmpassword

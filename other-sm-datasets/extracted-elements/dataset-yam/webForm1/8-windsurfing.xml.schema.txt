@@ -1,0 +1,32 @@
+https://secure.palmcoastd.com/pcd/document?ikey=08942HWEB
+https://secure.palmcoastd.com/pcd/document?ikey=08942HWEB
+> +-+-+ Credit Card Number (No spaces please) Expiration date +-+-+ string
+> +-+-+ CredOpt +-+-+ string
+> +-+-+ vSel_FormID +-+-+ string
+> +-+-+ Is this a Gift Subscription? +-+-+ string
+> +-+-+ a secure site.) +-+-+ string
+> +-+-+ e-mail +-+-+ string
+> +-+-+ vSub_ID +-+-+ string
+> +-+-+ Submit Order Form +-+-+ string
+> +-+-+ randomid +-+-+ string
+> +-+-+ State Prov. +-+-+ string
+> +-+-+ Zip Postal Code +-+-+ string
+> +-+-+ What color is a GREEN Christmas tree?: +-+-+ string
+> +-+-+ iTV_Type +-+-+ string
+> +-+-+ US +-+-+ string
+> +-+-+ vMAG_NAme +-+-+ string
+> +-+-+ (Street, PO Box, Route, etc.) +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ Ship your subscription to a Different Location? (U.S. and Canada Only) +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ Clear Order Form +-+-+ string
+> +-+-+ iMag_ID +-+-+ string
+> +-+-+ Name +-+-+ string
+> +-+-+ RandomAnswer +-+-+ string
+> +-+-+ Credit Card Number (No spaces please) +-+-+ string
+> +-+-+ TermValue +-+-+ string
+> +-+-+ vSes_ID +-+-+ string
+> +-+-+ Address +-+-+ string
+> +-+-+ vSel_DocKey +-+-+ string
+> +-+-+ I would like to receive e-mails about my subscription and other special offers and promotions from Windsurfing magazine: +-+-+ string
+> +-+-+ PayOpt +-+-+ string

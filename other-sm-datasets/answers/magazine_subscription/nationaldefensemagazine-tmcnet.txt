@@ -1,0 +1,14 @@
+search.trial.submit	subForm.Submit
+search.trial.city	subForm.City
+search.trial.state	subForm.State
+search.trial.zip	subForm.zip
+search.trial.country	subForm.Country
+search.trial.phone	subForm.phone
+search.trial.fax	subForm.fax
+search.trial.email	subForm.Email
+search.trial.title	subForm.Title
+search.trial.first	subForm.FName
+search.trial.last	subForm.LName
+search.trial.company	subForm.Company
+search.trial.address1	subForm.Address
+search.trial.address2	subForm.Address2

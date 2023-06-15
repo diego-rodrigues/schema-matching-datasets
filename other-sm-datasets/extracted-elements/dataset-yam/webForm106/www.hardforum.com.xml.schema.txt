@@ -1,0 +1,80 @@
+http://www.hardforum.com/register.php?
+http://www.hardforum.com/register.php?
+> +-+-+ s +-+-+ string
+> +-+-+ Day: +-+-+ string
+> +-+-+ Month: +-+-+ string
+> +-+-+  Proceed  +-+-+ string
+> +-+-+ do +-+-+ string
+> +-+-+ url +-+-+ string
+http://www.hardforum.com/register.php
+> +-+-+ http://www.hardforum.com/register.php
+register
+http://www.hardforum.com/register.php
+> +-+-+ register
+register
+> +-+-+ Receive Email from Other Members +-+-+ string
+http://www.hardforum.com/forumdisplay.php
+> +-+-+ http://www.hardforum.com/forumdisplay.php
+http://www.hardforum.com/forumdisplay.php
+> +-+-+ s +-+-+ string
+> +-+-+ Forum Jump +-+-+ string
+> +-+-+ Go +-+-+ string
+http://www.hardforum.com/login.php
+> +-+-+ http://www.hardforum.com/login.php
+http://www.hardforum.com/login.php
+> +-+-+ s +-+-+ string
+> +-+-+ Log in +-+-+ string
+vbform
+> +-+-+ vbform
+vbform
+> +-+-+ Find Posts from +-+-+ string
+> +-+-+ Key Word(s): +-+-+ string
+> +-+-+ Threads +-+-+ string
+> +-+-+ Search Now +-+-+ string
+> +-+-+ Also search in child forums +-+-+ string
+> +-+-+ Go +-+-+ string
+> +-+-+ Replies +-+-+ string
+> +-+-+ User Name: +-+-+ string
+> +-+-+ Exact name +-+-+ string
+> +-+-+ s +-+-+ string
+> +-+-+ do +-+-+ string
+> +-+-+ Reset Fields +-+-+ string
+> +-+-+ Sort Results by +-+-+ string
+http://www.hardforum.com/login.php
+> +-+-+ Password +-+-+ string
+> +-+-+ vb_login_md5password +-+-+ string
+> +-+-+ forceredirect +-+-+ string
+> +-+-+ do +-+-+ string
+> +-+-+ Remember Me? +-+-+ string
+> +-+-+ User Name +-+-+ string
+http://www.hardforum.com/forumdisplay.php
+> +-+-+ daysprune +-+-+ string
+register
+> +-+-+ Confirm Email Address: +-+-+ string
+> +-+-+ All timestamps displayed on the forums can be automatically corrected to show the correct time for your location in the world. Simply select the appropriate time zone from the list below. +-+-+ string
+> +-+-+ Confirm Password: +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ In addition, you may set the appropriate option to allow for daylight savings time in your part of the world. +-+-+ string
+> +-+-+ s +-+-+ string
+> +-+-+ passwordconfirm_md5 +-+-+ string
+> +-+-+ Complete Registration +-+-+ string
+> +-+-+ Email Address: +-+-+ string
+> +-+-+ do +-+-+ string
+> +-+-+ password_md5 +-+-+ string
+> +-+-+ User Name : +-+-+ string
+> +-+-+ Reset Fields +-+-+ string
+> +-+-+ agree +-+-+ string
+> +-+-+ Receive Email from Administrators +-+-+ string
+http://www.hardforum.com/register.php
+> +-+-+ s +-+-+ string
+> +-+-+ I have read, and agree to abide by the [H]ard|Forum rules. +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+ Register +-+-+ string
+> +-+-+ year +-+-+ string
+> +-+-+ do +-+-+ string
+> +-+-+ day +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ who +-+-+ string
+http://www.hardforum.com/register.php?
+> +-+-+ Year: +-+-+ string

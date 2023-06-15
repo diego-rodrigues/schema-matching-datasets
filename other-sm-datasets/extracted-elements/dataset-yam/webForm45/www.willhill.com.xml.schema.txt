@@ -1,0 +1,55 @@
+https://www.willhill.com/iibs/EN/updatedetails.asp?type=join
+langswitch
+https://www.willhill.com/iibs/EN/updatedetails.asp?type=join
+> +-+-+ langswitch
+langswitch
+> +-+-+ type +-+-+ string
+> +-+-+ nsfix +-+-+ string
+Details
+https://www.willhill.com/iibs/EN/updatedetails.asp?type=join
+> +-+-+ Details
+Details
+> +-+-+ Back To Sportsbook Home +-+-+ string
+> +-+-+ cboPrevCountry +-+-+ string
+> +-+-+ I accept William Hill's +-+-+ string
+> +-+-+ Post Code +-+-+ string
+> +-+-+ txtPrevStateRegion +-+-+ string
+> +-+-+ Find Address +-+-+ string
+langswitch
+> +-+-+ langswitch
+langswitch
+> +-+-+ type +-+-+ string
+> +-+-+ nsfix +-+-+ string
+Details
+> +-+-+ * Confirm Password +-+-+ string
+> +-+-+ * Town City +-+-+ string
+> +-+-+ * Postcode ZIP +-+-+ string
+> +-+-+ Go To Step 2 :  Payment Information +-+-+ string
+> +-+-+ * Password +-+-+ string
+> +-+-+ * Security Question +-+-+ string
+> +-+-+ Region State +-+-+ string
+> +-+-+ findAddr +-+-+ string
+> +-+-+ txtPrevPostcode +-+-+ string
+> +-+-+ * Your Answer +-+-+ string
+> +-+-+ Telephone Number +-+-+ string
+> +-+-+ chkBonus +-+-+ string
+> +-+-+ House Number Name +-+-+ string
+> +-+-+ * Date of Birth +-+-+ string
+> +-+-+ * Last Name +-+-+ string
+> +-+-+ chkTransfer +-+-+ string
+> +-+-+ * Address 1 +-+-+ string
+> +-+-+ Please keep me informed of future offers and promotions from William Hill. +-+-+ string
+> +-+-+ Address 2 +-+-+ string
+> +-+-+ txtPrevAddress2 +-+-+ string
+> +-+-+ txtPrevAddress1 +-+-+ string
+> +-+-+ FirstTime +-+-+ string
+> +-+-+ Mobile Phone Number +-+-+ string
+> +-+-+ * First Name +-+-+ string
+> +-+-+ * Country +-+-+ string
+> +-+-+ * Username +-+-+ string
+> +-+-+ txtPrevCityTown +-+-+ string
+> +-+-+ cboCountry +-+-+ string
+> +-+-+ Middle Initial +-+-+ string
+> +-+-+ * Email Address +-+-+ string
+> +-+-+ * Title +-+-+ string
+> +-+-+ * Betting Currency +-+-+ string

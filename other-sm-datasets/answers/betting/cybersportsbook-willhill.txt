@@ -1,0 +1,15 @@
+JoinForm.txtPassword2	Details.txtPasswordConfirm
+JoinForm.txtUsername	Details.txtUsername
+JoinForm.txtCity	Details.txtCityTown
+sportsbook.PASSWORD	Details.txtPassword
+JoinForm.txtHomePhone	Details.txtTelephone
+JoinForm.ddlState	Details.txtStateRegion
+JoinForm.txtEmail	Details.txtEmail
+JoinForm.txtFirstName	Details.txtFirstName
+JoinForm.txtLastName	Details.txtSurname
+JoinForm.txtCountry	Details.cboCountryAlt
+JoinForm.txtAddress1	Details.txtAddress1
+JoinForm.txtAddress2	Details.txtAddress2
+JoinForm.txtWorkPhone	Details.txtTelephone
+JoinForm.txtZip	Details.txtPostcode
+JoinForm.txtZip	Details.txtQASPostcode

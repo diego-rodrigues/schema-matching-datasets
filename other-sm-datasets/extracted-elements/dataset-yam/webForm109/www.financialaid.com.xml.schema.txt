@@ -1,0 +1,20 @@
+http://www.financialaid.com/halo/app_qualification.cfm?id=gosc_Financial_Aid_co_ct=0,0_P=0
+theForm
+http://www.financialaid.com/halo/app_qualification.cfm?id=gosc_Financial_Aid_co_ct=0,0_P=0
+> +-+-+ theForm
+theForm
+> +-+-+ Home Phone +-+-+ string
+> +-+-+ 1. Do you have $7,500 or more in student loan debt? +-+-+ string
+> +-+-+ Submit Form +-+-+ string
+> +-+-+ Street Address +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ Daytime Phone +-+-+ string
+> +-+-+ State +-+-+ string
+> +-+-+ 2. Are any of your student loans in default? +-+-+ string
+> +-+-+ 3. Are you a full time student? +-+-+ string
+> +-+-+ Social Security Number +-+-+ string
+> +-+-+ referring_sid +-+-+ string
+> +-+-+ Zip +-+-+ string
+> +-+-+ Email Address +-+-+ string
+> +-+-+ Last Name +-+-+ string
+> +-+-+ First Name +-+-+ string

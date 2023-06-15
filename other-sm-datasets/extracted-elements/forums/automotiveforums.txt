@@ -1,0 +1,73 @@
+register
+index
+search
+registerpage
+register
+> - s - string
+> - do - string
+> - who - string
+> - regtype - string
+> - url - string
+> - Agree - string
+index
+> - s - string
+> - Cancel - string
+search
+> - domains - string
+> - q - string
+> - sa - string
+> - sitesearch - string
+> - client - string
+> - forid - string
+> - ie - string
+> - oe - string
+> - cof - string
+> - hl - string
+registerpage
+> - s - string
+> - regtype - string
+> - username - string
+> - password - string
+> - passwordconfirm - string
+> - email - string
+> - emailconfirm - string
+> - field7 - string
+> - field8 - string
+> - field9 - string
+> - field6 - string
+> - homepage - string
+> - icq - string
+> - aim - string
+> - yahoo - string
+> - msn - string
+> - referrername - string
+> - oldbirthday - string
+> - month - string
+> - day - string
+> - year - string
+> - field5 - string
+> - field4 - string
+> - field3 - string
+> - field1 - string
+> - field10 - string
+> - optionsadminemail - string
+> - optionsinvisible - string
+> - optionsshowemail - string
+> - optionsreceivepm - string
+> - optionsemailonpm - string
+> - pmpopup - string
+> - prunedays - string
+> - umaxposts - string
+> - startofweek - string
+> - timezoneoffset - string
+> - dst - string
+> - optionsemailnotification - string
+> - showvbcode - string
+> - optionsshowsignatures - string
+> - optionsshowavatars - string
+> - optionsshowimages - string
+> - optionsshowreputation - string
+> - url - string
+> - do - string
+> - SubmitRegistration - string
+> - Reset - string

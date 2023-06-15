@@ -1,0 +1,12 @@
+fmRegister.tbEmail	registerfrm.email
+fmRegister.tbLname	registerfrm.lastname
+fmRegister.tbAddrPc	registerfrm.zip
+fmRegister.tbAddr1	registerfrm.address1
+fmRegister.tbPassword1	registerfrm.password
+fmRegister.tbPassword2	registerfrm.confirmpassword
+fmRegister.tbAddrCty	registerfrm.city
+fmRegister.country_code	registerfrm.country
+fmRegister.rdContact	registerfrm.Newsletter
+fmRegister.tbFname	registerfrm.firstname
+fmRegister.tbTitle	registerfrm.Gender
+fmRegister.tbUserName	registerfrm.username

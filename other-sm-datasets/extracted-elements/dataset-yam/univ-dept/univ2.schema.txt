@@ -1,0 +1,15 @@
+CS Dept U.S.
+CS Dept U.S.
+> +-+-+ Grad Courses +-+-+ string
+> +-+-+ Undergrad Courses +-+-+ string
+People
+> +-+-+ People
+Faculty
+People
+> +-+-+ Faculty
+Faculty
+> +-+-+ Assistant Professor +-+-+ string
+> +-+-+ Associate Professor +-+-+ string
+> +-+-+ Professor +-+-+ string
+People
+> +-+-+ Staff +-+-+ string

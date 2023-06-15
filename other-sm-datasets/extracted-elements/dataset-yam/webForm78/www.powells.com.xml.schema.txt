@@ -1,0 +1,24 @@
+http://www.powells.com/search.html
+search
+http://www.powells.com/search.html
+> +-+-+ search
+search
+> +-+-+ Show newly arrived used books only +-+-+ string
+> +-+-+ Binding Type +-+-+ string
+> +-+-+ ISBN +-+-+ string
+> +-+-+ Search for a book +-+-+ string
+> +-+-+ Author +-+-+ string
+> +-+-+ Location +-+-+ string
+> +-+-+ Then Sort By +-+-+ string
+> +-+-+ pokey +-+-+ string
+> +-+-+ Clear +-+-+ string
+> +-+-+ Title +-+-+ string
+> +-+-+ Publisher +-+-+ string
+> +-+-+ Section +-+-+ string
+> +-+-+ Match first part of words +-+-+ string
+> +-+-+ Book Class +-+-+ string
+> +-+-+ Titles to display per page +-+-+ string
+> +-+-+ Search for exact title +-+-+ string
+> +-+-+ Sort By +-+-+ string
+> +-+-+ Keywords +-+-+ string
+> +-+-+ Start Search +-+-+ string

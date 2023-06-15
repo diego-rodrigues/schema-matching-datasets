@@ -1,0 +1,110 @@
+sqdsq
+> +-+-+ Article
+> +-+-+ dzajndsq +-+-+ string
+> +-+-+ sqxsqkd +-+-+ string
+> +-+-+ Booklet
+> +-+-+ dzqndbzq
+> +-+-+ vccfsq
+> +-+-+ dcsqdcsqd
+> +-+-+ InProceedings
+> +-+-+ LectureNotes +-+-+ string
+> +-+-+ dcsqdsq
+> +-+-+ xsqlknk +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+> +-+-+ Misc
+> +-+-+ zdqssqdb
+> +-+-+ dqzdxdcsqj
+> +-+-+ Unpublished +-+-+ string
+> +-+-+ dscdscg
+> +-+-+ zdzbh +-+-+ string
+> +-+-+ dsqndbsqx +-+-+ string
+> +-+-+ chapters +-+-+ string
+> +-+-+ parts +-+-+ string
+> +-+-+ dsqnhza +-+-+ string
+> +-+-+ zandsbh +-+-+ string
+> +-+-+ edition +-+-+ string
+> +-+-+ sbqgzga +-+-+ string
+> +-+-+ zansbzh +-+-+ string
+> +-+-+ sqndsqgy +-+-+ string
+> +-+-+ zdsnsqdv +-+-+ string
+> +-+-+ publisher +-+-+ string
+> +-+-+ dzbn +-+-+ string
+> +-+-+ dszbnz +-+-+ string
+> +-+-+ dznbaln +-+-+ string
+> +-+-+ type +-+-+ string
+> +-+-+ zadzqbsdg +-+-+ string
+> +-+-+ dsqndsz +-+-+ string
+> +-+-+ contents +-+-+ string
+> +-+-+ copyright +-+-+ string
+> +-+-+ szdnzak +-+-+ string
+> +-+-+ zadsznad +-+-+ string
+> +-+-+ zqdszh +-+-+ string
+> +-+-+ language +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ dzandzah +-+-+ string
+> +-+-+ dszbgz +-+-+ string
+> +-+-+ dsq +-+-+ string
+> +-+-+ size +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ dsazdjz +-+-+ string
+> +-+-+ pages +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ ndsbzh +-+-+ string
+> +-+-+ sqnzkzn +-+-+ string
+> +-+-+ zsbdgz +-+-+ string
+Article
+> +-+-+ sxqsnbvsq +-+-+ string
+Booklet
+> +-+-+ howPublished +-+-+ string
+dzqndbzq
+> +-+-+ firstPublished +-+-+ string
+vccfsq
+> +-+-+ book +-+-+ string
+dcsqdcsqd
+> +-+-+ collection +-+-+ string
+InProceedings
+> +-+-+ zassdzadb +-+-+ string
+dcsqdsq
+> +-+-+ organization +-+-+ string
+Misc
+> +-+-+ howPublished +-+-+ string
+zdqssqdb
+> +-+-+ PrSGUs +-+-+ string
+> +-+-+ event +-+-+ string
+> +-+-+ organization +-+-+ string
+dqzdxdcsqj
+> +-+-+ sdcsqhyz +-+-+ string
+> +-+-+ Deliverable +-+-+ string
+> +-+-+ hsgiuyza +-+-+ string
+dscdscg
+> +-+-+ directors +-+-+ string
+qsdsquj
+> +-+-+ YuEma +-+-+ string
+> +-+-+ sdxsndxsqg +-+-+ string
+> +-+-+ publisher +-+-+ string
+zqedzbx
+> +-+-+ organizer +-+-+ string
+> +-+-+ sqndsqgy +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ sqnzkzn +-+-+ string
+Address
+> +-+-+ zdzndh +-+-+ string
+> +-+-+ zdnzadh +-+-+ string
+> +-+-+ country +-+-+ string
+Institution
+> +-+-+ zauio +-+-+ string
+> +-+-+ zadazxn +-+-+ string
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ Institution
+List
+> +-+-+ dsqdbz +-+-+ string
+PageRange
+> +-+-+ startPage +-+-+ string
+> +-+-+ mkalnshsq +-+-+ string
+Date
+> +-+-+ year +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+ dznadzh +-+-+ string
+Thing
+> +-+-+ qzd +-+-+ string

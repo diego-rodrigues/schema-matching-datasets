@@ -1,0 +1,40 @@
+http://www.gonegambling.com/membersonly/membersregister.html
+frmSearch
+http://www.gonegambling.com/membersonly/membersregister.html
+> +-+-+ frmSearch
+frmSearch
+> +-+-+ Search +-+-+ string
+> +-+-+ Casino Search: +-+-+ string
+registerfrm
+http://www.gonegambling.com/membersonly/membersregister.html
+> +-+-+ registerfrm
+registerfrm
+> +-+-+ Last name: +-+-+ string
+frmSearch
+> +-+-+ frmSearch
+frmSearch
+> +-+-+ Search +-+-+ string
+> +-+-+ Casino Search: +-+-+ string
+registerfrm
+> +-+-+ Address second line: +-+-+ string
+> +-+-+ Address first line: +-+-+ string
+> +-+-+ Zip Postal Code: +-+-+ string
+> +-+-+ Your email address: +-+-+ string
+> +-+-+ Register +-+-+ string
+> +-+-+ First name: +-+-+ string
+> +-+-+ Referring Member: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Barrow Reference: +-+-+ string
+> +-+-+ Source +-+-+ string
+> +-+-+ (Occasional Promotions through postal service) +-+-+ string
+> +-+-+ Casino Name: +-+-+ string
+> +-+-+ Gender: +-+-+ string
+> +-+-+ Choose a password: +-+-+ string
+> +-+-+ (Regular Weekly Email Newsletters) +-+-+ string
+> +-+-+ Survey Answer: +-+-+ string
+> +-+-+ Casino Promotion Code: +-+-+ string
+> +-+-+ State Province: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Choose a username: +-+-+ string
+> +-+-+ Date of birth: +-+-+ string
+> +-+-+ Confirm password: +-+-+ string

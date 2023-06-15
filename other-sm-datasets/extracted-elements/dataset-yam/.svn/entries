@@ -1,0 +1,448 @@
+8
+
+dir
+522
+http://gforge-lirmm.lirmm.fr/svn/matchplanner/data/schemas
+http://gforge-lirmm.lirmm.fr/svn/matchplanner
+
+
+
+2009-03-06T16:22:04.118347Z
+478
+duchatea
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f14ef9a-143c-0410-b912-878dd2412772
+
+biology
+dir
+
+book
+dir
+
+book-annotations
+dir
+
+book-similar
+dir
+
+cemagref
+dir
+
+currency
+dir
+
+order
+dir
+
+person
+dir
+
+sap
+dir
+
+sms
+dir
+
+travel
+dir
+
+univ-courses
+dir
+
+univ-dept
+dir
+
+webForm1
+dir
+
+webForm10
+dir
+
+webForm100
+dir
+
+webForm101
+dir
+
+webForm102
+dir
+
+webForm103
+dir
+
+webForm104
+dir
+
+webForm105
+dir
+
+webForm106
+dir
+
+webForm107
+dir
+
+webForm108
+dir
+
+webForm109
+dir
+
+webForm11
+dir
+
+webForm110
+dir
+
+webForm111
+dir
+
+webForm112
+dir
+
+webForm113
+dir
+
+webForm114
+dir
+
+webForm115
+dir
+
+webForm116
+dir
+
+webForm117
+dir
+
+webForm118
+dir
+
+webForm119
+dir
+
+webForm12
+dir
+
+webForm120
+dir
+
+webForm121
+dir
+
+webForm122
+dir
+
+webForm123
+dir
+
+webForm124
+dir
+
+webForm125
+dir
+
+webForm13
+dir
+
+webForm14
+dir
+
+webForm15
+dir
+
+webForm16
+dir
+
+webForm17
+dir
+
+webForm18
+dir
+
+webForm19
+dir
+
+webForm2
+dir
+
+webForm20
+dir
+
+webForm21
+dir
+
+webForm22
+dir
+
+webForm23
+dir
+
+webForm24
+dir
+
+webForm25
+dir
+
+webForm26
+dir
+
+webForm28
+dir
+
+webForm29
+dir
+
+webForm3
+dir
+
+webForm30
+dir
+
+webForm31
+dir
+
+webForm32
+dir
+
+webForm33
+dir
+
+webForm34
+dir
+
+webForm35
+dir
+
+webForm36
+dir
+
+webForm37
+dir
+
+webForm38
+dir
+
+webForm39
+dir
+
+webForm4
+dir
+
+webForm40
+dir
+
+webForm41
+dir
+
+webForm42
+dir
+
+webForm43
+dir
+
+webForm44
+dir
+
+webForm45
+dir
+
+webForm46
+dir
+
+webForm47
+dir
+
+webForm48
+dir
+
+webForm49
+dir
+
+webForm5
+dir
+
+webForm50
+dir
+
+webForm51
+dir
+
+webForm52
+dir
+
+webForm53
+dir
+
+webForm54
+dir
+
+webForm55
+dir
+
+webForm56
+dir
+
+webForm57
+dir
+
+webForm58
+dir
+
+webForm59
+dir
+
+webForm6
+dir
+
+webForm60
+dir
+
+webForm61
+dir
+
+webForm62
+dir
+
+webForm63
+dir
+
+webForm64
+dir
+
+webForm65
+dir
+
+webForm66
+dir
+
+webForm67
+dir
+
+webForm68
+dir
+
+webForm69
+dir
+
+webForm7
+dir
+
+webForm70
+dir
+
+webForm71
+dir
+
+webForm72
+dir
+
+webForm73
+dir
+
+webForm74
+dir
+
+webForm75
+dir
+
+webForm76
+dir
+
+webForm77
+dir
+
+webForm78
+dir
+
+webForm79
+dir
+
+webForm8
+dir
+
+webForm80
+dir
+
+webForm81
+dir
+
+webForm82
+dir
+
+webForm83
+dir
+
+webForm84
+dir
+
+webForm85
+dir
+
+webForm86
+dir
+
+webForm87
+dir
+
+webForm88
+dir
+
+webForm89
+dir
+
+webForm9
+dir
+
+webForm90
+dir
+
+webForm91
+dir
+
+webForm92
+dir
+
+webForm93
+dir
+
+webForm94
+dir
+
+webForm95
+dir
+
+webForm96
+dir
+
+webForm97
+dir
+
+webForm98
+dir
+
+webForm99
+dir
+
+webFormJWS
+dir
+
+webFormVLDBdemo
+dir
+
+webFormVLDBdemo-2-exp-corr
+dir
+

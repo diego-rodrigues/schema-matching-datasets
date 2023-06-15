@@ -1,0 +1,14 @@
+newclient.City	fmRegister.tbAddrCty
+newclient.Mobilenumber	fmRegister.tbTel
+newclient.Country	fmRegister.country_code
+newclient.InfoSource	fmRegister.newspaper
+newclient.PhoneNumber	fmRegister.tbTel
+newclient.email	fmRegister.tbEmail
+newclient.Question	fmRegister.rdContact
+newclient.Username	fmRegister.tbUserName
+newclient.Name	fmRegister.tbFname
+newclient.Postcode	fmRegister.tbAddrPc
+newclient.Surname	fmRegister.tbLname
+newclient.Pwd	fmRegister.tbPassword1
+newclient.RePwd	fmRegister.tbPassword2
+newclient.Address1	fmRegister.tbAddr1

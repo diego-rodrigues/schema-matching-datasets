@@ -1,0 +1,13 @@
+newsubs.Submit	search._submit
+newsubs.City	search.city
+newsubs.StOrProv	search.state
+newsubs.PostalCode	search.zip
+newsubs.Country	search.country
+newsubs.Email	search.email
+newsubs.subscribe	search.Subscribe
+newsubs.FirstName	search.first
+newsubs.LastName	search.last
+newsubs.Reset	ResetForm
+newsubs.subscribe.Search	search
+newsubs.Company	search.company
+newsubs.Address1	search.street

@@ -1,0 +1,11 @@
+form1.City	regform.City
+form1.ST	regform.State
+form1.Zip	regform.Zip
+form1.Country	regform.Country
+form1.Telephone	regform.Phone
+form1.Fax	regform.Fax
+form1.EmailAddress	regform.Email
+form1.FirstName	regform.First_Name
+form1.LastName	regform.Last_Name
+form1.CompanyName	regform.Company_Name
+form1	regform

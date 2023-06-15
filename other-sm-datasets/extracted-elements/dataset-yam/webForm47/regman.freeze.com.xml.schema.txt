@@ -1,0 +1,38 @@
+http://regman.freeze.com/unified/signup.asp?f=gn_c=0
+http://regman.freeze.com/unified/signup.asp?f=gn_c=0
+> +-+-+ f +-+-+ string
+signup
+> +-+-+ signup
+signup
+> +-+-+ Secret Question * (ex. What color is my iguana?) +-+-+ string
+> +-+-+ employment +-+-+ string
+> +-+-+ FREEZE MEMBERSHIP Your choice, introductory offer... +-+-+ string
+> +-+-+ Choose a Password * +-+-+ string
+> +-+-+ state +-+-+ string
+> +-+-+ Birthday * +-+-+ string
+> +-+-+ address2 +-+-+ string
+> +-+-+ List your name in our community of users. Your friends, family and associates can easily send you messages, and find you on-line. +-+-+ string
+> +-+-+ education +-+-+ string
+> +-+-+ Confirm your Password * +-+-+ string
+> +-+-+ Zip or Postal Code * +-+-+ string
+> +-+-+ Interests -------------- Check all that apply -------------- +-+-+ string
+> +-+-+ number_children +-+-+ string
+> +-+-+ income +-+-+ string
+> +-+-+ I wish to receive periodic e-mails about products, services, or special offers that meet my interests +-+-+ string
+> +-+-+  NEXT +-+-+ string
+> +-+-+ action +-+-+ string
+> +-+-+ marital_status +-+-+ string
+> +-+-+ First Name * +-+-+ string
+> +-+-+ clip +-+-+ string
+> +-+-+ Country * +-+-+ string
+> +-+-+ Last Name * +-+-+ string
+> +-+-+ Username * +-+-+ string
+> +-+-+ Alternate E-mail * +-+-+ string
+> +-+-+ , +-+-+ string
+> +-+-+ Secret Answer * +-+-+ string
+> +-+-+ inlang +-+-+ string
+> +-+-+ Gender * +-+-+ string
+> +-+-+ address +-+-+ string
+> +-+-+ sourceid +-+-+ string
+> +-+-+ computer_use +-+-+ string
+> +-+-+ rcity +-+-+ string

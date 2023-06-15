@@ -1,0 +1,12 @@
+register.imagestamp	REG.reg_code
+register.optionsadminemail	REG.allow_admin_mail
+register.emailconfirm	REG.EmailAddress_two
+register.username	REG.UserName
+register.passwordconfirm	REG.PassWord_Check
+register.password	REG.PassWord
+register.agree	REG.agree_to_terms
+register.timezoneoffset	REG.time_offset
+register.email	REG.EmailAddress
+register.optionsshowemail	REG.allow_member_mail
+registerpage.Register	registerpage.Register
+register.CompleteRegistration	REG.Submitmyregistration

@@ -1,0 +1,62 @@
+http://www.yanni.com/fanclub/signup.asp
+EditForm
+http://www.yanni.com/fanclub/signup.asp
+> +-+-+ EditForm
+EditForm
+> +-+-+ Mailing Address: +-+-+ string
+> +-+-+ Month: +-+-+ string
+> +-+-+ Re-Type Password: +-+-+ string
+> +-+-+ Mailing Address +-+-+ string
+> +-+-+ postback +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ YES +-+-+ string
+> +-+-+ Remember me +-+-+ string
+> +-+-+ Postal Code: +-+-+ string
+> +-+-+ pick one, or enter it below. +-+-+ string
+> +-+-+ Sign Up +-+-+ string
+> +-+-+ Day: +-+-+ string
+> +-+-+ HTML +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Re-Type E-mail: +-+-+ string
+> +-+-+ E-mail Login: +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ State Province: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Male +-+-+ string
+> +-+-+ Reset +-+-+ string
+loginForm
+http://www.yanni.com/fanclub/signup.asp
+> +-+-+ loginForm
+EditForm
+loginForm
+> +-+-+ EditForm
+EditForm
+> +-+-+ Mailing Address: +-+-+ string
+> +-+-+ Month: +-+-+ string
+> +-+-+ Re-Type Password: +-+-+ string
+> +-+-+ Mailing Address +-+-+ string
+> +-+-+ postback +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ YES +-+-+ string
+> +-+-+ Remember me +-+-+ string
+> +-+-+ Postal Code: +-+-+ string
+> +-+-+ pick one, or enter it below. +-+-+ string
+> +-+-+ Sign Up +-+-+ string
+> +-+-+ Day: +-+-+ string
+> +-+-+ HTML +-+-+ string
+> +-+-+ First Name: +-+-+ string
+> +-+-+ Re-Type E-mail: +-+-+ string
+> +-+-+ E-mail Login: +-+-+ string
+> +-+-+ Last Name: +-+-+ string
+> +-+-+ State Province: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Male +-+-+ string
+> +-+-+ Reset +-+-+ string
+loginForm
+> +-+-+ Login +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ E-mail +-+-+ string
+> +-+-+ save login +-+-+ string
+> +-+-+ postback +-+-+ string

@@ -1,0 +1,11 @@
+form1.Submit	newsubs.Submit
+form1.City	newsubs.City
+form1.State	newsubs.StOrProv
+form1.Zip	newsubs.PostalCode
+form1.COUNTRY	newsubs.Country
+form1.EMail	newsubs.Email
+form1.FREE_SUB	newsubs.subscribe
+form1.FName	newsubs.FirstName
+form1.LName	newsubs.LastName
+form1.Company	newsubs.Company
+form1.Address1	newsubs.Address1

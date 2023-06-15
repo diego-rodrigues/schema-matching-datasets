@@ -1,0 +1,95 @@
+Reference
+> +-+-+ Book
+> +-+-+ Informal
+> +-+-+ Part
+> +-+-+ Academic
+> +-+-+ Misc
+> +-+-+ Report
+> +-+-+ MotionPicture
+> +-+-+ key +-+-+ string
+> +-+-+ reviewed +-+-+ string
+> +-+-+ annote +-+-+ string
+> +-+-+ contract +-+-+ string
+> +-+-+ humanCreator +-+-+ string
+> +-+-+ note +-+-+ string
+> +-+-+ publisherName +-+-+ string
+> +-+-+ series +-+-+ string
+> +-+-+ title +-+-+ string
+> +-+-+ affiliation +-+-+ string
+> +-+-+ abstract +-+-+ string
+> +-+-+ contents +-+-+ string
+> +-+-+ copyright +-+-+ string
+> +-+-+ isbn +-+-+ string
+> +-+-+ issn +-+-+ string
+> +-+-+ keywords +-+-+ string
+> +-+-+ language +-+-+ string
+> +-+-+ lccn +-+-+ string
+> +-+-+ mrNumber +-+-+ string
+> +-+-+ price +-+-+ string
+> +-+-+ size +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ number +-+-+ string
+> +-+-+ issue +-+-+ string
+> +-+-+ volume +-+-+ string
+> +-+-+ year +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+ day +-+-+ string
+> +-+-+ city +-+-+ string
+> +-+-+ state +-+-+ string
+> +-+-+ country +-+-+ string
+> +-+-+ startPage +-+-+ string
+> +-+-+ endPage +-+-+ string
+Article
+> +-+-+ journalName +-+-+ string
+Part
+> +-+-+ Article
+> +-+-+ Chapter
+> +-+-+ InBook
+> +-+-+ InCollection
+> +-+-+ InProceedings
+> +-+-+ isPartOf +-+-+ string
+> +-+-+ chapter +-+-+ string
+Book
+> +-+-+ Monograph +-+-+ string
+> +-+-+ Collection +-+-+ string
+> +-+-+ Proceedings
+> +-+-+ edition +-+-+ string
+Informal
+> +-+-+ Booklet
+> +-+-+ LectureNotes
+> +-+-+ Manual
+> +-+-+ Unpublished +-+-+ string
+Booklet
+> +-+-+ howPublished +-+-+ string
+Chapter
+> +-+-+ type +-+-+ string
+InBook
+> +-+-+ book +-+-+ string
+InCollection
+> +-+-+ collection +-+-+ string
+InProceedings
+> +-+-+ proceedings +-+-+ string
+LectureNotes
+> +-+-+ schoolName +-+-+ string
+Manual
+> +-+-+ edition +-+-+ string
+> +-+-+ organizationName +-+-+ string
+Academic
+> +-+-+ MastersThesis +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+> +-+-+ schoolName +-+-+ string
+> +-+-+ type +-+-+ string
+Misc
+> +-+-+ howPublished +-+-+ string
+Proceedings
+> +-+-+ eventName +-+-+ string
+> +-+-+ organizationName +-+-+ string
+Report
+> +-+-+ TechReport
+> +-+-+ Deliverable +-+-+ string
+TechReport
+> +-+-+ type +-+-+ string
+MotionPicture
+> +-+-+ directors +-+-+ string
+Thing
+> +-+-+ numberOrVolume +-+-+ string

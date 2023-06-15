@@ -1,0 +1,14 @@
+apply.iPhoneNumber	JoinForm.txtHomePhone
+apply.iPhoneNumber	JoinForm.txtWorkPhone
+apply.iLastName	JoinForm.txtLastName
+apply.iFirstName	JoinForm.txtFirstName
+apply.iCountryID	JoinForm.txtCountry
+apply.iUsername	JoinForm.txtUsername
+apply.iReferrer	JoinForm.ddlFindUs
+apply.iPostalCode	JoinForm.txtZip
+apply.iState	JoinForm.ddlState
+apply.iEmail	JoinForm.txtEmail
+apply.iCity	JoinForm.txtCity
+apply.iPassword1	sportsbook.PASSWORD
+apply.iPassword2	JoinForm.txtPassword2
+apply.iAddress	JoinForm.txtAddress1

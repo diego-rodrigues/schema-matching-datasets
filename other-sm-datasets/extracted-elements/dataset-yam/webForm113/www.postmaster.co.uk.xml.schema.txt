@@ -1,0 +1,31 @@
+http://www.postmaster.co.uk/cgi-bin/nav/register_form.pl?productcode=PML001
+http://www.postmaster.co.uk/cgi-bin/nav/register_form.pl?productcode=PML001
+> +-+-+ Phone +-+-+ string
+> +-+-+ Marital status +-+-+ string
+> +-+-+ Password +-+-+ string
+> +-+-+ Password security question +-+-+ string
+> +-+-+ Highest level of education +-+-+ string
+> +-+-+ Please enter 974445 into this field +-+-+ string
+> +-+-+ How did you hear about Postmaster? +-+-+ string
+> +-+-+ Type of account +-+-+ string
+> +-+-+ security_encode +-+-+ string
+> +-+-+ Interest +-+-+ string
+> +-+-+ Occupation +-+-+ string
+> +-+-+ Timezone +-+-+ string
+> +-+-+ Postcode Zip code +-+-+ string
+> +-+-+ Verify password +-+-+ string
+> +-+-+ I have read and agree to the Terms _ Conditions of the service +-+-+ string
+> +-+-+ First name +-+-+ string
+> +-+-+ Last name +-+-+ string
+> +-+-+ Register +-+-+ string
+> +-+-+ Country +-+-+ string
+> +-+-+ City +-+-+ string
+> +-+-+ Male Female +-+-+ string
+> +-+-+ Password security answer +-+-+ string
+> +-+-+ Date of birth +-+-+ string
+> +-+-+ County State +-+-+ string
+> +-+-+ Household income +-+-+ string
+> +-+-+ Address +-+-+ string
+> +-+-+ Gender +-+-+ string
+> +-+-+ Username +-+-+ string
+> +-+-+ language +-+-+ string

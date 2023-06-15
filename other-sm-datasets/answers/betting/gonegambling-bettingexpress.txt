@@ -1,0 +1,10 @@
+registerfrm.confirmpassword	JoinForm.REENTERPASSWORD
+registerfrm.lastname	JoinForm.LASTNAME
+registerfrm.city	JoinForm.CITY
+registerfrm.zip	JoinForm.ZIP
+registerfrm.state	JoinForm.STATE
+registerfrm.country	JoinForm.COUNTRY
+registerfrm.address1	JoinForm.STREET
+registerfrm.firstname	JoinForm.FIRSTNAME
+registerfrm.email	JoinForm.EMAIL
+registerfrm.password	JoinForm.PASSWORD

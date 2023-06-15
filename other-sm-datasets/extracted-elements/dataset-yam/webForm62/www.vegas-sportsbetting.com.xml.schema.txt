@@ -1,0 +1,64 @@
+http://www.vegas-sportsbetting.com/signup.html#signup
+frm
+http://www.vegas-sportsbetting.com/signup.html#signup
+> +-+-+ frm
+frm
+> +-+-+ Url +-+-+ string
+thisForm
+> +-+-+ thisForm
+thisForm
+> +-+-+ *Internet Password : +-+-+ string
+> +-+-+ *Challenge Answer : +-+-+ string
+> +-+-+ * Country : +-+-+ string
+> +-+-+ Zip Code : +-+-+ string
+> +-+-+ Personal Information +-+-+ string
+> +-+-+ * User ID: +-+-+ string
+> +-+-+ State : +-+-+ string
+> +-+-+ * City : +-+-+ string
+> +-+-+ *Confirm Internet Password : +-+-+ string
+> +-+-+ * Title: +-+-+ string
+> +-+-+ phonesite +-+-+ string
+> +-+-+ * First Name : +-+-+ string
+> +-+-+ *Challenge Question : +-+-+ string
+> +-+-+ Sitename +-+-+ string
+> +-+-+ cboCurrency +-+-+ string
+> +-+-+ * Address : +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ * E-mail : +-+-+ string
+> +-+-+ mailsitename +-+-+ string
+> +-+-+ BackUrl +-+-+ string
+> +-+-+ * Last Name : +-+-+ string
+> +-+-+ * Phone 1: +-+-+ string
+> +-+-+ Licensee +-+-+ string
+frm
+> +-+-+ Login : +-+-+ string
+> +-+-+ BackUrl +-+-+ string
+> +-+-+ Password: +-+-+ string
+> +-+-+ DesapprovUrl +-+-+ string
+thisForm
+http://www.vegas-sportsbetting.com/signup.html#signup
+> +-+-+ thisForm
+thisForm
+> +-+-+ *Internet Password : +-+-+ string
+> +-+-+ *Challenge Answer : +-+-+ string
+> +-+-+ * Country : +-+-+ string
+> +-+-+ Zip Code : +-+-+ string
+> +-+-+ Personal Information +-+-+ string
+> +-+-+ * User ID: +-+-+ string
+> +-+-+ State : +-+-+ string
+> +-+-+ * City : +-+-+ string
+> +-+-+ *Confirm Internet Password : +-+-+ string
+> +-+-+ * Title: +-+-+ string
+> +-+-+ phonesite +-+-+ string
+> +-+-+ * First Name : +-+-+ string
+> +-+-+ *Challenge Question : +-+-+ string
+> +-+-+ Sitename +-+-+ string
+> +-+-+ cboCurrency +-+-+ string
+> +-+-+ * Address : +-+-+ string
+> +-+-+ Submit +-+-+ string
+> +-+-+ * E-mail : +-+-+ string
+> +-+-+ mailsitename +-+-+ string
+> +-+-+ BackUrl +-+-+ string
+> +-+-+ * Last Name : +-+-+ string
+> +-+-+ * Phone 1: +-+-+ string
+> +-+-+ Licensee +-+-+ string

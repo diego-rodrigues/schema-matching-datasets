@@ -1,0 +1,124 @@
+Entry
+> +-+-+ Book
+> +-+-+ NonFormal
+> +-+-+ Section
+> +-+-+ StudentReport
+> +-+-+ Various
+> +-+-+ Report
+> +-+-+ Movie
+> +-+-+ ref +-+-+ string
+> +-+-+ selection +-+-+ string
+> +-+-+ sections +-+-+ string
+> +-+-+ tomes +-+-+ string
+> +-+-+ annotation +-+-+ string
+> +-+-+ contract +-+-+ string
+> +-+-+ createdBy +-+-+ string
+> +-+-+ publishingDate +-+-+ string
+> +-+-+ comment +-+-+ string
+> +-+-+ publishedBy +-+-+ string
+> +-+-+ inSeries +-+-+ string
+> +-+-+ heading +-+-+ string
+> +-+-+ company +-+-+ string
+> +-+-+ summary +-+-+ string
+> +-+-+ table +-+-+ string
+> +-+-+ rights +-+-+ string
+> +-+-+ ISBN +-+-+ string
+> +-+-+ ISSN +-+-+ string
+> +-+-+ KeyWordsAndPhrases +-+-+ string
+> +-+-+ idiom +-+-+ string
+> +-+-+ place +-+-+ string
+> +-+-+ LCCN +-+-+ string
+> +-+-+ MRN +-+-+ string
+> +-+-+ amount +-+-+ string
+> +-+-+ dimensions +-+-+ string
+> +-+-+ link +-+-+ string
+> +-+-+ numbering +-+-+ string
+> +-+-+ number +-+-+ string
+> +-+-+ issue +-+-+ string
+> +-+-+ volume +-+-+ string
+JournalPaper
+> +-+-+ inPeriodical +-+-+ string
+Section
+> +-+-+ JournalPaper
+> +-+-+ Chapter
+> +-+-+ Extract
+> +-+-+ InCompilation
+> +-+-+ Communication
+> +-+-+ componentOf +-+-+ string
+> +-+-+ section +-+-+ string
+> +-+-+ pageRange +-+-+ string
+Book
+> +-+-+ Monography +-+-+ string
+> +-+-+ Compilation +-+-+ string
+> +-+-+ ConferenceMinutes
+> +-+-+ issue +-+-+ string
+NonFormal
+> +-+-+ Brochure
+> +-+-+ CourseMaterial
+> +-+-+ ReferenceGuide
+> +-+-+ Manuscript +-+-+ string
+Brochure
+> +-+-+ PublicationDetails +-+-+ string
+Chapter
+> +-+-+ startDate +-+-+ string
+> +-+-+ type +-+-+ string
+Extract
+> +-+-+ inVolume +-+-+ string
+InCompilation
+> +-+-+ inCompilation +-+-+ string
+Communication
+> +-+-+ inMinutes +-+-+ string
+CourseMaterial
+> +-+-+ issuer +-+-+ string
+ReferenceGuide
+> +-+-+ issue +-+-+ string
+> +-+-+ sponsoredBy +-+-+ string
+StudentReport
+> +-+-+ MScThesis +-+-+ string
+> +-+-+ DoctoralThesis +-+-+ string
+> +-+-+ issuer +-+-+ string
+> +-+-+ type +-+-+ string
+Various
+> +-+-+ PublicationDetails +-+-+ string
+ConferenceMinutes
+> +-+-+ talks +-+-+ string
+> +-+-+ meeting +-+-+ string
+> +-+-+ sponsoredBy +-+-+ string
+Report
+> +-+-+ TechnicalReport
+> +-+-+ Deliverable +-+-+ string
+> +-+-+ issuedBy +-+-+ string
+TechnicalReport
+> +-+-+ type +-+-+ string
+Movie
+> +-+-+ directedBy +-+-+ string
+Periodical
+> +-+-+ papers +-+-+ string
+> +-+-+ frequency +-+-+ string
+> +-+-+ publishedBy +-+-+ string
+Congress
+> +-+-+ organizedBy +-+-+ string
+> +-+-+ publishingDate +-+-+ string
+> +-+-+ place +-+-+ string
+> +-+-+ numbering +-+-+ string
+> +-+-+ issue +-+-+ string
+Directions
+> +-+-+ town +-+-+ string
+> +-+-+ state +-+-+ string
+> +-+-+ country +-+-+ string
+Organization
+> +-+-+ PublishingHouse +-+-+ string
+> +-+-+ University +-+-+ string
+http://xmlns_com/foaf/0.1/Organization
+> +-+-+ Organization
+List
+> +-+-+ People +-+-+ string
+PageInterval
+> +-+-+ beginning +-+-+ string
+> +-+-+ end +-+-+ string
+Date
+> +-+-+ year +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+ day +-+-+ string
+Thing
+> +-+-+ coordinates +-+-+ string

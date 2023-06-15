@@ -1,0 +1,40 @@
+https://subs.timeinc.net/TD/tdmgm_hardoffer0406.jhtml?experience_id=130439_source_id=15
+order
+https://subs.timeinc.net/TD/tdmgm_hardoffer0406.jhtml?experience_id=130439_source_id=15
+> +-+-+ order
+order
+> +-+-+ Zip Postal: +-+-+ string
+> +-+-+ _D:ccExpirYear +-+-+ string
+> +-+-+ _D:ccExpirMonth +-+-+ string
+> +-+-+ /net/timeinc/subs/util/PageAttributeMap.mp_max +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/util/PageAttributeMap.mp_max +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/user/model/Name.name +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/util/PageAttributeMap.mp_desc +-+-+ string
+> +-+-+ Card No. : +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/user/model/Address.state +-+-+ string
+> +-+-+ /net/timeinc/subs/user/controller/handler/ValetOrderDetailGenerator.EKOption +-+-+ string
+> +-+-+ E-mail: +-+-+ string
+> +-+-+ /net/timeinc/subs/user/model/valetquerystring/MSCSIGTP.variableValue +-+-+ string
+> +-+-+ _D:ccNumber +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/user/controller/handler/BasicValetFormHandler.processing +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/user/controller/handler/ValetOrderDetailGenerator.EKOption +-+-+ string
+> +-+-+ delayLiveFulfillment +-+-+ string
+> +-+-+ per_name +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/user/model/Email.emailEC +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/user/model/Address.address1 +-+-+ string
+> +-+-+ Select: +-+-+ string
+> +-+-+ Expiration: (mm yyyy) +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/user/model/Email.email +-+-+ string
+> +-+-+ Address: +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/user/model/valetquerystring/MSCSIGTP.variableValue +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/util/PageAttributeMap.currency_code +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/user/model/Address.zipCode +-+-+ string
+> +-+-+ TIME Magazine +-+-+ string
+> +-+-+ /net/timeinc/subs/util/PageAttributeMap.mp_desc +-+-+ string
+> +-+-+ Name: +-+-+ string
+> +-+-+ /net/timeinc/subs/util/PageAttributeMap.currency_code +-+-+ string
+> +-+-+ State Province: +-+-+ string
+> +-+-+ /net/timeinc/subs/user/model/Email.emailEC +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ _D:ccType +-+-+ string
+> +-+-+ _D:/net/timeinc/subs/user/model/Address.city +-+-+ string

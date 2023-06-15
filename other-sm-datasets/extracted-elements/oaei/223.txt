@@ -1,0 +1,163 @@
+Resource
+> +-+-+ Reference
+> +-+-+ humanCreator +-+-+ string
+Reference
+> +-+-+ Text
+> +-+-+ MotionPicture
+> +-+-+ key +-+-+ string
+> +-+-+ reviewed +-+-+ string
+> +-+-+ parts +-+-+ string
+> +-+-+ annote +-+-+ string
+> +-+-+ contract +-+-+ string
+> +-+-+ date +-+-+ string
+> +-+-+ note +-+-+ string
+> +-+-+ publisher +-+-+ string
+> +-+-+ series +-+-+ string
+> +-+-+ title +-+-+ string
+> +-+-+ affiliation +-+-+ string
+> +-+-+ abstract +-+-+ string
+> +-+-+ contents +-+-+ string
+> +-+-+ copyright +-+-+ string
+> +-+-+ keywords +-+-+ string
+> +-+-+ language +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ lccn +-+-+ string
+> +-+-+ mrNumber +-+-+ string
+> +-+-+ price +-+-+ string
+> +-+-+ size +-+-+ string
+> +-+-+ url +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+> +-+-+ number +-+-+ string
+> +-+-+ issue +-+-+ string
+> +-+-+ volume +-+-+ string
+Text
+> +-+-+ Book
+> +-+-+ Informal
+> +-+-+ Part
+> +-+-+ Academic
+> +-+-+ Misc
+> +-+-+ Report
+> +-+-+ chapters +-+-+ string
+JournalPart
+> +-+-+ Article +-+-+ string
+> +-+-+ Review +-+-+ string
+> +-+-+ Editorial +-+-+ string
+> +-+-+ Letter +-+-+ string
+> +-+-+ journal +-+-+ string
+Part
+> +-+-+ JournalPart
+> +-+-+ Chapter
+> +-+-+ InBook
+> +-+-+ InCollection
+> +-+-+ InProceedings
+> +-+-+ isPartOf +-+-+ string
+> +-+-+ chapter +-+-+ string
+> +-+-+ pages +-+-+ string
+Book
+> +-+-+ Monograph +-+-+ string
+> +-+-+ Collection +-+-+ string
+> +-+-+ Proceedings
+> +-+-+ edition +-+-+ string
+> +-+-+ isbn +-+-+ string
+Informal
+> +-+-+ Booklet
+> +-+-+ LectureNotes
+> +-+-+ Manual
+> +-+-+ Unpublished +-+-+ string
+Booklet
+> +-+-+ howPublished +-+-+ string
+Chapter
+> +-+-+ firstPublished +-+-+ string
+> +-+-+ type +-+-+ string
+InBook
+> +-+-+ book +-+-+ string
+InCollection
+> +-+-+ collection +-+-+ string
+InProceedings
+> +-+-+ proceedings +-+-+ string
+LectureNotes
+> +-+-+ school +-+-+ string
+Manual
+> +-+-+ UserGuide +-+-+ string
+> +-+-+ ReferenceManual +-+-+ string
+> +-+-+ edition +-+-+ string
+> +-+-+ organization +-+-+ string
+Academic
+> +-+-+ MastersThesis +-+-+ string
+> +-+-+ PhdThesis +-+-+ string
+> +-+-+ school +-+-+ string
+> +-+-+ type +-+-+ string
+Misc
+> +-+-+ howPublished +-+-+ string
+Proceedings
+> +-+-+ communications +-+-+ string
+> +-+-+ event +-+-+ string
+> +-+-+ organization +-+-+ string
+Report
+> +-+-+ InstitutionReport
+> +-+-+ Deliverable
+> +-+-+ institution +-+-+ string
+InstitutionReport
+> +-+-+ ProspectiveReport +-+-+ string
+> +-+-+ EvaluationReport +-+-+ string
+> +-+-+ SerialReport
+> +-+-+ PeriodicReport
+SerialReport
+> +-+-+ NormalizationReport
+> +-+-+ WorkReport
+NormalizationReport
+> +-+-+ Standard +-+-+ string
+> +-+-+ Recommendation +-+-+ string
+WorkReport
+> +-+-+ TechReport
+> +-+-+ TechnicalMemo +-+-+ string
+> +-+-+ ResearchReport +-+-+ string
+> +-+-+ ResearchNote +-+-+ string
+TechReport
+> +-+-+ type +-+-+ string
+PeriodicReport
+> +-+-+ YearlyReport +-+-+ string
+Deliverable
+> +-+-+ FinalReport +-+-+ string
+MotionPicture
+> +-+-+ directors +-+-+ string
+Periodical
+> +-+-+ Journal
+> +-+-+ Magazine +-+-+ string
+> +-+-+ contributions +-+-+ string
+> +-+-+ periodicity +-+-+ string
+> +-+-+ publisher +-+-+ string
+> +-+-+ issn +-+-+ string
+Journal
+> +-+-+ articles +-+-+ string
+ScientificMeeting
+> +-+-+ Conference
+> +-+-+ Congress +-+-+ string
+> +-+-+ Symposium +-+-+ string
+> +-+-+ Workshop +-+-+ string
+> +-+-+ organizer +-+-+ string
+> +-+-+ issue +-+-+ string
+Conference
+> +-+-+ date +-+-+ string
+> +-+-+ location +-+-+ string
+> +-+-+ numberOrVolume +-+-+ string
+Address
+> +-+-+ city +-+-+ string
+> +-+-+ state +-+-+ string
+> +-+-+ country +-+-+ string
+Institution
+> +-+-+ Society +-+-+ string
+> +-+-+ Publisher +-+-+ string
+> +-+-+ HigherEducationInstitution
+HigherEducationInstitution
+> +-+-+ University +-+-+ string
+> +-+-+ School +-+-+ string
+> +-+-+ EngineerSchool +-+-+ string
+> +-+-+ Polytechnics +-+-+ string
+PageRange
+> +-+-+ startPage +-+-+ string
+> +-+-+ endPage +-+-+ string
+Date
+> +-+-+ year +-+-+ string
+> +-+-+ month +-+-+ string
+> +-+-+ day +-+-+ string

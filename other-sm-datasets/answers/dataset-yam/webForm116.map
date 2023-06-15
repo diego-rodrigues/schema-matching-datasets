@@ -1,0 +1,12 @@
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/Company Name:;www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/Shop Name:;
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/Phone:;www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/Telephone:;
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/Address:;www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/Address:;
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/City:;www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/Town:;
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/City:;www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/Town:;
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/State:;www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/Country:;
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/State:;www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/Country:;
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/Your Name:;www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/Name and Surname:;
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/Email:;www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/e-mail:;
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/Date of Purchase:;www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/Purchase time:;
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/Submit Complaint;www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/Send;
+www.netcheck.com.xml.xsd/http://www.netcheck.com/complaint.htm/form1/Complaint [250 characters or less];www.omisan.com.xml.xsd/http://www.omisan.com/omisanonline/form/complaint_form.htm/Product datas;

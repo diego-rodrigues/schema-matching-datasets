@@ -1,0 +1,9 @@
+SignupForm.emailEntry	Registerform.FORM_email
+SignupForm.faxEntry	Registerform.FORM_telefax
+SignupForm.homePhoneEntry	Registerform.FORM_telefon
+SignupForm.nameFirstEntry	Registerform.FORM_vorname
+SignupForm.zipEntry	Registerform.FORM_plz
+SignupForm.address1Entry	Registerform.FORM_strasse
+SignupForm.nameLastEntry	Registerform.FORM_nachname
+SignupForm.countryEntry	Registerform.FORM_nation
+SignupForm.businessPhoneEntry	Registerform.FORM_telefon

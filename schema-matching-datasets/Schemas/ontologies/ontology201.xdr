@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<Schema name="ontology201" xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+	<ElementType name="sqdsq">
+		<element type="sqndsqgy"/>
+		<element type="dznbaln"/>
+		<element type="zand"/>
+		<element type="zajdhqs"/>
+		<element type="qsdsnbsqd"/>
+		<element type="sqdsopq"/>
+		<element type="zdazsx"/>
+		<element type="wxsdxqsdh"/>
+		<element type="dqzdxdcsqj"/>
+		<element type="dscdscg"/>
+	</ElementType>
+	<ElementType name="hazdn">
+		<element type="zand"/>
+		<element type="dzayue"/>
+		<element type="sxqsnbvsq"/>
+		<element type="sqndsqgy"/>
+		<element type="ndsbzh"/>
+		<element type="zsbdgz"/>
+	</ElementType>
+	<ElementType name="sqdsopq">
+		<element type="hazdn"/>
+		<element type="dzayue"/>
+		<element type="dznbaln"/>
+		<element type="zansbzh"/>
+		<element type="dzqndbzq"/>
+		<element type="vccfsq"/>
+		<element type="dcsqdcsqd"/>
+		<element type="deqdxcsqcsq"/>
+	</ElementType>
+	<ElementType name="zajdhqs">
+		<element type="dznbaln"/>
+		<element type="zsbdgz"/>
+		<element type="sddnsnqdb"/>
+		<element type="dszbnz"/>
+		<element type="sqndsqgy"/>
+		<element type="sbqgzga"/>
+		<element type="sdsqddz"/>
+		<element type="dzajndsq"/>
+		<element type="sqxsqkd"/>
+		<element type="zdqssqdb"/>
+	</ElementType>
+	<ElementType name="dzajndsq">
+	</ElementType>
+	<ElementType name="sqxsqkd">
+	</ElementType>
+	<ElementType name="qsdsnbsqd">
+		<element type="dznbaln"/>
+		<element type="zdzaudbd"/>
+		<element type="scds"/>
+		<element type="dcsqdsq"/>
+		<element type="zeadza"/>
+	</ElementType>
+	<ElementType name="zdzaudbd">
+	</ElementType>
+	<ElementType name="dzqndbzq">
+		<element type="dsazdjz"/>
+	</ElementType>
+	<ElementType name="vccfsq">
+		<element type="zand"/>
+		<element type="dzayue"/>
+		<element type="sznsbq"/>
+	</ElementType>
+	<ElementType name="dcsqdcsqd">
+		<element type="zand"/>
+		<element type="sqnbyz"/>
+	</ElementType>
+	<ElementType name="deqdxcsqcsq">
+		<element type="zand"/>
+		<element type="zassdzadb"/>
+	</ElementType>
+	<ElementType name="scds">
+	</ElementType>
+	<ElementType name="dcsqdsq">
+		<element type="sqdndvb"/>
+		<element type="sdsqddz"/>
+		<element type="dznbaln"/>
+	</ElementType>
+	<ElementType name="zdazsx">
+		<element type="zand"/>
+		<element type="dznbaln"/>
+		<element type="dzbn"/>
+		<element type="sqndsqgy"/>
+		<element type="xsqlknk"/>
+		<element type="zqdzqzai"/>
+	</ElementType>
+	<ElementType name="xsqlknk">
+	</ElementType>
+	<ElementType name="zqdzqzai">
+	</ElementType>
+	<ElementType name="wxsdxqsdh">
+	</ElementType>
+	<ElementType name="zdqssqdb">
+		<element type="zadzjadns"/>
+		<element type="dzajj"/>
+		<element type="sqdndvb"/>
+	</ElementType>
+	<ElementType name="dqzdxdcsqj">
+		<element type="zand"/>
+		<element type="dznbaln"/>
+		<element type="hsgiuyza"/>
+		<element type="sqndsqgy"/>
+		<element type="ndsbzh"/>
+		<element type="sdcsqhyz"/>
+		<element type="azzauhuie"/>
+	</ElementType>
+	<ElementType name="sdcsqhyz">
+	</ElementType>
+	<ElementType name="azzauhuie">
+		<element type="zandsbh"/>
+	</ElementType>
+	<ElementType name="zeadza">
+		<element type="zand"/>
+		<element type="dznbaln"/>
+		<element type="zdsnsqdv"/>
+	</ElementType>
+	<ElementType name="dscdscg">
+	</ElementType>
+	<ElementType name="qsdsquj">
+		<element type="dszabdza"/>
+		<element type="dsza"/>
+		<element type="sdxsndxsqg"/>
+		<element type="sddnsnqdb"/>
+		<element type="dszbnz"/>
+		<element type="sqdnbs"/>
+	</ElementType>
+	<ElementType name="zqedzbx">
+		<element type="dszabdza"/>
+		<element type="sdnsbh"/>
+		<element type="dsza"/>
+		<element type="sqnzkzn"/>
+		<element type="zdjznzn"/>
+	</ElementType>
+	<ElementType name="qzddj">
+		<element type="zadszabnds"/>
+		<element type="zdnzadh"/>
+		<element type="zdzndh"/>
+	</ElementType>
+	<ElementType name="izxnquo">
+		<element type="dszabdza"/>
+		<element type="dsza"/>
+		<element type="qzd"/>
+		<element type="zauio"/>
+		<element type="zadazxn"/>
+	</ElementType>
+	<ElementType name="Organization">
+		<element type="izxnquo"/>
+	</ElementType>
+	<ElementType name="zauio">
+	</ElementType>
+	<ElementType name="zadazxn">
+	</ElementType>
+	<ElementType name="dsqdbz">
+		<element type="first"/>
+		<element type="rest"/>
+	</ElementType>
+	<ElementType name="List">
+		<element type="dsqdbz"/>
+	</ElementType>
+	<ElementType name="dnqsb">
+		<element type="sqnhdbdj"/>
+		<element type="mkalnshsq"/>
+	</ElementType>
+	<ElementType name="dzshyuua">
+		<element type="zdsnzsdh"/>
+		<element type="asndzsd"/>
+		<element type="dznadzh"/>
+	</ElementType>
+	<ElementType name="sqndsqgy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dznbaln" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="zand" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zajdhqs" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="qsdsnbsqd" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sqdsopq" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zdazsx" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="wxsdxqsdh" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dqzdxdcsqj" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dscdscg" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zand" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dzayue" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sxqsnbvsq" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sqndsqgy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="ndsbzh" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="zsbdgz" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="hazdn" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dzayue" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dznbaln" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="zansbzh" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dzqndbzq" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="vccfsq" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dcsqdcsqd" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="deqdxcsqcsq" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dznbaln" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="zsbdgz" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="sddnsnqdb" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dszbnz" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="sqndsqgy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sbqgzga" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sdsqddz" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="dzajndsq" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sqxsqkd" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zdqssqdb" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dznbaln" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="zdzaudbd" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="scds" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dcsqdsq" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zeadza" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dsazdjz" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="zand" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dzayue" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sznsbq" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zand" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sqnbyz" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zand" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zassdzadb" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sqdndvb" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sdsqddz" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="dznbaln" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="zand" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dznbaln" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="dzbn" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sqndsqgy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="xsqlknk" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zqdzqzai" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zadzjadns" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dzajj" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sqdndvb" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zand" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dznbaln" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="hsgiuyza" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sqndsqgy" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="ndsbzh" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="sdcsqhyz" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="azzauhuie" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zandsbh" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zand" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dznbaln" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="zdsnsqdv" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="dszabdza" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="dsza" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="sdxsndxsqg" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="sddnsnqdb" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dszbnz" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="sqdnbs" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="dszabdza" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="sdnsbh" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dsza" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="sqnzkzn" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="zdjznzn" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zadszabnds" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="zdnzadh" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="zdzndh" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="dszabdza" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="dsza" content="textOnly" dt:type="string">
+	</ElementType>
+	<ElementType name="qzd" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zauio" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="zadazxn" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="izxnquo" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="first" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="rest" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="dsqdbz" content="textOnly" dt:type="ComplexType">
+	</ElementType>
+	<ElementType name="sqnhdbdj" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="mkalnshsq" content="textOnly" dt:type="nonNegativeInteger">
+	</ElementType>
+	<ElementType name="zdsnzsdh" content="textOnly" dt:type="gYear">
+	</ElementType>
+	<ElementType name="asndzsd" content="textOnly" dt:type="gMonth">
+	</ElementType>
+	<ElementType name="dznadzh" content="textOnly" dt:type="gDay">
+	</ElementType>
+</Schema>

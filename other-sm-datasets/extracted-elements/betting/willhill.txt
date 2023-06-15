@@ -1,0 +1,46 @@
+langswitch
+Details
+langswitch
+> - nsfix - string
+> - type - string
+Details
+> - chkBonus - string
+> - chkTransfer - string
+> - FirstTime - string
+> - BackToSportsbookHome - string
+> - txtFirstName - string
+> - txtMiddleInitial - string
+> - txtSurname - string
+> - txtEmail - string
+> - txtTelephone - string
+> - txtMobile - string
+> - cboCountry - string
+> - txtQASHouseNo - string
+> - txtQASPostcode - string
+> - FindAddress - string
+> - txtAddress1 - string
+> - txtAddress2 - string
+> - txtCityTown - string
+> - txtStateRegion - string
+> - txtPostcode - string
+> - txtPrevAddress1 - string
+> - txtPrevAddress2 - string
+> - txtPrevCityTown - string
+> - txtPrevStateRegion - string
+> - txtPrevPostcode - string
+> - cboPrevCountry - string
+> - findAddr - string
+> - txtUsername - string
+> - txtPassword - string
+> - txtPasswordConfirm - string
+> - txtAnswer - string
+> - chkAccept - string
+> - chkMail - string
+> - GoToStep2PaymentInformation - string
+> - cboTitle - string
+> - cboDay - string
+> - cboMonth - string
+> - cboYear - string
+> - cboCountryAlt - string
+> - cboCurrency - string
+> - cboQuestions - string

@@ -1,0 +1,32 @@
+http://www.netcheck.com/complaint.htm
+form1
+http://www.netcheck.com/complaint.htm
+> +-+-+ form1
+form1
+> +-+-+ Title: +-+-+ string
+> +-+-+ E-Mail: +-+-+ string
+> +-+-+ Date of Purchase: +-+-+ string
+> +-+-+ Submit Complaint +-+-+ string
+> +-+-+ Phone: +-+-+ string
+> +-+-+ Email: +-+-+ string
+> +-+-+ Payment Method: +-+-+ string
+> +-+-+ Amount in Dispute: +-+-+ string
+> +-+-+ Department: +-+-+ string
+> +-+-+ URL: +-+-+ string
+> +-+-+ Contact Name: +-+-+ string
+> +-+-+ State: +-+-+ string
+> +-+-+ Company Name: +-+-+ string
+> +-+-+ Reason for complaint: +-+-+ string
+> +-+-+ Zip Postal Code: +-+-+ string
+> +-+-+ Complaint [250 characters or less] +-+-+ string
+> +-+-+ What would you consider to be an amicable resolution to your complaint: [250 characters or less] +-+-+ string
+> +-+-+ Country: +-+-+ string
+> +-+-+ Address: +-+-+ string
+> +-+-+ Invoice# or RMA#: +-+-+ string
+> +-+-+ Tried to resolve your dispute: +-+-+ string
+> +-+-+ http://www.netcheck.com/cgi-bin/complaintform.cgi +-+-+ string
+> +-+-+ Your Name: +-+-+ string
+> +-+-+ Initials +-+-+ string
+> +-+-+ Fax: +-+-+ string
+> +-+-+ City: +-+-+ string
+> +-+-+ Reset +-+-+ string

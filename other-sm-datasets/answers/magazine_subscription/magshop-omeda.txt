@@ -1,0 +1,14 @@
+SearchCatForm.RegisterForm.Register	qualform.Submit
+SearchCatForm.RegisterForm.Suburb	qualform.CITY
+SearchCatForm.RegisterForm.State	qualform.STATE
+SearchCatForm.RegisterForm.Postcode	qualform.ZIPCODE
+SearchCatForm.RegisterForm.CountryID	qualform.COUNTRY
+SearchCatForm.RegisterForm.Phone1	qualform.PHONE
+SearchCatForm.RegisterForm.Fax	qualform.FAX
+SearchCatForm.RegisterForm.Email	qualform.EMAIL_ADDRESS
+SearchCatForm.RegisterForm.Title	qualform.TITLE
+SearchCatForm.RegisterForm.FirstName	qualform.FNAME
+SearchCatForm.RegisterForm.Surname	qualform.LNAME
+SearchCatForm.SearchTitleForm.Search	qualform.search
+SearchCatForm.RegisterForm.Address1	qualform.ADDRESS1
+SearchCatForm.RegisterForm.Address2	qualform.ADDRESS2

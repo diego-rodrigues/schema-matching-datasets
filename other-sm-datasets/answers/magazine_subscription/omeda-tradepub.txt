@@ -1,0 +1,16 @@
+qualform.Submit	search._submit
+qualform.CITY	search.city
+qualform.STATE	search.state
+qualform.ZIPCODE	search.zip
+qualform.COUNTRY	search.country
+qualform.PHONE	search.phone
+qualform.FAX	search.fax
+qualform.EMAIL_ADDRESS	search.email
+qualform.TITLE	search.title
+qualform.FNAME	search.first
+qualform.LNAME	search.last
+qualform.Reset	ResetForm
+qualform.search	search
+qualform.COMPANY	search.company
+qualform.ADDRESS1	search.street
+qualform.JOB_TITLE	search.jobcode

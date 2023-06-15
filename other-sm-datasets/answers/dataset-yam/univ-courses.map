@@ -1,0 +1,15 @@
+university2.xsd/gatech;university1.xsd/fsu;
+university2.xsd/gatech/Course;university1.xsd/fsu/Course;
+university2.xsd/gatech/Course/CRN;university1.xsd/fsu/Course/ReferenceNo;
+university2.xsd/gatech/Course/Code;university1.xsd/fsu/Course/Code;
+university2.xsd/gatech/Course/Section;university1.xsd/fsu/Course/Section;
+university2.xsd/gatech/Course/Title;university1.xsd/fsu/Course/Detail/Title;
+university2.xsd/gatech/Course/Instructor;university1.xsd/fsu/Course/Detail/Instructor;
+university2.xsd/gatech/Course/Time;university1.xsd/fsu/Course/Detail/Bldg/TimeBegin
+university2.xsd/gatech/Course/Time;university1.xsd/fsu/Course/Detail/Bldg/TimeEnd
+university2.xsd/gatech/Course/In;university1.xsd/fsu/Course/Detail/SeatsOpen;
+university2.xsd/gatech/Course/Max;university1.xsd/fsu/Course/Detail/Seats;
+university2.xsd/gatech/Course/Days;university1.xsd/fsu/Course/Detail/Bldg/Days;
+university2.xsd/gatech/Course/Room;university1.xsd/fsu/Course/Detail/Bldg/Room;
+university2.xsd/gatech/Course/Building;university1.xsd/fsu/Course/Detail/Bldg/BldgCode;
+university2.xsd/gatech/Course/Description;university1.xsd/fsu/Course/Detail/Bldg/Comments;

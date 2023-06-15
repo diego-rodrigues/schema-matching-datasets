@@ -1,0 +1,6 @@
+Registerform.FORM_nachname	registerfrm.lastname
+Registerform.FORM_strasse	registerfrm.address1
+Registerform.FORM_vorname	registerfrm.firstname
+Registerform.FORM_plz	registerfrm.zip
+Registerform.FORM_nation	registerfrm.country
+Registerform.FORM_email	registerfrm.email

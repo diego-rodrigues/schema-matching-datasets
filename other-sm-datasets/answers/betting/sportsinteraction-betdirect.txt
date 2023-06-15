@@ -1,0 +1,15 @@
+apply.iPhoneNumber	fmRegister.tbTel
+apply.iLastName	fmRegister.tbLname
+apply.iFirstName	fmRegister.tbFname
+apply.iCountryID	fmRegister.country_code
+apply.iMaidenName	fmRegister.tbAns2
+apply.iTitle	fmRegister.tbTitle
+apply.iUsername	fmRegister.tbUserName
+apply.iReferrer	fmRegister.newspaper
+apply.iPostalCode	fmRegister.tbAddrPc
+apply.iEmail	fmRegister.tbEmail
+apply.iNotify	fmRegister.rdContact
+apply.iCity	fmRegister.tbAddrCty
+apply.iPassword1	fmRegister.tbPassword1
+apply.iPassword2	fmRegister.tbPassword2
+apply.iAddress	fmRegister.tbAddr1

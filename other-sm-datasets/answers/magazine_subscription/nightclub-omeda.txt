@@ -1,0 +1,16 @@
+subscribe.Submit	qualform.Submit
+subscribe.add_city	qualform.CITY
+subscribe.add_state	qualform.STATE
+subscribe.add_postal	qualform.ZIPCODE
+subscribe.add_country	qualform.COUNTRY
+subscribe.phone_voice	qualform.PHONE
+subscribe.phone_fax	qualform.FAX
+subscribe.email_add	qualform.EMAIL_ADDRESS
+subscribe.work_title	qualform.TITLE
+subscribe.name_first	qualform.FNAME
+subscribe.name_last	qualform.LNAME
+subscribe.Reset	qualform.Reset
+subscribe.company_name	qualform.COMPANY
+subscribe.add_line1	qualform.ADDRESS1
+subscribe.add_line2	qualform.ADDRESS2
+subscribe.business_type	qualform.PRIMARY_BUSINESS

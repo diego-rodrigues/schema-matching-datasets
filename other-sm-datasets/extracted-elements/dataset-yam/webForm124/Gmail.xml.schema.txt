@@ -1,0 +1,51 @@
+https://www.google.com/accounts/NewAccount?service=mail_t=0749e55a-467415e0-fbe95b0f303b11afdd1f_continue=http%3A%2F%2Fmail.google.com%2Fmail%2Fc-c0774af42c-3b11afdd1f-fb71b27509_dFN=_dLN=_dEM=gevatrip%40hotmail.com
+https://www.google.com/accounts/NewAccount?service=mail_t=0749e55a-467415e0-fbe95b0f303b11afdd1f_continue=http%3A%2F%2Fmail.google.com%2Fmail%2Fc-c0774af42c-3b11afdd1f-fb71b27509_dFN=_dLN=_dEM=gevatrip%40hotmail.com
+> +-+-+ dLN +-+-+ string
+> +-+-+ t +-+-+ string
+> +-+-+ Change Language: +-+-+ string
+> +-+-+ Change +-+-+ string
+> +-+-+ dEM +-+-+ string
+> +-+-+ dFN +-+-+ string
+> +-+-+ continue +-+-+ string
+> +-+-+ service +-+-+ string
+createaccount
+> +-+-+ createaccount
+createaccount
+> +-+-+ newaccounturl_audio +-+-+ string
+> +-+-+ Last name: +-+-+ string
+> +-+-+ requested_tos_language +-+-+ string
+> +-+-+ NextIndex +-+-+ string
+> +-+-+ Answer: +-+-+ string
+> +-+-+ privacy_policy_url +-+-+ string
+> +-+-+ First name: +-+-+ string
+> +-+-+ hl +-+-+ string
+> +-+-+ served_tos_language +-+-+ string
+> +-+-+ served_tos_location +-+-+ string
+> +-+-+ Re-enter password: +-+-+ string
+> +-+-+ program_policy_url +-+-+ string
+> +-+-+ dEM +-+-+ string
+> +-+-+ newaccounttoken +-+-+ string
+> +-+-+ Location: +-+-+ string
+> +-+-+ PrevDesired +-+-+ string
+> +-+-+ PrevLastName +-+-+ string
+> +-+-+ smhhk +-+-+ string
+> +-+-+ newaccounttoken_audio +-+-+ string
+> +-+-+ Change +-+-+ string
+> +-+-+ Printable Version +-+-+ string
+> +-+-+ nshk +-+-+ string
+> +-+-+ PrevFirstName +-+-+ string
+> +-+-+ Security Question: +-+-+ string
+> +-+-+ rmShown +-+-+ string
+> +-+-+ Secondary email: +-+-+ string
+> +-+-+ dLN +-+-+ string
+> +-+-+ dsh +-+-+ string
+> +-+-+ @gmail.com +-+-+ string
+> +-+-+ t +-+-+ string
+> +-+-+ p +-+-+ string
+> +-+-+ dFN +-+-+ string
+> +-+-+ continue +-+-+ string
+> +-+-+ service +-+-+ string
+> +-+-+ newaccounturl +-+-+ string
+> +-+-+ check availability! +-+-+ string
+> +-+-+ I accept. Create my account. +-+-+ string
+> +-+-+ Type the characters you see in the picture below. +-+-+ string

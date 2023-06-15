@@ -1,0 +1,13 @@
+SearchCatForm.RegisterForm.Register	subscribe.Submit
+SearchCatForm.RegisterForm.Suburb	subscribe.add_city
+SearchCatForm.RegisterForm.State	subscribe.add_state
+SearchCatForm.RegisterForm.Postcode	subscribe.add_postal
+SearchCatForm.RegisterForm.CountryID	subscribe.add_country
+SearchCatForm.RegisterForm.Phone1	subscribe.phone_voice
+SearchCatForm.RegisterForm.Fax	subscribe.phone_fax
+SearchCatForm.RegisterForm.Email	subscribe.email_add
+SearchCatForm.RegisterForm.Title	subscribe.work_title
+SearchCatForm.RegisterForm.FirstName	subscribe.name_first
+SearchCatForm.RegisterForm.Surname	subscribe.name_last
+SearchCatForm.RegisterForm.Address1	subscribe.add_line1
+SearchCatForm.RegisterForm.Address2	subscribe.add_line2

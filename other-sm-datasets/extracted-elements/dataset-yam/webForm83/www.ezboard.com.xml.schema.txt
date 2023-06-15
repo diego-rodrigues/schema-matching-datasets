@@ -1,0 +1,28 @@
+http://www.ezboard.com/registration/userregistration_global.html
+join
+http://www.ezboard.com/registration/userregistration_global.html
+> +-+-+ join
+join
+> +-+-+ v_emailVerify +-+-+ string
+> +-+-+ _zipCode +-+-+ string
+> +-+-+ r_secretQuestionAnswer +-+-+ string
+> +-+-+ r_login +-+-+ string
+> +-+-+ c_login +-+-+ string
+> +-+-+ r_country +-+-+ string
+> +-+-+ r_birthMonthYear +-+-+ string
+> +-+-+ error_header +-+-+ string
+> +-+-+ Yes! I want to receive messages and special offers from ezboard's advertising partners. +-+-+ string
+> +-+-+ error_footer +-+-+ string
+> +-+-+ r_firstName +-+-+ string
+> +-+-+ Register My Global Account! +-+-+ string
+> +-+-+ r_secretQuestion +-+-+ string
+> +-+-+ r_terms +-+-+ string
+> +-+-+ m_emailVerify +-+-+ string
+> +-+-+ e_email +-+-+ string
+> +-+-+ r_lastName +-+-+ string
+> +-+-+ p_passwordVerify +-+-+ string
+> +-+-+ r_email +-+-+ string
+> +-+-+ r_emailVerify +-+-+ string
+> +-+-+ I agree to ezboard's TOU and declare that I am over 13 years old. +-+-+ string
+> +-+-+ r_passwordVerify +-+-+ string
+> +-+-+ r_password +-+-+ string

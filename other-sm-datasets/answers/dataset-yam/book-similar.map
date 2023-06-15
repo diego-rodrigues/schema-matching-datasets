@@ -1,0 +1,8 @@
+#author writer Description context
+author-similar.xsd/author;writer-similar.xsd/writer
+#dob dat_of_birth -> tocken + Description context
+author-similar.xsd/author/dob;writer-similar.xsd/writer/date_of_birth
+#loc country_code -> type
+author-similar.xsd/author/loc;writer-similar.xsd/writer/country_code
+#name named string matching
+author-similar.xsd/author/name;writer-similar.xsd/writer/name

@@ -1,0 +1,13 @@
+subForm.Submit	search._submit
+subForm.City	search.city
+subForm.State	search.state
+subForm.zip	search.zip
+subForm.Country	search.country
+subForm.phone	search.phone
+subForm.fax	search.fax
+subForm.Email	search.email
+subForm.Title	search.title
+subForm.FName	search.first
+subForm.LName	search.last
+subForm.Company	search.company
+subForm.Address	search.street

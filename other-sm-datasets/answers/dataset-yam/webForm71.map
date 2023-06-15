@@ -1,0 +1,7 @@
+travel_www.aexp.be.xml.xsd/http://www.aexp.be/Topics/aboutus/pages/careers/sendcv.html/Name (*);www.experienced-people.co.uk.xml.xsd/http://www.experienced-people.co.uk/jobseekers.htm/Web Site Enquiry/Name;
+travel_www.aexp.be.xml.xsd/http://www.aexp.be/Topics/aboutus/pages/careers/sendcv.html/Telephone (*);www.experienced-people.co.uk.xml.xsd/http://www.experienced-people.co.uk/jobseekers.htm/Web Site Enquiry/Telephone No.;
+travel_www.aexp.be.xml.xsd/http://www.aexp.be/Topics/aboutus/pages/careers/sendcv.html/Fax;www.experienced-people.co.uk.xml.xsd/http://www.experienced-people.co.uk/jobseekers.htm/Web Site Enquiry/Fax No.;
+travel_www.aexp.be.xml.xsd/http://www.aexp.be/Topics/aboutus/pages/careers/sendcv.html/E-Mail (*);www.experienced-people.co.uk.xml.xsd/http://www.experienced-people.co.uk/jobseekers.htm/Web Site Enquiry/E-mail Address;
+travel_www.aexp.be.xml.xsd/http://www.aexp.be/Topics/aboutus/pages/careers/sendcv.html/Submit Form;www.experienced-people.co.uk.xml.xsd/http://www.experienced-people.co.uk/jobseekers.htm/Web Site Enquiry/Submit;
+travel_www.aexp.be.xml.xsd/http://www.aexp.be/Topics/aboutus/pages/careers/sendcv.html/Clear Form;www.experienced-people.co.uk.xml.xsd/http://www.experienced-people.co.uk/jobseekers.htm/Web Site Enquiry/Reset;
+travel_www.aexp.be.xml.xsd/http://www.aexp.be/Topics/aboutus/pages/careers/sendcv.html/Address 1 (*);www.experienced-people.co.uk.xml.xsd/http://www.experienced-people.co.uk/jobseekers.htm/Web Site Enquiry/Address;

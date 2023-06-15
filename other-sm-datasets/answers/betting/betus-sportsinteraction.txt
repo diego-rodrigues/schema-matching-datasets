@@ -1,0 +1,15 @@
+SignupForm.homePhoneEntry	apply.iPhoneNumber
+SignupForm.passwordEntry	apply.iPassword1
+SignupForm.nameFirstEntry	apply.iFirstName
+SignupForm.stateEntry	apply.iState
+SignupForm.cityEntry	apply.iCity
+LoginVerify.Password	apply.iPassword1
+SignupForm.zipEntry	apply.iPostalCode
+SignupForm.address1Entry	apply.iAddress
+SignupForm.nameLastEntry	apply.iLastName
+LoginVerify.CustomerID	apply.iUsername
+SignupForm.countryEntry	apply.iCountryID
+SignupForm.sourceEntry	apply.iReferrer
+SignupForm.emailEntry	apply.iEmail
+SignupForm.ConfirmPasswordEntry	apply.iPassword2
+SignupForm.businessPhoneEntry	apply.iPhoneNumber

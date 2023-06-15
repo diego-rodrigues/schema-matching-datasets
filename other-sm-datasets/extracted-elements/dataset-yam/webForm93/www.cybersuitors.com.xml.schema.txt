@@ -1,0 +1,17 @@
+http://www.cybersuitors.com/ServerSide/Cybersuitors/Membership/ConfidentialDetails.asp?Join=yes
+frmForm1
+http://www.cybersuitors.com/ServerSide/Cybersuitors/Membership/ConfidentialDetails.asp?Join=yes
+> +-+-+ frmForm1
+frmForm1
+> +-+-+ Last name: +-+-+ string
+> +-+-+ Re-enter password: +-+-+ string
+> +-+-+ Please choose a password This must be at least eight (8) characters long, may contain numbers (0-9) and upper and lowercase letters (A-Z, a-z), but no spaces. Please make sure it's difficult for other people to guess. +-+-+ string
+> +-+-+ Birthday: +-+-+ string
+> +-+-+ Your email address: +-+-+ string
+> +-+-+ Your city town village: +-+-+ string
+> +-+-+ Use this name instead of my first name: +-+-+ string
+> +-+-+ State (if in USA): +-+-+ string
+> +-+-+ hdnAddressID +-+-+ string
+> +-+-+ Please retype your email address to confirm it: +-+-+ string
+> +-+-+ First name: +-+-+ string
+> +-+-+ Country: +-+-+ string

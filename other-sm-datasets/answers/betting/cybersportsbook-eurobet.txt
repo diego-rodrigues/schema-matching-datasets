@@ -1,0 +1,15 @@
+JoinForm.txtPassword2	newclient.RePwd
+JoinForm.ddlFindUs	newclient.InfoSource
+JoinForm.txtUsername	newclient.Username
+JoinForm.txtCity	newclient.City
+sportsbook.PASSWORD	newclient.Pwd
+JoinForm.txtHomePhone	newclient.Mobilenumber
+JoinForm.txtHomePhone	newclient.PhoneNumber
+JoinForm.txtEmail	newclient.email
+JoinForm.txtFirstName	newclient.Name
+JoinForm.txtCountry	newclient.Country
+JoinForm.txtLastName	newclient.Surname
+JoinForm.txtAddress1	newclient.Address1
+JoinForm.txtWorkPhone	newclient.Mobilenumber
+JoinForm.txtWorkPhone	newclient.PhoneNumber
+JoinForm.txtZip	newclient.Postcode

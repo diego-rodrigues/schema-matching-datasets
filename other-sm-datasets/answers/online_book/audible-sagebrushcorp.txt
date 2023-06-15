@@ -1,0 +1,6 @@
+searchForm	adv
+searchForm.shortAuthor	adv.author
+searchForm.provider	adv.publisher
+searchForm.shortTitle	adv.title
+searchForm.selectedSubject	adv.subject
+searchForm.searchType	adv.searchtype

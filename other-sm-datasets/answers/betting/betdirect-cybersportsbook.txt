@@ -1,0 +1,14 @@
+fmRegister.tbEmail	JoinForm.txtEmail
+fmRegister.tbLname	JoinForm.txtLastName
+fmRegister.tbAddrPc	JoinForm.txtZip
+fmRegister.tbTel	JoinForm.txtHomePhone
+fmRegister.tbTel	JoinForm.txtEmail
+fmRegister.tbTel	JoinForm.txtWorkPhone
+fmRegister.tbPassword1	sportsbook.PASSWORD
+fmRegister.tbAddr1	JoinForm.txtAddress1
+fmRegister.tbPassword2	JoinForm.txtPassword2
+fmRegister.tbAddrCty	JoinForm.txtCity
+fmRegister.country_code	JoinForm.txtCountry
+fmRegister.newspaper	JoinForm.ddlFindUs
+fmRegister.tbFname	JoinForm.txtFirstName
+fmRegister.tbUserName	JoinForm.txtUsername

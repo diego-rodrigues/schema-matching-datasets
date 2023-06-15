@@ -1,0 +1,12 @@
+thisForm.cboCountry	newclient.Country
+thisForm.txtLastName	newclient.Surname
+thisForm.txtDayPhone	newclient.Mobilenumber
+thisForm.txtDayPhone	newclient.PhoneNumber
+thisForm.txtEMail	newclient.email
+thisForm.txtInternetPassword	newclient.Pwd
+thisForm.txtZipCode	newclient.Postcode
+thisForm.txtFirstName	newclient.Name
+thisForm.txtAddress1	newclient.Addressno
+thisForm.txtAddress1	newclient.Address1
+thisForm.txtCity	newclient.City
+thisForm.txtInternetPasswordConfirmed	newclient.RePwd

@@ -1,0 +1,26 @@
+apply
+apply
+> - StateValue - anyType
+> - iPromotion - anyType
+> - PageAction - anyType
+> - Promotion - anyType
+> - iUsername - anyType
+> - iPassword1 - anyType
+> - iPassword2 - anyType
+> - iTitle - anyType
+> - iFirstName - anyType
+> - iLastName - anyType
+> - iAddress - anyType
+> - iCity - anyType
+> - iState - anyType
+> - iPostalCode - anyType
+> - iCountryID - anyType
+> - iPhoneNumber - anyType
+> - iEmail - anyType
+> - iMaidenName - anyType
+> - iCurrencyID - anyType
+> - iNotify - anyType
+> - iTimeZone - anyType
+> - iReferrer - anyType
+> - SubmitImg - anyType
+> - ApplyAccCheck - anyType

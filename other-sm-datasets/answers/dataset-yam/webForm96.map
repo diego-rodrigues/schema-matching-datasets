@@ -1,0 +1,12 @@
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/min:;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Market Cap:;
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/min:;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Sales Revenue:;
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/min:;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Price Earnings Ratio:;
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/min:;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/PEG Ratio:;
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/min:;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Price Sales Ratio:;
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/min:;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Beta (Volatility):;
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/min:;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Dividend Yield:;
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/min:;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Avg Analyst Rec: (1=Buy, 5=Sell);
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/Find Stocks;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Find Stocks;
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/Performance Table View;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Display info for:;
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/standardss/Indices:;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Index Membership;
+www.digitallook.com.xml.xsd/http://www.digitallook.com/cgi-bin/digital/stock_screener.cgi/standardss/standardss/standardss/Sectors:;screen.finance.yahoo.com.xml.xsd/http://screen.finance.yahoo.com/stocks.html/Industry:;

@@ -1,0 +1,11 @@
+form.AssociationManagersubscriptionform._submit	qualform.Submit
+form.AssociationManagersubscriptionform._City	qualform.CITY
+form.AssociationManagersubscriptionform._Postcode	qualform.ZIPCODE
+form.AssociationManagersubscriptionform._Telephone	qualform.PHONE
+form.AssociationManagersubscriptionform._Fax	qualform.FAX
+form.AssociationManagersubscriptionform._Email	qualform.EMAIL_ADDRESS
+form.AssociationManagersubscriptionform._Title	qualform.TITLE
+form.AssociationManagersubscriptionform._Name	qualform.FNAME
+form.AssociationManagersubscriptionform._Company_Name	qualform.COMPANY
+form.AssociationManagersubscriptionform._Address	qualform.ADDRESS1
+form.AssociationManagersubscriptionform._Position	qualform.JOB_TITLE

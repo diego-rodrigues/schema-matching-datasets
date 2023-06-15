@@ -1,0 +1,13 @@
+JoinForm.REENTERPASSWORD	newclient.RePwd
+JoinForm.PASSWORD	newclient.Pwd
+JoinForm.STREET	newclient.Address1
+JoinForm.HOMEPHONENO	newclient.Mobilenumber
+JoinForm.HOMEPHONENO	newclient.PhoneNumber
+JoinForm.WORKPHONENO	newclient.Mobilenumber
+JoinForm.WORKPHONENO	newclient.PhoneNumber
+JoinForm.COUNTRY	newclient.Country
+JoinForm.CITY	newclient.City
+JoinForm.LASTNAME	newclient.Surname
+JoinForm.FIRSTNAME	newclient.Name
+JoinForm.ZIP	newclient.Postcode
+JoinForm.EMAIL	newclient.email

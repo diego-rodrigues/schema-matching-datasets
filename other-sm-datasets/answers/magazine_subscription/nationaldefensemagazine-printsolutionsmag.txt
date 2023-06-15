@@ -1,0 +1,15 @@
+search.trial.submit	regform.submit
+search.trial.city	regform.City
+search.trial.state	regform.State
+search.trial.zip	regform.Zip
+search.trial.country	regform.Country
+search.trial.phone	regform.Phone
+search.trial.fax	regform.Fax
+search.trial.email	regform.Email
+search.trial.title	regform.Title
+search.trial.first	regform.First_Name
+search.trial.last	regform.Last_Name
+search.trial.reset2	regform.reset
+search.trial.company	regform.Company_Name
+search.trial.address1	regform.Address
+search.trial.JobFunction	regform.jobfunc1
